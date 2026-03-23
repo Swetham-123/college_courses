@@ -1,0 +1,278 @@
+{
+  "aishe_code": "U-1102",
+  "university": "LOK JAGRUTI KENDRA UNIVERSITY",
+  "state": "Gujarat",
+  "website": "www.ljku.edu.in",
+  "colleges": [
+    {
+      "college_name": "LOK JAGRUTI KENDRA UNIVERSITY",
+      "programs": [
+        {
+          "level": "UG",
+          "program": "BBA",
+          "name": "Event Management"
+        },
+        {
+          "level": "UG",
+          "program": "BBA",
+          "name": "Sports Management"
+        },
+        {
+          "level": "UG",
+          "program": "B.Arch.",
+          "name": "B.Arch."
+        },
+        {
+          "level": "UG",
+          "program": "BBA",
+          "name": "BBA"
+        },
+        {
+          "level": "UG",
+          "program": "B.Com.",
+          "name": "B.Com."
+        },
+        {
+          "level": "UG",
+          "program": "BCA",
+          "name": "BCA"
+        },
+        {
+          "level": "UG",
+          "program": "B.Des.",
+          "name": "B.Des."
+        },
+        {
+          "level": "UG",
+          "program": "LLB",
+          "name": "LLB"
+        },
+        {
+          "level": "UG",
+          "program": "B.Pharm.",
+          "name": "B.Pharm."
+        },
+        {
+          "level": "UG",
+          "program": "BPT",
+          "name": "BPT"
+        },
+        {
+          "level": "UG",
+          "program": "B.Sc.",
+          "name": "B.Sc."
+        },
+        {
+          "level": "UG",
+          "program": "B.Sc.",
+          "name": "Nursing"
+        },
+        {
+          "level": "Diploma",
+          "program": "GNM",
+          "name": "Nursing"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "M.Sc."
+        },
+        {
+          "level": "PG",
+          "program": "MCA",
+          "name": "MCA"
+        },
+        {
+          "level": "PG",
+          "program": "MBA",
+          "name": "MBA"
+        },
+        {
+          "level": "Diploma",
+          "program": "Diploma",
+          "name": "Childhood Education"
+        },
+        {
+          "level": "PG",
+          "program": "M.Des.",
+          "name": "M.Des."
+        },
+        {
+          "level": "PG",
+          "program": "MPT",
+          "name": "MPT"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "in Cyber Security"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Applied Sciences"
+        },
+        {
+          "level": "PG",
+          "program": "M.Pharm.",
+          "name": "M.Pharm."
+        },
+        {
+          "level": "PhD",
+          "program": "Ph.D.",
+          "name": "Ph.D."
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Architecture (B.Arch) Business Management (BBA , iMBA) Business Management (MBA)"
+        },
+        {
+          "level": "Diploma",
+          "program": "Diploma",
+          "name": "Engineering (LJ Polytechnic)"
+        },
+        {
+          "level": "PG",
+          "program": "M.E.",
+          "name": "M.E."
+        },
+        {
+          "level": "UG",
+          "program": "BBA",
+          "name": "Holistic Early Childhood Education Indian Knowledge System Institute of Nursing"
+        },
+        {
+          "level": "PG",
+          "program": "M.Plan.",
+          "name": "Sports Management (BBA)"
+        },
+        {
+          "level": "PG",
+          "program": "M.Plan.",
+          "name": "M.Plan."
+        },
+        {
+          "level": "Diploma",
+          "program": "Diploma",
+          "name": "Engineering"
+        },
+        {
+          "level": "UG",
+          "program": "B.E.",
+          "name": "bookworms; they look for other options that could help them in the future. Besid"
+        },
+        {
+          "level": "UG",
+          "program": "B.E.",
+          "name": "successful for improving teaching skills in higher education. This review articl"
+        },
+        {
+          "level": "UG",
+          "program": "B.E.",
+          "name": "future strategy to engage faculties across the world"
+        },
+        {
+          "level": "PG",
+          "program": "M.Arch.",
+          "name": "2024 as part of its ICT-based capacity-building initiatives. Led by Dr. Paresh P"
+        },
+        {
+          "level": "Diploma",
+          "program": "Diploma",
+          "name": "Diploma"
+        },
+        {
+          "level": "PG",
+          "program": "MBA",
+          "name": "equips students with comprehensive industrial knowledge and expertise, preparing"
+        },
+        {
+          "level": "PG",
+          "program": "MBA",
+          "name": "BBA+MBA)"
+        },
+        {
+          "level": "UG",
+          "program": "Bachelor",
+          "name": "Commerce in Global Management Accounting"
+        },
+        {
+          "level": "PG",
+          "program": "MBA",
+          "name": "Entrepreneurship and Family Business"
+        },
+        {
+          "level": "Diploma",
+          "program": "Diploma",
+          "name": "Holistic Early Childhood Education"
+        }
+      ]
+    },
+    {
+      "college_name": "Scope after B.Sc. (Biotechnology, Microbiology, Chemistry)",
+      "programs": [
+        {
+          "level": "UG",
+          "program": "B.Sc.",
+          "name": "B.Sc."
+        },
+        {
+          "level": "PG",
+          "program": "M.Tech.",
+          "name": "M.Tech."
+        }
+      ]
+    },
+    {
+      "college_name": "Scope after M.Sc. (Biotechnology, Microbiology, Chemistry, MLT)",
+      "programs": [
+        {
+          "level": "PhD",
+          "program": "Ph.D.",
+          "name": "Ph.D."
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Specialized roles in clinical labs, hospitals, diagnostic companies, and f"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "M.Sc."
+        }
+      ]
+    },
+    {
+      "college_name": "LJ Institute of Computer Applications (LJICA)",
+      "programs": [
+        {
+          "level": "UG",
+          "program": "BCA",
+          "name": "BCA"
+        },
+        {
+          "level": "UG",
+          "program": "B.Sc.",
+          "name": "B.Sc."
+        },
+        {
+          "level": "PG",
+          "program": "MCA",
+          "name": "MCA"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "M.Sc."
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Cyber Technology) –"
+        }
+      ]
+    }
+  ]
+}

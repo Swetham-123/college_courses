@@ -1,0 +1,508 @@
+{
+  "aishe_code": "U-0406",
+  "university": "Maharaja Ganga Singh University, Bikaner",
+  "state": "Rajasthan",
+  "website": "www.mgsubikaner.ac.in",
+  "colleges": [
+    {
+      "college_name": "Maharaja Ganga Singh University, Bikaner",
+      "programs": [
+        {
+          "level": "UG",
+          "program": "B.A.",
+          "name": "Honors in History"
+        },
+        {
+          "level": "PG",
+          "program": "M.A.",
+          "name": "Archeology"
+        },
+        {
+          "level": "UG",
+          "program": "B.A.",
+          "name": "Honors in Geography"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Computer Science (Lateral Entry)"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Cyber Security"
+        },
+        {
+          "level": "PG",
+          "program": "MCA",
+          "name": "MCA"
+        },
+        {
+          "level": "Diploma",
+          "program": "PGDCA",
+          "name": "PGDCA"
+        },
+        {
+          "level": "Diploma",
+          "program": "Diploma",
+          "name": "Legal and Forensic Science"
+        },
+        {
+          "level": "PG",
+          "program": "Master",
+          "name": "Business Administration"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Biotechnology"
+        },
+        {
+          "level": "Diploma",
+          "program": "Diploma",
+          "name": "Nutrition and Dietetics"
+        },
+        {
+          "level": "PhD",
+          "program": "Ph.D.",
+          "name": "Ph.D."
+        },
+        {
+          "level": "PhD",
+          "program": "Ph.D.",
+          "name": "Degrees Offered"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Computer Science (Lateral Entry) M.Sc. Cyber Security Master of Computer Applica"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Cyber Security Master of Computer Applications (MCA) PGDCA Faculty of Commerce C"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Biotechnology Yoga Yoga P.G. Diploma in Nutrition and Dietetics"
+        },
+        {
+          "level": "PG",
+          "program": "M.A.",
+          "name": "Archeology Geography Geography B.A. Honors in Geography"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Cyber Security Master of Computer Applications (MCA) PGDCA"
+        },
+        {
+          "level": "PhD",
+          "program": "Ph.D.",
+          "name": "2025 University Cells Anti Ragging Cell OBC Cell SC/ST Cell Minority Cell Intern"
+        },
+        {
+          "level": "Certificate",
+          "program": "Certificate",
+          "name": "Alumni Rules Resources (Central/State Govt. portals)"
+        },
+        {
+          "level": "UG",
+          "program": "BBA",
+          "name": "Passing & Promotion Rules"
+        },
+        {
+          "level": "UG",
+          "program": "B.Ed.",
+          "name": "2nd Year List"
+        },
+        {
+          "level": "Integrated",
+          "program": "Integrated",
+          "name": "Ed"
+        },
+        {
+          "level": "UG",
+          "program": "B.Sc.",
+          "name": "to ITEP"
+        },
+        {
+          "level": "UG",
+          "program": "B.Ed.",
+          "name": "to ITEP"
+        },
+        {
+          "level": "PG",
+          "program": "LLM",
+          "name": "SESSION 2025-26 FOR VACANT SEATS"
+        },
+        {
+          "level": "PG",
+          "program": "LLM",
+          "name": "Sem I"
+        },
+        {
+          "level": "PG",
+          "program": "LLM",
+          "name": "VACANT SEATS NOTIFICATION (Re-Opened) SESSION 2025-26"
+        },
+        {
+          "level": "PG",
+          "program": "LLM",
+          "name": "LLM"
+        },
+        {
+          "level": "PhD",
+          "program": "Ph.D.",
+          "name": "Interview 2025 Instructions and Schedule"
+        },
+        {
+          "level": "Diploma",
+          "program": "PG Diploma",
+          "name": "legal and Forensic science"
+        },
+        {
+          "level": "PG",
+          "program": "LLM",
+          "name": "Sem I & ll.B. Semi on converted seats of st/mbc session 2025-26"
+        },
+        {
+          "level": "UG",
+          "program": "LLB",
+          "name": "Semi on converted seats of st/mbc session 2025-26"
+        },
+        {
+          "level": "UG",
+          "program": "B.Ed.",
+          "name": "Semester Exam 2025"
+        },
+        {
+          "level": "PhD",
+          "program": "Ph.D.",
+          "name": "coursework 2025 form"
+        },
+        {
+          "level": "UG",
+          "program": "LLB",
+          "name": "3-Year Counselling Program 2025–26"
+        },
+        {
+          "level": "UG",
+          "program": "B.Ed.",
+          "name": "B.Ed."
+        },
+        {
+          "level": "PhD",
+          "program": "Ph.D.",
+          "name": "COURSEWORK PHASE II"
+        },
+        {
+          "level": "PhD",
+          "program": "Ph.D.",
+          "name": "Coursework Examination Form 2025"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Computer Science"
+        },
+        {
+          "level": "Diploma",
+          "program": "PG Diploma",
+          "name": "Computer Applications"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Computer Science Semester System"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Computer Science LOCF"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "M.Sc."
+        },
+        {
+          "level": "Diploma",
+          "program": "PGDCA",
+          "name": "or equivalent from any recognized University"
+        },
+        {
+          "level": "UG",
+          "program": "Bachelor",
+          "name": "Law's"
+        },
+        {
+          "level": "PG",
+          "program": "Master",
+          "name": "Law"
+        },
+        {
+          "level": "UG",
+          "program": "Bachelor",
+          "name": "Education"
+        },
+        {
+          "level": "UG",
+          "program": "Bachelor",
+          "name": "Physical Education"
+        },
+        {
+          "level": "UG",
+          "program": "Bachelor",
+          "name": "Business Administration"
+        },
+        {
+          "level": "PG",
+          "program": "M.E.",
+          "name": "�}��F�1�������{.�p��I#/ș'���T��IG��� \\ ���O�:.=�Q Ύ�m��c']f��k,�"
+        },
+        {
+          "level": "PG",
+          "program": "M.A.",
+          "name": "�\\ɦZ��ɦ��r$��eJ6��Urz� ,^NG6)��I��hu�R$s�CK�̩�v��dN�o��n��N�{��2�^����)��q �%O�"
+        },
+        {
+          "level": "PG",
+          "program": "M.D.",
+          "name": "%���$3�U�*{D��"
+        },
+        {
+          "level": "PG",
+          "program": "M.E.",
+          "name": "���ї�`lk�s·�E_���Ŭ[�����w���;�+wG���Y��p%�R�o7���r��\"S�l|ue�$�#�e���u�"
+        },
+        {
+          "level": "UG",
+          "program": "B.E.",
+          "name": "��٨8چ|��\"��v��n�� B�@�%^T"
+        },
+        {
+          "level": "PG",
+          "program": "M.S.",
+          "name": "͚,�TI����5��ݐ6�p܇X����\\:<�A��*�l�Z��0W�n`�c���=��w҇����͡�3ng�`�x���Z\\k��{V�NW�*�"
+        },
+        {
+          "level": "PG",
+          "program": "M.D.",
+          "name": "��t/�#H3�^@zi&����2Rcxl����bHݑ�A�\"{#���R_��\"�B��6H��F\"�tPtlt�<���NE��+F��t�T�+��"
+        },
+        {
+          "level": "PG",
+          "program": "M.D.",
+          "name": "�L����7�U*<��%�-�Su?\"_�ۊ|�n<��K�����Oȗ�#O��@�T��2�.xz�n7\\-��� _�ۋ"
+        },
+        {
+          "level": "PG",
+          "program": "M.E.",
+          "name": "�iD�i8��1�7M��`:���E4�.��[K����t�A�H��?ӓ���^��?�-z���"
+        },
+        {
+          "level": "PG",
+          "program": "LLM",
+          "name": "�L�MGM��N�2L�L�ML����n�2M{M�L�L�MM�L�M[Mi�m��L�M;L;M�L�M�L�M�#�c��M�M'M�M��.�.�"
+        },
+        {
+          "level": "PG",
+          "program": "M.D.",
+          "name": "����������^d�� �;\"�#r�+�\\A�D�@�D�\"r���\\C�\"����uD�Hظn�!5IR�4$MH�Z偤 %�D��n!�7�o{lױ"
+        },
+        {
+          "level": "UG",
+          "program": "B.E.",
+          "name": "��0�<���g� b�ϡ�"
+        },
+        {
+          "level": "UG",
+          "program": "B.A.",
+          "name": "�o�3�+T���?�5}ƚ�˖.i_|�}ւ���Κ1e���uC����4�����l@*YZR�"
+        },
+        {
+          "level": "UG",
+          "program": "B.E.",
+          "name": "�����"
+        },
+        {
+          "level": "UG",
+          "program": "B.E.",
+          "name": "��.�;oxRcf$]_���6dҭ�-��&lNW͌Ό�,�y�bqtq|q����"
+        },
+        {
+          "level": "UG",
+          "program": "B.E.",
+          "name": "�4Z)bq�X,+N�4Z,Rn�QT��7��Ţ��X��BY+N��.�����RY�_*��"
+        },
+        {
+          "level": "UG",
+          "program": "B.E.",
+          "name": "�oZ��s�g�{�[�P+&�Z�z���d�W�E{7)J낦�&��v݆�D]�1��l�=�-��lqVӲ�%އ����^G�;i.O��bWUaa��"
+        },
+        {
+          "level": "UG",
+          "program": "B.E.",
+          "name": "�R��5s�'�L+-6� &K�iگd���W>"
+        },
+        {
+          "level": "PG",
+          "program": "D.M.",
+          "name": "� 5���T{ͪ���=���ǲ���v7��~ud��6����ΙM|����^l�N�ۨZ34�kH-�0�]?�۷��rO>����>���>���n�"
+        },
+        {
+          "level": "PG",
+          "program": "M.A.",
+          "name": "�qS�+�����=*\\�Smש�*�U0u������*X�]$N�l3���8�e\\�E"
+        },
+        {
+          "level": "PG",
+          "program": "M.S.",
+          "name": "2L2Ĝg�~e���%gJ4���r:C�y�<�4�O���O�'��ǁ��bKm�FQ��#�G|/�_�L���q�Bp��Zz��,۬P�-�V�"
+        },
+        {
+          "level": "UG",
+          "program": "B.E.",
+          "name": "�e���0i��������M�I*��sDV������Y�U��/OsVd���}��1��M/︬�˿��h0?\"ƨӘ�x5��}�pYKvǦ��h���"
+        },
+        {
+          "level": "PG",
+          "program": "M.E.",
+          "name": "�0U��OEna�R�y$��ҘZ���\\\\nU)�*J/���Î�����?����;�������?Rď}��ڡ �.�rڊy��H���-@�Trwug"
+        },
+        {
+          "level": "PG",
+          "program": "M.A.",
+          "name": "�Y���5ֆ��8!�D"
+        },
+        {
+          "level": "PG",
+          "program": "D.M.",
+          "name": "�5iP�ِ��C2Ů�-�U2�e����FdJ��r,�[�ɱlV��X-[���H�r,k�����y)^;M�� �Ƶ��%��=�֣dfO uR)Yo"
+        },
+        {
+          "level": "PG",
+          "program": "M.D.",
+          "name": "��-�J���H?���d%��d ��>������� 톺��@�7�?C�w��C����P��"
+        },
+        {
+          "level": "UG",
+          "program": "B.A.",
+          "name": "�a���;�@���&]j�o�,��;�9f�>�5��g=��D��^ޜ���N��׹>E�0��4� ���f��A^!k܈�5��\\L�` �9�>"
+        },
+        {
+          "level": "UG",
+          "program": "B.E.",
+          "name": "Ŝ�/V�Pj�f�!"
+        },
+        {
+          "level": "PG",
+          "program": "M.A.",
+          "name": "��3l6��Ss\\�6ׂ����s�dr�< �y�����|[�ȏ���|�*^�A�W=]�^�)�q�4ӸCz�&B�I�$kR5����#��ܨ���"
+        },
+        {
+          "level": "UG",
+          "program": "B.A.",
+          "name": "�Ba�Ba�|ax��Y���^����-C�[Y��*�P��m� ��k }���g�0|��TEES�*�J�vP�T:�I]�nR�m=Y�� �5"
+        },
+        {
+          "level": "UG",
+          "program": "B.A.",
+          "name": "�Ba�|ax��Y���^����-C�[Y��*�P��m� ��k }���g�0|��TEES�*�J�vP�T:�I]�nR�m=Y�� �5� �"
+        },
+        {
+          "level": "UG",
+          "program": "B.A.",
+          "name": "�|ax��Y���^����-C�[Y��*�P��m� ��k }���g�0|��TEES�*�J�vP�T:�I]�nR�m=Y�� �5� ���T"
+        },
+        {
+          "level": "PG",
+          "program": "M.E.",
+          "name": "�[�W���mE�;�^w��)z�G�"
+        },
+        {
+          "level": "PG",
+          "program": "M.E.",
+          "name": "�;�^w��)z�G�"
+        },
+        {
+          "level": "PG",
+          "program": "M.D.",
+          "name": "�K��ar�d���49O.��$��#��3��)��ռ��&�o�[��|�,_���W���x�:_�������&|Oޓ��C����#��� &��"
+        },
+        {
+          "level": "PG",
+          "program": "M.D.",
+          "name": "�' �6:ڈ��}��9D��C �F�/�#��?�?:��0j����_�L���Pרп�Cݣ^P�����@�4�U�-�4{&�mN[Ж�mM�ж�"
+        },
+        {
+          "level": "UG",
+          "program": "B.A.",
+          "name": "��K��_��ޡ�9�]�ϖz��4�fcr���I�?TX� =��k�M�\"�bõ�p�>�͊e�aL�C-e�OF��pPցM��h@k!���z �v"
+        },
+        {
+          "level": "PG",
+          "program": "M.A.",
+          "name": "��d-4Z�j���.����"
+        },
+        {
+          "level": "PG",
+          "program": "M.S.",
+          "name": "���1�1�qX�t�hey�av�@D�j��19�eS��+��c}z�؝K�^��x����9��-!��غ[C��FR_L�X6J�[ �^ܝ���"
+        },
+        {
+          "level": "PhD",
+          "program": "Ph.D.",
+          "name": "s Awarded"
+        },
+        {
+          "level": "PG",
+          "program": "M.A.",
+          "name": "Sem-IV-Virginia Woolf SSh"
+        },
+        {
+          "level": "PG",
+          "program": "M.A.",
+          "name": "Sem-II-Medieval Theatre SSh"
+        }
+      ]
+    },
+    {
+      "college_name": "Department of Computer Science",
+      "programs": [
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Computer Science"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Cyber Security"
+        },
+        {
+          "level": "PG",
+          "program": "M.Sc.",
+          "name": "Computer Science (Lateral Entry)"
+        },
+        {
+          "level": "Diploma",
+          "program": "PGDCA",
+          "name": "or equivalent from any recognized University"
+        },
+        {
+          "level": "Diploma",
+          "program": "PGDCA",
+          "name": "PGDCA"
+        },
+        {
+          "level": "Diploma",
+          "program": "PG Diploma",
+          "name": "Computer Applications"
+        }
+      ]
+    }
+  ]
+}
