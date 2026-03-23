@@ -913,7 +913,7 @@ def main():
                 log_rows.append({
                     "row": idx,
                     "aishe_code": str(row.get("Aishe Code","")).strip(),
-                    "name": uname,
+     git                "name": uname,
                     "website": str(row.get("Website","")),
                     "programs": n_prog,
                     "file": fname,
