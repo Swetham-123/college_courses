@@ -1,0 +1,379 @@
+{
+  "aishe_code": "U-0040",
+  "university_name": "Telangana University, Nizamabad",
+  "state": "Telangana",
+  "district": "Nizamabad",
+  "website": "www.telanganauniversity.ac.in",
+  "year_established": "2006",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:56.388572Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://telanganauniversity.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "LLM (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in/academiccalender.php"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "LLM I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in/academiccalender.php"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "VIEW",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in/pgsyllabus.php"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "(III &",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in/academiccalender.php"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "VIEW",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in/pgsyllabus.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "(Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in/tuacademic.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "(Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in/tuacademic.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in/tuacademic.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "APP",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in/tudaa.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "COU",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in/tudaa.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA (I &",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in/academiccalender.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "SPE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "VIEW",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in/pgsyllabus.php"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "APP",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in/tudaa.php"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "COU",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in/tudaa.php"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "VIEW",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://telanganauniversity.ac.in/pgsyllabus.php"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Bus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/tuacademic.php"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/tuacademic.php"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Gen",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/tuacademic.php"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/tuacademic.php"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "COL",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/tudaa.php"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/INSPECTION/B.Ed. INSPECTION FORMAT 2026-27.doc"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "FOR",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/tudaa.php"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "III",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/academiccalender.php"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "SPE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Spl",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/INSPECTION/B.Ed. INSPECTION FORMAT 2026-27.doc"
+    },
+    {
+      "degree_name": "B.SC",
+      "course_name": "Bot",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/ugsyllabus.php"
+    },
+    {
+      "degree_name": "B.SC",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/ugsyllabus.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/ugsyllabus.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/ugsyllabus2025.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Crop",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/ugsyllabus.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/ugsyllabus2025.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "FOOD",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/ugsyllabus.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/ugsyllabus.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Life",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/tuacademic.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/ugsyllabus2025.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/tuacademic.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/tuacademic.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ret",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/tuacademic.php"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/tuacademic.php"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "VIEW",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://telanganauniversity.ac.in/ugsyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "iss",
+      "level_of_education": "Certificate",
+      "source_url": "https://telanganauniversity.ac.in/INSPECTION/MBA INSPECTION FORMAT 2026-27.doc"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in/tuacademic.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Geo",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in/ugsyllabus.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in/tuacademic.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in/ugsyllabus.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in/ugsyllabus.php"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Mana",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in/ugsyllabus.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Tel",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in/tuhod.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in/INSPECTION/Inspection Notification 2026-27.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium\t10",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in/INSPECTION/UG INSPECTION FORMAT 2026-27.doc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Min",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in/INSPECTION/B.Ed. INSPECTION FORMAT 2026-27.doc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enc",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in/INSPECTION/UG INSPECTION FORMAT 2026-27.doc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fal",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in/INSPECTION/B.Ed. INSPECTION FORMAT 2026-27.doc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fur",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in/INSPECTION/UG INSPECTION FORMAT 2026-27.doc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in/INSPECTION/UG INSPECTION FORMAT 2026-27.doc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in/INSPECTION/MBA INSPECTION FORMAT 2026-27.doc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://telanganauniversity.ac.in"
+    }
+  ],
+  "total_courses": 60,
+  "pages_scraped": 23,
+  "errors": []
+}

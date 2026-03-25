@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0431",
+  "university_name": "Sikkim Manipal University, Gangtok",
+  "state": "Sikkim",
+  "district": "Gangtok",
+  "website": "www.smu.edu.in",
+  "year_established": "1995",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:30.115800Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

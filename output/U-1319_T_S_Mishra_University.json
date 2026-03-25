@@ -1,0 +1,775 @@
+{
+  "aishe_code": "U-1319",
+  "university_name": "T S Mishra University",
+  "state": "Uttar Pradesh",
+  "district": "Lucknow",
+  "website": "www.tsm.edu.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:07:25.230875Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tsm.edu.in/Mishra-law-school.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tsm.edu.in/governingbody.aspx?m=v-pills-messages-tab"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tsm.edu.in/School-of-Computer-Science-and-ArtificialIntelligence.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "CHI",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/pg.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "COM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/pg.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "MED",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/pg.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "MEN",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/pg.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tsmnpc.tsm.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "OBS",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/pg.aspx"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/pg.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ass",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/Admission-department.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Dig",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/Admission-department.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Dual",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/school_of_business_managements.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "GEN",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/school_of_business_managements.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/school_of_business_managements.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/school_of_business_managements.aspx"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": ") is a 2",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/School-of-Computer-Science-and-ArtificialIntelligence.aspx"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Eli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "DFSM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/school-of-ayutveda.aspx"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "YOGA, M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/school-of-ayutveda.aspx"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsm.edu.in/School-of-Computer-Science-and-ArtificialIntelligence.aspx"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "B.ED",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/Admission-department.aspx"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Fac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/governingbody.aspx?m=v-pills-messages-tab"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/Ts-Mishra-School-of-Pharmacy.aspx"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "and D",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/College-of-pharmacy.aspx"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/Admission-department.aspx"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/ug.aspx"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/ug.aspx"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "VLSI &",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/ug.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Dig",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/school_of_business_managements.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GEN",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/school_of_business_managements.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/Mishra-law-school.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/ug.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/school_of_business_managements.aspx"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/School-of-Computer-Science-and-ArtificialIntelligence.aspx"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/school-of-ayutveda.aspx"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/School-of-Computer-Science-and-ArtificialIntelligence.aspx"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Eli",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Rep",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/governingbody.aspx?m=v-pills-messages-tab"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in"
+    },
+    {
+      "degree_name": "Mbbs",
+      "course_name": "bat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in"
+    },
+    {
+      "degree_name": "integrated B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "integrated med",
+      "course_name": "ici",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsm.edu.in/school-of-ayutveda.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Car",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tsm.edu.in/diploma-programs.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dia",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tsm.edu.in/diploma-programs.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eme",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tsm.edu.in/diploma-programs.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tsm.edu.in/diploma-programs.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ope",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tsm.edu.in/diploma-programs.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Opt",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tsm.edu.in/diploma-programs.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Par",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tsm.edu.in/HarGhar_Tiranga_KakoriTrain_Action.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tsm.edu.in/Ts-Mishra-School-of-Pharmacy.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Phy",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tsm.edu.in/diploma-programs.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tsm.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "hol",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tsm.edu.in/school-of-ayutveda.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "s or",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tsm.edu.in/school-of-ayutveda.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "same",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "sare",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tsm.edu.in/school-of-ayutveda.aspx"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Gen",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "app",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tsm.edu.in/HarGhar_Tiranga_KakoriTrain_Action.aspx"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "ori",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tsm.edu.in/admission-process.aspx"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "will",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tsm.edu.in/admission-process.aspx"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/Mishra-law-school.aspx"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/Admission-department.aspx"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Mar",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/Admission-department.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pho",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/Admission-department.aspx"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "ICAL &",
+      "level_of_education": "Unknown",
+      "source_url": "https://tsmnpc.tsm.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ia\nT.S",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/school-of-ayutveda.aspx"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/assets/Upload-Pdf/Ugc-Form.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/school_of_business_managements.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/school-of-ayutveda.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/school_of_business_managements.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/HarGhar_Tiranga_KakoriTrain_Action.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/Ts-Mishra-School-of-Pharmacy.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-process.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cri",
+      "level_of_education": "Unknown",
+      "source_url": "https://tsmnpc.tsm.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/school-of-ayutveda.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eff",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/Mishra-law-school.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/school_of_business_managements.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eva",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-process.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "glo",
+      "level_of_education": "Unknown",
+      "source_url": "https://tsmnpc.tsm.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gui",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-process.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-process.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "kept",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-process.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lia",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/school_of_business_managements.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-process.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "per",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-process.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pos",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/school_of_business_managements.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/school_of_business_managements.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/School-of-Computer-Science-and-ArtificialIntelligence.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-process.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/school_of_business_managements.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/school_of_business_managements.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-process.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ski",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-process.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sup",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/School-of-Computer-Science-and-ArtificialIntelligence.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ter",
+      "level_of_education": "Unknown",
+      "source_url": "https://tsmnpc.tsm.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/school-of-ayutveda.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-criteria.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/admission-process.aspx"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "ded",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/school-of-ayutveda.aspx"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "how",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "kno",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "les",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "to a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsm.edu.in/school-of-ayutveda.aspx"
+    }
+  ],
+  "total_courses": 126,
+  "pages_scraped": 25,
+  "errors": []
+}

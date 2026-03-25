@@ -1,0 +1,31 @@
+{
+  "aishe_code": "U-1073",
+  "university_name": "National Institute of Design Haryana",
+  "state": "Haryana",
+  "district": "Kurukshetra",
+  "website": "www.nidh.ac.in",
+  "year_established": "2016",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:26:20.999407Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "B.Des",
+      "course_name": "cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nidh.ac.in/admissions"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nidh.ac.in/_files/ugd/f0c2c3_1bf3f4da352745ecb33c44abb79f149a.pdf"
+    }
+  ],
+  "total_courses": 2,
+  "pages_scraped": 7,
+  "errors": []
+}

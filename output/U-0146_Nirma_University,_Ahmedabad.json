@@ -1,0 +1,247 @@
+{
+  "aishe_code": "U-0146",
+  "university_name": "Nirma University, Ahmedabad",
+  "state": "Gujarat",
+  "district": "Ahmedabad",
+  "website": "www.nirmauni.ac.in",
+  "year_established": "1995",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:47:15.488297Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PhD",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nirmauni.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "MBA (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nirmauni.ac.in/a-z-academics"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "MBA (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nirmauni.ac.in/a-z-academics"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fam",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nirmauni.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Glo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MBA (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nirmauni.ac.in/a-z-academics"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nirmauni.ac.in/a-z-academics"
+    },
+    {
+      "degree_name": "BArch",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nirmauni.ac.in/a-z-academics"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nirmauni.ac.in/a-z-academics"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nirmauni.ac.in/a-z-academics"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nirmauni.ac.in/a-z-academics"
+    },
+    {
+      "degree_name": "BPharm",
+      "course_name": "BTe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nirmauni.ac.in/a-z-academics"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "pha",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nirmauni.ac.in/a-z-academics"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "tar",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "app",
+      "level_of_education": "Diploma",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nirmauni.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ask",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bet",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fin",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gov",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gui",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nirmauni.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "acq",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dur",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "grow",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://nirmauni.ac.in/institute-of-international-study"
+    }
+  ],
+  "total_courses": 38,
+  "pages_scraped": 20,
+  "errors": []
+}

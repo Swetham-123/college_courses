@@ -1,0 +1,223 @@
+{
+  "aishe_code": "U-0646",
+  "university_name": "NIILM UNIVERSITY",
+  "state": "Haryana",
+  "district": "Kaithal",
+  "website": "www.niilmuniversity.ac.in",
+  "year_established": "2011",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:44:44.137076Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/engineering-technology"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niilmuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "B.Sc. (",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/computer-science-applications"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "BCA (",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/computer-science-applications?page=2"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "BTTM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/hospitality-management"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niilmuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niilmuniversity.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Gal",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.niilmuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Dur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/commerce-management?page=2"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "ign (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/fashion-designing"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(OTT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/journalism-mass-communication"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(Web",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/computer-science-applications"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LEET (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/health-science"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/engineering-technology?page=2"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(ECE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/engineering-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ECE (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/engineering-technology"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "(Web",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/commerce-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Dur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/commerce-management"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "(Web",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/computer-science-applications?page=2"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Dur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/computer-science-applications"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Web",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niilmuniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cer",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/social-science-humanities"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.niilmuniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Sub",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/certificate-courses"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.niilmuniversity.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niilmuniversity.ac.in/departmentslug/legal-studies"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "Hos",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niilmuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "are",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niilmuniversity.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "als",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niilmuniversity.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niilmuniversity.ac.in/uploads/pdfs/1756723791.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niilmuniversity.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niilmuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niilmuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sep",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niilmuniversity.ac.in"
+    }
+  ],
+  "total_courses": 34,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0728",
+  "university_name": "SRI SATYA SAI UNIVERSITY OF TECHNOLOGY & MEDICAL SCIENCES, SEHORE",
+  "state": "Madhya Pradesh",
+  "district": "Sehore",
+  "website": "www.sssutms.co.in",
+  "year_established": "2013",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:40.142659Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

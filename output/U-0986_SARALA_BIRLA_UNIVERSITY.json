@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0986",
+  "university_name": "SARALA BIRLA UNIVERSITY",
+  "state": "Jharkhand",
+  "district": "Ranchi",
+  "website": "https://sbu.ac.in/",
+  "year_established": "2017",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:39.199925Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

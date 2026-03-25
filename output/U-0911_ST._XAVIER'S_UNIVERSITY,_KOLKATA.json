@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0911",
+  "university_name": "ST. XAVIER'S UNIVERSITY, KOLKATA",
+  "state": "West Bengal",
+  "district": "North 24 Parganas",
+  "website": "www.sxuk.edu.in",
+  "year_established": "2017",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:46.645095Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

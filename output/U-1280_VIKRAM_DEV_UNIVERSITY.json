@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1280",
+  "university_name": "VIKRAM DEV UNIVERSITY",
+  "state": "Odisha",
+  "district": "Koraput",
+  "website": "www.vikramdevuniversity.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:24:03.403558Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

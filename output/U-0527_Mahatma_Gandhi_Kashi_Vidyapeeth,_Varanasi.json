@@ -1,0 +1,247 @@
+{
+  "aishe_code": "U-0527",
+  "university_name": "Mahatma Gandhi Kashi Vidyapeeth, Varanasi",
+  "state": "Uttar Pradesh",
+  "district": "Varanasi",
+  "website": "www.mgkvp.ac.in",
+  "year_established": "1921",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:51:47.371488Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PHD",
+      "course_name": "Awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgkvp.ac.in/TheUniversity/phdawardedlist"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(Law)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/Research_List"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgkvp.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/Research_List"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgkvp.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ord",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgkvp.ac.in/TheUniversity/phdawardedlist"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/Research_List"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Tex",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "per",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Nat",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Psy",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Rus",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Voc",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "per",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Fre",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "III",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mgkvp.ac.in/departmenthome/AdminOfficers?Id=98"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "III 07/01/2024",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mgkvp.ac.in/departmenthome/AdminOfficers?Id=98"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Gan",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "I.R.P.M",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Mass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Phi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "San",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Sus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Urdu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgkvp.ac.in/AcademicsHome/ListCourses"
+    }
+  ],
+  "total_courses": 38,
+  "pages_scraped": 26,
+  "errors": []
+}

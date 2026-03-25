@@ -1,0 +1,133 @@
+{
+  "aishe_code": "U-0839",
+  "university_name": "MAHARAJA BIR BIKRAM UNIVERSITY, AGARTALA",
+  "state": "Tripura",
+  "district": "West Tripura",
+  "website": "https://mbbuniversity.ac.in",
+  "year_established": "2015",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:43:02.050706Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mbbuniversity.ac.in/english_programme_outcome"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Lib",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mbbuniversity.ac.in/programme_outcome_library_sc"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mbbuniversity.ac.in/programme-outcome"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mbbuniversity.ac.in/programme_outcome_politicla_sc"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mbbuniversity.ac.in/about_english_dept"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mbbuniversity.ac.in/math_dept"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mbbuniversity.ac.in/math_dept"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mbbuniversity.ac.in/programme-outcome"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mbbuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Thi",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mbbuniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Lib",
+      "level_of_education": "Diploma",
+      "source_url": "https://mbbuniversity.ac.in/about_library_dept"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbbuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbbuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbbuniversity.ac.in/programme_outcome_politicla_sc"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "end",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbbuniversity.ac.in/sites/default/files/documents/Rescheduled%20Program%20dated%2022nd%20Jan-2026%20of%20UG%20Fifth%20Semester%20Examinations-2025%20%28as%20per%20NEP-2020%29..PDF"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "als",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbbuniversity.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbbuniversity.ac.in/sites/default/files/documents/Document_2.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbbuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbbuniversity.ac.in"
+    }
+  ],
+  "total_courses": 19,
+  "pages_scraped": 25,
+  "errors": []
+}

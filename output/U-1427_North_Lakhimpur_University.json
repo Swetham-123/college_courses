@@ -1,0 +1,97 @@
+{
+  "aishe_code": "U-1427",
+  "university_name": "North Lakhimpur University",
+  "state": "Assam",
+  "district": "Lakhimpur",
+  "website": "https://nlu.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:51:16.354905Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nlu.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nlu.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "IKS",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nlu.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nlu.ac.in"
+    },
+    {
+      "degree_name": "Integrated M.Sc",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nlu.ac.in/department-of-chemistry"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nlu.ac.in/department-of-chemistry"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nlu.ac.in/department-of-electronics"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nlu.ac.in/department-of-physics"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nlu.ac.in/department-of-botany"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nlu.ac.in/department-of-botany"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nlu.ac.in/department-of-botany"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://nlu.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://nlu.ac.in/phd-programmes"
+    }
+  ],
+  "total_courses": 13,
+  "pages_scraped": 25,
+  "errors": []
+}

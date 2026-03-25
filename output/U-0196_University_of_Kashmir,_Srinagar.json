@@ -1,0 +1,343 @@
+{
+  "aishe_code": "U-0196",
+  "university_name": "University of Kashmir, Srinagar",
+  "state": "Jammu and Kashmir",
+  "district": "Srinagar",
+  "website": "www.kashmiruniversity.net",
+  "year_established": "1948",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:12:47.668066Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ses",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "LLM/ B",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Home",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "B.ED",
+      "course_name": "(For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "CRC 1",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Sel",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Spe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "a, B.A",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "acy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bio",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dia",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hin",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Kas",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Per",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Rem",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "San",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Str",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B 5",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Ara",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Isl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Kas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Lin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Per",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "San",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Urdu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net/events/10532.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net/degreeprograms.aspx"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kashmiruniversity.net"
+    }
+  ],
+  "total_courses": 54,
+  "pages_scraped": 19,
+  "errors": []
+}

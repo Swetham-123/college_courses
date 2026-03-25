@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0952",
+  "university_name": "MAHARISHI UNIVERSITY OF INFORMATION TECHNOLOGY",
+  "state": "Uttar Pradesh",
+  "district": "Lucknow",
+  "website": "www.muit.in",
+  "year_established": "2001",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:49:49.287109Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

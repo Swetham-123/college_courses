@@ -1,0 +1,199 @@
+{
+  "aishe_code": "U-1329",
+  "university_name": "Madhav Institute of Technology and Science",
+  "state": "Madhya Pradesh",
+  "district": "Gwalior",
+  "website": "www.mitsgwalior.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:40:45.019169Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fel",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Maj",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ord",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sup",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "six",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "und",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "All",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "will",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "End",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "havi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical &",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitsgwalior.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitsgwalior.in"
+    }
+  ],
+  "total_courses": 30,
+  "pages_scraped": 25,
+  "errors": []
+}

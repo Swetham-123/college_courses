@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1370",
+  "university_name": "SKIPS University",
+  "state": "Gujarat",
+  "district": "Gandhinagar",
+  "website": "www.skipsuniversity.edu.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:32.706654Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

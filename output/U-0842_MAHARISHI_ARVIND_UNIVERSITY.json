@@ -1,0 +1,139 @@
+{
+  "aishe_code": "U-0842",
+  "university_name": "MAHARISHI ARVIND UNIVERSITY",
+  "state": "Rajasthan",
+  "district": "Jaipur",
+  "website": "www.maujaipur.org",
+  "year_established": "2015",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:48:54.587821Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "MBA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.maujaipur.org/pgcourses.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "was",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.maujaipur.org"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.maujaipur.org/pgcourses.php"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.maujaipur.org/ugcourses.php"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.maujaipur.org"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.maujaipur.org/ugcourses.php"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.maujaipur.org/ugcourses.php"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Hons (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.maujaipur.org/ughonscourses.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.maujaipur.org/diplomacourses.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Lib",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.maujaipur.org/diplomacourses.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.maujaipur.org/diplomacourses.php"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.maujaipur.org/diplomacourses.php"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "stu",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.maujaipur.org/diplomacourses.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.maujaipur.org/certificatecourses.php"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "(All",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.maujaipur.org"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Bac",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.maujaipur.org/ugcourses.php"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.maujaipur.org"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "job",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.maujaipur.org/ugindustrycourses.php"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.maujaipur.org"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "to a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.maujaipur.org"
+    }
+  ],
+  "total_courses": 20,
+  "pages_scraped": 24,
+  "errors": []
+}

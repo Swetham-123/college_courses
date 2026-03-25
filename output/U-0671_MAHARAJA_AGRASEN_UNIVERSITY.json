@@ -1,0 +1,469 @@
+{
+  "aishe_code": "U-0671",
+  "university_name": "MAHARAJA AGRASEN UNIVERSITY",
+  "state": "Himachal Pradesh",
+  "district": "Solan",
+  "website": "www.mau.ac.in",
+  "year_established": "2012",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:44:28.233252Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(CSE)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(ECE)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(EEE)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(Law)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in/allnews.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in/school-of-managementMASOM.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in/allnews.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in/school-of-lawMASOL.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "nic",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in/school-of-basic-and-applied-sciencesSBAS.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in/allnews.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Bat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Mah",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in/maufees.php"
+    },
+    {
+      "degree_name": "phd",
+      "course_name": "php",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mau.ac.in/allnews.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "M.Sc. (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in/maufees.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in/maufees.php"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in/maufees.php"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "LLM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Bat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "B.Sc. (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in/maufees.php"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in/school-of-managementMASOM.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "(Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in/maufees.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Bat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in/school-of-pharmacyMASOP.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in/allnews.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Part",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in/allnews.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "with",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in/school-of-managementMASOM.php"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "BBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "MTECH",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "MTECH",
+      "course_name": "ECE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "MTECH",
+      "course_name": "EEE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in/school-of-lawMASOL.php"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in/maufees.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(HM&A)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in/maufees.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hot",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in/allnews.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in/school-of-basic-and-applied-sciencesSBAS.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in/maufees.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in/allnews.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in/maufees.php"
+    },
+    {
+      "degree_name": "B.sc",
+      "course_name": "(MED)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "B.sc",
+      "course_name": "(Non",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Log",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in/allnews.php"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "MTE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "BCOM",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "BTECH",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "BTECH",
+      "course_name": "ECE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "BTECH",
+      "course_name": "EEE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "BCOM",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Bat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "App",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mau.ac.in/school-of-lawMASOL.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in/school-of-lawMASOL.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in/school-of-basic-and-applied-sciencesSBAS.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://mau.ac.in/Admin/uploads/30-08-2022-16618435182_CGPA%20Coversion_16%20Aug%2021.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in/school-of-basic-and-applied-sciencesSBAS.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "del",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in/allnews.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dif",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eit",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in/news.php?newsid=201"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in/news.php?newsid=201"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in/allnews.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "life",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in/allnews.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "suc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in/school-of-managementMASOM.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in/allnews.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in/news.php?newsid=108"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "rock",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in/school-of-lawMASOL.php"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bri",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in/school-of-managementMASOM.php"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mau.ac.in/study-in-india.php"
+    }
+  ],
+  "total_courses": 75,
+  "pages_scraped": 25,
+  "errors": []
+}

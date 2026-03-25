@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0847",
+  "university_name": "RNB GLOBAL UNIVERSITY",
+  "state": "Rajasthan",
+  "district": "Bikaner",
+  "website": "www.rnbglobal.edu.in",
+  "year_established": "2015",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:32.023840Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

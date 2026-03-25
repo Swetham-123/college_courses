@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0386",
+  "university_name": "Rajiv Gandhi National University of Law, Punjab",
+  "state": "Punjab",
+  "district": "Patiala",
+  "website": "www.rgnul.ac.in",
+  "year_established": "2006",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:22.877833Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

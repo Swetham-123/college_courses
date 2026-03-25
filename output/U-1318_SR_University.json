@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1318",
+  "university_name": "SR University",
+  "state": "Telangana",
+  "district": "Warangal",
+  "website": "https://sru.edu.in/",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:17.058239Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

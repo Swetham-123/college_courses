@@ -1,0 +1,127 @@
+{
+  "aishe_code": "U-0600",
+  "university_name": "National University of Study & Research in Law, Ranchi",
+  "state": "Jharkhand",
+  "district": "Ranchi",
+  "website": "www.nusrlranchi.ac.in",
+  "year_established": "2010",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:41:46.205453Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": ")\nPh.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nusrlranchi.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nusrlranchi.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nusrlranchi.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fees",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nusrlranchi.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nusrlranchi.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nusrlranchi.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nusrlranchi.ac.in/tough"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "FEL",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nusrlranchi.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "L.L.B. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nusrlranchi.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Adm",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nusrlranchi.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nusrlranchi.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fee",
+      "level_of_education": "Diploma",
+      "source_url": "https://nusrlranchi.ac.in/ug_admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Syl",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nusrlranchi.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "(LL.B.)",
+      "level_of_education": "Unknown",
+      "source_url": "https://nusrlranchi.ac.in/ug_course_description"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B (H)",
+      "level_of_education": "Unknown",
+      "source_url": "https://nusrlranchi.ac.in/ug_admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B.(",
+      "level_of_education": "Unknown",
+      "source_url": "https://nusrlranchi.ac.in/ug_course_description"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "als",
+      "level_of_education": "Unknown",
+      "source_url": "https://nusrlranchi.ac.in/academic-council"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://nusrlranchi.ac.in/storage/2025/07/Notice-for-Admission-in-UG-Vacant-seats.pdf"
+    }
+  ],
+  "total_courses": 18,
+  "pages_scraped": 25,
+  "errors": []
+}

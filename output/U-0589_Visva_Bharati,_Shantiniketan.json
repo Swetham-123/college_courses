@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0589",
+  "university_name": "Visva Bharati, Shantiniketan",
+  "state": "West Bengal",
+  "district": "Birbhum",
+  "website": "www.visva-bharati.ac.in",
+  "year_established": "1921",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:25:23.010136Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

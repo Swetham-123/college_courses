@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0482",
+  "university_name": "Tamil Nadu Open University, Chennai",
+  "state": "Tamil Nadu",
+  "district": "Chennai",
+  "website": "www.tnou.ac.in",
+  "year_established": "2002",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:55.015502Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

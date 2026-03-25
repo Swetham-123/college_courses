@@ -1,38 +1,64 @@
 row,aishe_code,name,website,programs,file
 0,U-0813,LNCT UNIVERSITY,www.lnctu.ac.in,254,U-0813_LNCT_UNIVERSITY.json
-1,U-1236,LNCT VIDHYAPEETH UNIVERSITY,www.lnctvu.ac.in,28,U-1236_LNCT_VIDHYAPEETH_UNIVERSITY.json
 2,U-0405,"LNM Institute of Information Technology, Jaipur",www.lnmiit.ac.in,39,U-0405_LNM_Institute_of_Information_Technology_Jaipur.json
 4,U-1102,LOK JAGRUTI KENDRA UNIVERSITY,www.ljku.edu.in,50,U-1102_LOK_JAGRUTI_KENDRA_UNIVERSITY.json
-7,U-1407,Maa Pateswari University,nan,0,U-1407_Maa_Pateswari_University.json
 5,U-1031,LORDS UNIVERSITY,www.lordsuni.edu.in,147,U-1031_LORDS_UNIVERSITY.json
+7,U-1407,Maa Pateswari University,nan,0,U-1407_Maa_Pateswari_University.json
+1,U-1236,LNCT VIDHYAPEETH UNIVERSITY,www.lnctvu.ac.in,28,U-1236_LNCT_VIDHYAPEETH_UNIVERSITY.json
 9,U-1413,Maa Vindhyavasini University,http://mvvu.ac.in,58,U-1413_Maa_Vindhyavasini_University.json
 8,U-1213,MAA SHAKUMBHARI UNIVERSITY,https://msuniversity.ac.in,1002,U-1213_MAA_SHAKUMBHARI_UNIVERSITY.json
 6,U-0379,Lovely Professional University,www.lpu.in,90,U-0379_Lovely_Professional_University.json
-3,U-1212,LOKBHARTI UNIVERSITY FOR RURAL INNOVATION,https://www.lokbharatiuniversity.edu.in/,923,U-1212_LOKBHARTI_UNIVERSITY_FOR_RURAL_INNOVATION.json
-12,U-1068,Madhabdev University,madhabdevuniversity.ac.in,925,U-1068_Madhabdev_University.json
 10,U-1421,Madanapalle Institute of Technology and Science MITS,https://mits.ac.in/university,2663,U-1421_Madanapalle_Institute_of_Technology_and_Science_MITS.json
 11,U-0739,"MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY,",www.mmmut.ac.in,390,U-0739_MADAN_MOHAN_MALAVIYA_UNIVERSITY_OF_TECHNOLOGY.json
+3,U-1212,LOKBHARTI UNIVERSITY FOR RURAL INNOVATION,https://www.lokbharatiuniversity.edu.in/,923,U-1212_LOKBHARTI_UNIVERSITY_FOR_RURAL_INNOVATION.json
+12,U-1068,Madhabdev University,madhabdevuniversity.ac.in,925,U-1068_Madhabdev_University.json
 14,U-0698,MADHAV UNIVERSITY,www.madhavuniversity.edu.in,77,U-0698_MADHAV_UNIVERSITY.json
-15,U-1184,MADHUSUDAN LAW UNIVERSITY,www.mlu.ac.in,28,U-1184_MADHUSUDAN_LAW_UNIVERSITY.json
 16,U-0941,Madhyanchal Professional University,www.mpu.ac.in,402,U-0941_Madhyanchal_Professional_University.json
-17,U-0996,"MADHYA PRADESH AYURVIGYAN VISHWAVIDHLAYA, JABALPUR",www.mpmsu.edu.in,589,U-0996_MADHYA_PRADESH_AYURVIGYAN_VISHWAVIDHLAYA_JABALPUR.json
+15,U-1184,MADHUSUDAN LAW UNIVERSITY,www.mlu.ac.in,28,U-1184_MADHUSUDAN_LAW_UNIVERSITY.json
 18,U-0278,"Madhya Pradesh Bhoj Open University, Bhopal",http://mpbou.edu.in,162,U-0278_Madhya_Pradesh_Bhoj_Open_University_Bhopal.json
 20,U-0463,"Madurai Kamaraj University, Madurai",www.mkuniversity.ac.in,0,U-0463_Madurai_Kamaraj_University_Madurai.json
-21,U-0069,"Magadh University, Bodh Gaya",www.magadhuniversity.ac.in,0,U-0069_Magadh_University_Bodh_Gaya.json
+17,U-0996,"MADHYA PRADESH AYURVIGYAN VISHWAVIDHLAYA, JABALPUR",www.mpmsu.edu.in,589,U-0996_MADHYA_PRADESH_AYURVIGYAN_VISHWAVIDHLAYA_JABALPUR.json
 13,U-1329,Madhav Institute of Technology and Science,www.mitsgwalior.in,84,U-1329_Madhav_Institute_of_Technology_and_Science.json
+21,U-0069,"Magadh University, Bodh Gaya",www.magadhuniversity.ac.in,0,U-0069_Magadh_University_Bodh_Gaya.json
 24,U-0812,MAHAPURUSHA SRIMANTA SANKARADEVA VISWAVIDYALAYA,www.mssv.ac.in,79,U-0812_MAHAPURUSHA_SRIMANTA_SANKARADEVA_VISWAVIDYALAYA.json
-19,U-0462,"Madras University, Chennai",www.unom.ac.in,308,U-0462_Madras_University_Chennai.json
 25,U-0671,MAHARAJA AGRASEN UNIVERSITY,www.mau.ac.in,66,U-0671_MAHARAJA_AGRASEN_UNIVERSITY.json
+19,U-0462,"Madras University, Chennai",www.unom.ac.in,308,U-0462_Madras_University_Chennai.json
 22,U-1230,MAGANBHAI ADENWALA MAHAGUJARAT UNIVERSITY,WWW.MAMUNI.EDU.IN,22,U-1230_MAGANBHAI_ADENWALA_MAHAGUJARAT_UNIVERSITY.json
-27,U-0810,MAHARAJA CHHATRASAL BUNDELKHAND UNIVERSITY,https://mcbu.ac.in/,804,U-0810_MAHARAJA_CHHATRASAL_BUNDELKHAND_UNIVERSITY.json
-26,U-0839,"MAHARAJA BIR BIKRAM UNIVERSITY, AGARTALA",https://mbbuniversity.ac.in,473,U-0839_MAHARAJA_BIR_BIKRAM_UNIVERSITY_AGARTALA.json
-29,U-0124,Maharaja Krishnakumarsinhji Bhavnagar University,http://www.mkbhavuni.edu.in,25,U-0124_Maharaja_Krishnakumarsinhji_Bhavnagar_University.json
-28,U-0406,"Maharaja Ganga Singh University, Bikaner",www.mgsubikaner.ac.in,98,U-0406_Maharaja_Ganga_Singh_University_Bikaner.json
-32,U-0359,Maharaja Sriram Chandra Bhanja Deo University,www.nou.nic.in,446,U-0359_Maharaja_Sriram_Chandra_Bhanja_Deo_University.json
 23,U-1131,MAHAKAUSHAL UNIVERSITY,www.mku.ac.in,716,U-1131_MAHAKAUSHAL_UNIVERSITY.json
+27,U-0810,MAHARAJA CHHATRASAL BUNDELKHAND UNIVERSITY,https://mcbu.ac.in/,804,U-0810_MAHARAJA_CHHATRASAL_BUNDELKHAND_UNIVERSITY.json
+29,U-0124,Maharaja Krishnakumarsinhji Bhavnagar University,http://www.mkbhavuni.edu.in,25,U-0124_Maharaja_Krishnakumarsinhji_Bhavnagar_University.json
+26,U-0839,"MAHARAJA BIR BIKRAM UNIVERSITY, AGARTALA",https://mbbuniversity.ac.in,473,U-0839_MAHARAJA_BIR_BIKRAM_UNIVERSITY_AGARTALA.json
+28,U-0406,"Maharaja Ganga Singh University, Bikaner",www.mgsubikaner.ac.in,98,U-0406_Maharaja_Ganga_Singh_University_Bikaner.json
 31,U-0143,"Maharaja Sayajirao University of Baroda, Vadodara",msubaroda.ac.in,98,U-0143_Maharaja_Sayajirao_University_of_Baroda_Vadodara.json
+34,U-0793,MAHARAJA SURAJMAL BRIJ UNIVERSITY,www.msbrijuniversity.ac.in,0,U-0793_MAHARAJA_SURAJMAL_BRIJ_UNIVERSITY.json
 33,U-1265,Maharaja Suhel Dev State University,www.msdsu.ac.in,18,U-1265_Maharaja_Suhel_Dev_State_University.json
+32,U-0359,Maharaja Sriram Chandra Bhanja Deo University,www.nou.nic.in,446,U-0359_Maharaja_Sriram_Chandra_Bhanja_Deo_University.json
 36,U-1148,MAHARANA PRATAP HORTICULTURAL UNIVERSITY,mhu.ac.in,21,U-1148_MAHARANA_PRATAP_HORTICULTURAL_UNIVERSITY.json
-37,U-0407,"Maharana Pratap University of Agriculture & Technology, Udaipur",www.mpuat.ac.in,122,U-0407_Maharana_Pratap_University_of_Agriculture_Technology_Udaipur.json
 35,U-0965,"MAHARAJ VINAYAK GLOBAL UNIVERSITY, JAIPUR",www.mvgu.ac.in,345,U-0965_MAHARAJ_VINAYAK_GLOBAL_UNIVERSITY_JAIPUR.json
+37,U-0407,"Maharana Pratap University of Agriculture & Technology, Udaipur",www.mpuat.ac.in,122,U-0407_Maharana_Pratap_University_of_Agriculture_Technology_Udaipur.json
 39,U-0187,"Maharashi Markandeshwar University, Solan",www.mmusolan.org,0,U-0187_Maharashi_Markandeshwar_University_Solan.json
+40,U-0312,"Maharashtra Animal & Fishery Sciences University, Nagpur",www.mafsu.in,15,U-0312_Maharashtra_Animal_Fishery_Sciences_University_Nagpur.json
+42,U-0915,"Maharashtra National Law University, Aurangabad",mnlua.ac.in,200,U-0915_Maharashtra_National_Law_University_Aurangabad.json
+41,U-0605,"Maharashtra Institute of Technology University, of Meghalaya",https://mituniversityindia.edu.in/,127,U-0605_Maharashtra_Institute_of_Technology_University_of_Meghalaya.json
+43,U-0886,Maharashtra National Law University Mumbai,www.mnlumumbai.edu.in,223,U-0886_Maharashtra_National_Law_University_Mumbai.json
+30,U-0811,"MAHARAJA RANJIT SINGH PUNJAB TECHNICAL UNIVERSITY, BATHINDA",www.mrsptu.ac.in,3319,U-0811_MAHARAJA_RANJIT_SINGH_PUNJAB_TECHNICAL_UNIVERSITY_BATHINDA.json
+44,U-0880,"Maharashtra National Law University,Nagpur",www.nlunagpur.ac.in,731,U-0880_Maharashtra_National_Law_UniversityNagpur.json
+45,U-1238,MAHARASHTRA STATE SKILLS UNIVERSITY,www.mssu.ac.in,50,U-1238_MAHARASHTRA_STATE_SKILLS_UNIVERSITY.json
+46,U-0313,"Maharashtra University of Health Sciences, Nashik",www.muhs.ac.in,0,U-0313_Maharashtra_University_of_Health_Sciences_Nashik.json
+47,U-0842,MAHARISHI ARVIND UNIVERSITY,www.maujaipur.org,42,U-0842_MAHARISHI_ARVIND_UNIVERSITY.json
+49,U-0280,Maharishi  Mahesh Yogi Vedic Vishwavidyalaya,www.mmyvv.com,23,U-0280_Maharishi_Mahesh_Yogi_Vedic_Vishwavidyalaya.json
+50,U-0168,"Maharishi Markandeshwar University, Mullana-Ambala",www.mmumullana.org,33,U-0168_Maharishi_Markandeshwar_University_Mullana-Ambala.json
+48,U-0408,"Maharishi Dayanand Saraswati University, Ajmer",mdsuajmer.ac.in,5,U-0408_Maharishi_Dayanand_Saraswati_University_Ajmer.json
+51,U-0641,"MAHARISHI MARKANDESHWAR UNIVERSITY, SADOPUR-AMBALA",www.mmambala.org,0,U-0641_MAHARISHI_MARKANDESHWAR_UNIVERSITY_SADOPUR-AMBALA.json
+54,U-0167,"Maharshi Dayanand University, Rohtak",www.mdurohtak.ac.in,0,U-0167_Maharshi_Dayanand_University_Rohtak.json
+53,U-1103,MAHARISHI UNIVERSITY OF MANAGEMENT AND TECHNOLOGY,www.mumt.org,91,U-1103_MAHARISHI_UNIVERSITY_OF_MANAGEMENT_AND_TECHNOLOGY.json
+52,U-0952,MAHARISHI UNIVERSITY OF INFORMATION TECHNOLOGY,www.muit.in,0,U-0952_MAHARISHI_UNIVERSITY_OF_INFORMATION_TECHNOLOGY.json
+56,U-1182,Maharshi Valmiki Sanskrit University,www.mvsu.ac.in,0,U-1182_Maharshi_Valmiki_Sanskrit_University.json
+57,U-0314,"Mahatama Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha",www.hindivishwa.org,513,U-0314_Mahatama_Gandhi_Antarrashtriya_Hindi_Vishwavidyalaya_Wardha.json
+58,U-0282,"Mahatama Gandhi Gramodaya Vishwavidyalaya, Chitrakoot, Satna",www.gramodayachitrakoot.ac.in,181,U-0282_Mahatama_Gandhi_Gramodaya_Vishwavidyalaya_Chitrakoot_Satna.json
+59,U-0525,"Mahatama Jyotiba Phule Rohikhand University, Bareilly",www.mjpru.ac.in,0,U-0525_Mahatama_Jyotiba_Phule_Rohikhand_University_Bareilly.json
+55,U-0281,"Maharshi Panini Sanskrit Evam Vedic Vishwavidyalaya, Ujjain",www.mpsvv.ac.in,53,U-0281_Maharshi_Panini_Sanskrit_Evam_Vedic_Vishwavidyalaya_Ujjain.json
+61,U-0527,"Mahatma Gandhi Kashi Vidyapeeth, Varanasi",www.mgkvp.ac.in,88,U-0527_Mahatma_Gandhi_Kashi_Vidyapeeth_Varanasi.json
+63,U-1434,Mahatma Gandhi University,nan,0,U-1434_Mahatma_Gandhi_University.json
+38,U-1047,MAHARANI CLUSTER UNIVERSITY,https://mcu.karnataka.gov.in/,32,U-1047_MAHARANI_CLUSTER_UNIVERSITY.json
+64,U-1150,MAHATMA GANDHI UNIVERSITY,www.mguwb.org.in,2,U-1150_MAHATMA_GANDHI_UNIVERSITY.json

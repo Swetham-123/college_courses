@@ -1,0 +1,121 @@
+{
+  "aishe_code": "U-0189",
+  "university_name": "National Institute of Technology, Hamirpur",
+  "state": "Himachal Pradesh",
+  "district": "Hamirpur",
+  "website": "www.nith.ac.in",
+  "year_established": "1986",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:32:27.968372Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nith.ac.in/international/index.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nith.ac.in/international/index.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "For",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nith.ac.in/international/index.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nith.ac.in/international/index.html"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "The",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nith.ac.in/international/index.html"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nith.ac.in/international/index.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "B.E./B.S",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nith.ac.in/international/index.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "The",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nith.ac.in/international/index.html"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://nith.ac.in/uploads/files/sept25/calenderugpg1st.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://nith.ac.in/international/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://nith.ac.in/international/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://nith.ac.in/international/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://nith.ac.in/international/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "kno",
+      "level_of_education": "Unknown",
+      "source_url": "https://nith.ac.in/international/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sim",
+      "level_of_education": "Unknown",
+      "source_url": "https://nith.ac.in/international/index.html"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dai",
+      "level_of_education": "Unknown",
+      "source_url": "https://nith.ac.in/international/index.html"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://nith.ac.in/international/index.html"
+    }
+  ],
+  "total_courses": 17,
+  "pages_scraped": 25,
+  "errors": []
+}

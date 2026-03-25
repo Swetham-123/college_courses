@@ -1,0 +1,355 @@
+{
+  "aishe_code": "U-0932",
+  "university_name": "Odisha State Open University",
+  "state": "Odisha",
+  "district": "Sambalpur",
+  "website": "www.osou.ac.in",
+  "year_established": "2015",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:51:26.623795Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "MBA",
+      "course_name": "Dis",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.osou.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "from",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://osou.ac.in/ugc.html"
+    },
+    {
+      "degree_name": "MCOM",
+      "course_name": "Eng",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://onlineadmission.osou.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Acc",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Adv",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ban",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cyb",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dip",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dis",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ent",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fun",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Jou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Man",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mul",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Odia",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Off",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Post",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Rur",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tri",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Web",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.osou.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cer",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Com",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dig",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Eme",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Fun",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ger",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Jou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Leg",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Med",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Post",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Res",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Rur",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Soft",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Tou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Tra",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.osou.ac.in/programmesyllabus.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s of",
+      "level_of_education": "Certificate",
+      "source_url": "https://onlineadmission.osou.ac.in"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "APP",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.osou.ac.in/news.php?item=notice-submission-of-form-for-term-end-examination-june-2025-for-ug-pg-diploma-programmes-upto-to-admission-year-2022"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.osou.ac.in/docs/osou_260323175031.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://onlineadmission.osou.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://onlineadmission.osou.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adj",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.osou.ac.in/news.php?item=notice-submission-of-form-for-term-end-examination-june-2025-for-ug-pg-diploma-programmes-upto-to-admission-year-2022"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.osou.ac.in/news.php?item=notice-submission-of-form-for-term-end-examination-june-2025-for-ug-pg-diploma-programmes-upto-to-admission-year-2022"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.osou.ac.in/news.php?item=notice-submission-of-form-for-term-end-examination-june-2025-for-ug-pg-diploma-programmes-upto-to-admission-year-2022"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "jpg",
+      "level_of_education": "Unknown",
+      "source_url": "https://onlineadmission.osou.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.osou.ac.in/news.php?item=notice-submission-of-form-for-term-end-examination-june-2025-for-ug-pg-diploma-programmes-upto-to-admission-year-2022"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://onlineadmission.osou.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.osou.ac.in/academic-council.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://onlineadmission.osou.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.osou.ac.in/news.php?item=notice-submission-of-form-for-term-end-examination-june-2025-for-ug-pg-diploma-programmes-upto-to-admission-year-2022"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://onlineadmission.osou.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://osou.ac.in/ugc.html"
+    }
+  ],
+  "total_courses": 56,
+  "pages_scraped": 17,
+  "errors": []
+}

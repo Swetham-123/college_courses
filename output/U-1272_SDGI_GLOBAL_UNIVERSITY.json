@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1272",
+  "university_name": "SDGI GLOBAL UNIVERSITY",
+  "state": "Uttar Pradesh",
+  "district": "Ghaziabad",
+  "website": "www.sgu.edu.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:44.928272Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

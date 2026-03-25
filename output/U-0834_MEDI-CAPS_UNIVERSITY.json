@@ -1,0 +1,895 @@
+{
+  "aishe_code": "U-0834",
+  "university_name": "MEDI-CAPS UNIVERSITY",
+  "state": "Madhya Pradesh",
+  "district": "Indore",
+  "website": "www.medicaps.ac.in",
+  "year_established": "2015",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:11:37.075770Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Agr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.medicaps.ac.in/programs/doctoral"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "All",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Arts",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.medicaps.ac.in/programs/doctoral"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.medicaps.ac.in/programs/doctoral"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.medicaps.ac.in/programs/doctoral"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.medicaps.ac.in/programs/doctoral"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.medicaps.ac.in/programs/doctoral"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.medicaps.ac.in/programs/doctoral"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.medicaps.ac.in/programs/doctoral"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-commerce"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-pharmacy"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-pharmacy"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/postgraduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/postgraduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "FS\nB",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "FS B",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/postgraduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/postgraduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/postgraduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Res",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/postgraduate"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/postgraduate"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Nan",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/postgraduate"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "spe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Any",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/postgraduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/postgraduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/postgraduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/postgraduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Log",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/postgraduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mar",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/postgraduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pla",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-management-studies"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "from",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-management-studies"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-management-studies"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-management-studies"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "L.L.B (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/undergraduate"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Pla",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Sem",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-commerce"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-commerce"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-commerce"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/undergraduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/undergraduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hons",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/undergraduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/internationalism-collaboration/ongoing-programs"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aut",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/value-added-programs"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CE\nB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CEB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSBS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/undergraduate"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSBS 2023",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-management-studies"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/undergraduate"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE 2022",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-management-studies"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/undergraduate"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ECE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/undergraduate"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "EE\nB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "IT\nB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Lat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/undergraduate"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Rob",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/value-added-programs"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "or M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/undergraduate"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Dig",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/undergraduate"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/undergraduate"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/undergraduate"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hum",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/undergraduate"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Mar",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/programs/undergraduate"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "is a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-management-studies"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-management-studies"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "dep",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "jou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "was",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in"
+    },
+    {
+      "degree_name": "LLb",
+      "course_name": "Mar",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Any",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "deg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/programs/postgraduate"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Loc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/internationalism-collaboration/ongoing-programs"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "icap",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Adi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Medi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering/department-of-civil-engineering/facilities"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "clo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-commerce"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "est",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering/department-of-civil-engineering/facilities"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fut",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "hum",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/internationalism-collaboration/ongoing-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sta",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering/department-of-civil-engineering/facilities"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ver",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/admission-overview"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "very",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Ank",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Anu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-arts-humanities-and-social-sciences"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Ish",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-management-studies"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Jan",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-pharmacy"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Mok",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-commerce"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Sej",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "abo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "ach",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-management-studies"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "amp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bui",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "eve",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "exc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-science"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "for a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gain",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "ide",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "life",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "step",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sup",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "to a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-management-studies"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "whe",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in/faculty/faculty-of-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.medicaps.ac.in"
+    }
+  ],
+  "total_courses": 146,
+  "pages_scraped": 23,
+  "errors": []
+}

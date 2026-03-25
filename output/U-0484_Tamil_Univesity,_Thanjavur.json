@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0484",
+  "university_name": "Tamil Univesity, Thanjavur",
+  "state": "Tamil Nadu",
+  "district": "Thanjavur",
+  "website": "www.tamiluniversity.ac.in",
+  "year_established": "1981",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:56.286760Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

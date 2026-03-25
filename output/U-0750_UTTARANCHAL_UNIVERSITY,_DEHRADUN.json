@@ -1,0 +1,889 @@
+{
+  "aishe_code": "U-0750",
+  "university_name": "UTTARANCHAL UNIVERSITY, DEHRADUN",
+  "state": "Uttarakhand",
+  "district": "Dehradun",
+  "website": "https://www.uudoon.in/",
+  "year_established": "2013",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:18:23.911143Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/admissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fee",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Onl",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ord",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "RAC",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Syl",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "are",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "for",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "phd",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in/law/llm.php"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in/academics/colleges-and-departments.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "dus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "with",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "gra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "MLT (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in/admissions"
+    },
+    {
+      "degree_name": "llm",
+      "course_name": "php",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uudoon.in/law/llm.php"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Food",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hot",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Life",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aer",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in/law/bba-llb.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in/law/bba-llb.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B.(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in/management/bba-acca.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "with (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in/law/llb.php"
+    },
+    {
+      "degree_name": "ba",
+      "course_name": "llb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in/law/ba-llb.php"
+    },
+    {
+      "degree_name": "bba",
+      "course_name": "acca",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in/management/bba-acca.php"
+    },
+    {
+      "degree_name": "bba",
+      "course_name": "cma",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in/management/bba-cma.php"
+    },
+    {
+      "degree_name": "bba",
+      "course_name": "llb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in/law/bba-llb.php"
+    },
+    {
+      "degree_name": "llb",
+      "course_name": "php",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uudoon.in/law/llb.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hot",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uudoon.in/admissions/leet-programs.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uudoon.in/academics/colleges-and-departments.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Hot",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/academics/colleges-and-departments.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/academics/colleges-and-departments.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/law/ba-llb.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B.(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/academics/colleges-and-departments.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/academics/colleges-and-departments.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/academics/colleges-and-departments.php"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "Dou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/law/llm.php"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "Four",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/law/llm.php"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "Lob",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/law/llm.php"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "Rent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/law/llm.php"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "Tri",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/law/llm.php"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/law/llm.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Cli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/academics/colleges-and-departments.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/academics/colleges-and-departments.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/academics/colleges-and-departments.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/law/ba-llb.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/law/ba-llb.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Cash",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/admissions/how-to-apply.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/admissions/how-to-apply.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/law/bba-llb.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "act",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/admissions/how-to-apply.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/law/llm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/academics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/academics/list-of-holidays.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/admissions/refund-policy.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cap",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/management/bba-acca.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/academics/academic-calendar.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/admissions/how-to-apply.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/admissions/how-to-apply.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/admissions/refund-policy.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/law/llm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lia",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obs",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/academics/list-of-holidays.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "open",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/management/bba-acca.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pay",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/admissions/refund-policy.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/admissions/refund-policy.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "reg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rej",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sci",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/academics/curriculum-innovations.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/admissions/how-to-apply.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "str",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/admissions/refund-policy.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/admissions/refund-policy.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sui",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ter",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/phd-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/academics/curriculum-innovations.php"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "ded",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/admissions"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "The",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "as a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "feel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uudoon.in/admissions"
+    }
+  ],
+  "total_courses": 145,
+  "pages_scraped": 25,
+  "errors": []
+}

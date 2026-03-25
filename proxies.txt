@@ -1,0 +1,12 @@
+# Proxy list for rotating IP addresses
+# Format: http://ip:port or socks5://ip:port
+# Add your proxies below (one per line), or disable with --no-proxies flag
+
+# Example proxies (replace with real proxies):
+# http://proxy1.example.com:8080
+# http://proxy2.example.com:8080
+# http://proxy3.example.com:8080
+# socks5://proxy4.example.com:1080
+
+# Note: If no proxies are added, proxy rotation will be disabled
+# To disable proxy rotation entirely, run with: --no-proxies

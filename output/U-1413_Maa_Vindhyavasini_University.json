@@ -1,0 +1,211 @@
+{
+  "aishe_code": "U-1413",
+  "university_name": "Maa Vindhyavasini University",
+  "state": "Uttar Pradesh",
+  "district": "Mirzapur",
+  "website": "http://mvvu.ac.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:37:08.418686Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PH.D",
+      "course_name": "SYL",
+      "level_of_education": "Doctoral",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cam",
+      "level_of_education": "Doctoral",
+      "source_url": "http://mvvu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "IQAC",
+      "level_of_education": "Doctoral",
+      "source_url": "http://mvvu.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "M.Ed",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Sc",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Sc. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "NEP",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(Ag.) & M",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Nat",
+      "level_of_education": "Diploma",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Psy",
+      "level_of_education": "Diploma",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Maj",
+      "level_of_education": "Unknown",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Anc",
+      "level_of_education": "Unknown",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Med",
+      "level_of_education": "Unknown",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Yoga",
+      "level_of_education": "Unknown",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iev",
+      "level_of_education": "Unknown",
+      "source_url": "http://mvvu.ac.in/syllabus"
+    }
+  ],
+  "total_courses": 32,
+  "pages_scraped": 8,
+  "errors": []
+}

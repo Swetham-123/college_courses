@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1303",
+  "university_name": "PRESTIGE UNIVERSITY",
+  "state": "Madhya Pradesh",
+  "district": "Indore",
+  "website": "https://prestigeuniversity.edu.in/",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:11.880499Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0873",
+  "university_name": "P.P. Savani University",
+  "state": "Gujarat",
+  "district": "Surat",
+  "website": "www.ppsu.ac.in",
+  "year_established": "2015",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:09.782740Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

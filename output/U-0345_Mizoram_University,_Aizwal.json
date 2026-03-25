@@ -1,0 +1,337 @@
+{
+  "aishe_code": "U-0345",
+  "university_name": "Mizoram University, Aizwal",
+  "state": "Mizoram",
+  "district": "Aizawl",
+  "website": "www.mzu.edu.in",
+  "year_established": "2001",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:16:39.639540Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "D.Sc",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cen",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/academics-council"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Civ",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ele",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Lib",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Mass",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Psy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pub",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Soc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sub",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Tou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Viva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/phd-admission-winter-2025-2026/"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "for",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Ed, B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Ed., B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "M.A, B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mzu.edu.in/programme-offered"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "and B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "who",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Part I",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mzu.edu.in/guidelines-and-procedures-for-phd-research-and-postgraduate-examination-ensuring-timely-and-quality-execution-of-examination-related-responsibilities"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s of",
+      "level_of_education": "Certificate",
+      "source_url": "https://mzu.edu.in/mizoram-university-hosts-international-symposium-on-climate-change-disaster-and-adaptation-under-sparc-programme"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "the",
+      "level_of_education": "Certificate",
+      "source_url": "https://mzu.edu.in/phd-admission-winter-2025-2026/"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical &",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://mzu.edu.in/phd-admission-winter-2025-2026/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dir",
+      "level_of_education": "Unknown",
+      "source_url": "https://mzu.edu.in/phd-admission-winter-2025-2026/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lis",
+      "level_of_education": "Unknown",
+      "source_url": "https://mzu.edu.in/phd-admission-winter-2025-2026/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obs",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mzu.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://mzu.edu.in/phd-admission-winter-2025-2026/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "str",
+      "level_of_education": "Unknown",
+      "source_url": "https://mzu.edu.in/mizoram-university-signs-mou-with-principal-accountant-general-mizoram-to-strengthen-research-and-technology-driven-auditing/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://mzu.edu.in/application-for-engagement-of-assistant-professor-in-architecture-programme-purely-on-short-term-contract-basis-last-date-23-03-2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://mzu.edu.in/phd-admission-winter-2025-2026/"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mzu.edu.in"
+    }
+  ],
+  "total_courses": 53,
+  "pages_scraped": 25,
+  "errors": []
+}

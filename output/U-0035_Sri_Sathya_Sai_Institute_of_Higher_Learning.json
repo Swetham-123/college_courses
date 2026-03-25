@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0035",
+  "university_name": "Sri Sathya Sai Institute of Higher Learning",
+  "state": "Andhra Pradesh",
+  "district": "Sri Sathya Sai",
+  "website": "www.sssihl.edu.in",
+  "year_established": "1981",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:40.127520Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

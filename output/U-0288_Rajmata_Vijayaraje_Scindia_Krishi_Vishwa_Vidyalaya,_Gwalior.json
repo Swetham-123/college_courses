@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0288",
+  "university_name": "Rajmata Vijayaraje Scindia Krishi Vishwa Vidyalaya, Gwalior",
+  "state": "Madhya Pradesh",
+  "district": "Gwalior",
+  "website": "http://www.rvskvv.net",
+  "year_established": "2008",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:24.664557Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,1111 @@
+{
+  "aishe_code": "U-0163",
+  "university_name": "The Northcap University, Gurgaon",
+  "state": "Haryana",
+  "district": "Gurugram",
+  "website": "www.ncuindia.edu",
+  "year_established": "1996",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:05:06.540872Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "LLM",
+      "course_name": ")\nPh.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "PHD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(for",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/phd-electrical-electronics-and-communication-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "APS",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Abo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Art",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cen",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Civ",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/phd-electrical-electronics-and-communication-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cyb",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Dep",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "EXP",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ele",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/phd-electrical-electronics-and-communication-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-law-bba-ll-b-hons"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mac",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mec",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/phd-electrical-electronics-and-communication-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Rob",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "col",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/phd-electrical-electronics-and-communication-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "hyb",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/phd-electrical-electronics-and-communication-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Dig",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ima",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Vis",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-me-with-specialization-in-mechanical-engineering-design"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "exp",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/phd-electrical-electronics-and-communication-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "opp",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-me-with-specialization-in-thermal-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-cse-with-specialization-in-data-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/mtech-in-civil-engineering-with-specialization-in-environmental-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-me-with-specialization-in-mechanical-engineering-design"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "und",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ent",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-cse-with-specialization-in-data-science"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-cse-with-specialization-in-cyber-security-and-forensics"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "ECE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-me-with-specialization-in-electric-vehicles"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/mtech-in-civil-engineering-with-specialization-in-environmental-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Inf",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "ME\nM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-cse-with-specialization-in-data-science"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Sof",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and B",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "dis",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "from",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "the",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "with 1",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-commerce-b-com-with-specialization-in-financial-market"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "his",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-business-administration-bba-with-specialization-in-digital-marketing"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-business-administration-bba-with-specialization-in-digital-marketing"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Doc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "MCom",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-commerce-b-com-with-specialization-in-financial-market"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-cse-with-specialization-in-data-science"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Civ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/mtech-in-civil-engineering-with-specialization-in-environmental-engineering"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Cyb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-cse-with-specialization-in-cyber-security-and-forensics"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-cse-with-specialization-in-data-science"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "ECE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "ECE (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-in-ece-with-specialization-in-iot-5g"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "ECE(",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-in-ece-with-specialization-in-semiconductor-technology"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-in-ece-with-specialization-in-iot-5g"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Mec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-me-with-specialization-in-electric-vehicles"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "The",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-me-with-specialization-in-thermal-engineering"
+    },
+    {
+      "degree_name": "McA",
+      "course_name": "fee",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-cyber-security-and-forensics"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-me-with-specialization-in-electric-vehicles"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Stu",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-in-ece-with-specialization-in-semiconductor-technology"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Year 2",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.ncuindia.edu/programme/mtech-in-civil-engineering-with-specialization-in-environmental-engineering"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "exit",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-in-ece-with-specialization-in-semiconductor-technology"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-commerce-b-com-with-specialization-in-financial-market"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Sou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Vis",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(ECE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cyb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-cyber-security-and-forensics"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-data-science"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ind",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Qua",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-quantum-computing-in-ai"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Rob",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Spe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Uni",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "from",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "with 2",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-business-administration-bba-with-specialization-in-business-analytics"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-business-administration-bba-with-specialization-in-business-analytics"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Dig",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-business-administration-bba-with-specialization-in-digital-marketing"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "E&FB)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-business-administration-bba-with-specialization-in-entrepreneurship-and-family-business"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "E&FB)-(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-business-administration-bba-with-specialization-in-digital-marketing"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ent",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-business-administration-bba-with-specialization-in-entrepreneurship-and-family-business"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-law-bba-ll-b-hons"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-law-bba-ll-b-hons"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-business-administration-bba-with-specialization-in-business-analytics"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-business-administration-bba-with-specialization-in-digital-marketing"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "spe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-business-administration-bba-with-specialization-in-digital-marketing"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bca-specialization-in-web-application-development"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Gam",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bca-specialization-in-mobile-application"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Game",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Mob",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Sch",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bca-specialization-in-mobile-application"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Spe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bca-specialization-in-mobile-application"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Web",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bca-specialization-in-web-application-development"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bca-specialization-in-mobile-application"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "from",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bca-specialization-in-mobile-application"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "is a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bca-specialization-in-mobile-application"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bca-specialization-in-mobile-application"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/bca-specialization-in-mobile-application"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "CSE (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-quantum-computing-in-ai"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-cyber-security-and-forensics"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-data-science"
+    },
+    {
+      "degree_name": "dual degree",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "The",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-me-with-specialization-in-thermal-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "Hin",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-me-with-specialization-in-electric-vehicles"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s in",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-data-science"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "app",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Deg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "dus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-me-with-specialization-in-electric-vehicles"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-in-ece-with-specialization-in-semiconductor-technology"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/bca-specialization-in-mobile-application"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Ski",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "aut",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-data-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/m-tech-in-ece-with-specialization-in-iot-5g"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "both",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-data-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-law-bba-ll-b-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "kin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-business-administration-bba-with-specialization-in-digital-marketing"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obt",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-law-bba-ll-b-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-gaming-augmented-reality-and-virtual-reality"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "two",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/phd-applied-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/b-tech-cse-with-specialization-in-data-science"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-business-administration-bba-with-specialization-in-digital-marketing"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ali",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/school/department-of-cse"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ncuindia.edu/programme/bachelor-of-law-bba-ll-b-hons"
+    }
+  ],
+  "total_courses": 182,
+  "pages_scraped": 25,
+  "errors": []
+}

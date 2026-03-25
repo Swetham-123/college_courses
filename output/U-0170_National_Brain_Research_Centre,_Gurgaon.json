@@ -1,0 +1,73 @@
+{
+  "aishe_code": "U-0170",
+  "university_name": "National Brain Research Centre, Gurgaon",
+  "state": "Haryana",
+  "district": "Gurugram",
+  "website": "http://www.nbrc.ac.in/newweb/",
+  "year_established": "1999",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:25:03.903927Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "List",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nbrc.ac.in/newweb"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Uni",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nbrc.ac.in/html/nbrc/index.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nbrc.ac.in/html/nbrc/index.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nbrc.ac.in/newweb"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nbrc.ac.in/newweb"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "luc",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nbrc.ac.in/html/nbrc/index.html"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nbrc.ac.in/html/nbrc/index.html"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nbrc.ac.in/html/nbrc/index.html"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nbrc.ac.in/html/nbrc/index.html"
+    }
+  ],
+  "total_courses": 9,
+  "pages_scraped": 8,
+  "errors": []
+}

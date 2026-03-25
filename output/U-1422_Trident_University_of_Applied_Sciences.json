@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1422",
+  "university_name": "Trident University of Applied Sciences",
+  "state": "Sikkim",
+  "district": "Gyalshing",
+  "website": null,
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:07:23.042351Z",
+  "status": "no_url",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "No website URL available"
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "aishe_code": "U-1102",
+  "university_name": "LOK JAGRUTI KENDRA UNIVERSITY",
+  "state": "Gujarat",
+  "district": "Ahmedabad",
+  "website": "www.ljku.edu.in",
+  "year_established": "2019",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:37:08.401168Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ljku.edu.in/program/doctoral-program-ph-d-24/doctor-of-philosophy-72"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Our",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "B.SC",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in/program/applied-sciences-b-sc-m-sc-14"
+    },
+    {
+      "degree_name": "Integrated MBA",
+      "course_name": "Ent",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in/contactus"
+    },
+    {
+      "degree_name": "Integrated MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in/program/business-management-bba-imba-8"
+    },
+    {
+      "degree_name": "Integrated MCA",
+      "course_name": "If I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "Integrated MCA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in/program/computer-applications-bca-mca-bsc-it-msc-it-5"
+    },
+    {
+      "degree_name": "Integrated MCA",
+      "course_name": "Und",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in/program/computer-applications-bca-mca-bsc-it-msc-it-5"
+    },
+    {
+      "degree_name": "M.Plan",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cyb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in/program/computer-applications-bca-mca-bsc-it-msc-it-5"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Civ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ent",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in/program/entrepreneurship-and-family-business-bba-29"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in/program/applied-sciences-b-sc-m-sc-14"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in/program/business-management-bba-imba-8"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "sti",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in/program/business-management-bba-imba-8"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "As a",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in/program/computer-applications-bca-mca-bsc-it-msc-it-5"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "BBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "The",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in/program/computer-applications-bca-mca-bsc-it-msc-it-5"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Whe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in/program/computer-applications-bca-mca-bsc-it-msc-it-5"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ljku.edu.in/program/computer-applications-bca-mca-bsc-it-msc-it-5"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in/program/architecture-b-arch-17"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "from L.J",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in/program/architecture-b-arch-17"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in/contactus"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in/program/design-b-des-m-des-31"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Sc.(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in/program/applied-sciences-b-sc-m-sc-14"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in/program/applied-sciences-b-sc-m-sc-14"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ent",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in/program/entrepreneurship-and-family-business-bba-29"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Eve",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in/contactus"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Spo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "Integrated LLB",
+      "course_name": "(BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in/contactus"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Ent",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Chi",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eve",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ljku.edu.in/program/event-management-bba-22"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hol",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ljku.edu.in/contactus"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ljku.edu.in/program/architecture-b-arch-17"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ljku.edu.in/program/holistic-early-childhood-education-39"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "stu",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ljku.edu.in/program/diploma-engineering-lj-polytechnic-23"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Eve",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.ljku.edu.in/program/event-management-bba-22"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Art",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/engineering-b-e-m-e-10"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Che",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Civ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Ele",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/engineering-b-e-m-e-10"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Mec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Rob",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/engineering-b-e-m-e-10"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/contactus"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Esp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/engineering-b-e-m-e-10"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.ljku.edu.in/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/doctoral-program-ph-d-24/doctor-of-philosophy-72"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "alo",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.ljku.edu.in/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "any",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "at. I",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/architecture-b-arch-17"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "boo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/cultural-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/holistic-early-childhood-education-39"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/department-of-pharmaceutical-sciences-b-pharm-34"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.ljku.edu.in/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "men",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/doctoral-program-ph-d-24"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/diploma-engineering-lj-polytechnic-23"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "open",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/doctoral-program-ph-d-24"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "per",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.ljku.edu.in/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/doctoral-program-ph-d-24/doctor-of-philosophy-72"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/doctoral-program-ph-d-24/doctor-of-philosophy-72"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "suc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/faculty-development-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/faculty-development-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.ljku.edu.in/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "very",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/architecture-b-arch-17"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/doctoral-program-ph-d-24/doctor-of-philosophy-72"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Abh",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/architecture-b-arch-17"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Lau",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/engineering-b-e-m-e-10"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/engineering-b-e-m-e-10"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/architecture-b-arch-17"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/architecture-b-arch-17"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ali",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ljku.edu.in/program/engineering-b-e-m-e-10"
+    }
+  ],
+  "total_courses": 88,
+  "pages_scraped": 25,
+  "errors": []
+}

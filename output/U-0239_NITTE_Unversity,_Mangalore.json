@@ -1,0 +1,1141 @@
+{
+  "aishe_code": "U-0239",
+  "university_name": "NITTE Unversity, Mangalore",
+  "state": "Karnataka",
+  "district": "Dakshina Kannada",
+  "website": "www.nitte.edu.in",
+  "year_established": "2008",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:48:14.906035Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PH.D",
+      "course_name": "Ove",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "NMIT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitte.edu.in/nmit/admissions.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitte.edu.in/nmamit/admissions.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitte.edu.in/nmit/admissions.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adv",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitte.edu.in/kshema/admissions.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Care",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitte.edu.in/kshema/admission-ctt.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cer",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitte.edu.in/absmids/admission-bds.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cli",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitte.edu.in/kshema/admission-ctt.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Fel",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "MBBS",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitte.edu.in/kshema/admission-ctt.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Nit",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Oth",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Post",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sel",
+      "level_of_education": "Doctoral",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitte.edu.in/niahs/admission-bsc-mlt.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Jus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Nit",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "AIC",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitte.edu.in/nmamit/admissions.php"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitte.edu.in/nmamit/admissions.php"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "NMAM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Nit",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Sci",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitte.edu.in/nmit/admissions.php"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "ter",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "MPharm",
+      "course_name": "NGSM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MPharm",
+      "course_name": "Nit",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MPharm",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "MPharm",
+      "course_name": "Qua",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "MPharm",
+      "course_name": "dus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Aud",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Can",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Chi",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "MSc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "MTe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Mar",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Men",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Nit",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Obs",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/fee-structure.php"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Spe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/fee-structure.php"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Cyb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Def",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Mec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitte.edu.in/nmit/admissions.php"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Rob",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Str",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "VLSI",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Bac",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://nitte.edu.in/niahs/admission-bsc-mlt.php"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Dia",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nitte.edu.in/fee-structure.php"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Mag",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Und",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/nmit/admissions.php"
+    },
+    {
+      "degree_name": "BArch",
+      "course_name": "BBA (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/fee-structure.php"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Fas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "BPh",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/fee-structure.php"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/absmids/admissions.php"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "Pos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "TAKE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/absmids/admission-bds.php"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "dian",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/absmids/admission-bds.php"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/absmids/admission-bds.php"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "will",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/absmids/admission-bds.php"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "ign",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "BPharm",
+      "course_name": "Lat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "BPharm",
+      "course_name": "NGSM",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "BPharm",
+      "course_name": "Nit",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "BPharm",
+      "course_name": "Pha",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "BPharm",
+      "course_name": "Pos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Ana",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/nmit/admissions.php"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/nmamit/admissions.php"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "BTECH",
+      "course_name": "BTE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/fee-structure.php"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Aer",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Lat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Rob",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "for",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/nmamit/admissions.php"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "BSc (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/nmit/admissions.php"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/kshema/admission-ctt.php"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Pos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Post",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitte.edu.in/fee-structure.php"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "TAKE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "dian",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/kshema/admission-ctt.php"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "will",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cer",
+      "level_of_education": "Diploma",
+      "source_url": "https://nitte.edu.in/niahs/admission-bsc-mlt.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dia",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Exa",
+      "level_of_education": "Diploma",
+      "source_url": "https://nitte.edu.in/nsapd/admissions.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fas",
+      "level_of_education": "Diploma",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fel",
+      "level_of_education": "Diploma",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Lat",
+      "level_of_education": "Diploma",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "MLT",
+      "level_of_education": "Diploma",
+      "source_url": "https://nitte.edu.in/niahs/admission-bsc-mlt.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mag",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mar",
+      "level_of_education": "Diploma",
+      "source_url": "https://nitte.edu.in/niahs/admission-bsc-mlt.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Rad",
+      "level_of_education": "Diploma",
+      "source_url": "https://nitte.edu.in/niahs/admission-bsc-mit.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "can",
+      "level_of_education": "Diploma",
+      "source_url": "https://nitte.edu.in/nsapd/admissions.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "ter",
+      "level_of_education": "Diploma",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Fam",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Spo",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ver",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/nmamit/admissions.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "from a",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/niahs/admission-bsc-mlt.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "iss",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/niahs/admission-bsc-mlt.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "the",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/absmids/admission-bds.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Aad",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/nmamit/admissions.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Blo",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Cat",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Com",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/nmamit/admissions.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Con",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Equ",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Fee",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/nmamit/admissions.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "How",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/kshema/CCrISP.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Mig",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Phy",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "for",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/nmamit/admissions.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "par",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitte.edu.in/nmamit/admissions.php"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/nmit/admissions.php"
+    },
+    {
+      "degree_name": "BArch",
+      "course_name": "BDe",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "BArch",
+      "course_name": "BPl",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/nsapd/admissions.php"
+    },
+    {
+      "degree_name": "BArch",
+      "course_name": "Mas",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/nsapd/admissions.php"
+    },
+    {
+      "degree_name": "BArch",
+      "course_name": "Nit",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "BArch",
+      "course_name": "Und",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "BPlan",
+      "course_name": "BPT",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitte.edu.in/fee-structure.php"
+    },
+    {
+      "degree_name": "BPlan",
+      "course_name": "Nit",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitte.edu.in/admissions.php?p=under-graduate"
+    },
+    {
+      "degree_name": "BPlan",
+      "course_name": "Pos",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pho",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "MPlan",
+      "course_name": "Bac",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/nsapd/admissions.php"
+    },
+    {
+      "degree_name": "MPlan",
+      "course_name": "Cla",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/nsapd/admissions.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical &",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "NEET",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitte.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/nmit/admissions.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "alo",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "arr",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/kshema/CCrISP.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/kshema/CCrISP.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/kshema/CCrISP.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/nmamit/admissions.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fin",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/nmit/admissions.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/nmamit/admissions.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/kshema/CCrISP.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "han",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/kshema/CCrISP.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/nmit/admissions.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/kshema/CCrISP.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rev",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/nmamit/admissions.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/kshema/CCrISP.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/nmamit/admissions.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/niahs/admission-bsc-rdt.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "mul",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nitte.edu.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ico",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitte.edu.in/kshema/admission-mbbs.php"
+    }
+  ],
+  "total_courses": 187,
+  "pages_scraped": 25,
+  "errors": []
+}

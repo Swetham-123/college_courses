@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0426",
+  "university_name": "Sir Padampat Singhania University, Udaipur",
+  "state": "Rajasthan",
+  "district": "Udaipur",
+  "website": "https://www.spsu.ac.in",
+  "year_established": "2007",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:32.157611Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

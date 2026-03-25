@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0570",
+  "university_name": "UNIVERSITY OF CALCUTTA",
+  "state": "West Bengal",
+  "district": "Kolkata",
+  "website": "www.caluniv.ac.in",
+  "year_established": "1857",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:11:05.595408Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0148",
+  "university_name": "Sardar Patel University, Vallabh Vidyanagar",
+  "state": "Gujarat",
+  "district": "Anand",
+  "website": "http://www.spuvvn.edu",
+  "year_established": "1955",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:41.213882Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "aishe_code": "U-0406",
+  "university_name": "Maharaja Ganga Singh University, Bikaner",
+  "state": "Rajasthan",
+  "district": "Bikaner",
+  "website": "www.mgsubikaner.ac.in",
+  "year_established": "2003",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:45:06.835344Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgsubikaner.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgsubikaner.ac.in/programmes-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgsubikaner.ac.in/programmes-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgsubikaner.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ter",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgsubikaner.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgsubikaner.ac.in"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgsubikaner.ac.in"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "SES",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgsubikaner.ac.in"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Sem I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgsubikaner.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgsubikaner.ac.in/course-programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cyb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgsubikaner.ac.in/course-programmes"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "CSLE )",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgsubikaner.ac.in/course-programmes"
+    },
+    {
+      "degree_name": "Pg Diploma",
+      "course_name": "Nut",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mgsubikaner.ac.in/department/pg-diploma-in-nutrition-and-dietetics"
+    },
+    {
+      "degree_name": "pg diploma",
+      "course_name": "leg",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mgsubikaner.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Ed./B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgsubikaner.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgsubikaner.ac.in/department/law"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgsubikaner.ac.in/department/law"
+    },
+    {
+      "degree_name": "B.ED",
+      "course_name": "COL",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgsubikaner.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Sem",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgsubikaner.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgsubikaner.ac.in/department/law"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgsubikaner.ac.in/department/law"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgsubikaner.ac.in"
+    },
+    {
+      "degree_name": "Integrated B.Ed",
+      "course_name": "PTET 2025",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgsubikaner.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgsubikaner.ac.in/course-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cri",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgsubikaner.ac.in/department/law"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cyb",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgsubikaner.ac.in/department/law"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Int",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgsubikaner.ac.in/department/law"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Lab",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgsubikaner.ac.in/department/law"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Leg",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgsubikaner.ac.in/department/law"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgsubikaner.ac.in/department/law"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hon",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgsubikaner.ac.in/department/history"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgsubikaner.ac.in/department/law"
+    },
+    {
+      "degree_name": "Ba",
+      "course_name": "Hon",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgsubikaner.ac.in/department/ba-honors-in-history"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Arc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgsubikaner.ac.in/department/history"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Dra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgsubikaner.ac.in/department/fine-artsdrawing-and-painting"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Gen",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgsubikaner.ac.in/department/history"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Sem",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgsubikaner.ac.in/department/english"
+    },
+    {
+      "degree_name": "Ma",
+      "course_name": "Arc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgsubikaner.ac.in/department/ma-archeology"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://mgsubikaner.ac.in/PDF/details-of-programmes-with-faculities.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgsubikaner.ac.in/department/english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cen",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgsubikaner.ac.in/department/fine-artsdrawing-and-painting"
+    }
+  ],
+  "total_courses": 41,
+  "pages_scraped": 25,
+  "errors": []
+}

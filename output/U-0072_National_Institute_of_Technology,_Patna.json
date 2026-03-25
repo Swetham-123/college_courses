@@ -1,0 +1,301 @@
+{
+  "aishe_code": "U-0072",
+  "university_name": "National Institute of Technology, Patna",
+  "state": "Bihar",
+  "district": "Patna",
+  "website": "www.nitp.ac.in",
+  "year_established": "2004",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:35:54.046778Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Arc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitp.ac.in/Department/Archi"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitp.ac.in/Academic/Format"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sho",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sup",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitp.ac.in/Academic/Format"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitp.ac.in/Department/Phy"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Doc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitp.ac.in/Academic/Curriculam"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Fee",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitp.ac.in/Academic/Fee"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "For",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitp.ac.in/Academic/Format"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitp.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitp.ac.in/Department/Chem"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitp.ac.in/Academic/Format"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "upd",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitp.ac.in/Academic/Curriculam"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitp.ac.in/Department/CSE"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitp.ac.in/Department/CSE"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Fee",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitp.ac.in/Academic/Fee"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Reg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitp.ac.in/Academic/Fee"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Self",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitp.ac.in/Academic/Fee"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitp.ac.in/Department/CSE"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitp.ac.in/Department/Archi"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitp.ac.in/Department/ME"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitp.ac.in/Department/Chem"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitp.ac.in/Department/EE"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "Dual degree",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitp.ac.in/Department/Phy"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dow",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitp.ac.in/Academic/Format"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/Intranet"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "add",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "clu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/Curriculam"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "coo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "duly",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Department/Mechatronics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ide",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ori",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "red",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/Intranet"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rej",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/Format"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "two",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in/Academic/ISRO"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitp.ac.in"
+    }
+  ],
+  "total_courses": 47,
+  "pages_scraped": 25,
+  "errors": []
+}

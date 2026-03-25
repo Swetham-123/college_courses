@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0384",
+  "university_name": "Sant Longowal Institute of Engg. & Tech., Longowal",
+  "state": "Punjab",
+  "district": "Sangrur",
+  "website": "www.sliet.ac.in",
+  "year_established": "1989",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:38.744784Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

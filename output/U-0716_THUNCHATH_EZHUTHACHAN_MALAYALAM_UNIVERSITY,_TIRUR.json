@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0716",
+  "university_name": "THUNCHATH EZHUTHACHAN MALAYALAM UNIVERSITY, TIRUR",
+  "state": "Kerala",
+  "district": "Malappuram",
+  "website": "www.malayalamuniversity.edu.in",
+  "year_established": "2012",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:07:13.428904Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "aishe_code": "U-0587",
+  "university_name": "Uttar Banga Krishi Vishwavidyalaya, Cooch Behar",
+  "state": "West Bengal",
+  "district": "Cooch Behar",
+  "website": "www.ubkv.ac.in",
+  "year_established": "1979",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:18:24.258956Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Sc",
+      "course_name": "& Ph.D)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ubkv.ac.in/dean-horticulture-department"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ubkv.ac.in/ph-d-courses"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fru",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pom",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Post",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ubkv.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "AGR",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ubkv.ac.in/admission_reviews/admission-notification-for-m-sc-agriculture-m-sc-horticulture-m-sc-forestry-courses-for-2025-26"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ubkv.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.ubkv.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "for 2024-25",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.ubkv.ac.in/comptrollers-department"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.ubkv.ac.in/admission_reviews/ug-admission-notification-for-the-academic-session-2025-26"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "ana",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/programmes-undertaken"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Abo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Apr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/wp-content/uploads/ELP-total-report-of-UBKV-2017-18.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ach",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/programmes-undertaken"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/admission_reviews/ug-admission-notification-for-the-academic-session-2025-26"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/programmes-undertaken"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "due",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/programmes-undertaken"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "har",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "kept",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/news/certificate-course-cum-training-on-plant-tissue-culture-technique-from-23-02-2026-to-23-05-2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sto",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "yel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/programmes-undertaken"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ubkv.ac.in/department-of-horticulture/pomology-and-post-harvest-technology"
+    }
+  ],
+  "total_courses": 37,
+  "pages_scraped": 25,
+  "errors": []
+}

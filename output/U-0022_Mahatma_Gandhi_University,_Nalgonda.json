@@ -1,0 +1,187 @@
+{
+  "aishe_code": "U-0022",
+  "university_name": "Mahatma Gandhi University, Nalgonda",
+  "state": "Telangana",
+  "district": "Nalgonda",
+  "website": "www.mguniversity.ac.in",
+  "year_established": "2007",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:50:48.528997Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ADM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mguniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pre",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mguniversity.ac.in/phdpressnotes"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mguniversity.ac.in/uploads/news/Demand_2026_190.pdf"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mguniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mguniversity.ac.in/Programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mguniversity.ac.in/Programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mguniversity.ac.in/Programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mguniversity.ac.in/Programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mguniversity.ac.in/Programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mguniversity.ac.in/Programmes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Man",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mguniversity.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Man",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mguniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://mguniversity.ac.in/directorateOfadmissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Copy",
+      "level_of_education": "Certificate",
+      "source_url": "https://mguniversity.ac.in/uploads/news/Demand_2026_190.pdf"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ver",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mguniversity.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://mguniversity.ac.in/uploads/news/Demand_2026_190.pdf"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://mguniversity.ac.in/Programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://mguniversity.ac.in/Programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://mguniversity.ac.in/Programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://mguniversity.ac.in/Programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://mguniversity.ac.in/Programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Tel",
+      "level_of_education": "Unknown",
+      "source_url": "https://mguniversity.ac.in/Programmes"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://mguniversity.ac.in/uploads/news/Demand_2026_190.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "col",
+      "level_of_education": "Unknown",
+      "source_url": "https://mguniversity.ac.in/uploads/news/Demand_2026_190.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dow",
+      "level_of_education": "Unknown",
+      "source_url": "https://mguniversity.ac.in/uploads/news/Demand_2026_190.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://mguniversity.ac.in/directorateOfadmissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rem",
+      "level_of_education": "Unknown",
+      "source_url": "https://mguniversity.ac.in/uploads/news/Demand_2026_190.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://mguniversity.ac.in/uploads/news/Demand_2026_190.pdf"
+    }
+  ],
+  "total_courses": 28,
+  "pages_scraped": 10,
+  "errors": []
+}

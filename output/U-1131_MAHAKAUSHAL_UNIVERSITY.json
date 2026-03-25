@@ -1,0 +1,181 @@
+{
+  "aishe_code": "U-1131",
+  "university_name": "MAHAKAUSHAL UNIVERSITY",
+  "state": "Madhya Pradesh",
+  "district": "Jabalpur",
+  "website": "www.mku.ac.in",
+  "year_established": "2021",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:44:00.540515Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "M.A., B",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mku.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mku.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Avi",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mku.ac.in/department-of-aviation-management"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Spe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mku.ac.in/faculties-departments"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Avi",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mku.ac.in/department-of-aviation-management"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mku.ac.in/faculties-departments"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Avi",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mku.ac.in/department-of-aviation-management"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "FAC",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mku.ac.in/faculties-departments"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "(Air",
+      "level_of_education": "Diploma",
+      "source_url": "https://mku.ac.in/faculties-departments"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Agr",
+      "level_of_education": "Diploma",
+      "source_url": "https://mku.ac.in/faculties-departments"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Air",
+      "level_of_education": "Diploma",
+      "source_url": "https://mku.ac.in/department-of-aviation-management"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ani",
+      "level_of_education": "Diploma",
+      "source_url": "https://mku.ac.in/faculties-departments"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://mku.ac.in/faculties-departments"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://mku.ac.in/faculties-departments"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fas",
+      "level_of_education": "Diploma",
+      "source_url": "https://mku.ac.in/faculties-departments"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fire",
+      "level_of_education": "Diploma",
+      "source_url": "https://mku.ac.in/faculties-departments"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://mku.ac.in/faculties-departments"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Und",
+      "level_of_education": "Diploma",
+      "source_url": "https://mku.ac.in/academic-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Yog",
+      "level_of_education": "Diploma",
+      "source_url": "https://mku.ac.in/faculties-departments"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mku.ac.in"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://mku.ac.in/department-of-aviation-management"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mku.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Fire",
+      "level_of_education": "Certificate",
+      "source_url": "https://mku.ac.in/faculties-departments"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Yoga",
+      "level_of_education": "Certificate",
+      "source_url": "https://mku.ac.in/faculties-departments"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://mku.ac.in/faculties-departments"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://mku.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://mku.ac.in/study-in-india"
+    }
+  ],
+  "total_courses": 27,
+  "pages_scraped": 15,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1448",
+  "university_name": "TCG CREST University",
+  "state": "West Bengal",
+  "district": "Kolkata",
+  "website": null,
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:57.179104Z",
+  "status": "no_url",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "No website URL available"
+  ]
+}

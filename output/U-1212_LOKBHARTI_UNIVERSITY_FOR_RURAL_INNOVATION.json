@@ -1,0 +1,271 @@
+{
+  "aishe_code": "U-1212",
+  "university_name": "LOKBHARTI UNIVERSITY FOR RURAL INNOVATION",
+  "state": "Gujarat",
+  "district": "Bhavnagar",
+  "website": "https://www.lokbharatiuniversity.edu.in/",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:37:08.399725Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/department/postgraduate-diploma-in-seed-production-science-technology"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/admission-form-fee"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "DEP",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/department-of-english-and-communication-skills"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lokbharatiuniversity.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Hor",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/department-of-agro-processing"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/online-admission-lokbharati-university-for-rural-innovation"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ple",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/ug-pg-admission-form-online"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Syl",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/ug-pg-admission-form-online"
+    },
+    {
+      "degree_name": "Phd",
+      "course_name": "Doc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lokbharatiuniversity.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/department-of-agro-processing"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/department-of-agro-processing"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mar",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/department/bba-in-management"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "DEP",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/department/b-voc-in-information-technology-it"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Sus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/ug-pg-admission-form-online"
+    },
+    {
+      "degree_name": "PG DIPLOMA",
+      "course_name": "(CSR &",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/online-admission-lokbharati-university-for-rural-innovation"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Pos",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.lokbharatiuniversity.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Seed",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/ug-pg-admission-form-online"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "can",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/department/postgraduate-diploma-in-seed-production-science-technology"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Agri",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/department/postgraduate-diploma-in-seed-production-science-technology"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lokbharatiuniversity.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Dep",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/department/bba-in-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ema",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/department/bba-in-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Man",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/ug-pg-admission-form-online"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lokbharatiuniversity.edu.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lokbharatiuniversity.edu.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/ug-pg-admission-form-online"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Obt",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/ug-pg-admission-form-online"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Seed",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.lokbharatiuniversity.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Str",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/ug-pg-admission-form-online"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tot",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/ug-pg-admission-form-online"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lokbharatiuniversity.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/bba-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/result"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Sem.-I",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/result"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Bac",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lokbharatiuniversity.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/ug-pg-admission-form-online"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/department-of-english-and-communication-skills"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/wp-content/uploads/2025/08/UGC-Proforma-Disclosure_compressed.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/department/postgraduate-diploma-in-seed-production-science-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/department/postgraduate-diploma-in-seed-production-science-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lia",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/ug-pg-admission-form-online"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "very",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lokbharatiuniversity.edu.in/department-of-natural-farming"
+    }
+  ],
+  "total_courses": 42,
+  "pages_scraped": 19,
+  "errors": []
+}

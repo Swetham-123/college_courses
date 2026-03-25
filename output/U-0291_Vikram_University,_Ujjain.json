@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0291",
+  "university_name": "Vikram University, Ujjain",
+  "state": "Madhya Pradesh",
+  "district": "Ujjain",
+  "website": "www.vikramuniv.ac.in",
+  "year_established": "1956",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:24:11.269381Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

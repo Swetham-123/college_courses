@@ -1,0 +1,151 @@
+{
+  "aishe_code": "U-0534",
+  "university_name": "UP Pandit Deen Dayal Upadhyaya Veterinary University & Gau-Anusandhan Sansthan, Mathura",
+  "state": "Uttar Pradesh",
+  "district": "Mathura",
+  "website": "www.upvetuniv.edu.in",
+  "year_established": "1947",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:15:43.113430Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://upvetuniv.edu.in/postgraduate"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://upvetuniv.edu.in/postgraduate"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Exa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://upvetuniv.edu.in/postgraduate"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Exam 2021-22",
+      "level_of_education": "Doctoral",
+      "source_url": "https://upvetuniv.edu.in/postgraduate"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Exam 2022-23",
+      "level_of_education": "Doctoral",
+      "source_url": "https://upvetuniv.edu.in/postgraduate"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Exam. 2021-22",
+      "level_of_education": "Doctoral",
+      "source_url": "https://upvetuniv.edu.in/postgraduate"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Exam. 2024-25",
+      "level_of_education": "Doctoral",
+      "source_url": "https://upvetuniv.edu.in/postgraduate"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upvetuniv.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "wri",
+      "level_of_education": "Doctoral",
+      "source_url": "https://upvetuniv.edu.in/postgraduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://upvetuniv.edu.in/postgraduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://upvetuniv.edu.in/postgraduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Exa",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://upvetuniv.edu.in/postgraduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://upvetuniv.edu.in/time-table-academic-calendar-in-biotechnology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://upvetuniv.edu.in/undergraduate"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Dai",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://upvetuniv.edu.in/undergraduate"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Liv",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.upvetuniv.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Vet",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.upvetuniv.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Wel",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.upvetuniv.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://upvetuniv.edu.in/wp-content/uploads/2021/06/Overseas-Students-Application-details.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://upvetuniv.edu.in/valedictory-function-department-of-veterinary-parasitology-conducted-a-three-days-training-program-under-rkvy-funded-project-for-state-veterinary-officers-on-the-topic-control-of-sub-clinical-paras"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ben",
+      "level_of_education": "Unknown",
+      "source_url": "https://upvetuniv.edu.in/valedictory-function-department-of-veterinary-parasitology-conducted-a-three-days-training-program-under-rkvy-funded-project-for-state-veterinary-officers-on-the-topic-control-of-sub-clinical-paras"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://upvetuniv.edu.in/bachelor-of-veterinary-science-and-animal-husbandry-first-professional-b-v-sc-a-h-virtual-orientation-program-2020"
+    }
+  ],
+  "total_courses": 22,
+  "pages_scraped": 19,
+  "errors": []
+}

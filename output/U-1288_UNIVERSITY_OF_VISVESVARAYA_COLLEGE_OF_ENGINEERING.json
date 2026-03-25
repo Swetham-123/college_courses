@@ -1,0 +1,85 @@
+{
+  "aishe_code": "U-1288",
+  "university_name": "UNIVERSITY OF VISVESVARAYA COLLEGE OF ENGINEERING",
+  "state": "Karnataka",
+  "district": "Bengaluru Urban",
+  "website": "uvce.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:15:25.145765Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "BTech",
+      "course_name": "for",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://uvce.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "(for",
+      "level_of_education": "Certificate",
+      "source_url": "https://uvce.ac.in/admission_process.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "iss",
+      "level_of_education": "Certificate",
+      "source_url": "https://uvce.ac.in/admission_process.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://uvce.ac.in/files/Application_Hostel_Admission_2023-24.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://uvce.ac.in/admission_process.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fou",
+      "level_of_education": "Unknown",
+      "source_url": "https://uvce.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obt",
+      "level_of_education": "Unknown",
+      "source_url": "https://uvce.ac.in/admission_process.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://uvce.ac.in/admission_process.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://uvce.ac.in/admission_process.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ret",
+      "level_of_education": "Unknown",
+      "source_url": "https://uvce.ac.in/admission_process.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://uvce.ac.in/admission_process.php"
+    }
+  ],
+  "total_courses": 11,
+  "pages_scraped": 4,
+  "errors": []
+}

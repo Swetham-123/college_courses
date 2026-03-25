@@ -1,0 +1,157 @@
+{
+  "aishe_code": "U-1125",
+  "university_name": "MATA GUJRI UNIVERSITY",
+  "state": "Bihar",
+  "district": "Kishanganj",
+  "website": "www.matagujriuniversity.com",
+  "year_established": "2018",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:04:47.176291Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "B.PHARM",
+      "course_name": "AND D",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "B.PHARM",
+      "course_name": "COU",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "B.PHARM",
+      "course_name": "Read",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "MLT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "OT & A",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "OTA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "RIT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "ADM",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Exa",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Exam",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "PRO",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Part",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Part-I",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Res",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "EXAM 2020(I)",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Exa",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Exam",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Res",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "ICAL",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matagujriuniversity.com"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matagujriuniversity.com/wp-content/uploads/2022/06/Center-and-Programme-for-Postgraduate-MD-MS-Examination-2022-I-Dated-12-05-2022.pdf"
+    }
+  ],
+  "total_courses": 23,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0649",
+  "university_name": "SRI SRI UNIVERSITY",
+  "state": "Odisha",
+  "district": "Cuttack",
+  "website": "www.srisriuniversity.edu.in",
+  "year_established": "2009",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:40.812738Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

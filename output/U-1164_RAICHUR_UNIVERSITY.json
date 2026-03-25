@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1164",
+  "university_name": "RAICHUR UNIVERSITY",
+  "state": "Karnataka",
+  "district": "Raichur",
+  "website": "https://raichuruniversity.ac.in/",
+  "year_established": "2020",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:18.708902Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

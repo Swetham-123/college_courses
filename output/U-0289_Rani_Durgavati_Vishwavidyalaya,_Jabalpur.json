@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0289",
+  "university_name": "Rani Durgavati Vishwavidyalaya, Jabalpur",
+  "state": "Madhya Pradesh",
+  "district": "Jabalpur",
+  "website": "www.rdunijbpin.org",
+  "year_established": "1956",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:27.791641Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

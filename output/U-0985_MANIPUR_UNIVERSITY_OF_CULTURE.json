@@ -1,0 +1,181 @@
+{
+  "aishe_code": "U-0985",
+  "university_name": "MANIPUR UNIVERSITY OF CULTURE",
+  "state": "Manipur",
+  "district": "Imphal East",
+  "website": "www.muc.ac.in",
+  "year_established": "2015",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:02:59.781808Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.muc.ac.in/phd.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.muc.ac.in/phd.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.muc.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.muc.ac.in/admission.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Exa",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.muc.ac.in/admission.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "alo",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.muc.ac.in/admission.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.muc.ac.in/admission.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s in",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.muc.ac.in/admission.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "the",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.muc.ac.in/admission.html"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s of",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.muc.ac.in/admission.html"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Dan",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "ons",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in/docs/2025/rr_phd.pdf"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "hav",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Cqi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in/docs/2025/rr_phd.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "als",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in/docs/2024/Cleanliness-MUC.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "div",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "full",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in/admission.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tau",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vit",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.muc.ac.in/admission.html"
+    }
+  ],
+  "total_courses": 27,
+  "pages_scraped": 25,
+  "errors": []
+}

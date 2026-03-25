@@ -1,0 +1,25 @@
+{
+  "aishe_code": "U-0044",
+  "university_name": "Vikram Simhapuri University, Nellore",
+  "state": "Andhra Pradesh",
+  "district": "Sri Potti Sriramulu Nellore",
+  "website": "www.vsu.ac.in",
+  "year_established": "2008",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:21:47.724793Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://vsu.ac.in/uploads/circulars/4.pdf"
+    }
+  ],
+  "total_courses": 1,
+  "pages_scraped": 18,
+  "errors": []
+}

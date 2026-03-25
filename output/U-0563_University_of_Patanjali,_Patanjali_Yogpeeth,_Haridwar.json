@@ -1,0 +1,37 @@
+{
+  "aishe_code": "U-0563",
+  "university_name": "University of Patanjali, Patanjali Yogpeeth, Haridwar",
+  "state": "Uttarakhand",
+  "district": "Haridwar",
+  "website": "www.universityofpatanjali.com",
+  "year_established": "2006",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:12:06.382517Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "BE",
+      "course_name": "QEQ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universityofpatanjali.com/assets/course-photo/UOP-At-A-Glance-25-26.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universityofpatanjali.com/assets/naac/1/2f.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universityofpatanjali.com/assets/course-photo/UOP-At-A-Glance-25-26.pdf"
+    }
+  ],
+  "total_courses": 3,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,331 @@
+{
+  "aishe_code": "U-0886",
+  "university_name": "Maharashtra National Law University Mumbai",
+  "state": "Maharashtra",
+  "district": "Mumbai Suburban",
+  "website": "www.mnlumumbai.edu.in",
+  "year_established": "2014",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:48:02.792388Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnlumumbai.edu.in/phdadmission.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnlumumbai.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnlumumbai.edu.in/phdadmission.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "PAT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnlumumbai.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnlumumbai.edu.in/deanaca.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnlumumbai.edu.in/academic.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnlumumbai.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnlumumbai.edu.in/deanaca.php"
+    },
+    {
+      "degree_name": "phd",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnlumumbai.edu.in/phdadmission.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Cor",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnlumumbai.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Arb",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mnlumumbai.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Cri",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mnlumumbai.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "GST",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mnlumumbai.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Int",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mnlumumbai.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Lit",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mnlumumbai.edu.in"
+    },
+    {
+      "degree_name": "integrated B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mnlumumbai.edu.in/adballb.php"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "CRI",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mnlumumbai.edu.in/CIMJFS.php"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "LIT",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mnlumumbai.edu.in/llfm.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Arb",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mnlumumbai.edu.in/pgdam.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mnlumumbai.edu.in/pgdgst.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hum",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mnlumumbai.edu.in/deanaca.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Int",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mnlumumbai.edu.in/PG-DIPR.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mnlumumbai.edu.in/CIMJFS.php"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "eli",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mnlumumbai.edu.in/pgdam.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnlumumbai.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/academic.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B.(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Med",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/pdf/Course Brochure M&A 2024.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/CIMJFS.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "One",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/llfm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/assdeana.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "att",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/llfm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/llfm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/llfm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/CIMJFS.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eva",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/llfm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/llfm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/adballb.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/llfm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/llfm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/llfm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/llfm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/CIMJFS.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sup",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/llfm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/llfm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/academic-council.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/llfm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnlumumbai.edu.in/llfm.php"
+    }
+  ],
+  "total_courses": 52,
+  "pages_scraped": 25,
+  "errors": []
+}

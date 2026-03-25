@@ -1,0 +1,499 @@
+{
+  "aishe_code": "U-0091",
+  "university_name": "MATS University, Raipur",
+  "state": "Chhattisgarh",
+  "district": "Raipur",
+  "website": "www.matsuniversity.ac.in",
+  "year_established": "2003",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:04:46.892651Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PHD",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.matsuniversity.ac.in/phd_research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.matsuniversity.ac.in/phd_research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.matsuniversity.ac.in/phd_research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.matsuniversity.ac.in/mats_school_of_library_science"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.matsuniversity.ac.in/phd_research"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Bat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Bat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "FRE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.matsuniversity.ac.in/mats_school_of_management_and_research"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Bat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Van",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Vid",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.matsuniversity.ac.in/mats_school_of_information_technology"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.matsuniversity.ac.in/physical_education"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in/mats_school_of_education"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in/mats_school_of_education"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Bat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Bat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in/mats_school_of_education"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "FDT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "FDT)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Gen",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in/mats_school_of_sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "IDD",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "IDD)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in/mats_school_of_sciences"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Min",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BCA (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in/mats_school_of_information_technology"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "B.Ed. / B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.matsuniversity.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Civ",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.matsuniversity.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.matsuniversity.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "For",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.matsuniversity.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Good",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.matsuniversity.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Gra",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.matsuniversity.ac.in/mats_school_of_information_technology"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Gui",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.matsuniversity.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.matsuniversity.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.matsuniversity.ac.in/mats_school_of_pharmacy"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.matsuniversity.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in/mats_school_of_education"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in/contact.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "aff",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in/admission-rules.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in/timeline.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in/admission-rules.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in/timeline.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in/admission-rules.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "one",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in/timeline.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in/admission-rules.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in/mats_school_of_management_and_research"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "both",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bui",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dee",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "even",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "for a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gain",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "grow",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "like",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "str",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "to a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.matsuniversity.ac.in"
+    }
+  ],
+  "total_courses": 80,
+  "pages_scraped": 17,
+  "errors": []
+}

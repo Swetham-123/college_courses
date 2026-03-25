@@ -1,0 +1,103 @@
+{
+  "aishe_code": "U-0729",
+  "university_name": "TECHNO GLOBAL UNIVERSITY, SIRONG",
+  "state": "Madhya Pradesh",
+  "district": "Vidisha",
+  "website": "www.technoglobaluniversitysironjmp.com",
+  "year_established": "2012",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:57.185745Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "soon",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.technoglobaluniversitysironjmp.com"
+    },
+    {
+      "degree_name": "pHD",
+      "course_name": "DDD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.technoglobaluniversitysironjmp.com/assets/images/Statu_for_all_department.pdf"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.technoglobaluniversitysironjmp.com"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "MA / M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoglobaluniversitysironjmp.com"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoglobaluniversitysironjmp.com/index.php/academics"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "COM",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoglobaluniversitysironjmp.com/index.php/academics"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoglobaluniversitysironjmp.com"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoglobaluniversitysironjmp.com"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.technoglobaluniversitysironjmp.com"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoglobaluniversitysironjmp.com/index.php/academics"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoglobaluniversitysironjmp.com/assets/images/ACADEMIC CALENDER-Techno Global University.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "amo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoglobaluniversitysironjmp.com"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoglobaluniversitysironjmp.com"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoglobaluniversitysironjmp.com"
+    }
+  ],
+  "total_courses": 14,
+  "pages_scraped": 12,
+  "errors": []
+}

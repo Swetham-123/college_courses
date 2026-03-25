@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1415",
+  "university_name": "Sikkim Sardar Patel University",
+  "state": "Sikkim",
+  "district": "Namchi",
+  "website": null,
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:30.561535Z",
+  "status": "no_url",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "No website URL available"
+  ]
+}

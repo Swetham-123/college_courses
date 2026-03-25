@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0147",
+  "university_name": "PANDIT DEENDAYAL ENERGY UNIVERSITY, GANDHI NAGAR",
+  "state": "Gujarat",
+  "district": "Gandhinagar",
+  "website": "www.pdpu.ac.in",
+  "year_established": "2007",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:55:59.579851Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

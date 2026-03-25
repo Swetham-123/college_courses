@@ -1,0 +1,271 @@
+{
+  "aishe_code": "U-0780",
+  "university_name": "MOTHERHOOD UNIVERSITY",
+  "state": "Uttarakhand",
+  "district": "Haridwar",
+  "website": "www.mhu.edu.in",
+  "year_established": "2015",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:22:26.382861Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(Law)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "M.B.A",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "M.C.A",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "IT\nM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "ITM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Part",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "M.Ed",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "MLT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "L.L.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "L.L.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "B.El",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(PCM",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "PCM",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "INTEGRATED\nB.A",
+      "course_name": "B.Ed. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "Integrated\nB.A",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "Integrated\nB.Com",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "Integrated\nB.Sc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "Integrated\nDIPLOMA",
+      "course_name": "PRO",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "PRO",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Agr",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "NAAC",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "TEG",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mhu.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mhu.edu.in"
+    }
+  ],
+  "total_courses": 42,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0580",
+  "university_name": "Presidency University",
+  "state": "West Bengal",
+  "district": "Kolkata",
+  "website": "www.presiuniv.ac.in",
+  "year_established": "1817",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:11.600359Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

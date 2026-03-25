@@ -1,0 +1,223 @@
+{
+  "aishe_code": "U-1031",
+  "university_name": "LORDS UNIVERSITY",
+  "state": "Rajasthan",
+  "district": "Alwar",
+  "website": "www.lordsuni.edu.in",
+  "year_established": "2018",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:37:08.402225Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.A",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lordsuni.edu.in/admissions-2024-25"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lordsuni.edu.in/admissions-2024-25"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eli",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lordsuni.edu.in/admissions-2024-25"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lordsuni.edu.in/admissions-2024-25"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Flo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lordsuni.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lordsuni.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lordsuni.edu.in/academics"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lordsuni.edu.in/academics"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "LLM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lordsuni.edu.in/academics"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Sci",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lordsuni.edu.in/academics"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lordsuni.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lordsuni.edu.in/admissions-2024-25"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lordsuni.edu.in/academics"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lordsuni.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "L.L.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lordsuni.edu.in/admissions-2024-25"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lordsuni.edu.in/academics"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "(ID), B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lordsuni.edu.in/admissions-2024-25"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lordsuni.edu.in/admissions-2024-25"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Edu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lordsuni.edu.in/academics"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.lordsuni.edu.in/blog/pgdca-course-india"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Phy",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.lordsuni.edu.in/blog/physical-education-in-india"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Aad",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lordsuni.edu.in/admissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lordsuni.edu.in/blog/physical-education-in-india"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Cas",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lordsuni.edu.in/admissions"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Ori",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lordsuni.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lordsuni.edu.in/admissions-2024-25"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lordsuni.edu.in/academics"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Phy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lordsuni.edu.in/academics"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lordsuni.edu.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "col",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lordsuni.edu.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "only",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lordsuni.edu.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "your",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lordsuni.edu.in/admissions-2024-25"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lordsuni.edu.in/admissions-2024-25"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lordsuni.edu.in/admissions-2024-25"
+    }
+  ],
+  "total_courses": 34,
+  "pages_scraped": 7,
+  "errors": []
+}

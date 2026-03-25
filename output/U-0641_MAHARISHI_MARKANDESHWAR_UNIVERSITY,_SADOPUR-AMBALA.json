@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0641",
+  "university_name": "MAHARISHI MARKANDESHWAR UNIVERSITY, SADOPUR-AMBALA",
+  "state": "Haryana",
+  "district": "Ambala",
+  "website": "www.mmambala.org",
+  "year_established": "2010",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:49:45.535139Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

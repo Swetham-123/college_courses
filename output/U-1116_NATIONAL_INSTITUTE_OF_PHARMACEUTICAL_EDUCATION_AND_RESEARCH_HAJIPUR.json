@@ -1,0 +1,235 @@
+{
+  "aishe_code": "U-1116",
+  "university_name": "NATIONAL INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH HAJIPUR",
+  "state": "Bihar",
+  "district": "Vaishali",
+  "website": "www.niperhajipur.ac.in",
+  "year_established": "2007",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:27:50.426059Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Integrated Ph.D",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in/department-of-biotechnology"
+    },
+    {
+      "degree_name": "Integrated Ph.D",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in/department-of-pharmaceutics"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in/department-of-biotechnology"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in/department-of-pharmaceutics"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in/department-of-pharmaceutical-analysis"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and 1",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in/department-of-biotechnology"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in/department-of-biotechnology"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "dis",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "are",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in/department-of-pharmaceutical-analysis"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sup",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "integrated PhD",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niperhajipur.ac.in/department-of-pharmaceutical-analysis"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.niperhajipur.ac.in"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "B.E/B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "clu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fos",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in/department-of-pharmacology-and-toxicology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in/department-of-pharmacology-and-toxicology"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in/department-of-pharmaceutics"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niperhajipur.ac.in/summer-training"
+    }
+  ],
+  "total_courses": 36,
+  "pages_scraped": 11,
+  "errors": []
+}

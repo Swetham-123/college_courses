@@ -1,0 +1,79 @@
+{
+  "aishe_code": "U-0492",
+  "university_name": "VINAYAKA MISSIONs RESEARCH FOUNDATION, SALEM",
+  "state": "Tamil Nadu",
+  "district": "Salem",
+  "website": "www.vmrfdu.edu.in",
+  "year_established": "1982",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:24:22.823706Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ADM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vmrfdu.edu.in/adminpanel/news/68a31a2f0de70933477f0e8c20eba03e.pdf"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Oct",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vmrfdu.edu.in/Academic-events.php"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "(F.T & P.T), M.E. (F.T & P.T.)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vmrfdu.edu.in/Academic-events.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Cla",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vmrfdu.edu.in/Academic-events.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vmrfdu.edu.in/img/banner/VMKV Engg. College NCC Programme.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vmrfdu.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vmrfdu.edu.in"
+    },
+    {
+      "degree_name": "mA",
+      "course_name": "FsV",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vmrfdu.edu.in/img/banner/IT Department - Report on participation in National Conference.pdf"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vmrfdu.edu.in/Academic-events.php"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vmrfdu.edu.in"
+    }
+  ],
+  "total_courses": 10,
+  "pages_scraped": 18,
+  "errors": []
+}

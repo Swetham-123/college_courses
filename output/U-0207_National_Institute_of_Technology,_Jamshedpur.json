@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0207",
+  "university_name": "National Institute of Technology, Jamshedpur",
+  "state": "Jharkhand",
+  "district": "Saraikela Kharsawan",
+  "website": "www.nitjsr.ac.in",
+  "year_established": "1960",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:34:13.462268Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

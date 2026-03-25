@@ -3770,3 +3770,1000 @@
 2026-03-23 17:45:50,472 [INFO] [37/700] -- Maharashi Markandeshwar University, Solan -- 0 programs
 2026-03-23 17:45:50,709 [INFO]   [U-0811] [s=17] +46 from https://www.mrsptu.ac.in/uploads2025/daa_notifications/223_Notification_New_programmes_offered_for_Affiliated_Colleges_from_session_2025_26_onwards.pdf
 2026-03-23 17:45:51,236 [INFO]   [U-0312] Homepage -> 15 programs
+2026-03-23 18:12:45,027 [INFO] Loading University_Part2_rows700_1399.xlsx
+2026-03-23 18:12:45,598 [INFO] Processing 700 universities | 4 workers
+2026-03-23 18:12:45,685 [INFO]   [U-0813] GET https://www.lnctu.ac.in
+2026-03-23 18:12:45,691 [INFO]   [U-1236] GET https://www.lnctvu.ac.in
+2026-03-23 18:12:45,692 [INFO]   [U-0405] GET https://www.lnmiit.ac.in
+2026-03-23 18:12:45,693 [INFO]   [U-1212] GET https://www.lokbharatiuniversity.edu.in
+2026-03-23 18:12:46,800 [INFO]   [U-0813] Homepage -> 11 programs
+2026-03-23 18:12:47,223 [INFO]   [U-0405] Homepage -> 12 programs
+2026-03-23 18:12:47,666 [INFO]   [U-0813] [s=24] +157 from https://lnctu.ac.in/courses-offered/
+2026-03-23 18:12:48,434 [INFO]   [U-0813] [s=15] +1 from https://lnctu.ac.in/new-age-ug-certificate-programs/
+2026-03-23 18:12:49,748 [INFO]   [U-0813] [s=12] +53 from https://lnctu.ac.in/international-student-courses-fees/
+2026-03-23 18:12:49,965 [INFO]   [U-1212] Homepage -> 6 programs
+2026-03-23 18:12:50,941 [INFO]   [U-1236] Homepage -> 6 programs
+2026-03-23 18:12:51,908 [INFO]   [U-1212] [s=14] +2 from https://www.lokbharatiuniversity.edu.in/department/postgraduate-diploma-in-seed-production-science-technology/
+2026-03-23 18:12:52,132 [INFO]   [U-0813] [s=4] +16 from https://lnctu.ac.in/academic-calendar/
+2026-03-23 18:12:52,938 [INFO]   [U-0813] [s=4] +9 from https://lnctu.ac.in/school-of-architecture/
+2026-03-23 18:12:53,547 [INFO]   [U-1236] [s=21] +2 from https://lnctvu.ac.in/diploma-courses/
+2026-03-23 18:12:55,411 [INFO]   [U-0405] [s=8] +3 from https://lnmiit.ac.in/admissions/ug/
+2026-03-23 18:12:57,212 [INFO]   [U-0813] [s=4] +1 from https://lnctu.ac.in/school-of-hotel-management/
+2026-03-23 18:12:57,779 [INFO]   [U-1236] [s=12] +9 from https://lnctvu.ac.in/graduate-courses/
+2026-03-23 18:12:58,194 [INFO]   [U-0405] [s=4] +22 from https://lnmiit.ac.in/academic-council/
+2026-03-23 18:12:59,366 [INFO]   [U-0813] [s=4] +1 from https://lnctu.ac.in/school-of-medical-science/
+2026-03-23 18:12:59,645 [INFO]   [U-1236] [s=12] +4 from https://lnctvu.ac.in/post-graduate-courses/
+2026-03-23 18:13:02,195 [INFO]   [U-1212] [s=4] +2 from https://www.lokbharatiuniversity.edu.in/department/b-voc-in-information-technology-it/
+2026-03-23 18:13:06,681 [INFO] Loading University_Part2_rows700_1399.xlsx
+2026-03-23 18:13:07,097 [INFO] Processing 700 universities | 4 workers
+2026-03-23 18:13:07,161 [INFO]   [U-0813] GET https://www.lnctu.ac.in
+2026-03-23 18:13:07,162 [INFO]   [U-1236] GET https://www.lnctvu.ac.in
+2026-03-23 18:13:07,163 [INFO]   [U-0405] GET https://www.lnmiit.ac.in
+2026-03-23 18:13:07,164 [INFO]   [U-1212] GET https://www.lokbharatiuniversity.edu.in
+2026-03-23 18:13:08,222 [INFO]   [U-0813] Homepage -> 11 programs
+2026-03-23 18:13:08,506 [INFO]   [U-0405] Homepage -> 12 programs
+2026-03-23 18:13:09,042 [INFO]   [U-0813] [s=24] +157 from https://lnctu.ac.in/courses-offered/
+2026-03-23 18:13:09,775 [INFO]   [U-0813] [s=15] +1 from https://lnctu.ac.in/new-age-ug-certificate-programs/
+2026-03-23 18:13:09,988 [INFO]   [U-1212] Homepage -> 6 programs
+2026-03-23 18:13:10,205 [INFO]   [U-1236] Homepage -> 6 programs
+2026-03-23 18:13:10,912 [INFO]   [U-0813] [s=12] +53 from https://lnctu.ac.in/international-student-courses-fees/
+2026-03-23 18:13:11,175 [INFO]   [U-1236] [s=21] +2 from https://lnctvu.ac.in/diploma-courses/
+2026-03-23 18:13:12,092 [INFO]   [U-1212] [s=14] +2 from https://www.lokbharatiuniversity.edu.in/department/postgraduate-diploma-in-seed-production-science-technology/
+2026-03-23 18:13:13,343 [INFO]   [U-0813] [s=4] +16 from https://lnctu.ac.in/academic-calendar/
+2026-03-23 18:13:14,244 [INFO]   [U-1236] [s=12] +9 from https://lnctvu.ac.in/graduate-courses/
+2026-03-23 18:13:14,452 [INFO]   [U-0813] [s=4] +9 from https://lnctu.ac.in/school-of-architecture/
+2026-03-23 18:13:15,159 [INFO]   [U-1236] [s=12] +4 from https://lnctvu.ac.in/post-graduate-courses/
+2026-03-23 18:13:16,736 [INFO]   [U-0405] [s=8] +3 from https://lnmiit.ac.in/admissions/ug/
+2026-03-23 18:13:19,043 [INFO]   [U-0405] [s=4] +22 from https://lnmiit.ac.in/academic-council/
+2026-03-23 18:13:19,464 [INFO]   [U-0813] [s=4] +1 from https://lnctu.ac.in/school-of-hotel-management/
+2026-03-23 18:13:20,106 [INFO]   [U-1212] [s=4] +2 from https://www.lokbharatiuniversity.edu.in/department/b-voc-in-information-technology-it/
+2026-03-23 18:13:21,159 [INFO]   [U-0813] [s=4] +1 from https://lnctu.ac.in/school-of-medical-science/
+2026-03-23 18:13:24,205 [INFO]   [U-1236] [s=4] +1 from https://lnctvu.ac.in/school-of-legal-studies/
+2026-03-23 18:13:24,393 [INFO]   [U-0813] [s=4] +1 from https://lnctu.ac.in/school-of-paramedical-science/
+2026-03-23 18:13:26,302 [INFO]   [U-0813] [s=4] +4 from https://lnctu.ac.in/school-of-agriculture/
+2026-03-23 18:13:26,302 [INFO]   [U-0813] DONE -> 254 programs in 3 groups
+2026-03-23 18:13:26,306 [INFO]   [U-1102] GET https://www.ljku.edu.in
+2026-03-23 18:13:26,306 [INFO] [1/700] OK LNCT UNIVERSITY -- 254 programs
+2026-03-23 18:13:26,493 [INFO]   [U-0405] [s=4] +1 from https://lnmiit.ac.in/department/mme/
+2026-03-23 18:13:27,521 [INFO]   [U-1102] Homepage -> 30 programs
+2026-03-23 18:13:29,529 [INFO]   [U-1102] [s=12] +1 from https://ljku.edu.in/cultural-programmes
+2026-03-23 18:13:29,806 [INFO]   [U-1212] [s=4] +2 from https://www.lokbharatiuniversity.edu.in/department/bba-in-management/
+2026-03-23 18:13:30,482 [INFO]   [U-1102] [s=12] +2 from https://ljku.edu.in/faculty-development-programmes
+2026-03-23 18:13:31,451 [INFO]   [U-1102] [s=12] +1 from https://ljku.edu.in/ict-training-programs
+2026-03-23 18:13:33,178 [INFO]   [U-1212] [s=4] +28 from https://www.lokbharatiuniversity.edu.in/wp-content/uploads/2025/11/Academic-Calendar-2025-26-Even-Semester-.pdf
+2026-03-23 18:13:33,558 [INFO]   [U-1236] [s=2] +6 from https://lnctvu.ac.in/allied-medical-science/
+2026-03-23 18:13:35,256 [INFO]   [U-1102] [s=6] +1 from https://ljku.edu.in/program/holistic-early-childhood-education-39/diploma-in-holistic-early-childhood-education-106
+2026-03-23 18:13:37,205 [INFO]   [U-1102] [s=4] +5 from https://ljku.edu.in/program/applied-sciences-b-sc-m-sc-14
+2026-03-23 18:13:39,177 [INFO]   [U-1102] [s=4] +2 from https://ljku.edu.in/program/business-management-bba-imba-8
+2026-03-23 18:13:40,983 [INFO]   [U-1102] [s=4] +1 from https://ljku.edu.in/program/commerce-b-com-16
+2026-03-23 18:13:42,019 [INFO]   [U-1102] [s=4] +5 from https://ljku.edu.in/program/computer-applications-bca-mca-bsc-it-msc-it-5
+2026-03-23 18:13:45,132 [INFO]   [U-0405] [s=2] +1 from https://lnmiit.ac.in/admissions/phd/
+2026-03-23 18:13:45,133 [INFO]   [U-0405] DONE -> 39 programs in 1 groups
+2026-03-23 18:13:45,138 [INFO]   [U-1031] GET https://www.lordsuni.edu.in
+2026-03-23 18:13:45,138 [INFO] [2/700] OK LNM Institute of Information Technology, Jaipur -- 39 programs
+2026-03-23 18:13:45,758 [INFO]   [U-1102] [s=4] +1 from https://ljku.edu.in/program/entrepreneurship-and-family-business-bba-29
+2026-03-23 18:13:45,918 [INFO]   [U-1031] Homepage -> 9 programs
+2026-03-23 18:13:46,492 [INFO]   [U-1031] [s=19] +18 from https://www.lordsuni.edu.in/academics
+2026-03-23 18:13:47,068 [INFO]   [U-1031] [s=7] +3 from https://www.lordsuni.edu.in/blog/pgdca-course-india
+2026-03-23 18:13:47,666 [INFO]   [U-1031] [s=4] +9 from https://www.lordsuni.edu.in/law-school
+2026-03-23 18:13:47,752 [INFO]   [U-1102] [s=4] +1 from https://ljku.edu.in/program/holistic-early-childhood-education-39
+2026-03-23 18:13:47,752 [INFO]   [U-1102] DONE -> 50 programs in 4 groups
+2026-03-23 18:13:47,754 [INFO]   [U-0379] GET https://www.lpu.in
+2026-03-23 18:13:47,755 [INFO] [3/700] OK LOK JAGRUTI KENDRA UNIVERSITY -- 50 programs
+2026-03-23 18:13:48,159 [INFO]   [U-0379] Homepage -> 6 programs
+2026-03-23 18:13:48,279 [INFO]   [U-1031] [s=4] +5 from https://www.lordsuni.edu.in/school-of-physiotherapy
+2026-03-23 18:13:48,870 [INFO]   [U-1031] [s=4] +5 from https://www.lordsuni.edu.in/science-school
+2026-03-23 18:13:49,843 [INFO]   [U-0379] [s=14] +47 from https://www.lpu.in/programmes/all/diploma-or-certificate
+2026-03-23 18:13:51,054 [INFO]   [U-0379] [s=14] +33 from https://www.lpu.in/admission/after-doctoral-programmes.php
+2026-03-23 18:13:53,538 [INFO]   [U-1031] [s=2] +98 from https://www.lordsuni.edu.in/s/LU-PhD-Brochure.pdf
+2026-03-23 18:13:53,543 [INFO]   [U-1031] DONE -> 147 programs in 8 groups
+2026-03-23 18:13:53,552 [INFO] [4/700] OK LORDS UNIVERSITY -- 147 programs
+2026-03-23 18:13:53,554 [INFO]   [U-1213] GET https://msuniversity.ac.in
+2026-03-23 18:13:53,556 [INFO] [5/700] -- Maa Pateswari University -- 0 programs
+2026-03-23 18:13:53,852 [INFO]   [U-1236] DONE -> 28 programs in 1 groups
+2026-03-23 18:13:53,856 [INFO]   [U-1413] GET http://mvvu.ac.in
+2026-03-23 18:13:53,856 [INFO] [6/700] OK LNCT VIDHYAPEETH UNIVERSITY -- 28 programs
+2026-03-23 18:13:54,119 [INFO]   [U-1213] Homepage -> 9 programs
+2026-03-23 18:13:59,575 [INFO]   [U-1213] [s=19] +22 from https://msuniversity.ac.in/academics/courses
+2026-03-23 18:13:59,686 [INFO]   [U-1413] Homepage -> 9 programs
+2026-03-23 18:14:04,504 [INFO]   [U-1413] [s=15] +49 from https://mvvu.ac.in/syllabus#ug
+2026-03-23 18:14:11,172 [INFO]   [U-1413] DONE -> 58 programs in 1 groups
+2026-03-23 18:14:11,204 [INFO]   [U-1421] GET https://mits.ac.in/university
+2026-03-23 18:14:11,205 [INFO] [7/700] OK Maa Vindhyavasini University -- 58 programs
+2026-03-23 18:14:12,851 [INFO]   [U-1421] Homepage -> 13 programs
+2026-03-23 18:14:33,036 [INFO]   [U-1421] [s=15] +2349 from https://mits.ac.in/ugc-autonomous-exam-portal
+2026-03-23 18:14:34,482 [INFO]   [U-1421] [s=12] +11 from https://mits.ac.in/programmes
+2026-03-23 18:14:36,051 [INFO]   [U-1421] [s=9] +17 from https://mits.ac.in/positionsoffered
+2026-03-23 18:14:45,843 [INFO]   [U-1421] [s=4] +7 from https://mits.ac.in/ugprogrammes
+2026-03-23 18:14:54,809 [INFO]   [U-1421] [s=4] +5 from https://mits.ac.in/pgprogrammes
+2026-03-23 18:15:03,682 [INFO]   [U-1213] [s=8] +654 from https://msuniversity.ac.in/uploads/news/gallery/1773750198_3aec21c215b63930c621.pdf
+2026-03-23 18:15:05,329 [INFO]   [U-1421] [s=4] +2 from https://mits.ac.in/school-of-computing
+2026-03-23 18:15:08,345 [INFO]   [U-1213] [s=8] +65 from https://msuniversity.ac.in/uploads/news/gallery/1755067861_7bac75681b4b46041067.pdf
+2026-03-23 18:15:08,567 [INFO]   [U-1421] [s=4] +2 from https://mits.ac.in/school-of-management
+2026-03-23 18:15:14,272 [INFO]   [U-1421] [s=4] +1 from https://mits.ac.in/academic-regulations
+2026-03-23 18:15:15,065 [INFO]   [U-1213] [s=4] +2 from https://msuniversity.ac.in/academic/syllabus
+2026-03-23 18:15:15,449 [INFO]   [U-1421] [s=4] +7 from https://mits.ac.in/academic-calenders
+2026-03-23 18:15:17,261 [INFO]   [U-1421] [s=4] +1 from https://mits.ac.in/academic-syllabus
+2026-03-23 18:15:18,638 [INFO]   [U-1421] [s=4] +61 from https://mits.ac.in/faculty-information
+2026-03-23 18:15:20,221 [INFO]   [U-1213] [s=2] +250 from https://msuniversity.ac.in/press-release-and-notification
+2026-03-23 18:15:20,266 [INFO]   [U-1213] DONE -> 1002 programs in 1 groups
+2026-03-23 18:15:20,291 [INFO]   [U-0739] GET https://www.mmmut.ac.in
+2026-03-23 18:15:20,292 [INFO] [8/700] OK MAA SHAKUMBHARI UNIVERSITY -- 1002 programs
+2026-03-23 18:15:34,044 [INFO]   [U-1421] [s=4] +37 from https://mits.ac.in/department/9
+2026-03-23 18:15:34,527 [INFO]   [U-0379] [s=12] +4 from https://www.lpu.in/admission/short-term-courses.php
+2026-03-23 18:15:37,549 [INFO]   [U-1421] [s=4] +21 from https://mits.ac.in/department/26
+2026-03-23 18:15:39,353 [INFO]   [U-0739] Homepage -> 14 programs
+2026-03-23 18:15:42,335 [INFO]   [U-1421] [s=4] +14 from https://mits.ac.in/department/6
+2026-03-23 18:15:49,152 [INFO]   [U-1421] [s=4] +35 from https://mits.ac.in/department/8
+2026-03-23 18:15:51,935 [INFO]   [U-0739] [s=11] +76 from https://mmmut.ac.in/News_content/33242notice_08192025.pdf
+2026-03-23 18:15:56,735 [INFO]   [U-0739] [s=5] +25 from https://www.mmmut.ac.in/pg_admission.aspx
+2026-03-23 18:15:58,784 [INFO]   [U-0379] DONE -> 90 programs in 1 groups
+2026-03-23 18:15:58,789 [INFO]   [U-1068] GET https://madhabdevuniversity.ac.in
+2026-03-23 18:15:58,789 [INFO] [9/700] OK Lovely Professional University -- 90 programs
+2026-03-23 18:15:59,188 [INFO]   [U-1068] Homepage -> 9 programs
+2026-03-23 18:15:59,835 [INFO]   [U-1068] [s=19] +7 from https://madhabdevuniversity.ac.in/courses.php
+2026-03-23 18:16:01,872 [INFO]   [U-1068] [s=15] +25 from https://madhabdevuniversity.ac.in/Notice_for_UG_&_PG_Programme_revision_of_Syllabus.pdf
+2026-03-23 18:16:02,727 [INFO]   [U-0739] [s=5] +60 from https://www.mmmut.ac.in/ug_admission.aspx
+2026-03-23 18:16:10,914 [INFO]   [U-1068] [s=14] +22 from https://madhabdevuniversity.ac.in/Notice_for_all_departments_add_on_courses.pdf
+2026-03-23 18:16:11,190 [INFO]   [U-1421] [s=4] +16 from https://mits.ac.in/department/11
+2026-03-23 18:16:15,356 [INFO]   [U-1068] [s=4] +105 from https://madhabdevuniversity.ac.in/Academic_talk_on_23.03.2026.pdf
+2026-03-23 18:16:16,568 [INFO]   [U-0739] [s=4] +2 from https://www.mmmut.ac.in/HonoraryDegreeRecipient.aspx
+2026-03-23 18:16:20,515 [INFO]   [U-1068] [s=4] +110 from https://madhabdevuniversity.ac.in/ISL_WINTER_INTERNSHIP_TRAINING_PROGRAMME_2026.pdf
+2026-03-23 18:16:24,498 [INFO]   [U-1421] [s=4] +64 from https://mits.ac.in/department/5
+2026-03-23 18:16:24,498 [INFO]   [U-1421] DONE -> 2663 programs in 1 groups
+2026-03-23 18:16:24,548 [INFO]   [U-1329] GET https://www.mitsgwalior.in
+2026-03-23 18:16:24,548 [INFO] [10/700] OK Madanapalle Institute of Technology and Science MITS -- 2663 programs
+2026-03-23 18:16:31,166 [INFO]   [U-1068] [s=4] +66 from https://madhabdevuniversity.ac.in/Notice_for_PhD_Research_Scholars_Supervisor_allotted_list_2024-25_batch.pdf
+2026-03-23 18:16:37,344 [INFO]   [U-0739] [s=4] +168 from https://www.mmmut.ac.in/pdf/Final_degree_migration_Rules.pdf
+2026-03-23 18:16:37,967 [INFO]   [U-1068] [s=4] +22 from https://madhabdevuniversity.ac.in/Notice_for_SEC_&_AEC_Course.pdf
+2026-03-23 18:16:39,100 [INFO]   [U-1329] Homepage -> 59 programs
+2026-03-23 18:16:41,426 [INFO]   [U-0739] [s=4] +35 from https://www.mmmut.ac.in/pdf/FacultySeniorityList.pdf
+2026-03-23 18:16:57,627 [INFO]   [U-1068] [s=4] +10 from https://madhabdevuniversity.ac.in/Notice_for_Course_of_preference_by_students_for_AEC,_MDC,_VAC_and_SEC.pdf
+2026-03-23 18:16:57,909 [INFO]   [U-1329] [s=19] +25 from https://web.mitsgwalior.in/academics/courses
+2026-03-23 18:17:02,532 [INFO]   [U-0739] [s=3] +10 from https://www.mmmut.ac.in/News_content/33202news_07092025095432.pdf
+2026-03-23 18:17:02,533 [INFO]   [U-0739] DONE -> 390 programs in 2 groups
+2026-03-23 18:17:02,548 [INFO]   [U-0698] GET https://www.madhavuniversity.edu.in
+2026-03-23 18:17:02,549 [INFO] [11/700] OK MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, -- 390 programs
+2026-03-23 18:17:05,043 [INFO]   [U-1068] [s=4] +69 from https://madhabdevuniversity.ac.in/Notice_for_Course_of_preference_of_AEC,_MDC,_VAC_and_SEC.pdf
+2026-03-23 18:17:05,433 [INFO]   [U-0698] Homepage -> 10 programs
+2026-03-23 18:17:06,424 [INFO]   [U-0698] [s=17] +4 from https://www.madhavuniversity.edu.in/pg-diploma-program/
+2026-03-23 18:17:11,288 [INFO]   [U-0698] [s=14] +9 from https://www.madhavuniversity.edu.in/doctoral-program/
+2026-03-23 18:17:17,950 [INFO]   [U-0698] [s=12] +17 from https://www.madhavuniversity.edu.in/bachelors-program/
+2026-03-23 18:17:23,657 [INFO]   [U-0698] [s=12] +14 from https://www.madhavuniversity.edu.in/masters-program/
+2026-03-23 18:17:33,574 [INFO]   [U-1212] [s=3] +883 from https://www.lokbharatiuniversity.edu.in/wp-content/uploads/2025/08/UGC-Proforma-Disclosure_compressed.pdf
+2026-03-23 18:17:33,642 [INFO]   [U-1212] DONE -> 923 programs in 3 groups
+2026-03-23 18:17:33,669 [INFO]   [U-1184] GET https://www.mlu.ac.in
+2026-03-23 18:17:33,670 [INFO] [12/700] OK LOKBHARTI UNIVERSITY FOR RURAL INNOVATION -- 923 programs
+2026-03-23 18:17:33,824 [INFO]   [U-0698] [s=6] +5 from https://www.madhavuniversity.edu.in/faculty/physical-education/
+2026-03-23 18:17:34,622 [INFO]   [U-1184] Homepage -> 16 programs
+2026-03-23 18:17:48,770 [INFO]   [U-1068] [s=3] +480 from https://madhabdevuniversity.ac.in/FORM_FILLUP_NOTICE_FYUGP_Sem_2_4_6_Regular_Backlog_FormFillup_Samarth_Candidates.pdf
+2026-03-23 18:17:48,775 [INFO]   [U-1068] DONE -> 925 programs in 1 groups
+2026-03-23 18:17:48,796 [INFO]   [U-0941] GET https://www.mpu.ac.in
+2026-03-23 18:17:48,799 [INFO] [13/700] OK Madhabdev University -- 925 programs
+2026-03-23 18:17:49,485 [INFO]   [U-0941] Homepage -> 15 programs
+2026-03-23 18:17:49,953 [INFO]   [U-1184] [s=4] +7 from https://www.mlu.ac.in/academic-council-members
+2026-03-23 18:17:50,237 [INFO]   [U-0941] [s=24] +63 from https://mpu.ac.in/CoursesOffered
+2026-03-23 18:17:50,349 [INFO]   [U-0698] [s=4] +2 from https://www.madhavuniversity.edu.in/faculty/homoeopathy/
+2026-03-23 18:17:51,250 [INFO]   [U-0698] [s=4] +1 from https://www.madhavuniversity.edu.in/faculty/naturopathy-and-yoga/
+2026-03-23 18:17:51,893 [INFO]   [U-0698] [s=4] +3 from https://www.madhavuniversity.edu.in/faculty/pharmacy/
+2026-03-23 18:17:54,872 [INFO]   [U-0941] [s=15] +117 from https://mpu.ac.in/uploads/2025/exam-form-notification/EXAM%20FORM%20FILLING%20NOTIFICATION%20VIII,%20VII,VI%20&%20V%20SEMESTER.pdf
+2026-03-23 18:17:55,140 [INFO]   [U-0698] [s=4] +2 from https://www.madhavuniversity.edu.in/faculty/physiotherapy/
+2026-03-23 18:17:55,524 [INFO]   [U-0941] [s=12] +2 from https://mpu.ac.in/beyond-academics
+2026-03-23 18:17:55,706 [INFO]   [U-0698] [s=4] +1 from https://www.madhavuniversity.edu.in/faculty/nursing/
+2026-03-23 18:17:57,004 [INFO]   [U-0698] [s=4] +1 from https://www.madhavuniversity.edu.in/faculty/clinical-psychology/
+2026-03-23 18:17:57,254 [INFO]   [U-0941] [s=4] +19 from https://mpu.ac.in/faculty-of-commerce-and-management
+2026-03-23 18:17:57,633 [INFO]   [U-0698] [s=4] +5 from https://www.madhavuniversity.edu.in/faculty/humanities-and-social-sciences/
+2026-03-23 18:17:58,253 [INFO]   [U-0698] [s=4] +3 from https://www.madhavuniversity.edu.in/faculty/basic-and-applied-science/
+2026-03-23 18:17:58,253 [INFO]   [U-0698] DONE -> 77 programs in 12 groups
+2026-03-23 18:17:58,257 [INFO]   [U-0996] GET https://www.mpmsu.edu.in
+2026-03-23 18:17:58,258 [INFO] [14/700] OK MADHAV UNIVERSITY -- 77 programs
+2026-03-23 18:17:58,385 [INFO]   [U-0941] [s=4] +3 from https://mpu.ac.in/phd-course-work
+2026-03-23 18:17:59,025 [INFO]   [U-0996] Homepage -> 6 programs
+2026-03-23 18:18:01,568 [INFO]   [U-0941] [s=4] +68 from https://mpu.ac.in/uploads/phd-enrollment-noti-2025/ENROLLMENT-FORM-COURSEWORK-EXAM-FORM-NOTIFICATION-JUNE%202026.pdf
+2026-03-23 18:18:04,916 [INFO]   [U-0941] [s=4] +57 from https://mpu.ac.in/uploads/enrollment-notification/ENROLLMENT-FROM-COURSEWORK-EXAM-FORM-NOV-2025.pdf
+2026-03-23 18:18:08,315 [INFO]   [U-0941] [s=4] +56 from https://mpu.ac.in/uploads/phd/notification/ENROLLMENT-COURSEWORK-NOTIFICATION-FOR-PhD-CANDIDATES.pdf
+2026-03-23 18:18:08,673 [INFO]   [U-0996] [s=4] +3 from https://www.mpmsu.edu.in/ug-degree-paramedical
+2026-03-23 18:18:09,276 [INFO]   [U-0941] [s=3] +2 from https://mpu.ac.in/uploads/neeti-2024//Speed%20post.jpg
+2026-03-23 18:18:09,283 [INFO]   [U-0941] DONE -> 402 programs in 9 groups
+2026-03-23 18:18:09,303 [INFO]   [U-0278] GET http://mpbou.edu.in
+2026-03-23 18:18:09,303 [INFO] [15/700] OK Madhyanchal Professional University -- 402 programs
+2026-03-23 18:18:09,309 [INFO]   [U-1184] [s=1] +1 from https://www.mlu.ac.in/courses-offered
+2026-03-23 18:18:09,419 [INFO]   [U-0996] [s=4] +2 from https://www.mpmsu.edu.in/pg-degree-paramedical
+2026-03-23 18:18:09,941 [INFO]   [U-0278] Homepage -> 6 programs
+2026-03-23 18:18:11,457 [INFO]   [U-0278] [s=15] +82 from https://mpbou.edu.in/jan-2026-session-
+2026-03-23 18:18:11,826 [INFO]   [U-1184] [s=1] +4 from https://www.mlu.ac.in/courses
+2026-03-23 18:18:12,174 [INFO]   [U-0278] [s=12] +15 from https://mpbou.edu.in/all-india-council-for-technical-education--program
+2026-03-23 18:18:12,958 [INFO]   [U-0278] [s=11] +37 from https://mpbou.edu.in/single-news?id=30
+2026-03-23 18:18:13,605 [INFO]   [U-0278] [s=7] +9 from https://mpbou.edu.in/ugc-programme-2023-2024
+2026-03-23 18:18:14,852 [INFO]   [U-1184] DONE -> 28 programs in 1 groups
+2026-03-23 18:18:14,855 [INFO]   [U-0462] GET https://www.unom.ac.in
+2026-03-23 18:18:14,856 [INFO] [16/700] OK MADHUSUDAN LAW UNIVERSITY -- 28 programs
+2026-03-23 18:18:15,083 [INFO]   [U-0278] [s=4] +2 from https://mpbou.edu.in/academics-coordination
+2026-03-23 18:18:15,953 [INFO]   [U-0462] Homepage -> 29 programs
+2026-03-23 18:18:16,834 [INFO]   [U-0462] [s=17] +4 from https://www.unom.ac.in/webportal/uploads/announcements/elective-softskill-courses-revised_20201013102139_35992_20210225071128_92015.pdf
+2026-03-23 18:18:16,989 [INFO]   [U-0278] [s=4] +1 from https://mpbou.edu.in/department-of-special-education
+2026-03-23 18:18:17,725 [INFO]   [U-0278] [s=4] +10 from https://mpbou.edu.in/school-of-basic-science
+2026-03-23 18:18:22,941 [INFO]   [U-0278] DONE -> 162 programs in 3 groups
+2026-03-23 18:18:23,178 [INFO]   [U-0463] GET https://www.mkuniversity.ac.in
+2026-03-23 18:18:23,211 [INFO] [17/700] OK Madhya Pradesh Bhoj Open University, Bhopal -- 162 programs
+2026-03-23 18:18:28,045 [WARNING]   [U-0463] Unreachable
+2026-03-23 18:18:28,077 [INFO]   [U-0069] GET https://www.magadhuniversity.ac.in
+2026-03-23 18:18:28,118 [INFO] [18/700] -- Madurai Kamaraj University, Madurai -- 0 programs
+2026-03-23 18:18:31,173 [INFO]   [U-0462] [s=13] +51 from https://www.unom.ac.in/webportal/uploads/announcements/Mphil_Circular_20240426134315_67983.pdf
+2026-03-23 18:18:31,905 [INFO]   [U-0996] [s=4] +497 from https://www.mpmsu.edu.in/uploads/files/revices_academic_calender.pdf
+2026-03-23 18:18:32,522 [INFO]   [U-0462] [s=13] +5 from https://www.unom.ac.in/webportal/uploads/announcements/counselling-advertisement-application-form_20170516045153_36934.pdf
+2026-03-23 18:18:34,181 [INFO]   [U-0462] [s=12] +33 from https://www.unom.ac.in/webportal/uploads/announcements/DEPARTMENTSPROFORMA_20131023053209_3337_20250814121658_84681.doc
+2026-03-23 18:18:36,687 [INFO]   [U-0996] [s=2] +81 from https://www.mpmsu.edu.in/uploads/files/notification1.pdf
+2026-03-23 18:18:36,693 [INFO]   [U-0996] DONE -> 589 programs in 1 groups
+2026-03-23 18:18:36,709 [INFO]   [U-1230] GET https://WWW.MAMUNI.EDU.IN
+2026-03-23 18:18:36,712 [INFO] [19/700] OK MADHYA PRADESH AYURVIGYAN VISHWAVIDHLAYA, JABALPUR -- 589 programs
+2026-03-23 18:18:38,056 [INFO]   [U-0462] [s=10] +20 from https://www.unom.ac.in/webportal/uploads/announcements/STANDALONEINSTITUTIONSPROFORMA_20250814120812_99667.doc
+2026-03-23 18:18:41,254 [INFO]   [U-0462] [s=10] +35 from https://www.unom.ac.in/webportal/uploads/announcements/Admission_20250421114258_65361.pdf
+2026-03-23 18:18:41,619 [INFO]   [U-1329] DONE -> 84 programs in 1 groups
+2026-03-23 18:18:41,627 [INFO]   [U-1131] GET https://www.mku.ac.in
+2026-03-23 18:18:41,628 [INFO] [20/700] OK Madhav Institute of Technology and Science -- 84 programs
+2026-03-23 18:18:41,850 [INFO]   [U-1230] Homepage -> 18 programs
+2026-03-23 18:18:42,013 [INFO]   [U-0462] [s=8] +5 from https://www.unom.ac.in/index.php?route=research/research/departments
+2026-03-23 18:18:42,533 [INFO]   [U-0069] DONE -> 0 programs in 0 groups
+2026-03-23 18:18:42,536 [INFO]   [U-0812] GET https://www.mssv.ac.in
+2026-03-23 18:18:42,536 [INFO] [21/700] -- Magadh University, Bodh Gaya -- 0 programs
+2026-03-23 18:18:43,115 [INFO]   [U-0462] [s=8] +16 from https://www.unom.ac.in/webportal/uploads/announcements/arts-science-college-proforma_20250814120459_53920.docx
+2026-03-23 18:18:43,637 [INFO]   [U-0812] Homepage -> 14 programs
+2026-03-23 18:18:45,314 [INFO]   [U-0462] [s=4] +51 from https://www.unom.ac.in/webportal/uploads/authorities/Academic_13032026.pdf
+2026-03-23 18:18:45,516 [INFO]   [U-0812] [s=12] +6 from https://www.mssv.ac.in/frontendpages/index/undegree
+2026-03-23 18:18:46,048 [INFO]   [U-1131] Homepage -> 3 programs
+2026-03-23 18:18:46,618 [INFO]   [U-0462] [s=4] +15 from https://www.unom.ac.in/webportal/uploads/academics/organogram_academic.pdf
+2026-03-23 18:18:47,344 [INFO]   [U-0462] [s=4] +5 from https://www.unom.ac.in/webportal/uploads/announcements/faculty-noc-forms_20190625115122_9094.pdf
+2026-03-23 18:18:47,619 [INFO]   [U-1131] [s=24] +1 from https://mku.ac.in/academic-programs/
+2026-03-23 18:18:48,418 [INFO]   [U-0812] [s=4] +27 from https://www.mssv.ac.in/frontendpages/index/masterdegree
+2026-03-23 18:18:48,617 [INFO]   [U-1230] [s=4] +2 from https://mamuni.edu.in/faculty-of-information-science-management-fism/
+2026-03-23 18:18:48,762 [INFO]   [U-1131] [s=12] +32 from https://mku.ac.in/faculties-departments/
+2026-03-23 18:18:49,834 [INFO]   [U-1230] [s=4] +1 from https://mamuni.edu.in/faculty-of-paramedical-science/
+2026-03-23 18:18:51,064 [INFO]   [U-0812] [s=3] +32 from https://mssv.ac.in/media-library/uploads/1oWziXnZ3SgJaog2ChNfdXhawC17dmaqXN4OLcfv.pdf
+2026-03-23 18:18:51,065 [INFO]   [U-0812] DONE -> 79 programs in 1 groups
+2026-03-23 18:18:51,069 [INFO]   [U-0671] GET https://www.mau.ac.in
+2026-03-23 18:18:51,070 [INFO] [22/700] OK MAHAPURUSHA SRIMANTA SANKARADEVA VISWAVIDYALAYA -- 79 programs
+2026-03-23 18:18:51,778 [INFO]   [U-0671] Homepage -> 10 programs
+2026-03-23 18:18:52,481 [INFO]   [U-0671] [s=20] +22 from https://www.mau.ac.in/maufees.php
+2026-03-23 18:18:55,949 [INFO]   [U-1131] [s=4] +1 from https://mku.ac.in/academic-calendar/
+2026-03-23 18:18:56,843 [INFO]   [U-0671] [s=12] +1 from https://www.mau.ac.in/procedure-policy-for-physical-academic-and-support-facilities.php
+2026-03-23 18:18:57,093 [INFO]   [U-1230] [s=3] +1 from https://mamuni.edu.in/pgdmlt/
+2026-03-23 18:18:58,664 [INFO]   [U-0671] [s=5] +2 from https://www.mau.ac.in/news.php?newsid=122
+2026-03-23 18:18:59,294 [INFO]   [U-0671] [s=4] +5 from https://www.mau.ac.in/school-of-pharmacyMASOP.php
+2026-03-23 18:19:00,234 [INFO]   [U-0671] [s=4] +2 from https://www.mau.ac.in/school-of-managementMASOM.php
+2026-03-23 18:19:01,134 [INFO]   [U-0671] [s=4] +5 from https://www.mau.ac.in/school-of-lawMASOL.php
+2026-03-23 18:19:01,480 [INFO]   [U-1131] [s=4] +3 from https://mku.ac.in/department-of-aviation-management/
+2026-03-23 18:19:01,765 [INFO]   [U-0671] [s=4] +1 from https://www.mau.ac.in/school-of-basic-and-applied-sciencesSBAS.php
+2026-03-23 18:19:02,629 [INFO]   [U-1131] [s=4] +1 from https://mku.ac.in/mahakaushal-university-signs-mou-with-shinawatra-university-bangkok-for-academic-collaboration/
+2026-03-23 18:19:03,642 [INFO]   [U-0671] [s=4] +10 from https://www.mau.ac.in/school-of-law.php
+2026-03-23 18:19:04,315 [INFO]   [U-0671] [s=4] +8 from https://www.mau.ac.in/school-of-pharmacy.php
+2026-03-23 18:19:18,851 [INFO]   [U-0671] DONE -> 66 programs in 1 groups
+2026-03-23 18:19:19,112 [INFO]   [U-0839] GET https://mbbuniversity.ac.in
+2026-03-23 18:19:19,140 [INFO] [23/700] OK MAHARAJA AGRASEN UNIVERSITY -- 66 programs
+2026-03-23 18:19:24,728 [INFO]   [U-0462] [s=4] +33 from https://www.unom.ac.in/webportal/uploads/common/academic_calendar_2024_25.pdf
+2026-03-23 18:19:24,962 [INFO]   [U-0839] Homepage -> 12 programs
+2026-03-23 18:19:25,374 [INFO]   [U-0462] [s=3] +6 from https://www.unom.ac.in/index.php?route=examinations/cbcsugcode
+2026-03-23 18:19:25,380 [INFO]   [U-0462] DONE -> 308 programs in 1 groups
+2026-03-23 18:19:25,398 [INFO]   [U-0810] GET https://mcbu.ac.in
+2026-03-23 18:19:25,398 [INFO] [24/700] OK Madras University, Chennai -- 308 programs
+2026-03-23 18:19:27,773 [INFO]   [U-0810] Homepage -> 11 programs
+2026-03-23 18:19:32,014 [INFO]   [U-0839] [s=15] +171 from https://mbbuniversity.ac.in/sites/default/files/documents/Notification%20regarding%20interview%20of%20guest%20faculties%20for%20PG%20departments.pdf
+2026-03-23 18:19:32,032 [INFO]   [U-0810] [s=21] +4 from https://mcbu.ac.in/diploma-courses?id=NA==
+2026-03-23 18:19:32,675 [INFO]   [U-0810] [s=15] +1 from https://mcbu.ac.in/faculties
+2026-03-23 18:19:33,232 [INFO]   [U-0810] [s=12] +3 from https://mcbu.ac.in/courses-offered-ug-pg?id=MQ==
+2026-03-23 18:19:33,823 [INFO]   [U-0810] [s=12] +4 from https://mcbu.ac.in/courses-offered-ug-pg?id=Mg==
+2026-03-23 18:19:37,447 [INFO]   [U-0839] [s=15] +151 from https://mbbuniversity.ac.in/sites/default/files/documents/Advertisement%20for%20Walk-in-Interview%20for%20contractual%20posts%20of%20%20Guest%20Teacher%20PG%20Departments%20of%20%20MBB%20University.PDF
+2026-03-23 18:19:37,472 [INFO]   [U-0810] [s=12] +1 from https://mcbu.ac.in/certificate-courses?id=NQ==
+2026-03-23 18:19:43,013 [INFO]   [U-0810] [s=9] +2 from https://mcbu.ac.in/courses-offered-phd?id=Mw==
+2026-03-23 18:19:57,544 [INFO]   [U-1230] DONE -> 22 programs in 1 groups
+2026-03-23 18:19:57,667 [INFO]   [U-0406] GET https://www.mgsubikaner.ac.in
+2026-03-23 18:19:57,667 [INFO] [25/700] OK MAGANBHAI ADENWALA MAHAGUJARAT UNIVERSITY -- 22 programs
+2026-03-23 18:20:00,336 [INFO]   [U-1131] [s=3] +675 from https://mku.ac.in/wp-content/uploads/2025/11/ugc-Proforma.pdf
+2026-03-23 18:20:00,370 [INFO]   [U-1131] DONE -> 716 programs in 1 groups
+2026-03-23 18:20:00,389 [INFO]   [U-0124] GET http://www.mkbhavuni.edu.in
+2026-03-23 18:20:00,390 [INFO] [26/700] OK MAHAKAUSHAL UNIVERSITY -- 716 programs
+2026-03-23 18:20:00,600 [INFO]   [U-0810] [s=2] +1 from https://mcbu.ac.in/gallery
+2026-03-23 18:20:01,526 [INFO]   [U-0839] [s=12] +44 from https://mbbuniversity.ac.in/sites/default/files/documents/1497%20Advertisement%20for%20engagement%20of%20Teacher%20on%20purely%20temporary%20basis%20for%20the%20Departments%20of%20Biotechnology%2C%20Management%20and%20Compter%20Science..PDF
+2026-03-23 18:20:01,826 [INFO]   [U-0406] Homepage -> 39 programs
+2026-03-23 18:20:01,994 [INFO]   [U-0124] Homepage -> 15 programs
+2026-03-23 18:20:03,868 [INFO]   [U-0839] [s=7] +24 from https://mbbuniversity.ac.in/sites/default/files/documents/Rescheduled%20Program%20dated%2022nd%20Jan-2026%20of%20UG%20Fifth%20Semester%20Examinations-2025%20%28as%20per%20NEP-2020%29..PDF
+2026-03-23 18:20:06,036 [INFO]   [U-0124] [s=6] +10 from https://www.mkbhavuni.edu.in/bhavuni-academic-new/online-hallticket/index.php
+2026-03-23 18:20:06,228 [INFO]   [U-0810] [s=2] +777 from https://mcbu.ac.in/news-updates
+2026-03-23 18:20:06,338 [INFO]   [U-0810] DONE -> 804 programs in 1 groups
+2026-03-23 18:20:06,357 [INFO]   [U-0811] GET https://www.mrsptu.ac.in
+2026-03-23 18:20:06,357 [INFO] [27/700] OK MAHARAJA CHHATRASAL BUNDELKHAND UNIVERSITY -- 804 programs
+2026-03-23 18:20:06,854 [INFO]   [U-0406] [s=19] +6 from https://www.mgsubikaner.ac.in/department/computer-science
+2026-03-23 18:20:09,672 [INFO]   [U-0839] [s=7] +61 from https://mbbuniversity.ac.in/sites/default/files/documents/Advertisement%20for%20appointment%20of%20Guest%20Teacher%20in%20%20PG%20Department%20of%20Mathematics.pdf
+2026-03-23 18:20:09,863 [INFO]   [U-0406] [s=17] +6 from https://www.mgsubikaner.ac.in/course-programmes
+2026-03-23 18:20:14,905 [INFO]   [U-0811] Homepage -> 228 programs
+2026-03-23 18:20:15,246 [INFO]   [U-0406] [s=15] +5 from https://www.mgsubikaner.ac.in/facalties
+2026-03-23 18:20:16,505 [INFO]   [U-0839] [s=4] +2 from https://mbbuniversity.ac.in/programme-outcome
+2026-03-23 18:20:17,767 [INFO]   [U-0811] [s=24] +1 from https://mrsptu.ac.in/courses_offered.php
+2026-03-23 18:20:17,952 [INFO]   [U-0839] [s=4] +1 from https://mbbuniversity.ac.in/seminar-organised-department
+2026-03-23 18:20:19,246 [INFO]   [U-0124] DONE -> 25 programs in 1 groups
+2026-03-23 18:20:19,357 [INFO]   [U-0406] [s=12] +39 from https://mgsubikaner.ac.in/PDF/details-of-programmes-with-faculities.pdf
+2026-03-23 18:20:19,358 [INFO] [28/700] OK Maharaja Krishnakumarsinhji Bhavnagar University -- 25 programs
+2026-03-23 18:20:19,358 [INFO]   [U-0143] GET https://msubaroda.ac.in
+2026-03-23 18:20:20,276 [INFO]   [U-0406] [s=9] +1 from https://www.mgsubikaner.ac.in/degrees-offered
+2026-03-23 18:20:20,571 [INFO]   [U-0143] Homepage -> 7 programs
+2026-03-23 18:20:20,703 [INFO]   [U-0839] [s=4] +2 from https://mbbuniversity.ac.in/programme_outcome_library_sc
+2026-03-23 18:20:22,702 [INFO]   [U-0143] [s=12] +7 from https://msubaroda.ac.in/Professional_Courses
+2026-03-23 18:20:23,601 [INFO]   [U-0143] [s=8] +1 from https://msubaroda.ac.in/deans
+2026-03-23 18:20:23,844 [INFO]   [U-0839] [s=4] +2 from https://mbbuniversity.ac.in/english_programme_outcome
+2026-03-23 18:20:27,547 [INFO]   [U-0811] [s=17] +127 from https://www.mrsptu.ac.in/uploads/daa_notices/courses/REVISED - Proposed New Programmes (Non-AICTE) for Affiliated Colleges from 2018 Batch updated on 13.02.2018.pdf
+2026-03-23 18:20:28,046 [INFO]   [U-0143] [s=7] +1 from https://msubaroda.ac.in/Admission_PhD
+2026-03-23 18:20:30,255 [INFO]   [U-0811] [s=17] +43 from https://www.mrsptu.ac.in/uploads2023/general_notices/Notice - regarding two programmes offered in English and Punjabi mediums.pdf
+2026-03-23 18:20:30,718 [INFO]   [U-0839] [s=4] +2 from https://mbbuniversity.ac.in/programme_outcome_politicla_sc
+2026-03-23 18:20:33,420 [INFO]   [U-0811] [s=17] +60 from https://www.mrsptu.ac.in/uploads2022/general_notices/Notification -146 Courses offered in Main Campus & PIT Arniwala for session 2022-23.pdf
+2026-03-23 18:20:37,769 [INFO]   [U-0811] [s=17] +49 from https://www.mrsptu.ac.in/uploads2021/daa_notices/Office order - Starting of offline classes for all UG_PG courses in University Main Campus, PITs, Constituents, Affiliated colleges.pdf
+2026-03-23 18:20:38,917 [INFO]   [U-0143] [s=4] +3 from https://msubaroda.ac.in/Academic_Profile
+2026-03-23 18:20:39,787 [INFO]   [U-0406] [s=4] +2 from https://www.mgsubikaner.ac.in/department/english
+2026-03-23 18:20:45,287 [INFO]   [U-0143] [s=4] +7 from https://msubaroda.ac.in/Faculty_Board
+2026-03-23 18:20:45,926 [INFO]   [U-0839] [s=4] +1 from https://mbbuniversity.ac.in/academic-council
+2026-03-23 18:20:45,931 [INFO]   [U-0839] DONE -> 473 programs in 1 groups
+2026-03-23 18:20:45,956 [INFO]   [U-0359] GET https://www.nou.nic.in
+2026-03-23 18:20:45,962 [INFO] [29/700] OK MAHARAJA BIR BIKRAM UNIVERSITY, AGARTALA -- 473 programs
+2026-03-23 18:20:47,388 [INFO]   [U-0359] Homepage -> 11 programs
+2026-03-23 18:20:50,350 [INFO]   [U-0143] [s=4] +15 from https://msubaroda.ac.in/academics/FOA
+2026-03-23 18:20:53,817 [INFO]   [U-0143] [s=4] +9 from https://msubaroda.ac.in/academics/FOS
+2026-03-23 18:20:59,481 [INFO]   [U-0406] DONE -> 98 programs in 2 groups
+2026-03-23 18:20:59,615 [INFO]   [U-1265] GET https://www.msdsu.ac.in
+2026-03-23 18:20:59,663 [INFO] [30/700] OK Maharaja Ganga Singh University, Bikaner -- 98 programs
+2026-03-23 18:21:03,577 [INFO]   [U-0143] [s=4] +6 from https://msubaroda.ac.in/academics/FEP
+2026-03-23 18:21:12,660 [INFO]   [U-1265] Homepage -> 18 programs
+2026-03-23 18:21:13,563 [INFO]   [U-0143] [s=4] +3 from https://msubaroda.ac.in/academics/FOC
+2026-03-23 18:21:24,332 [INFO]   [U-0143] [s=4] +13 from https://msubaroda.ac.in/academics/FTE
+2026-03-23 18:21:25,000 [INFO]   [U-0811] [s=17] +326 from https://www.mrsptu.ac.in/uploads/daa_notices/notices/Schedule for Semester Fee Deposition, Submission of Registration & Improvement Forms for the Session JAN-MAY-2019 (All UG & PG Course from 2016 batch onwards).pdf
+2026-03-23 18:21:33,362 [INFO]   [U-0143] [s=4] +4 from https://msubaroda.ac.in/academics/FOL
+2026-03-23 18:21:43,581 [INFO]   [U-0143] [s=4] +7 from https://msubaroda.ac.in/academics/FFA
+2026-03-23 18:21:49,731 [INFO]   [U-0359] [s=12] +220 from https://www.nou.nic.in/Information-Brochure-for-Certificate-Courses.pdf
+2026-03-23 18:21:50,153 [INFO]   [U-0143] [s=4] +8 from https://msubaroda.ac.in/academics/FFCS
+2026-03-23 18:21:53,429 [INFO]   [U-0359] [s=12] +15 from https://www.nou.nic.in/Admission-Notice-CDOE-Certificate-Courses.pdf
+2026-03-23 18:21:54,339 [INFO]   [U-0143] [s=4] +2 from https://msubaroda.ac.in/academics/FSW
+2026-03-23 18:21:56,022 [INFO]   [U-0359] [s=4] +12 from https://www.nou.nic.in/OFFICE-ORDER-Guest-faculty-Appointment.pdf
+2026-03-23 18:21:57,295 [INFO]   [U-0143] [s=4] +2 from https://msubaroda.ac.in/academics/FPA
+2026-03-23 18:21:59,909 [INFO]   [U-0359] [s=4] +18 from https://www.nou.nic.in/equivalent-of-degrees(corrigendum).PDF
+2026-03-23 18:22:00,928 [INFO]   [U-0143] [s=4] +3 from https://msubaroda.ac.in/academics/FMS
+2026-03-23 18:22:00,971 [INFO]   [U-0143] DONE -> 98 programs in 6 groups
+2026-03-23 18:22:01,103 [INFO]   [U-0793] GET https://www.msbrijuniversity.ac.in
+2026-03-23 18:22:01,104 [INFO] [31/700] OK Maharaja Sayajirao University of Baroda, Vadodara -- 98 programs
+2026-03-23 18:22:11,679 [WARNING]   [U-0793] Unreachable
+2026-03-23 18:22:11,749 [INFO]   [U-0965] GET https://www.mvgu.ac.in
+2026-03-23 18:22:11,772 [INFO] [32/700] -- MAHARAJA SURAJMAL BRIJ UNIVERSITY -- 0 programs
+2026-03-23 18:22:25,733 [INFO]   [U-0359] [s=4] +56 from https://www.nou.nic.in/equivalent-of-degrees.pdf
+2026-03-23 18:22:28,503 [INFO]   [U-0965] Homepage -> 46 programs
+2026-03-23 18:22:37,185 [INFO]   [U-0811] [s=17] +269 from https://www.mrsptu.ac.in/uploads/daa_notices/notices/Schedule for Semester Fee Deposition, Submission of Registration & Improvement Forms for the Session JANMAY-2019 (All UG & PG Course for students upto 2015 batch).pdf
+2026-03-23 18:22:40,906 [INFO]   [U-1265] DONE -> 18 programs in 1 groups
+2026-03-23 18:22:41,014 [INFO]   [U-1148] GET https://mhu.ac.in
+2026-03-23 18:22:41,016 [INFO] [33/700] OK Maharaja Suhel Dev State University -- 18 programs
+2026-03-23 18:22:42,030 [INFO]   [U-0965] [s=12] +33 from https://mvgu.ac.in/wp-content/uploads/2024/12/List-of-Existing-Running-Programms-Website.pdf
+2026-03-23 18:22:43,985 [INFO]   [U-1148] Homepage -> 1 programs
+2026-03-23 18:22:50,885 [INFO]   [U-0965] [s=4] +1 from https://mvgu.ac.in/mou-exchange-program/
+2026-03-23 18:22:58,725 [INFO]   [U-0359] [s=3] +114 from https://www.nou.nic.in/Unit-4.pdf
+2026-03-23 18:22:58,732 [INFO]   [U-0359] DONE -> 446 programs in 1 groups
+2026-03-23 18:22:58,786 [INFO]   [U-0407] GET https://www.mpuat.ac.in
+2026-03-23 18:22:58,786 [INFO] [34/700] OK Maharaja Sriram Chandra Bhanja Deo University -- 446 programs
+2026-03-23 18:23:00,581 [INFO]   [U-1148] [s=2] +20 from https://mhu.ac.in/downloads/files/n65cdc8cb0b1e7.pdf
+2026-03-23 18:23:02,596 [INFO]   [U-0407] Homepage -> 20 programs
+2026-03-23 18:23:08,296 [INFO]   [U-1148] DONE -> 21 programs in 1 groups
+2026-03-23 18:23:08,407 [INFO]   [U-1047] GET https://mcu.karnataka.gov.in
+2026-03-23 18:23:08,430 [INFO] [35/700] OK MAHARANA PRATAP HORTICULTURAL UNIVERSITY -- 21 programs
+2026-03-23 18:23:37,897 [INFO]   [U-0965] [s=4] +189 from https://mvgu.ac.in/wp-content/uploads/2024/12/Academic-Calender-Annual-Semester2024-25.pdf
+2026-03-23 18:24:02,375 [INFO]   [U-1047] [s=4] +9 from https://mcu.karnataka.gov.in/83/academic-committee/kn
+2026-03-23 18:24:11,617 [INFO]   [U-0965] [s=2] +76 from https://mvgu.ac.in/wp-content/uploads/2024/12/BALLB_2023_24.pdf
+2026-03-23 18:24:11,672 [INFO]   [U-0965] DONE -> 345 programs in 1 groups
+2026-03-23 18:24:11,985 [INFO]   [U-0187] GET https://www.mmusolan.org
+2026-03-23 18:24:11,992 [INFO] [36/700] OK MAHARAJ VINAYAK GLOBAL UNIVERSITY, JAIPUR -- 345 programs
+2026-03-23 18:24:14,707 [INFO]   [U-0407] [s=3] +102 from https://www.mpuat.ac.in/images/newsEvents/Dr%20C%20M%20Yadav%20awarded%20by%20Pratap%20Gaurav%20Samman%20on%2015.08.2025.pdf
+2026-03-23 18:24:14,711 [INFO]   [U-0407] DONE -> 122 programs in 1 groups
+2026-03-23 18:24:14,838 [INFO]   [U-0312] GET https://www.mafsu.in
+2026-03-23 18:24:14,840 [INFO] [37/700] OK Maharana Pratap University of Agriculture & Technology, Udaipur -- 122 programs
+2026-03-23 18:24:18,851 [INFO]   [U-0312] Homepage -> 15 programs
+2026-03-23 18:24:20,987 [INFO]   [U-0811] [s=17] +421 from https://www.mrsptu.ac.in/uploads2025/daa_notifications/Notification 227- Programmes offered in Main Campus_GZSCCET_PITs_PSAEC for session 2025-26.pdf
+2026-03-23 18:24:31,220 [INFO]   [U-0187] DONE -> 0 programs in 0 groups
+2026-03-23 18:24:31,302 [INFO]   [U-0605] GET https://mituniversityindia.edu.in
+2026-03-23 18:24:31,303 [INFO] [38/700] -- Maharashi Markandeshwar University, Solan -- 0 programs
+2026-03-23 18:24:33,592 [INFO]   [U-0811] [s=17] +62 from https://www.mrsptu.ac.in/uploads2025/daa_notifications/225_Notification_New_Programmes_offered_for_Main_Campus_GZSCCET_PITs_PSAEC_from_session_2025_26_onwards.pdf
+2026-03-23 18:24:35,522 [INFO]   [U-0605] Homepage -> 18 programs
+2026-03-23 18:24:43,486 [INFO]   [U-0811] [s=17] +46 from https://www.mrsptu.ac.in/uploads2025/daa_notifications/223_Notification_New_programmes_offered_for_Affiliated_Colleges_from_session_2025_26_onwards.pdf
+2026-03-23 18:24:44,638 [INFO]   [U-0605] [s=17] +4 from https://mituniversityindia.edu.in/academics/pg-programs/school-of-social-science/
+2026-03-23 18:24:51,879 [INFO]   [U-0811] [s=17] +56 from https://www.mrsptu.ac.in/uploads2025/daa_notifications/Revised_222_Notification_Programmes_offered_for_Affiliated_Colleges_for_session_2025_26_onwards.pdf
+2026-03-23 18:24:53,309 [INFO]   [U-0605] [s=15] +13 from https://mituniversityindia.edu.in/academics/pg-programs/school-of-management/
+2026-03-23 18:25:01,486 [INFO]   [U-0811] [s=17] +50 from https://www.mrsptu.ac.in/uploads2025/daa_notifications/221_Notification_Programmes_offered_for_Affiliated_Colleges_for_session_2025_26_onwards.pdf
+2026-03-23 18:25:02,902 [INFO]   [U-0605] [s=15] +3 from https://mituniversityindia.edu.in/academics/pg-programs/mit-id-shillong/
+2026-03-23 18:25:05,922 [INFO]   [U-0312] DONE -> 15 programs in 1 groups
+2026-03-23 18:25:05,955 [INFO]   [U-0915] GET https://mnlua.ac.in
+2026-03-23 18:25:05,963 [INFO] [39/700] OK Maharashtra Animal & Fishery Sciences University, Nagpur -- 15 programs
+2026-03-23 18:25:07,447 [INFO]   [U-0605] [s=15] +12 from https://mituniversityindia.edu.in/academics/pg-programs/school-of-liberal-studies/
+2026-03-23 18:25:09,565 [INFO]   [U-0915] Homepage -> 3 programs
+2026-03-23 18:25:10,937 [INFO]   [U-0605] [s=14] +5 from https://mituniversityindia.edu.in/academics/doctoral-programs/school-of-management/
+2026-03-23 18:25:14,918 [INFO]   [U-0605] [s=14] +6 from https://mituniversityindia.edu.in/academics/doctoral-programs/school-of-science-and-technology/
+2026-03-23 18:25:25,808 [INFO]   [U-0605] [s=7] +4 from https://mituniversityindia.edu.in/academics/ug-programs/mit-id-shillong/
+2026-03-23 18:25:32,595 [INFO]   [U-0915] [s=7] +178 from https://mnlua.ac.in/sites/default/files/2025-01/Academic%20Calendar%202024.pdf
+2026-03-23 18:25:33,205 [INFO]   [U-0605] [s=7] +3 from https://mituniversityindia.edu.in/academics/ug-programs/school-of-nursing/
+2026-03-23 18:25:44,758 [INFO]   [U-0605] [s=7] +11 from https://mituniversityindia.edu.in/admissions/ug-programs/mit-id-shillong/
+2026-03-23 18:25:50,257 [INFO]   [U-0915] [s=3] +19 from https://mnlua.ac.in/sites/default/files/2026-03/10.03.2026_0.pdf
+2026-03-23 18:25:50,309 [INFO]   [U-0915] DONE -> 200 programs in 1 groups
+2026-03-23 18:25:50,490 [INFO]   [U-0886] GET https://www.mnlumumbai.edu.in
+2026-03-23 18:25:50,491 [INFO] [40/700] OK Maharashtra National Law University, Aurangabad -- 200 programs
+2026-03-23 18:25:58,147 [INFO]   [U-0605] [s=7] +1 from https://mituniversityindia.edu.in/admissions/ug-programs/school-of-social-science/
+2026-03-23 18:26:01,058 [INFO]   [U-1047] [s=4] +23 from https://mcu.karnataka.gov.in/28/programs-&-courses/kn
+2026-03-23 18:26:04,080 [INFO]   [U-0886] Homepage -> 22 programs
+2026-03-23 18:26:11,729 [INFO]   [U-0886] [s=19] +2 from https://www.mnlumumbai.edu.in/academic.php
+2026-03-23 18:26:25,406 [INFO]   [U-0811] [s=17] +379 from https://www.mrsptu.ac.in/uploads2024/daa_notifications/Notification. 206 - REVISED - Programmes offered in Main Campus_GZSCCET_PITs_PSAEC for session 2024-25.pdf
+2026-03-23 18:26:27,127 [INFO]   [U-0605] [s=4] +20 from https://mituniversityindia.edu.in/academics/ug-programs/school-of-liberal-studies/
+2026-03-23 18:26:28,094 [INFO]   [U-0886] [s=8] +6 from https://www.mnlumumbai.edu.in/vaf.php
+2026-03-23 18:26:32,740 [INFO]   [U-0605] [s=4] +9 from https://mituniversityindia.edu.in/academics/ug-programs/school-of-applied-health-science/
+2026-03-23 18:26:33,776 [INFO]   [U-0886] [s=5] +12 from https://www.mnlumumbai.edu.in/CIMJFS.php
+2026-03-23 18:26:35,607 [INFO]   [U-0605] [s=4] +5 from https://mituniversityindia.edu.in/academics/ug-programs/school-of-science-and-technology/
+2026-03-23 18:26:36,956 [INFO]   [U-0886] [s=5] +23 from https://www.mnlumumbai.edu.in/llfm.php
+2026-03-23 18:26:38,222 [INFO]   [U-0886] [s=5] +1 from https://www.mnlumumbai.edu.in/pgdgst.php
+2026-03-23 18:26:43,987 [INFO]   [U-0886] [s=5] +4 from https://www.mnlumumbai.edu.in/pgdam.php
+2026-03-23 18:26:49,471 [INFO]   [U-0605] [s=4] +5 from https://mituniversityindia.edu.in/academics/faculties-of-management-school.php
+2026-03-23 18:27:02,601 [INFO]   [U-0605] [s=4] +8 from https://mituniversityindia.edu.in/academics/faculties-of-school-of-liberal-studies.php
+2026-03-23 18:27:11,295 [INFO]   [U-0886] [s=4] +28 from https://www.mnlumumbai.edu.in/pdf/Course Brochure M&A 2024.pdf
+2026-03-23 18:27:13,212 [INFO]   [U-0811] [s=17] +276 from https://www.mrsptu.ac.in/uploads2023/daa_notifications/164 Notification - Fee structure of new programmes offered by MRSPTU for session 2023-24 onwards.pdf
+2026-03-23 18:27:14,552 [INFO]   [U-0605] DONE -> 127 programs in 10 groups
+2026-03-23 18:27:14,566 [INFO]   [U-0880] GET https://www.nlunagpur.ac.in
+2026-03-23 18:27:14,566 [INFO] [41/700] OK Maharashtra Institute of Technology University, of Meghalaya -- 127 programs
+2026-03-23 18:27:29,698 [INFO]   [U-0886] [s=4] +125 from https://www.mnlumumbai.edu.in/pdf/Awareness Program on Consumer Protection and IPR 170326.pdf
+2026-03-23 18:27:30,552 [INFO]   [U-0880] Homepage -> 32 programs
+2026-03-23 18:27:31,667 [INFO]   [U-0886] DONE -> 223 programs in 3 groups
+2026-03-23 18:27:31,685 [INFO]   [U-1238] GET https://www.mssu.ac.in
+2026-03-23 18:27:31,686 [INFO] [42/700] OK Maharashtra National Law University Mumbai -- 223 programs
+2026-03-23 18:27:33,018 [INFO]   [U-0880] [s=17] +12 from https://www.nlunagpur.ac.in/PDF/2023/Last Date Extension Notification PG Diploma Courses.pdf
+2026-03-23 18:27:34,394 [INFO]   [U-0880] [s=14] +2 from https://www.nlunagpur.ac.in/admi_postgraduate_course.php
+2026-03-23 18:27:43,861 [INFO]   [U-0880] [s=12] +4 from https://www.nlunagpur.ac.in/academics_postgraduate_course.php
+2026-03-23 18:27:59,274 [INFO]   [U-1238] Homepage -> 5 programs
+2026-03-23 18:28:00,577 [INFO]   [U-0880] [s=12] +58 from https://www.nlunagpur.ac.in/PDF/2024/Result of AIET for One-Year LL.M.(Postgraduate) Degree Course for Executives 2024-25.PDF
+2026-03-23 18:28:05,773 [INFO]   [U-0880] [s=12] +20 from https://www.nlunagpur.ac.in/PDF/2024/Updated Last Date Extension Notification LL.M. Courses.pdf
+2026-03-23 18:28:13,195 [INFO]   [U-0880] [s=10] +25 from https://www.nlunagpur.ac.in/PDF/2022/Extension Notice admission.pdf
+2026-03-23 18:28:22,040 [INFO]   [U-0811] [s=17] +405 from https://www.mrsptu.ac.in/uploads2023/daa_notifications/Notification -161 Programmes offered in Main Campus_GZSCCET_PITs_PSAEC for session 2023-24.pdf
+2026-03-23 18:28:22,461 [INFO]   [U-0880] [s=10] +44 from https://www.nlunagpur.ac.in/PDF/Last Date Extension Notification July 30, 2021.pdf
+2026-03-23 18:28:36,992 [INFO]   [U-0811] [s=17] +98 from https://www.mrsptu.ac.in/uploads2021/daa_notifications/141. Notification of fees structure for Lateral Entry Courses offered in B.Sc.pdf
+2026-03-23 18:28:38,657 [INFO]   [U-0880] [s=10] +26 from https://www.nlunagpur.ac.in/PDF/2019/short advertisement (1).pdf
+2026-03-23 18:28:40,656 [INFO]   [U-0880] [s=8] +16 from https://www.nlunagpur.ac.in/PDF/2024/Extension Notification New October 24.pdf
+2026-03-23 18:28:42,387 [INFO]   [U-0880] [s=8] +11 from https://www.nlunagpur.ac.in/PDF/2024/DOC-20240818-WA0004..pdf
+2026-03-23 18:29:05,089 [INFO]   [U-0880] [s=8] +160 from https://www.nlunagpur.ac.in/PDF/2024/LLM for Executives Brochure 1year.pdf
+2026-03-23 18:29:05,647 [INFO]   [U-1238] [s=4] +10 from https://mssu.ac.in/school-of-science-engineering-and-technology-skills-new-design/
+2026-03-23 18:29:09,287 [INFO]   [U-1238] [s=4] +9 from https://mssu.ac.in/school-of-commerce-management-skills-new-design/
+2026-03-23 18:29:27,140 [INFO]   [U-1238] [s=4] +5 from https://mssu.ac.in/school-of-humanities-skills-new-design/
+2026-03-23 18:30:11,243 [INFO]   [U-0811] [s=17] +354 from https://www.mrsptu.ac.in/uploads/daa_notices/notifications/104. Notification of courses to be offered.pdf
+2026-03-23 18:30:26,770 [INFO]   [U-0880] [s=8] +298 from https://www.nlunagpur.ac.in/PDF/2024/LLM for Executives Brochure.pdf
+2026-03-23 18:30:36,141 [INFO]   [U-0880] [s=8] +11 from https://www.nlunagpur.ac.in/news_and_events.php
+2026-03-23 18:30:37,910 [INFO]   [U-0811] [s=16] +69 from https://www.mrsptu.ac.in/uploads2024/daa_notifications/Notification_211_Online_Direct_Counselling_Schedule_2024_25_PG_1st_Yr_including_Pharm_D.pdf
+2026-03-23 18:30:37,911 [INFO]   [U-0811] DONE -> 3319 programs in 1 groups
+2026-03-23 18:30:38,218 [INFO]   [U-0313] GET https://www.muhs.ac.in
+2026-03-23 18:30:38,220 [INFO] [43/700] OK MAHARAJA RANJIT SINGH PUNJAB TECHNICAL UNIVERSITY, BATHINDA -- 3319 programs
+2026-03-23 18:30:40,925 [INFO]   [U-0880] [s=8] +12 from https://www.nlunagpur.ac.in/PDF/2023/Result of Entrance Test for One Year LLM. Exective.pdf
+2026-03-23 18:30:40,927 [INFO]   [U-0880] DONE -> 731 programs in 1 groups
+2026-03-23 18:30:40,987 [INFO]   [U-0842] GET https://www.maujaipur.org
+2026-03-23 18:30:40,988 [INFO] [44/700] OK Maharashtra National Law University,Nagpur -- 731 programs
+2026-03-23 18:30:42,376 [INFO]   [U-0842] Homepage -> 10 programs
+2026-03-23 18:30:44,657 [INFO]   [U-0842] [s=21] +6 from https://www.maujaipur.org/diplomacourses.php
+2026-03-23 18:30:47,033 [INFO]   [U-0842] [s=14] +2 from https://www.maujaipur.org/doctoralcourses.php
+2026-03-23 18:30:48,037 [INFO]   [U-0842] [s=14] +4 from https://www.maujaipur.org/postdoctoralcourses.php
+2026-03-23 18:30:49,176 [INFO]   [U-0842] [s=12] +1 from https://www.maujaipur.org/certificatecourses.php
+2026-03-23 18:30:51,334 [INFO]   [U-1238] [s=1] +21 from https://mssu.ac.in/courses
+2026-03-23 18:30:51,389 [INFO]   [U-1238] DONE -> 50 programs in 5 groups
+2026-03-23 18:30:51,468 [INFO]   [U-0408] GET https://mdsuajmer.ac.in
+2026-03-23 18:30:51,470 [INFO] [45/700] OK MAHARASHTRA STATE SKILLS UNIVERSITY -- 50 programs
+2026-03-23 18:30:51,507 [INFO]   [U-0313] DONE -> 0 programs in 0 groups
+2026-03-23 18:30:51,569 [INFO]   [U-0280] GET https://www.mmyvv.com
+2026-03-23 18:30:51,572 [INFO] [46/700] -- Maharashtra University of Health Sciences, Nashik -- 0 programs
+2026-03-23 18:30:51,921 [INFO]   [U-0842] [s=12] +10 from https://www.maujaipur.org/ugcourses.php
+2026-03-23 18:30:52,804 [INFO]   [U-0842] [s=12] +2 from https://www.maujaipur.org/ughonscourses.php
+2026-03-23 18:30:52,891 [INFO]   [U-0280] Homepage -> 8 programs
+2026-03-23 18:30:53,266 [INFO]   [U-0408] Homepage -> 5 programs
+2026-03-23 18:30:53,854 [INFO]   [U-0280] [s=14] +3 from https://www.mmyvv.com/academic-programmes/
+2026-03-23 18:30:55,183 [INFO]   [U-0842] [s=12] +1 from https://www.maujaipur.org/ugindustrycourses.php
+2026-03-23 18:30:56,104 [INFO]   [U-0842] [s=12] +6 from https://www.maujaipur.org/pgcourses.php
+2026-03-23 18:30:56,200 [INFO]   [U-0280] [s=2] +7 from https://www.mmyvv.com/latest-notice/
+2026-03-23 18:30:57,341 [INFO]   [U-0280] [s=2] +5 from https://www.mmyvv.com/android-apk-installation-students/
+2026-03-23 18:31:04,054 [INFO]   [U-0842] DONE -> 42 programs in 7 groups
+2026-03-23 18:31:04,073 [INFO]   [U-0168] GET https://www.mmumullana.org
+2026-03-23 18:31:04,074 [INFO] [47/700] OK MAHARISHI ARVIND UNIVERSITY -- 42 programs
+2026-03-23 18:31:17,033 [INFO]   [U-0280] DONE -> 23 programs in 4 groups
+2026-03-23 18:31:17,040 [INFO]   [U-0641] GET https://www.mmambala.org
+2026-03-23 18:31:17,049 [INFO] [48/700] OK Maharishi  Mahesh Yogi Vedic Vishwavidyalaya -- 23 programs
+2026-03-23 18:31:21,174 [INFO]   [U-0168] [s=1] +33 from https://www.mmumullana.org/programmes
+2026-03-23 18:31:21,234 [INFO]   [U-0168] DONE -> 33 programs in 1 groups
+2026-03-23 18:31:21,240 [INFO]   [U-0952] GET https://www.muit.in
+2026-03-23 18:31:21,245 [INFO] [49/700] OK Maharishi Markandeshwar University, Mullana-Ambala -- 33 programs
+2026-03-23 18:31:26,302 [INFO]   [U-0408] DONE -> 5 programs in 1 groups
+2026-03-23 18:31:26,322 [INFO]   [U-1103] GET https://www.mumt.org
+2026-03-23 18:31:26,329 [INFO] [50/700] OK Maharishi Dayanand Saraswati University, Ajmer -- 5 programs
+2026-03-23 18:31:27,850 [INFO]   [U-1103] Homepage -> 4 programs
+2026-03-23 18:31:29,261 [INFO]   [U-1103] [s=17] +6 from https://mumt.org/course/regular-course
+2026-03-23 18:31:29,424 [INFO]   [U-0641] DONE -> 0 programs in 0 groups
+2026-03-23 18:31:29,470 [INFO]   [U-0167] GET https://www.mdurohtak.ac.in
+2026-03-23 18:31:29,471 [INFO] [51/700] -- MAHARISHI MARKANDESHWAR UNIVERSITY, SADOPUR-AMBALA -- 0 programs
+2026-03-23 18:31:30,404 [WARNING]   [U-0167] Unreachable
+2026-03-23 18:31:30,496 [INFO]   [U-0281] GET https://www.mpsvv.ac.in
+2026-03-23 18:31:30,504 [INFO] [52/700] -- Maharshi Dayanand University, Rohtak -- 0 programs
+2026-03-23 18:31:30,607 [INFO]   [U-1103] [s=4] +81 from https://mumt.org/faculty
+2026-03-23 18:31:32,714 [INFO]   [U-1103] DONE -> 91 programs in 2 groups
+2026-03-23 18:31:32,748 [INFO]   [U-1182] GET https://www.mvsu.ac.in
+2026-03-23 18:31:32,748 [INFO] [53/700] OK MAHARISHI UNIVERSITY OF MANAGEMENT AND TECHNOLOGY -- 91 programs
+2026-03-23 18:31:35,081 [INFO]   [U-0281] Homepage -> 8 programs
+2026-03-23 18:31:35,116 [INFO]   [U-0952] DONE -> 0 programs in 0 groups
+2026-03-23 18:31:35,130 [INFO]   [U-0314] GET https://www.hindivishwa.org
+2026-03-23 18:31:35,131 [INFO] [54/700] -- MAHARISHI UNIVERSITY OF INFORMATION TECHNOLOGY -- 0 programs
+2026-03-23 18:31:39,317 [INFO]   [U-0281] [s=19] +30 from https://www.mpsvv.ac.in/index.php/en/students/courses
+2026-03-23 18:31:44,979 [INFO]   [U-1182] DONE -> 0 programs in 0 groups
+2026-03-23 18:31:45,094 [INFO]   [U-0282] GET https://www.gramodayachitrakoot.ac.in
+2026-03-23 18:31:45,125 [INFO] [55/700] -- Maharshi Valmiki Sanskrit University -- 0 programs
+2026-03-23 18:32:04,813 [INFO]   [U-0282] Homepage -> 7 programs
+2026-03-23 18:32:18,060 [INFO]   [U-0281] [s=12] +14 from https://www.mpsvv.ac.in/index.php/en/academic/programmes/part-time-programmes
+2026-03-23 18:32:22,965 [INFO]   [U-0282] [s=19] +53 from https://gramodayachitrakoot.ac.in/programmes/
+2026-03-23 18:32:30,321 [INFO]   [U-0314] [s=4] +459 from https://hindivishwa.org/pdf/gen2026/Refresher_Course_Brochure_09_March_250.pdf
+2026-03-23 18:32:32,126 [INFO]   [U-0282] [s=12] +14 from https://gramodayachitrakoot.ac.in/odl-programmes-2/
+2026-03-23 18:32:34,026 [INFO]   [U-0282] [s=12] +3 from https://gramodayachitrakoot.ac.in/other-courses/
+2026-03-23 18:32:36,127 [INFO]   [U-0281] [s=6] +1 from https://www.mpsvv.ac.in/index.php/en/academic/academic-council/academic-notices/phd-suchana-3-11-25
+2026-03-23 18:32:45,718 [INFO]   [U-0314] [s=4] +54 from https://hindivishwa.org/pdf/gen2026/Refresher_Course_Brochure_13_March_251.pdf
+2026-03-23 18:32:48,200 [INFO]   [U-0282] [s=9] +62 from https://gramodayachitrakoot.ac.in/courses/
+2026-03-23 18:32:50,521 [INFO]   [U-0282] [s=8] +10 from https://gramodayachitrakoot.ac.in/dean/director-distance-edu/distance-learning-and-continuing-education-centre/
+2026-03-23 18:32:59,254 [INFO]   [U-0282] [s=4] +23 from https://gramodayachitrakoot.ac.in/faculty-of-art/
+2026-03-23 18:33:06,687 [INFO]   [U-0282] [s=4] +7 from https://gramodayachitrakoot.ac.in/home/faculty-of-agriculture/
+2026-03-23 18:33:08,622 [INFO]   [U-0282] [s=4] +1 from https://gramodayachitrakoot.ac.in/home/faculty-of-agriculture/department-of-crop-science/
+2026-03-23 18:33:08,934 [INFO]   [U-0314] DONE -> 513 programs in 1 groups
+2026-03-23 18:33:09,068 [INFO]   [U-0525] GET https://www.mjpru.ac.in
+2026-03-23 18:33:09,069 [INFO] [56/700] OK Mahatama Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha -- 513 programs
+2026-03-23 18:33:16,801 [INFO]   [U-0282] [s=4] +1 from https://gramodayachitrakoot.ac.in/faculty-of-art/department-of-peoples-education-and-mass-communication/
+2026-03-23 18:33:18,453 [INFO]   [U-0282] DONE -> 181 programs in 1 groups
+2026-03-23 18:33:18,503 [INFO]   [U-0835] GET https://www.mgcub.ac.in
+2026-03-23 18:33:18,503 [INFO] [57/700] OK Mahatama Gandhi Gramodaya Vishwavidyalaya, Chitrakoot, Satna -- 181 programs
+2026-03-23 18:33:20,873 [INFO]   [U-0835] Homepage -> 110 programs
+2026-03-23 18:33:22,162 [INFO]   [U-0525] DONE -> 0 programs in 0 groups
+2026-03-23 18:33:22,228 [INFO]   [U-0527] GET https://www.mgkvp.ac.in
+2026-03-23 18:33:22,230 [INFO] [58/700] -- Mahatama Jyotiba Phule Rohikhand University, Bareilly -- 0 programs
+2026-03-23 18:33:24,748 [INFO]   [U-0527] Homepage -> 6 programs
+2026-03-23 18:33:27,377 [INFO]   [U-0527] [s=24] +74 from https://www.mgkvp.ac.in/AcademicsHome/ListCourses
+2026-03-23 18:33:41,149 [INFO]   [U-0527] [s=4] +1 from https://www.mgkvp.ac.in/AcademicsHome/Journals_List
+2026-03-23 18:34:07,112 [INFO]   [U-0835] [s=10] +374 from https://www.mgcub.ac.in/storage/content_files/1774101888_ph.D Enrollment 2025.26.pdf
+2026-03-23 18:34:08,701 [INFO]   [U-0281] DONE -> 53 programs in 1 groups
+2026-03-23 18:34:08,733 [INFO]   [U-1292] GET https://www.mguvv.ac.in
+2026-03-23 18:34:08,744 [INFO] [59/700] OK Maharshi Panini Sanskrit Evam Vedic Vishwavidyalaya, Ujjain -- 53 programs
+2026-03-23 18:34:13,777 [INFO]   [U-0527] [s=4] +2 from https://www.mgkvp.ac.in/departmenthome/AdminOfficers?Id=98
+2026-03-23 18:34:16,316 [INFO]   [U-0527] [s=4] +1 from https://www.mgkvp.ac.in/departmenthome/AdminOfficers?Id=100
+2026-03-23 18:34:27,159 [INFO]   [U-0527] [s=4] +1 from https://www.mgkvp.ac.in/departmenthome/Officers?Id=96
+2026-03-23 18:34:32,780 [INFO]   [U-0835] [s=9] +233 from https://www.mgcub.ac.in/storage/content_files/1763919243_[Final & Updated] [MGCU e-Prospectus for Academic Year 2025-26] [Admission in various Ph.D. Programmes of Study].pdf
+2026-03-23 18:34:34,813 [INFO]   [U-1292] Homepage -> 42 programs
+2026-03-23 18:34:36,224 [INFO]   [U-0527] [s=4] +2 from https://www.mgkvp.ac.in/AcademicsHome/Research_List
+2026-03-23 18:34:48,367 [INFO]   [U-0527] [s=4] +1 from https://www.mgkvp.ac.in/AcademicsHome/BooksPublished_List
+2026-03-23 18:34:53,920 [INFO]   [U-0527] DONE -> 88 programs in 1 groups
+2026-03-23 18:34:53,969 [INFO] [60/700] OK Mahatma Gandhi Kashi Vidyapeeth, Varanasi -- 88 programs
+2026-03-23 18:34:53,987 [INFO]   [U-1150] GET https://www.mguwb.org.in
+2026-03-23 18:34:54,118 [INFO] [61/700] -- Mahatma Gandhi University -- 0 programs
+2026-03-23 18:35:03,720 [INFO]   [U-0835] [s=8] +201 from https://www.mgcub.ac.in/storage/content_files/1767185015_Extension Notice, Ph. D. Admission.pdf
+2026-03-23 18:35:04,341 [INFO]   [U-1292] [s=4] +1 from https://mguvv.ac.in/_Attachment/academic_council.pdf
+2026-03-23 18:35:38,003 [INFO]   [U-1150] [s=2] +2 from https://www.mguwb.org.in/media
+2026-03-23 18:35:41,672 [INFO]   [U-0835] [s=8] +236 from https://www.mgcub.ac.in/storage/content_files/202508151230107ecc099fc7.pdf
+2026-03-23 18:35:49,153 [INFO]   [U-1292] [s=4] +194 from https://mguvv.ac.in/_Attachment/academic_calender.pdf
+2026-03-23 18:36:30,080 [INFO]   [U-0835] [s=8] +386 from https://www.mgcub.ac.in/storage/content_files/202508131231087d052859f0.pdf
+2026-03-23 18:36:53,394 [INFO]   [U-0835] [s=8] +187 from https://www.mgcub.ac.in/storage/content_files/20250808180455f7013a5665.pdf
+2026-03-23 18:36:58,661 [INFO]   [U-1047] DONE -> 32 programs in 1 groups
+2026-03-23 18:36:58,787 [INFO]   [U-0262] GET https://www.mgu.ac.in
+2026-03-23 18:36:58,806 [INFO] [62/700] OK MAHARANI CLUSTER UNIVERSITY -- 32 programs
+2026-03-23 18:37:00,353 [INFO]   [U-0262] Homepage -> 6 programs
+2026-03-23 18:37:02,860 [INFO]   [U-0835] [s=8] +82 from https://www.mgcub.ac.in/storage/content_files/202506101744296f4c33170b.pdf
+2026-03-23 18:37:22,689 [INFO]   [U-0835] [s=8] +34 from https://www.mgcub.ac.in/storage/content_files/20250605181402c2be34669c.pdf
+2026-03-23 18:37:48,549 [INFO]   [U-1150] DONE -> 2 programs in 1 groups
+2026-03-23 18:37:48,747 [INFO]   [U-0022] GET https://www.mguniversity.ac.in
+2026-03-23 18:37:48,761 [INFO] [63/700] OK MAHATMA GANDHI UNIVERSITY -- 2 programs
+2026-03-23 18:38:03,068 [INFO]   [U-0835] [s=8] +136 from https://www.mgcub.ac.in/storage/content_files/202505281640238cf38bcf90.pdf
+2026-03-23 18:38:04,234 [INFO]   [U-0022] Homepage -> 11 programs
+2026-03-23 18:38:09,899 [INFO]   [U-0262] [s=4] +459 from https://www.mgu.ac.in/uploads/2026/03/Application-Invited-Course-Mentor-Online-BA-Political-Science-on-Contract-at-CDOE.pdf?x34262
+2026-03-23 18:38:10,049 [INFO]   [U-0022] [s=24] +21 from https://mguniversity.ac.in/Programmes
+2026-03-23 18:38:12,910 [INFO]   [U-0835] [s=8] +48 from https://www.mgcub.ac.in/storage/events/attachments/1768833495_1000375291.jpg
+2026-03-23 18:38:18,667 [INFO]   [U-0022] [s=5] +68 from https://mguniversity.ac.in/uploads/notifications/All PG & MBA Notification 2025-26.pdf
+2026-03-23 18:49:00,529 [INFO] Loaded 700 universities from University_Part2_rows700_1399.xlsx
+2026-03-23 18:49:00,530 [INFO] Scraping 700 universities with 5 workers…
+2026-03-23 18:49:00,531 [INFO] Output → C:\Users\OrCon\Desktop\education_work\college_courses\output
+2026-03-23 18:49:00,542 [INFO] [U-0813] LNCT UNIVERSITY → https://www.lnctu.ac.in
+2026-03-23 18:49:00,542 [INFO] [U-0405] LNM Institute of Information Technology, Jaipur → https://www.lnmiit.ac.in
+2026-03-23 18:49:00,563 [INFO] [U-1212] LOKBHARTI UNIVERSITY FOR RURAL INNOVATION → https://www.lokbharatiuniversity.edu.in
+2026-03-23 18:49:00,542 [INFO] [U-1236] LNCT VIDHYAPEETH UNIVERSITY → https://www.lnctvu.ac.in
+2026-03-23 18:49:00,564 [INFO] [U-1102] LOK JAGRUTI KENDRA UNIVERSITY → https://www.ljku.edu.in
+2026-03-23 18:49:17,709 [INFO]   ✓ LOK JAGRUTI KENDRA UNIVERSITY — 67 courses from 9 pages
+2026-03-23 18:49:17,728 [INFO] [U-1031] LORDS UNIVERSITY → https://www.lordsuni.edu.in
+2026-03-23 18:49:17,728 [INFO] Progress: 1/700 (0.1%) | Rate: 0.1/s | ETA: 200.3 min
+2026-03-23 18:49:22,179 [INFO]   ✓ LNCT UNIVERSITY — 436 courses from 9 pages
+2026-03-23 18:49:22,222 [INFO] [U-0379] Lovely Professional University → https://www.lpu.in
+2026-03-23 18:49:22,224 [INFO] Progress: 2/700 (0.3%) | Rate: 0.1/s | ETA: 126.2 min
+2026-03-23 18:49:30,975 [INFO]   ✓ LORDS UNIVERSITY — 70 courses from 9 pages
+2026-03-23 18:49:31,022 [INFO] Progress: 3/700 (0.4%) | Rate: 0.1/s | ETA: 118.1 min
+2026-03-23 18:49:31,024 [INFO] [U-1213] MAA SHAKUMBHARI UNIVERSITY → https://msuniversity.ac.in
+2026-03-23 18:49:31,024 [INFO] Progress: 4/700 (0.6%) | Rate: 0.1/s | ETA: 88.4 min
+2026-03-23 18:49:38,997 [INFO]   ✓ Lovely Professional University — 444 courses from 9 pages
+2026-03-23 18:49:39,013 [INFO] [U-1413] Maa Vindhyavasini University → http://mvvu.ac.in
+2026-03-23 18:49:39,016 [INFO] Progress: 5/700 (0.7%) | Rate: 0.1/s | ETA: 89.2 min
+2026-03-23 18:49:43,372 [INFO]   ✓ LNM Institute of Information Technology, — 265 courses from 9 pages
+2026-03-23 18:49:43,405 [INFO] [U-1421] Madanapalle Institute of Technology and Science MI → https://mits.ac.in/university
+2026-03-23 18:49:43,406 [INFO] Progress: 6/700 (0.9%) | Rate: 0.1/s | ETA: 82.7 min
+2026-03-23 18:49:45,543 [INFO]   ✓ LNCT VIDHYAPEETH UNIVERSITY — 31 courses from 9 pages
+2026-03-23 18:49:45,554 [INFO] [U-0739] MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, → https://www.mmmut.ac.in
+2026-03-23 18:49:45,554 [INFO] Progress: 7/700 (1.0%) | Rate: 0.2/s | ETA: 74.3 min
+2026-03-23 18:49:55,727 [INFO]   ✓ LOKBHARTI UNIVERSITY FOR RURAL INNOVATIO — 84 courses from 9 pages
+2026-03-23 18:49:55,740 [INFO] [U-1068] Madhabdev University → https://madhabdevuniversity.ac.in
+2026-03-23 18:49:55,741 [INFO] Progress: 8/700 (1.1%) | Rate: 0.1/s | ETA: 79.6 min
+2026-03-23 18:49:56,337 [INFO]   ✓ Maa Vindhyavasini University — 67 courses from 8 pages
+2026-03-23 18:49:56,344 [INFO] [U-1329] Madhav Institute of Technology and Science → https://www.mitsgwalior.in
+2026-03-23 18:49:56,348 [INFO] Progress: 9/700 (1.3%) | Rate: 0.2/s | ETA: 71.4 min
+2026-03-23 18:49:56,893 [INFO]   ✓ MAA SHAKUMBHARI UNIVERSITY — 36 courses from 9 pages
+2026-03-23 18:49:56,918 [INFO] [U-0698] MADHAV UNIVERSITY → https://www.madhavuniversity.edu.in
+2026-03-23 18:49:56,918 [INFO] Progress: 10/700 (1.4%) | Rate: 0.2/s | ETA: 64.8 min
+2026-03-23 18:50:09,552 [INFO]   ✓ Madanapalle Institute of Technology and  — 3617 courses from 9 pages
+2026-03-23 18:50:09,650 [INFO] [U-1184] MADHUSUDAN LAW UNIVERSITY → https://www.mlu.ac.in
+2026-03-23 18:50:09,650 [INFO] Progress: 11/700 (1.6%) | Rate: 0.2/s | ETA: 72.2 min
+2026-03-23 18:50:10,382 [INFO]   ✓ MADHAV UNIVERSITY — 82 courses from 9 pages
+2026-03-23 18:50:10,386 [INFO] [U-0941] Madhyanchal Professional University → https://www.mpu.ac.in
+2026-03-23 18:50:10,387 [INFO] Progress: 12/700 (1.7%) | Rate: 0.2/s | ETA: 66.8 min
+2026-03-23 18:50:11,903 [INFO]   ✓ Madhav Institute of Technology and Scien — 117 courses from 9 pages
+2026-03-23 18:50:11,923 [INFO] [U-0996] MADHYA PRADESH AYURVIGYAN VISHWAVIDHLAYA, JABALPUR → https://www.mpmsu.edu.in
+2026-03-23 18:50:11,923 [INFO] Progress: 13/700 (1.9%) | Rate: 0.2/s | ETA: 62.9 min
+2026-03-23 18:50:16,468 [INFO]   ✓ Madhabdev University — 21 courses from 9 pages
+2026-03-23 18:50:16,477 [INFO] [U-0278] Madhya Pradesh Bhoj Open University, Bhopal → http://mpbou.edu.in
+2026-03-23 18:50:16,478 [INFO] Progress: 14/700 (2.0%) | Rate: 0.2/s | ETA: 62.0 min
+2026-03-23 18:50:23,305 [INFO]   ✓ MADHUSUDAN LAW UNIVERSITY — 18 courses from 9 pages
+2026-03-23 18:50:23,353 [INFO] [U-0462] Madras University, Chennai → https://www.unom.ac.in
+2026-03-23 18:50:23,354 [INFO] Progress: 15/700 (2.1%) | Rate: 0.2/s | ETA: 63.0 min
+2026-03-23 18:50:25,467 [INFO]   ✓ Madhya Pradesh Bhoj Open University, Bho — 191 courses from 9 pages
+2026-03-23 18:50:25,473 [INFO] [U-0463] Madurai Kamaraj University, Madurai → https://www.mkuniversity.ac.in
+2026-03-23 18:50:25,475 [INFO] Progress: 16/700 (2.3%) | Rate: 0.2/s | ETA: 60.5 min
+2026-03-23 18:50:29,416 [INFO]   ✓ Madurai Kamaraj University, Madurai — 0 courses from 1 pages
+2026-03-23 18:50:29,420 [INFO] [U-0069] Magadh University, Bodh Gaya → https://www.magadhuniversity.ac.in
+2026-03-23 18:50:29,420 [INFO] Progress: 17/700 (2.4%) | Rate: 0.2/s | ETA: 59.5 min
+2026-03-23 18:50:31,008 [INFO]   ✓ Magadh University, Bodh Gaya — 0 courses from 1 pages
+2026-03-23 18:50:31,016 [INFO] [U-1230] MAGANBHAI ADENWALA MAHAGUJARAT UNIVERSITY → https://WWW.MAMUNI.EDU.IN
+2026-03-23 18:50:31,017 [INFO] Progress: 18/700 (2.6%) | Rate: 0.2/s | ETA: 57.1 min
+2026-03-23 18:50:34,388 [INFO]   ✓ Madhyanchal Professional University — 95 courses from 9 pages
+2026-03-23 18:50:34,598 [INFO] [U-1131] MAHAKAUSHAL UNIVERSITY → https://www.mku.ac.in
+2026-03-23 18:50:34,703 [INFO] Progress: 19/700 (2.7%) | Rate: 0.2/s | ETA: 56.3 min
+2026-03-23 18:50:38,000 [INFO]   ✓ MAGANBHAI ADENWALA MAHAGUJARAT UNIVERSIT — 0 courses from 1 pages
+2026-03-23 18:50:38,011 [INFO] [U-0812] MAHAPURUSHA SRIMANTA SANKARADEVA VISWAVIDYALAYA → https://www.mssv.ac.in
+2026-03-23 18:50:38,012 [INFO] Progress: 20/700 (2.9%) | Rate: 0.2/s | ETA: 55.2 min
+2026-03-23 18:50:38,620 [INFO]   ✓ MADAN MOHAN MALAVIYA UNIVERSITY OF TECHN — 205 courses from 9 pages
+2026-03-23 18:50:38,649 [INFO] [U-0671] MAHARAJA AGRASEN UNIVERSITY → https://www.mau.ac.in
+2026-03-23 18:50:38,649 [INFO] Progress: 21/700 (3.0%) | Rate: 0.2/s | ETA: 52.9 min
+2026-03-23 18:50:51,999 [INFO]   ✓ MAHARAJA AGRASEN UNIVERSITY — 59 courses from 9 pages
+2026-03-23 18:50:52,005 [INFO] [U-0839] MAHARAJA BIR BIKRAM UNIVERSITY, AGARTALA → https://mbbuniversity.ac.in
+2026-03-23 18:50:52,007 [INFO] Progress: 22/700 (3.1%) | Rate: 0.2/s | ETA: 57.3 min
+2026-03-23 18:50:52,363 [INFO]   ✓ MAHAPURUSHA SRIMANTA SANKARADEVA VISWAVI — 358 courses from 9 pages
+2026-03-23 18:50:52,417 [INFO] [U-0810] MAHARAJA CHHATRASAL BUNDELKHAND UNIVERSITY → https://mcbu.ac.in
+2026-03-23 18:50:52,417 [INFO] Progress: 23/700 (3.3%) | Rate: 0.2/s | ETA: 54.9 min
+2026-03-23 18:50:52,457 [INFO]   ✓ Madras University, Chennai — 35 courses from 9 pages
+2026-03-23 18:50:52,460 [INFO] [U-0406] Maharaja Ganga Singh University, Bikaner → https://www.mgsubikaner.ac.in
+2026-03-23 18:50:52,460 [INFO] Progress: 24/700 (3.4%) | Rate: 0.2/s | ETA: 52.5 min
+2026-03-23 18:50:58,666 [INFO]   ✓ MADHYA PRADESH AYURVIGYAN VISHWAVIDHLAYA — 20 courses from 9 pages
+2026-03-23 18:50:58,676 [INFO] [U-0124] Maharaja Krishnakumarsinhji Bhavnagar University → http://www.mkbhavuni.edu.in
+2026-03-23 18:50:58,677 [INFO] Progress: 25/700 (3.6%) | Rate: 0.2/s | ETA: 53.2 min
+2026-03-23 18:51:00,597 [INFO]   ✓ MAHARAJA CHHATRASAL BUNDELKHAND UNIVERSI — 51 courses from 9 pages
+2026-03-23 18:51:00,607 [INFO] [U-0811] MAHARAJA RANJIT SINGH PUNJAB TECHNICAL UNIVERSITY, → https://www.mrsptu.ac.in
+2026-03-23 18:51:00,608 [INFO] Progress: 26/700 (3.7%) | Rate: 0.2/s | ETA: 51.9 min
+2026-03-23 18:51:03,143 [INFO]   ✓ MAHAKAUSHAL UNIVERSITY — 78 courses from 9 pages
+2026-03-23 18:51:03,148 [INFO] [U-0143] Maharaja Sayajirao University of Baroda, Vadodara → https://msubaroda.ac.in
+2026-03-23 18:51:03,148 [INFO] Progress: 27/700 (3.9%) | Rate: 0.2/s | ETA: 50.9 min
+2026-03-23 18:51:06,894 [INFO]   ✓ Maharaja Ganga Singh University, Bikaner — 81 courses from 9 pages
+2026-03-23 18:51:06,913 [INFO] [U-0359] Maharaja Sriram Chandra Bhanja Deo University → https://www.nou.nic.in
+2026-03-23 18:51:06,913 [INFO] Progress: 28/700 (4.0%) | Rate: 0.2/s | ETA: 50.6 min
+2026-03-23 18:51:08,580 [INFO]   ✓ Maharaja Krishnakumarsinhji Bhavnagar Un — 12 courses from 9 pages
+2026-03-23 18:51:08,596 [INFO] [U-1265] Maharaja Suhel Dev State University → https://www.msdsu.ac.in
+2026-03-23 18:51:08,597 [INFO] Progress: 29/700 (4.1%) | Rate: 0.2/s | ETA: 49.4 min
+2026-03-23 18:51:11,211 [INFO]   ✓ Maharaja Suhel Dev State University — 15 courses from 1 pages
+2026-03-23 18:51:11,216 [INFO] [U-0793] MAHARAJA SURAJMAL BRIJ UNIVERSITY → https://www.msbrijuniversity.ac.in
+2026-03-23 18:51:11,216 [INFO] Progress: 30/700 (4.3%) | Rate: 0.2/s | ETA: 48.6 min
+2026-03-23 18:51:16,328 [INFO]   ✓ MAHARAJA BIR BIKRAM UNIVERSITY, AGARTALA — 36 courses from 9 pages
+2026-03-23 18:51:16,331 [INFO] [U-0965] MAHARAJ VINAYAK GLOBAL UNIVERSITY, JAIPUR → https://www.mvgu.ac.in
+2026-03-23 18:51:16,331 [INFO] Progress: 31/700 (4.4%) | Rate: 0.2/s | ETA: 48.8 min
+2026-03-23 18:51:25,442 [INFO]   ✓ Maharaja Sayajirao University of Baroda, — 69 courses from 9 pages
+2026-03-23 18:51:25,448 [INFO] [U-1148] MAHARANA PRATAP HORTICULTURAL UNIVERSITY → https://mhu.ac.in
+2026-03-23 18:51:25,464 [INFO] Progress: 32/700 (4.6%) | Rate: 0.2/s | ETA: 50.4 min
+2026-03-23 18:51:35,046 [INFO]   ✓ Maharaja Sriram Chandra Bhanja Deo Unive — 28 courses from 9 pages
+2026-03-23 18:51:35,062 [INFO] [U-0407] Maharana Pratap University of Agriculture & Techno → https://www.mpuat.ac.in
+2026-03-23 18:51:35,062 [INFO] Progress: 33/700 (4.7%) | Rate: 0.2/s | ETA: 52.1 min
+2026-03-23 18:51:36,122 [INFO]   ✓ MAHARAJA RANJIT SINGH PUNJAB TECHNICAL U — 313 courses from 9 pages
+2026-03-23 18:51:36,135 [INFO] [U-1047] MAHARANI CLUSTER UNIVERSITY → https://mcu.karnataka.gov.in
+2026-03-23 18:51:36,138 [INFO] Progress: 34/700 (4.9%) | Rate: 0.2/s | ETA: 50.8 min
+2026-03-23 18:51:42,609 [INFO]   ✓ MAHARANA PRATAP HORTICULTURAL UNIVERSITY — 4 courses from 9 pages
+2026-03-23 18:51:42,610 [INFO] [U-0187] Maharashi Markandeshwar University, Solan → https://www.mmusolan.org
+2026-03-23 18:51:42,611 [INFO] Progress: 35/700 (5.0%) | Rate: 0.2/s | ETA: 51.3 min
+2026-03-23 18:51:43,487 [INFO]   ✓ MAHARAJ VINAYAK GLOBAL UNIVERSITY, JAIPU — 36 courses from 9 pages
+2026-03-23 18:51:43,546 [INFO] [U-0312] Maharashtra Animal & Fishery Sciences University,  → https://www.mafsu.in
+2026-03-23 18:51:43,552 [INFO] Progress: 36/700 (5.1%) | Rate: 0.2/s | ETA: 50.1 min
+2026-03-23 18:51:44,176 [INFO]   ✓ Maharashi Markandeshwar University, Sola — 0 courses from 1 pages
+2026-03-23 18:51:44,187 [INFO] [U-0605] Maharashtra Institute of Technology University, of → https://mituniversityindia.edu.in
+2026-03-23 18:51:44,189 [INFO] Progress: 37/700 (5.3%) | Rate: 0.2/s | ETA: 48.9 min
+2026-03-23 18:51:45,195 [INFO]   ✓ Maharashtra Animal & Fishery Sciences Un — 35 courses from 1 pages
+2026-03-23 18:51:45,238 [INFO] [U-0915] Maharashtra National Law University, Aurangabad → https://mnlua.ac.in
+2026-03-23 18:51:45,239 [INFO] Progress: 38/700 (5.4%) | Rate: 0.2/s | ETA: 47.8 min
+2026-03-23 18:51:49,494 [INFO]   ✓ MAHARANI CLUSTER UNIVERSITY — 35 courses from 9 pages
+2026-03-23 18:51:49,502 [INFO] [U-0886] Maharashtra National Law University Mumbai → https://www.mnlumumbai.edu.in
+2026-03-23 18:51:49,502 [INFO] Progress: 39/700 (5.6%) | Rate: 0.2/s | ETA: 47.7 min
+2026-03-23 18:51:59,842 [INFO]   ✓ MAHARAJA SURAJMAL BRIJ UNIVERSITY — 660 courses from 9 pages
+2026-03-23 18:51:59,870 [INFO] [U-0880] Maharashtra National Law University,Nagpur → https://www.nlunagpur.ac.in
+2026-03-23 18:51:59,870 [INFO] Progress: 40/700 (5.7%) | Rate: 0.2/s | ETA: 49.3 min
+2026-03-23 18:52:00,861 [INFO]   ✓ Maharashtra National Law University Mumb — 20 courses from 9 pages
+2026-03-23 18:52:00,877 [INFO] [U-1238] MAHARASHTRA STATE SKILLS UNIVERSITY → https://www.mssu.ac.in
+2026-03-23 18:52:00,883 [INFO] Progress: 41/700 (5.9%) | Rate: 0.2/s | ETA: 48.3 min
+2026-03-23 18:52:02,847 [INFO]   ✓ Maharashtra Institute of Technology Univ — 155 courses from 9 pages
+2026-03-23 18:52:02,853 [INFO] [U-0313] Maharashtra University of Health Sciences, Nashik → https://www.muhs.ac.in
+2026-03-23 18:52:02,854 [INFO] Progress: 42/700 (6.0%) | Rate: 0.2/s | ETA: 47.6 min
+2026-03-23 18:52:04,219 [INFO]   ✓ Maharashtra University of Health Science — 0 courses from 1 pages
+2026-03-23 18:52:04,224 [INFO] [U-0842] MAHARISHI ARVIND UNIVERSITY → https://www.maujaipur.org
+2026-03-23 18:52:04,224 [INFO] Progress: 43/700 (6.1%) | Rate: 0.2/s | ETA: 46.8 min
+2026-03-23 18:52:07,904 [INFO]   ✓ Maharana Pratap University of Agricultur — 30 courses from 9 pages
+2026-03-23 18:52:07,931 [INFO] [U-0408] Maharishi Dayanand Saraswati University, Ajmer → https://mdsuajmer.ac.in
+2026-03-23 18:52:07,935 [INFO] Progress: 44/700 (6.3%) | Rate: 0.2/s | ETA: 46.6 min
+2026-03-23 18:52:11,866 [INFO]   ✓ Maharashtra National Law University, Aur — 8 courses from 7 pages
+2026-03-23 18:52:11,869 [INFO] [U-0280] Maharishi  Mahesh Yogi Vedic Vishwavidyalaya → https://www.mmyvv.com
+2026-03-23 18:52:11,869 [INFO] Progress: 45/700 (6.4%) | Rate: 0.2/s | ETA: 46.4 min
+2026-03-23 18:52:16,974 [INFO]   ✓ Maharishi  Mahesh Yogi Vedic Vishwavidya — 45 courses from 2 pages
+2026-03-23 18:52:17,048 [INFO] [U-0168] Maharishi Markandeshwar University, Mullana-Ambala → https://www.mmumullana.org
+2026-03-23 18:52:17,054 [INFO] Progress: 46/700 (6.6%) | Rate: 0.2/s | ETA: 46.6 min
+2026-03-23 18:52:18,467 [INFO]   ✓ Maharashtra National Law University,Nagp — 143 courses from 9 pages
+2026-03-23 18:52:18,475 [INFO] [U-0641] MAHARISHI MARKANDESHWAR UNIVERSITY, SADOPUR-AMBALA → https://www.mmambala.org
+2026-03-23 18:52:18,481 [INFO] Progress: 47/700 (6.7%) | Rate: 0.2/s | ETA: 45.8 min
+2026-03-23 18:52:18,774 [INFO]   ✓ Maharishi Markandeshwar University, Mull — 0 courses from 1 pages
+2026-03-23 18:52:18,787 [INFO] [U-0952] MAHARISHI UNIVERSITY OF INFORMATION TECHNOLOGY → https://www.muit.in
+2026-03-23 18:52:18,789 [INFO] Progress: 48/700 (6.9%) | Rate: 0.2/s | ETA: 44.9 min
+2026-03-23 18:52:19,655 [INFO]   ✓ MAHARISHI ARVIND UNIVERSITY — 29 courses from 9 pages
+2026-03-23 18:52:19,667 [INFO] [U-1103] MAHARISHI UNIVERSITY OF MANAGEMENT AND TECHNOLOGY → https://www.mumt.org
+2026-03-23 18:52:19,668 [INFO] Progress: 49/700 (7.0%) | Rate: 0.2/s | ETA: 44.1 min
+2026-03-23 18:52:20,067 [INFO]   ✓ MAHARISHI MARKANDESHWAR UNIVERSITY, SADO — 0 courses from 1 pages
+2026-03-23 18:52:20,070 [INFO] [U-0167] Maharshi Dayanand University, Rohtak → https://www.mdurohtak.ac.in
+2026-03-23 18:52:20,070 [INFO] Progress: 50/700 (7.1%) | Rate: 0.3/s | ETA: 43.2 min
+2026-03-23 18:52:20,351 [INFO]   ✓ MAHARISHI UNIVERSITY OF INFORMATION TECH — 0 courses from 1 pages
+2026-03-23 18:52:20,357 [INFO] [U-0281] Maharshi Panini Sanskrit Evam Vedic Vishwavidyalay → https://www.mpsvv.ac.in
+2026-03-23 18:52:20,357 [INFO] Progress: 51/700 (7.3%) | Rate: 0.3/s | ETA: 42.4 min
+2026-03-23 18:52:23,572 [INFO] [U-1182] Maharshi Valmiki Sanskrit University → https://www.mvsu.ac.in
+2026-03-23 18:52:23,573 [INFO] Progress: 52/700 (7.4%) | Rate: 0.3/s | ETA: 42.2 min
+2026-03-23 18:52:25,878 [INFO]   ✓ MAHARASHTRA STATE SKILLS UNIVERSITY — 178 courses from 9 pages
+2026-03-23 18:52:25,901 [INFO] [U-0314] Mahatama Gandhi Antarrashtriya Hindi Vishwavidyala → https://www.hindivishwa.org
+2026-03-23 18:52:25,902 [INFO] Progress: 53/700 (7.6%) | Rate: 0.3/s | ETA: 41.8 min
+2026-03-23 18:52:26,101 [INFO]   ✓ Maharshi Valmiki Sanskrit University — 0 courses from 1 pages
+2026-03-23 18:52:26,120 [INFO] [U-0282] Mahatama Gandhi Gramodaya Vishwavidyalaya, Chitrak → https://www.gramodayachitrakoot.ac.in
+2026-03-23 18:52:26,120 [INFO] Progress: 54/700 (7.7%) | Rate: 0.3/s | ETA: 41.0 min
+2026-03-23 18:52:26,315 [INFO]   ✓ Maharishi Dayanand Saraswati University, — 9 courses from 9 pages
+2026-03-23 18:52:26,319 [INFO] [U-0525] Mahatama Jyotiba Phule Rohikhand University, Barei → https://www.mjpru.ac.in
+2026-03-23 18:52:26,319 [INFO] Progress: 55/700 (7.9%) | Rate: 0.3/s | ETA: 40.2 min
+2026-03-23 18:52:27,463 [INFO]   ✓ Mahatama Jyotiba Phule Rohikhand Univers — 0 courses from 1 pages
+2026-03-23 18:52:27,467 [INFO] [U-0835] Mahatma Gandhi Central University, Motihari → https://www.mgcub.ac.in
+2026-03-23 18:52:27,467 [INFO] Progress: 56/700 (8.0%) | Rate: 0.3/s | ETA: 39.7 min
+2026-03-23 18:52:28,565 [INFO]   ✓ MAHARISHI UNIVERSITY OF MANAGEMENT AND T — 181 courses from 9 pages
+2026-03-23 18:52:28,580 [INFO] [U-0527] Mahatma Gandhi Kashi Vidyapeeth, Varanasi → https://www.mgkvp.ac.in
+2026-03-23 18:52:28,580 [INFO] Progress: 57/700 (8.1%) | Rate: 0.3/s | ETA: 39.1 min
+2026-03-23 18:52:45,036 [INFO]   ✓ Mahatma Gandhi Kashi Vidyapeeth, Varanas — 81 courses from 9 pages
+2026-03-23 18:52:45,065 [INFO] [U-1292] MAHATMA GANDHI UDHYANIKEE EVAM VANIKEE VISHWAVIDYA → https://www.mguvv.ac.in
+2026-03-23 18:52:45,067 [INFO] Progress: 58/700 (8.3%) | Rate: 0.3/s | ETA: 41.4 min
+2026-03-23 18:52:50,460 [INFO]   ✓ Mahatma Gandhi Central University, Motih — 2 courses from 9 pages
+2026-03-23 18:52:50,820 [INFO] Progress: 59/700 (8.4%) | Rate: 0.3/s | ETA: 41.7 min
+2026-03-23 18:52:50,829 [INFO] [U-1150] MAHATMA GANDHI UNIVERSITY → https://www.mguwb.org.in
+2026-03-23 18:52:50,830 [INFO] Progress: 60/700 (8.6%) | Rate: 0.3/s | ETA: 40.9 min
+2026-03-23 18:52:51,194 [INFO]   ✓ Mahatama Gandhi Gramodaya Vishwavidyalay — 161 courses from 9 pages
+2026-03-23 18:52:51,208 [INFO] [U-0262] Mahatma Gandhi University, Kottayam → https://www.mgu.ac.in
+2026-03-23 18:52:51,209 [INFO] Progress: 61/700 (8.7%) | Rate: 0.3/s | ETA: 40.3 min
+2026-03-23 18:52:54,081 [INFO]   ✓ Maharshi Panini Sanskrit Evam Vedic Vish — 60 courses from 9 pages
+2026-03-23 18:52:54,129 [INFO] [U-0022] Mahatma Gandhi University, Nalgonda → https://www.mguniversity.ac.in
+2026-03-23 18:52:54,129 [INFO] Progress: 62/700 (8.9%) | Rate: 0.3/s | ETA: 40.1 min
+2026-03-23 18:53:07,631 [INFO]   ✓ Mahatama Gandhi Antarrashtriya Hindi Vis — 5 courses from 9 pages
+2026-03-23 18:53:07,651 [INFO] [U-0732] MAHATMA GANDHI UNIVERSITY OF MEDICAL SCIENCES AND  → https://www.mgumst.org
+2026-03-23 18:53:07,652 [INFO] Progress: 63/700 (9.0%) | Rate: 0.3/s | ETA: 41.6 min
+2026-03-23 18:53:13,205 [INFO]   ✓ Mahatma Gandhi University, Nalgonda — 66 courses from 9 pages
+2026-03-23 18:53:13,211 [INFO] [U-0339] Mahatma Gandhi University, Tura, West Garo Hills → https://www.mgu.edu.in
+2026-03-23 18:53:13,211 [INFO] Progress: 64/700 (9.1%) | Rate: 0.3/s | ETA: 41.9 min
+2026-03-23 18:53:19,761 [INFO]   ✓ MAHATMA GANDHI UNIVERSITY — 7 courses from 9 pages
+2026-03-23 18:53:19,878 [INFO] [U-0409] Mahatma Jyoti Rao Phoole University, Jaipur → https://www.mjrpuniversity.ac.in
+2026-03-23 18:53:19,879 [INFO] Progress: 65/700 (9.3%) | Rate: 0.3/s | ETA: 42.2 min
+2026-03-23 18:53:39,272 [INFO]   ✓ MAHATMA GANDHI UNIVERSITY OF MEDICAL SCI — 236 courses from 9 pages
+2026-03-23 18:53:39,337 [INFO] [U-0315] Mahatma Phule Krishi Vidyapeeth, Rahuri → https://www.mpkv.ac.in
+2026-03-23 18:53:39,339 [INFO] Progress: 66/700 (9.4%) | Rate: 0.2/s | ETA: 44.6 min
+2026-03-23 18:53:48,337 [INFO]   ✓ Mahatma Gandhi University, Kottayam — 12 courses from 4 pages
+2026-03-23 18:53:48,347 [INFO] [U-1327] Mahaveer University → https://www.mvu.edu.in
+2026-03-23 18:53:48,377 [INFO] Progress: 67/700 (9.6%) | Rate: 0.2/s | ETA: 45.3 min
+2026-03-23 18:53:49,122 [INFO]   ✓ MAHATMA GANDHI UDHYANIKEE EVAM VANIKEE V — 59 courses from 9 pages
+2026-03-23 18:53:49,127 [INFO] [U-1196] MAHAYOGI GORAKHNATH UNIVERSITY GORAKHPUR → https://www.mgug.ac.in
+2026-03-23 18:53:49,127 [INFO] Progress: 68/700 (9.7%) | Rate: 0.2/s | ETA: 44.7 min
+2026-03-23 18:54:02,041 [INFO]   ✓ MAHAYOGI GORAKHNATH UNIVERSITY GORAKHPUR — 0 courses from 1 pages
+2026-03-23 18:54:02,059 [INFO] [U-1270] MAHAYOGI GURU GORAKHNATH AYUSH UNIVERSITY → https://www.mggaugkp.ac.in
+2026-03-23 18:54:02,060 [INFO] Progress: 69/700 (9.9%) | Rate: 0.2/s | ETA: 46.0 min
+2026-03-23 18:54:06,385 [INFO] [U-1119] MAHINDRA UNIVERSITY → https://www.mahindrauniversity.edu.in
+2026-03-23 18:54:06,385 [INFO] Progress: 70/700 (10.0%) | Rate: 0.2/s | ETA: 45.9 min
+2026-03-23 18:54:13,686 [INFO]   ✓ Mahatma Jyoti Rao Phoole University, Jai — 88 courses from 9 pages
+2026-03-23 18:54:13,701 [INFO] Progress: 71/700 (10.1%) | Rate: 0.2/s | ETA: 46.2 min
+2026-03-23 18:54:13,702 [INFO] [U-1342] Major S D Singh University → https://www.msds.ac.in
+2026-03-23 18:54:13,702 [INFO] Progress: 72/700 (10.3%) | Rate: 0.2/s | ETA: 45.5 min
+2026-03-23 18:54:14,670 [INFO]   ✓ Mahatma Phule Krishi Vidyapeeth, Rahuri — 0 courses from 9 pages
+2026-03-23 18:54:14,681 [INFO] [U-1194] MAJULI UNIVERSITY OF CULTURE → https://muoc.ac.in
+2026-03-23 18:54:14,682 [INFO] Progress: 73/700 (10.4%) | Rate: 0.2/s | ETA: 45.0 min
+2026-03-23 18:54:40,437 [INFO]   ✓ MAJULI UNIVERSITY OF CULTURE — 30 courses from 8 pages
+2026-03-23 18:54:40,505 [INFO] [U-0283] Makhanlal Chaturvedi National University of Journa → https://www.mcu.ac.in
+2026-03-23 18:54:40,521 [INFO] Progress: 74/700 (10.6%) | Rate: 0.2/s | ETA: 47.9 min
+2026-03-23 18:54:43,622 [INFO]   ✓ MAHINDRA UNIVERSITY — 276 courses from 9 pages
+2026-03-23 18:54:43,638 [INFO] Progress: 75/700 (10.7%) | Rate: 0.2/s | ETA: 47.7 min
+2026-03-23 18:54:43,647 [INFO] [U-1124] MALLA REDDY UNIVERSITY → https://www.mallareddyuniversity.ac.in
+2026-03-23 18:54:43,648 [INFO] Progress: 76/700 (10.9%) | Rate: 0.2/s | ETA: 47.0 min
+2026-03-23 18:55:00,893 [INFO]   ✓ Mahatma Gandhi University, Tura, West Ga — 30 courses from 9 pages
+2026-03-23 18:55:00,901 [INFO] [U-1366] Malla Reddy Vishwavidyapeeth → https://www.mrvv.edu.in
+2026-03-23 18:55:00,901 [INFO] Progress: 77/700 (11.0%) | Rate: 0.2/s | ETA: 48.6 min
+2026-03-23 18:55:03,232 [INFO]   ✓ Major S D Singh University — 206 courses from 9 pages
+2026-03-23 18:55:03,249 [INFO] [U-0410] Malviya National Institute of Technology, Jaipur → https://www.mnit.ac.in
+2026-03-23 18:55:03,249 [INFO] Progress: 78/700 (11.1%) | Rate: 0.2/s | ETA: 48.2 min
+2026-03-23 18:55:23,200 [INFO]   ✓ Malviya National Institute of Technology — 115 courses from 9 pages
+2026-03-23 18:55:23,217 [INFO] [U-0960] MALWANCHAL UNIVERSITY → https://www.malwanchaluniversity.com
+2026-03-23 18:55:23,217 [INFO] Progress: 79/700 (11.3%) | Rate: 0.2/s | ETA: 50.1 min
+2026-03-23 18:55:35,180 [INFO]   ✓ MALLA REDDY UNIVERSITY — 92 courses from 9 pages
+2026-03-23 18:55:35,213 [INFO] Progress: 80/700 (11.4%) | Rate: 0.2/s | ETA: 51.0 min
+2026-03-23 18:55:35,215 [INFO] [U-0169] Manav Rachna International Institute of Research & → https://www.mriirs.edu.in
+2026-03-23 18:55:35,215 [INFO] Progress: 81/700 (11.6%) | Rate: 0.2/s | ETA: 50.3 min
+2026-03-23 18:55:35,641 [INFO]   ✓ Makhanlal Chaturvedi National University — 55 courses from 9 pages
+2026-03-23 18:55:35,648 [INFO] [U-0818] Manav Rachna University → https://www.mru.edu.in
+2026-03-23 18:55:35,648 [INFO] Progress: 82/700 (11.7%) | Rate: 0.2/s | ETA: 49.6 min
+2026-03-23 18:55:37,509 [INFO]   ✓ MALWANCHAL UNIVERSITY — 18 courses from 6 pages
+2026-03-23 18:55:37,515 [INFO] [U-0883] MANDSAUR UNIVERSITY → https://www.meu.edu.in
+2026-03-23 18:55:37,515 [INFO] Progress: 83/700 (11.9%) | Rate: 0.2/s | ETA: 49.2 min
+2026-03-23 18:55:43,177 [INFO]   ✓ Malla Reddy Vishwavidyapeeth — 24 courses from 9 pages
+2026-03-23 18:55:43,195 [INFO] [U-1050] MANDYA UNIVERSITY → https://www.mandyauniversity.ac.in
+2026-03-23 18:55:43,196 [INFO] Progress: 84/700 (12.0%) | Rate: 0.2/s | ETA: 49.2 min
+2026-03-23 18:55:54,357 [INFO]   ✓ MANDSAUR UNIVERSITY — 134 courses from 9 pages
+2026-03-23 18:55:54,368 [INFO] [U-1105] MANGALAYATAN UNIVERSITY → https://mangalayatan.ac.in
+2026-03-23 18:55:54,368 [INFO] Progress: 85/700 (12.1%) | Rate: 0.2/s | ETA: 49.9 min
+2026-03-23 18:56:05,459 [INFO]   ✓ MANGALAYATAN UNIVERSITY — 92 courses from 9 pages
+2026-03-23 18:56:05,525 [INFO] [U-0528] Mangalayatan University, Aligarh → https://www.mangalayatan.in
+2026-03-23 18:56:05,527 [INFO] Progress: 86/700 (12.3%) | Rate: 0.2/s | ETA: 50.6 min
+2026-03-23 18:56:07,740 [INFO] [U-0233] Mangalore University, Mangalore → https://www.mangaloreuniversity.ac.in
+2026-03-23 18:56:07,741 [INFO] Progress: 87/700 (12.4%) | Rate: 0.2/s | ETA: 50.2 min
+2026-03-23 18:56:15,210 [INFO]   ✓ Mangalayatan University, Aligarh — 425 courses from 9 pages
+2026-03-23 18:56:15,236 [INFO] [U-0234] Manipal Academy of Higher Education, Manipal → https://www.manipal.edu
+2026-03-23 18:56:15,236 [INFO] Progress: 88/700 (12.6%) | Rate: 0.2/s | ETA: 50.4 min
+2026-03-23 18:56:20,675 [INFO]   ✓ Mangalore University, Mangalore — 15 courses from 9 pages
+2026-03-23 18:56:20,687 [INFO] [U-0749] MANIPAL UNIVERSITY, JAIPUR → https://www.jaipur.manipal.edu
+2026-03-23 18:56:20,687 [INFO] Progress: 89/700 (12.7%) | Rate: 0.2/s | ETA: 50.4 min
+2026-03-23 18:56:27,485 [INFO]   ✓ Manipal Academy of Higher Education, Man — 130 courses from 9 pages
+2026-03-23 18:56:27,507 [INFO] [U-1217] MANIPUR INTERNATIONAL UNIVERSITY → https://miu.edu.in
+2026-03-23 18:56:27,508 [INFO] Progress: 90/700 (12.9%) | Rate: 0.2/s | ETA: 50.5 min
+2026-03-23 18:56:31,004 [INFO]   ✓ MANIPAL UNIVERSITY, JAIPUR — 120 courses from 9 pages
+2026-03-23 18:56:31,038 [INFO] [U-0881] MANIPUR TECHNICAL UNIVERSITY → https://mtu.ac.in
+2026-03-23 18:56:31,039 [INFO] Progress: 91/700 (13.0%) | Rate: 0.2/s | ETA: 50.2 min
+2026-03-23 18:56:46,581 [INFO]   ✓ MANIPUR TECHNICAL UNIVERSITY — 85 courses from 9 pages
+2026-03-23 18:56:46,588 [INFO] [U-0337] Manipur University, Imphal → https://www.manipuruniv.ac.in
+2026-03-23 18:56:46,588 [INFO] Progress: 92/700 (13.1%) | Rate: 0.2/s | ETA: 51.3 min
+2026-03-23 18:56:48,342 [INFO]   ✓ MANIPUR INTERNATIONAL UNIVERSITY — 61 courses from 9 pages
+2026-03-23 18:56:48,353 [INFO] [U-0985] MANIPUR UNIVERSITY OF CULTURE → https://www.muc.ac.in
+2026-03-23 18:56:48,353 [INFO] Progress: 93/700 (13.3%) | Rate: 0.2/s | ETA: 50.9 min
+2026-03-23 18:57:19,196 [INFO]   ✓ Manipur University, Imphal — 73 courses from 9 pages
+2026-03-23 18:57:19,210 [INFO] [U-0464] Manonmaniam Sundaranar University, Tirunelveli → https://www.msuniv.ac.in
+2026-03-23 18:57:19,210 [INFO] Progress: 94/700 (13.4%) | Rate: 0.2/s | ETA: 53.6 min
+2026-03-23 18:57:29,197 [INFO]   ✓ Manonmaniam Sundaranar University, Tirun — 0 courses from 9 pages
+2026-03-23 18:57:29,224 [INFO] [U-1023] MANSAROVAR GLOBAL UNIVERSITY → https://www.mguindia.com
+2026-03-23 18:57:29,240 [INFO] Progress: 95/700 (13.6%) | Rate: 0.2/s | ETA: 54.0 min
+2026-03-23 18:57:29,265 [INFO]   ✓ MANIPUR UNIVERSITY OF CULTURE — 37 courses from 9 pages
+2026-03-23 18:57:29,281 [INFO] [U-0340] Martin Luther Christian University, Shillong → https://www.mlcuniv.in
+2026-03-23 18:57:29,282 [INFO] Progress: 96/700 (13.7%) | Rate: 0.2/s | ETA: 53.3 min
+2026-03-23 18:57:39,363 [INFO]   ✓ MANSAROVAR GLOBAL UNIVERSITY — 101 courses from 9 pages
+2026-03-23 18:57:39,375 [INFO] [U-0825] Marwadi University → https://www.marwadiuniversity.ac.in
+2026-03-23 18:57:39,375 [INFO] Progress: 97/700 (13.9%) | Rate: 0.2/s | ETA: 53.8 min
+2026-03-23 18:57:41,545 [INFO] [U-1429] Marwar Medical University → https://medicaleducation.rajasthan.gov.in/mmu/#/home/dptHome
+2026-03-23 18:57:41,545 [INFO] Progress: 98/700 (14.0%) | Rate: 0.2/s | ETA: 53.3 min
+2026-03-23 18:57:42,270 [INFO] [U-1125] MATA GUJRI UNIVERSITY → https://www.matagujriuniversity.com
+2026-03-23 18:57:42,272 [INFO] Progress: 99/700 (14.1%) | Rate: 0.2/s | ETA: 52.8 min
+2026-03-23 18:57:43,667 [INFO]   ✓ Marwar Medical University — 0 courses from 1 pages
+2026-03-23 18:57:43,677 [INFO] [U-1386] Mata Tripura Sundari Open University → https://www.mtsou.edu.in
+2026-03-23 18:57:43,677 [INFO] Progress: 100/700 (14.3%) | Rate: 0.2/s | ETA: 52.3 min
+2026-03-23 18:57:50,064 [INFO]   ✓ Martin Luther Christian University, Shil — 89 courses from 9 pages
+2026-03-23 18:57:50,094 [INFO] [U-0091] MATS University, Raipur → https://www.matsuniversity.ac.in
+2026-03-23 18:57:50,095 [INFO] Progress: 101/700 (14.4%) | Rate: 0.2/s | ETA: 52.3 min
+2026-03-23 18:57:57,160 [INFO]   ✓ Mata Tripura Sundari Open University — 312 courses from 9 pages
+2026-03-23 18:57:57,193 [INFO] [U-0592] Maulana Abul Kalam Azad University of Technology,  → http://makautwb.ac.in
+2026-03-23 18:57:57,193 [INFO] Progress: 102/700 (14.6%) | Rate: 0.2/s | ETA: 52.4 min
+2026-03-23 18:58:06,707 [INFO]   ✓ MATA GUJRI UNIVERSITY — 254 courses from 9 pages
+2026-03-23 18:58:06,743 [INFO] [U-0284] Maulana Azad National Institute of Technology, Bho → https://www.manit.ac.in
+2026-03-23 18:58:06,743 [INFO] Progress: 103/700 (14.7%) | Rate: 0.2/s | ETA: 52.8 min
+2026-03-23 18:58:15,272 [INFO]   ✓ MATS University, Raipur — 153 courses from 9 pages
+2026-03-23 18:58:15,282 [INFO] [U-0023] Maulana Azad National Urdu University, Hyderabad → https://www.manuu.edu.in
+2026-03-23 18:58:15,284 [INFO] Progress: 104/700 (14.9%) | Rate: 0.2/s | ETA: 53.0 min
+2026-03-23 18:58:18,410 [INFO]   ✓ Marwadi University — 200 courses from 9 pages
+2026-03-23 18:58:18,426 [INFO] [U-0692] MAULANA AZAD UNIVERSITY, JODHPUR → https://www.mauj.ac.in
+2026-03-23 18:58:18,426 [INFO] Progress: 105/700 (15.0%) | Rate: 0.2/s | ETA: 52.7 min
+2026-03-23 18:58:19,709 [INFO]   ✓ MAULANA AZAD UNIVERSITY, JODHPUR — 0 courses from 1 pages
+2026-03-23 18:58:19,718 [INFO] [U-0070] Maulana Mazharul Haque Arabic & Persian University → https://mmhapu.ac.in
+2026-03-23 18:58:19,720 [INFO] Progress: 106/700 (15.1%) | Rate: 0.2/s | ETA: 52.2 min
+2026-03-23 18:58:37,190 [INFO]   ✓ Maulana Mazharul Haque Arabic & Persian  — 156 courses from 9 pages
+2026-03-23 18:58:37,206 [INFO] [U-1349] Maya Devi University → https://maya.edu.in
+2026-03-23 18:58:37,207 [INFO] Progress: 107/700 (15.3%) | Rate: 0.2/s | ETA: 53.3 min
+2026-03-23 18:58:37,689 [INFO]   ✓ Maulana Abul Kalam Azad University of Te — 471 courses from 9 pages
+2026-03-23 18:58:37,719 [INFO] [U-1210] MBM UNIVERSITY → https://www.mbm.ac.in
+2026-03-23 18:58:37,720 [INFO] Progress: 108/700 (15.4%) | Rate: 0.2/s | ETA: 52.7 min
+2026-03-23 18:58:40,120 [INFO]   ✓ Maya Devi University — 0 courses from 1 pages
+2026-03-23 18:58:40,124 [INFO] [U-1208] MEDHAVI SKILLS UNIVERSITY → https://www.msu.edu.in
+2026-03-23 18:58:40,124 [INFO] Progress: 109/700 (15.6%) | Rate: 0.2/s | ETA: 52.4 min
+2026-03-23 18:58:41,258 [INFO]   ✓ Maulana Azad National Urdu University, H — 145 courses from 9 pages
+2026-03-23 18:58:41,270 [INFO] [U-0834] MEDI-CAPS UNIVERSITY → https://www.medicaps.ac.in
+2026-03-23 18:58:41,271 [INFO] Progress: 110/700 (15.7%) | Rate: 0.2/s | ETA: 51.9 min
+2026-03-23 18:58:42,407 [INFO]   ✓ Mahaveer University — 108 courses from 9 pages
+2026-03-23 18:58:42,464 [INFO] [U-0465] Meenakshi Academy of Higher Education and Research → https://www.maher.ac.in
+2026-03-23 18:58:42,465 [INFO] Progress: 111/700 (15.9%) | Rate: 0.2/s | ETA: 51.5 min
+2026-03-23 18:58:45,036 [INFO]   ✓ MBM UNIVERSITY — 88 courses from 4 pages
+2026-03-23 18:58:45,039 [INFO] [U-0411] Mewar University, Chittorgarh → https://www.mewaruniversity.org
+2026-03-23 18:58:45,039 [INFO] Progress: 112/700 (16.0%) | Rate: 0.2/s | ETA: 51.1 min
+2026-03-23 18:58:51,620 [INFO]   ✓ MEDHAVI SKILLS UNIVERSITY — 149 courses from 9 pages
+2026-03-23 18:58:51,772 [INFO] [U-0317] MGM Institute of Health Sciences, Navi  Mumbai → https://www.mgmuhs.com
+2026-03-23 18:58:51,773 [INFO] Progress: 113/700 (16.1%) | Rate: 0.2/s | ETA: 51.2 min
+2026-03-23 18:58:52,430 [INFO]   ✓ MEDI-CAPS UNIVERSITY — 143 courses from 9 pages
+2026-03-23 18:58:52,518 [INFO] [U-1101] MGM UNIVERSITY → https://www.mgmu.ac.in
+2026-03-23 18:58:52,519 [INFO] Progress: 114/700 (16.3%) | Rate: 0.2/s | ETA: 50.7 min
+2026-03-23 18:58:54,190 [INFO]   ✓ MGM UNIVERSITY — 0 courses from 1 pages
+2026-03-23 18:58:54,204 [INFO] [U-0461] M.G.R. Educational and Research Institute, Chennai → https://www.drmgrdu.ac.in
+2026-03-23 18:58:54,205 [INFO] Progress: 115/700 (16.4%) | Rate: 0.2/s | ETA: 50.3 min
+2026-03-23 18:59:02,497 [INFO]   ✓ Mewar University, Chittorgarh — 0 courses from 9 pages
+2026-03-23 18:59:02,507 [INFO] [U-1361] Mind Power University → https://www.mindpoweruniversity.ac.in
+2026-03-23 18:59:02,514 [INFO] Progress: 116/700 (16.6%) | Rate: 0.2/s | ETA: 50.5 min
+2026-03-23 18:59:22,616 [INFO]   ✓ Meenakshi Academy of Higher Education an — 360 courses from 9 pages
+2026-03-23 18:59:22,664 [INFO] [U-0891] MIT Art, Design and Technology University, Pune → https://www.mituniversity.ac.in
+2026-03-23 18:59:22,664 [INFO] Progress: 117/700 (16.7%) | Rate: 0.2/s | ETA: 51.7 min
+2026-03-23 18:59:29,563 [INFO]   ✓ MGM Institute of Health Sciences, Navi   — 177 courses from 9 pages
+2026-03-23 18:59:29,583 [INFO] [U-1307] MIT VISHWAPRAYAG UNIVERSITY → https://www.mitvpu.ac.in
+2026-03-23 18:59:29,583 [INFO] Progress: 118/700 (16.9%) | Rate: 0.2/s | ETA: 51.7 min
+2026-03-23 18:59:31,799 [INFO]   ✓ Mind Power University — 91 courses from 9 pages
+2026-03-23 18:59:31,830 [INFO] [U-0345] Mizoram University, Aizwal → https://www.mzu.edu.in
+2026-03-23 18:59:31,831 [INFO] Progress: 119/700 (17.0%) | Rate: 0.2/s | ETA: 51.4 min
+2026-03-23 18:59:43,595 [INFO]   ✓ MIT Art, Design and Technology Universit — 423 courses from 9 pages
+2026-03-23 18:59:43,637 [INFO] [U-1369] M K University → https://www.mkuniversity.edu.in
+2026-03-23 18:59:43,639 [INFO] Progress: 120/700 (17.1%) | Rate: 0.2/s | ETA: 51.8 min
+2026-03-23 18:59:54,925 [INFO]   ✓ Maulana Azad National Institute of Techn — 103 courses from 9 pages
+2026-03-23 18:59:54,930 [INFO] [U-1373] MNR University → https://www.mnruniversity.edu.in
+2026-03-23 18:59:54,930 [INFO] Progress: 121/700 (17.3%) | Rate: 0.2/s | ETA: 52.2 min
+2026-03-23 19:00:03,875 [INFO]   ✓ M.G.R. Educational and Research Institut — 433 courses from 9 pages
+2026-03-23 19:00:03,893 [INFO] [U-0412] Mody University of Science and Technology → https://www.modyuniversity.ac.in
+2026-03-23 19:00:03,893 [INFO] Progress: 122/700 (17.4%) | Rate: 0.2/s | ETA: 52.4 min
+2026-03-23 19:00:08,079 [INFO] [U-0529] Mohammad Ali Jauhar University, Rampur → https://www.jauharuniversity.edu.in
+2026-03-23 19:00:08,080 [INFO] Progress: 123/700 (17.6%) | Rate: 0.2/s | ETA: 52.2 min
+2026-03-23 19:00:08,808 [INFO]   ✓ M K University — 108 courses from 9 pages
+2026-03-23 19:00:08,821 [INFO] [U-1284] MOHAN BABU UNIVERSITY → https://www.mbu.asia
+2026-03-23 19:00:08,822 [INFO] Progress: 124/700 (17.7%) | Rate: 0.2/s | ETA: 51.7 min
+2026-03-23 19:00:13,904 [INFO]   ✓ MNR University — 45 courses from 9 pages
+2026-03-23 19:00:13,918 [INFO] [U-0413] Mohan Lal Sukhadia University, Uaipur → https://www.mlsu.org
+2026-03-23 19:00:13,921 [INFO] Progress: 125/700 (17.9%) | Rate: 0.2/s | ETA: 51.6 min
+2026-03-23 19:00:18,825 [INFO]   ✓ Mohammad Ali Jauhar University, Rampur — 100 courses from 9 pages
+2026-03-23 19:00:18,836 [INFO] [U-0644] MONAD UNIVERSITY → https://monad.edu.in
+2026-03-23 19:00:18,837 [INFO] Progress: 126/700 (18.0%) | Rate: 0.2/s | ETA: 51.5 min
+2026-03-23 19:00:21,744 [INFO]   ✓ Mohan Lal Sukhadia University, Uaipur — 0 courses from 1 pages
+2026-03-23 19:00:21,757 [INFO] [U-1129] MONARK UNIVERSITY → https://www.monarkuni.ac.in
+2026-03-23 19:00:21,757 [INFO] Progress: 127/700 (18.1%) | Rate: 0.2/s | ETA: 51.2 min
+2026-03-23 19:00:23,906 [INFO]   ✓ MIT VISHWAPRAYAG UNIVERSITY — 59 courses from 9 pages
+2026-03-23 19:00:23,922 [INFO] [U-0780] MOTHERHOOD UNIVERSITY → https://www.mhu.edu.in
+2026-03-23 19:00:23,922 [INFO] Progress: 128/700 (18.3%) | Rate: 0.2/s | ETA: 50.9 min
+2026-03-23 19:00:32,855 [INFO]   ✓ MONARK UNIVERSITY — 8 courses from 3 pages
+2026-03-23 19:00:32,874 [INFO] [U-0466] Mother Teresa Women's University, Kodaikanal → https://www.motherteresawomenuniv.ac.in
+2026-03-23 19:00:32,874 [INFO] Progress: 129/700 (18.4%) | Rate: 0.2/s | ETA: 51.1 min
+2026-03-23 19:00:33,676 [INFO]   ✓ Mizoram University, Aizwal — 78 courses from 9 pages
+2026-03-23 19:00:33,690 [INFO] [U-0530] Motilal Nehru National Institute of Technology, Al → https://www.mnnit.ac.in
+2026-03-23 19:00:33,690 [INFO] Progress: 130/700 (18.6%) | Rate: 0.2/s | ETA: 50.7 min
+2026-03-23 19:01:05,585 [INFO]   ✓ MOHAN BABU UNIVERSITY — 229 courses from 9 pages
+2026-03-23 19:01:05,595 [INFO] [U-0724] M.S. RAMAIAH UNIVERSITY OF APPLIED SCIENCES, BANGA → https://www.msruas.ac.in
+2026-03-23 19:01:05,595 [INFO] Progress: 131/700 (18.7%) | Rate: 0.2/s | ETA: 52.5 min
+2026-03-23 19:01:09,536 [INFO]   ✓ MONAD UNIVERSITY — 12 courses from 9 pages
+2026-03-23 19:01:09,543 [INFO] [U-0975] MUNGER UNIVERSITY → https://www.mungeruniversity.ac.in
+2026-03-23 19:01:09,544 [INFO] Progress: 132/700 (18.9%) | Rate: 0.2/s | ETA: 52.3 min
+2026-03-23 19:01:11,415 [INFO]   ✓ Mother Teresa Women's University, Kodaik — 7 courses from 9 pages
+2026-03-23 19:01:11,420 [INFO] [U-1165] MURSHIDABAD UNIVERSITY → https://www.msduniv.ac.in
+2026-03-23 19:01:11,420 [INFO] Progress: 133/700 (19.0%) | Rate: 0.2/s | ETA: 51.9 min
+2026-03-23 19:01:20,785 [INFO]   ✓ M.S. RAMAIAH UNIVERSITY OF APPLIED SCIEN — 137 courses from 9 pages
+2026-03-23 19:01:20,799 [INFO] [U-0742] M V N University, Palwal → https://www.mvn.edu.in
+2026-03-23 19:01:20,799 [INFO] Progress: 134/700 (19.1%) | Rate: 0.2/s | ETA: 52.1 min
+2026-03-23 19:01:23,415 [INFO]   ✓ M V N University, Palwal — 0 courses from 1 pages
+2026-03-23 19:01:23,444 [INFO] [U-0347] Nagaland University → https://www.nagalanduniversity.ac.in
+2026-03-23 19:01:23,445 [INFO] Progress: 135/700 (19.3%) | Rate: 0.2/s | ETA: 51.8 min
+2026-03-23 19:01:27,848 [INFO]   ✓ Motilal Nehru National Institute of Tech — 131 courses from 9 pages
+2026-03-23 19:01:27,880 [INFO] Progress: 136/700 (19.4%) | Rate: 0.2/s | ETA: 51.7 min
+2026-03-23 19:01:27,892 [INFO] [U-0071] Nalanda Open University, Patna → https://www.nou.ac.in
+2026-03-23 19:01:27,895 [INFO] Progress: 137/700 (19.6%) | Rate: 0.2/s | ETA: 51.2 min
+2026-03-23 19:01:31,659 [INFO]   ✓ Nalanda Open University, Patna — 0 courses from 1 pages
+2026-03-23 19:01:31,710 [INFO] [U-0710] Nalanda University → https://www.nalandauniv.edu.in
+2026-03-23 19:01:31,711 [INFO] Progress: 138/700 (19.7%) | Rate: 0.2/s | ETA: 51.0 min
+2026-03-23 19:01:31,767 [INFO]   ✓ Nagaland University — 14 courses from 4 pages
+2026-03-23 19:01:31,779 [INFO] [U-0279] Nanaji Deshmukh Pashu Chikitsa Vigyan Vishwavidala → http://www.ndvsu.org
+2026-03-23 19:01:31,779 [INFO] Progress: 139/700 (19.9%) | Rate: 0.2/s | ETA: 50.5 min
+2026-03-23 19:01:53,980 [INFO]   ✓ MURSHIDABAD UNIVERSITY — 56 courses from 9 pages
+2026-03-23 19:01:54,009 [INFO] [U-0024] National Academy of Legal Studies & Research (NALS → https://www.nalsar.ac.in
+2026-03-23 19:01:54,009 [INFO] Progress: 140/700 (20.0%) | Rate: 0.2/s | ETA: 51.6 min

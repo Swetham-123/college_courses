@@ -1,0 +1,181 @@
+{
+  "aishe_code": "U-1293",
+  "university_name": "NATIONAL LAW UNIVERSITY",
+  "state": "Tripura",
+  "district": "West Tripura",
+  "website": "www.nlutripura.ac.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:39:20.096987Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PH.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nlutripura.ac.in/doctoral-programme"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nlutripura.ac.in/ph-d-admissions-2025-26"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nlutripura.ac.in/ph-d-admissions-2025-26"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "for",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nlutripura.ac.in/ph-d-admissions-2025-26"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nlutripura.ac.in/doctoral-programme"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nlutripura.ac.in/doctoral-programme"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nlutripura.ac.in/gallery/five-day-one-credit-certificate-course-on-rural-governance-and-citizen-participation"
+    },
+    {
+      "degree_name": "LLb",
+      "course_name": "vxI",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nlutripura.ac.in/wp-content/uploads/2026/03/Detailed-Ph.D.-Notification-2025-26-Website-Reg.pdf"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nlutripura.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://nlutripura.ac.in/undergraduate-programme"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s of",
+      "level_of_education": "Certificate",
+      "source_url": "https://nlutripura.ac.in/event/call-for-papers-national-conference-on-kautilyas-arthashastra-ancient-wisdom-and-contemporary-legal-thought"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nlutripura.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://nlutripura.ac.in/undergraduate-programme"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://nlutripura.ac.in/wp-content/uploads/2026/03/Detailed-Ph.D.-Notification-2025-26-Website-Reg.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nlutripura.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Day",
+      "level_of_education": "Unknown",
+      "source_url": "https://nlutripura.ac.in/undergraduate-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://nlutripura.ac.in/undergraduate-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://nlutripura.ac.in/gallery/five-day-one-credit-certificate-course-on-rural-governance-and-citizen-participation"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://nlutripura.ac.in/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://nlutripura.ac.in/event/call-for-papers-national-conference-on-kautilyas-arthashastra-ancient-wisdom-and-contemporary-legal-thought"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bro",
+      "level_of_education": "Unknown",
+      "source_url": "https://nlutripura.ac.in/event/call-for-papers-national-conference-on-kautilyas-arthashastra-ancient-wisdom-and-contemporary-legal-thought"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://nlutripura.ac.in/undergraduate-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://nlutripura.ac.in/undergraduate-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://nlutripura.ac.in/postgraduate-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://nlutripura.ac.in/postgraduate-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://nlutripura.ac.in/undergraduate-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tre",
+      "level_of_education": "Unknown",
+      "source_url": "https://nlutripura.ac.in/undergraduate-programme"
+    }
+  ],
+  "total_courses": 27,
+  "pages_scraped": 18,
+  "errors": []
+}

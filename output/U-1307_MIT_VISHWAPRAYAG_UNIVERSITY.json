@@ -1,0 +1,385 @@
+{
+  "aishe_code": "U-1307",
+  "university_name": "MIT VISHWAPRAYAG UNIVERSITY",
+  "state": "Maharashtra",
+  "district": "Solapur",
+  "website": "www.mitvpu.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:10:54.063962Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "MBA",
+      "course_name": "(IIM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitvpu.ac.in/school-of-business"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MAH",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MMS",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitvpu.ac.in/school-of-business"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Sch",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitvpu.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "CET",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "MAH",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitvpu.ac.in/school-of-computing"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Sch",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitvpu.ac.in"
+    },
+    {
+      "degree_name": "PGDM",
+      "course_name": "(IIM B)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mitvpu.ac.in/school-of-business"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/school-of-computing"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/school-of-business"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "B.Sc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/school-of-design"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "MAH-B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "MHT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Sch",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ani",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Lib",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Tex",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/school-of-design"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(IIT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/school-of-business"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/school-of-computing"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ECE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/school-of-computing"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "MHT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/school-of-business"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "MAH",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/school-of-computing"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "MAH",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "(See",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cas",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mig",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Non",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ori",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "con",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Cla",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Val",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "sha",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Agg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "San",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Vas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "hig",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ret",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in/admissions"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mitvpu.ac.in"
+    }
+  ],
+  "total_courses": 61,
+  "pages_scraped": 18,
+  "errors": []
+}

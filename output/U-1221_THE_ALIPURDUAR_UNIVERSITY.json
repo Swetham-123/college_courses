@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1221",
+  "university_name": "THE ALIPURDUAR UNIVERSITY",
+  "state": "West Bengal",
+  "district": "Alipurduar",
+  "website": "https://www.alipurduaruniversity.ac.in/",
+  "year_established": "2020",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:59:59.806485Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 25,
+  "errors": []
+}

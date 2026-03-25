@@ -1,0 +1,193 @@
+{
+  "aishe_code": "U-1103",
+  "university_name": "MAHARISHI UNIVERSITY OF MANAGEMENT AND TECHNOLOGY",
+  "state": "Chhattisgarh",
+  "district": "Bilaspur",
+  "website": "www.mumt.org",
+  "year_established": "2018",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:49:52.587010Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mumt.org/latest-phd-notification"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Exa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mumt.org/old-phd-notification"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mumt.org/latest-phd-notification"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mumt.org"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mumt.org/old-phd-notification"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mumt.org/latest-phd-notification"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mumt.org/old-phd-notification"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mumt.org/course/regular-course"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Pub",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mumt.org/course/regular-course"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Yoga (",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mumt.org/course/regular-course"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "and",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mumt.org/admission-advertisement"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://mumt.org/course/regular-course"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://mumt.org/course/regular-course"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fin",
+      "level_of_education": "Diploma",
+      "source_url": "https://mumt.org/course/regular-course"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fire",
+      "level_of_education": "Diploma",
+      "source_url": "https://mumt.org/course/regular-course"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hot",
+      "level_of_education": "Diploma",
+      "source_url": "https://mumt.org/course/regular-course"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mul",
+      "level_of_education": "Diploma",
+      "source_url": "https://mumt.org/course/regular-course"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mus",
+      "level_of_education": "Diploma",
+      "source_url": "https://mumt.org/course/regular-course"
+    },
+    {
+      "degree_name": "PG\n                            Diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://mumt.org/course/regular-course"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://mumt.org/course/regular-course"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://mumt.org/course/regular-course"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mumt.org/upload/MUMT-PDF/ugc-proforma.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dex",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mumt.org"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://mumt.org/admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://mumt.org/old-phd-notification"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "seen",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mumt.org"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://mumt.org/admission"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "are",
+      "level_of_education": "Unknown",
+      "source_url": "https://mumt.org/admission"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mumt.org"
+    }
+  ],
+  "total_courses": 29,
+  "pages_scraped": 11,
+  "errors": []
+}

@@ -1,0 +1,1147 @@
+{
+  "aishe_code": "U-0238",
+  "university_name": "National Law School of India University, Bangalore",
+  "state": "Karnataka",
+  "district": "Bengaluru Urban",
+  "website": "www.nls.ac.in",
+  "year_established": "1986",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:38:53.835547Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(Law)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-social-sciences-humanities-and-public-policy"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ple",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "They",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-social-sciences-humanities-and-public-policy"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "con",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-social-sciences-humanities-and-public-policy"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sea",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "(Law)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Prof",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-social-sciences-humanities-and-public-policy"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Prof. (",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-social-sciences-humanities-and-public-policy"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "They",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/in-focus/visiting-scholars-programme"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "rel",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-social-sciences-humanities-and-public-policy"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "will",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nls.ac.in/programme/llm"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Rel",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nls.ac.in/programme/master-of-public-policy"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nls.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "exa",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "pap",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "will",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "integrated BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "integrated BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nls.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Arb",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nls.ac.in/online-and-hybrid-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Chi",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nls.ac.in/online-and-hybrid-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Con",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nls.ac.in/online-and-hybrid-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cyb",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nls.ac.in/online-and-hybrid-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Env",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nls.ac.in/online-and-hybrid-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hum",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nls.ac.in/online-and-hybrid-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nls.ac.in/online-and-hybrid-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nls.ac.in/online-and-hybrid-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tax",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nls.ac.in/online-and-hybrid-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "obt",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nls.ac.in/study/academic-records"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "tel",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nls.ac.in/online-and-hybrid-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Att",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/study/academic-records"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cha",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/study/academic-records"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dup",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/study/academic-records"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Gra",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/study/academic-records"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Med",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/study/academic-records"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mig",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/study/academic-records"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pra",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "dic",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "must",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s do",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Com",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Kan",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "can I",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "dur",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "for",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "has a",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "iss",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s in",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "the",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "will",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hons",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "The",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "are",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "pap",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "sco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "str",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "will",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "June",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programmes/courses"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "abo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ask",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/llm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bet",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/master-of-public-policy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "chr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "col",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ded",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dem",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "des",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ear",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/in-focus/visiting-scholars-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eva",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fam",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for 25",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for 50",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ful",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/master-of-public-policy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "hum",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "leg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "loo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mai",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "men",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nut",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "old",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "one",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ope",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "open",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "oth",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/in-focus/visiting-scholars-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pay",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "per",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/master-of-public-policy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pic",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/study/academic-records"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pri",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/llm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sho",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "six (6)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ph-d-law"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "spo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/llm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "str",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/llm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tau",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ter",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/master-of-public-policy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tes",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-b-a-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "this",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tim",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/student-exchange-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "two",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "val",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "var",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vit",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wit",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/in-focus/visiting-scholars-programme"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "I am",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/in-focus/visiting-scholars-programme"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "aro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/llm"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "pick",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/llm"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/3-year-llb-hons"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nls.ac.in/programme/ba-llb-hons"
+    }
+  ],
+  "total_courses": 188,
+  "pages_scraped": 14,
+  "errors": []
+}

@@ -1,0 +1,31 @@
+{
+  "aishe_code": "U-1331",
+  "university_name": "NATIONAL INSTITUTE OF TECHNICAL TEACHERS TRAINING AND RESEARCH, CHENNAI",
+  "state": "Tamil Nadu",
+  "district": "Chennai",
+  "website": "www.nitttrc.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:28:43.514737Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Det",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrc.ac.in/admission/general.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrc.ac.in"
+    }
+  ],
+  "total_courses": 2,
+  "pages_scraped": 3,
+  "errors": []
+}

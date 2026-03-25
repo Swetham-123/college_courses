@@ -1,0 +1,31 @@
+{
+  "aishe_code": "U-1150",
+  "university_name": "MAHATMA GANDHI UNIVERSITY",
+  "state": "West Bengal",
+  "district": "Purba Medinipur",
+  "website": "www.mguwb.org.in",
+  "year_established": "2017",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:51:51.674958Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Med",
+      "course_name": "ipur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguwb.org.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ipur (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguwb.org.in"
+    }
+  ],
+  "total_courses": 2,
+  "pages_scraped": 12,
+  "errors": []
+}

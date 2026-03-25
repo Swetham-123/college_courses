@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0784",
+  "university_name": "PROFESSOR JAYASHANKAR TELANGANA AGRICULTURAL UNIVERSITY (PJTAU)",
+  "state": "Telangana",
+  "district": "Hyderabad",
+  "website": "www.pjtau.edu.in",
+  "year_established": "2014",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:12.064448Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0808",
+  "university_name": "RAMA UNIVERSITY UTTAR PRADESH",
+  "state": "Uttar Pradesh",
+  "district": "Kanpur Nagar",
+  "website": "www.ramauniversity.ac.in",
+  "year_established": "2014",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:25.968184Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

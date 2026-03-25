@@ -1,0 +1,241 @@
+{
+  "aishe_code": "U-0617",
+  "university_name": "National Institute of Technology Mizoram",
+  "state": "Mizoram",
+  "district": "Aizawl",
+  "website": "www.nitmz.ac.in",
+  "year_established": "2010",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:35:27.074340Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitmz.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Civ",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitmz.ac.in/department/civil-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitmz.ac.in/department/electrical-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitmz.ac.in/department/chemistry"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitmz.ac.in/department/electrical-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitmz.ac.in/academics/programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitmz.ac.in/academics/academic-curricula"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sea",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitmz.ac.in/downloads/academic-forms"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitmz.ac.in/admission-into-m-tech-programme-2025-26-institute-mode"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitmz.ac.in/academics/scholarships"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitmz.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitmz.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Reg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitmz.ac.in/academics/academic-curricula"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitmz.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitmz.ac.in/academics/academic-curricula"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitmz.ac.in/academics/programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitmz.ac.in/academics/academic-calendar"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitmz.ac.in/department/computer-science-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "exc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitmz.ac.in/academics/academic-calendar"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitmz.ac.in/department/chemistry"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Dual",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitmz.ac.in/academics/programmes"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitmz.ac.in/department/mathematics"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "any",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitmz.ac.in/academics/programmes"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "Con",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitmz.ac.in/downloads/academic-forms"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "(NOC)",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitmz.ac.in/admission-into-m-tech-programme-2025-26-institute-mode"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitmz.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitmz.ac.in/academics/scholarships"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitmz.ac.in/academics/scholarships"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitmz.ac.in/academics/scholarships"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitmz.ac.in/admission-into-m-tech-programme-2025-26-institute-mode"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitmz.ac.in/admission-into-m-tech-programme-2025-26-institute-mode"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitmz.ac.in/admission-into-m-tech-programme-2025-26-institute-mode"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitmz.ac.in/admission-into-m-tech-programme-2025-26-institute-mode"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitmz.ac.in/admission-into-m-tech-programme-2025-26-institute-mode"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitmz.ac.in/admission-into-m-tech-programme-2025-26-institute-mode"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tim",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitmz.ac.in/academics/fee-structure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "two",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitmz.ac.in/admission-into-m-tech-programme-2025-26-institute-mode"
+    }
+  ],
+  "total_courses": 37,
+  "pages_scraped": 25,
+  "errors": []
+}

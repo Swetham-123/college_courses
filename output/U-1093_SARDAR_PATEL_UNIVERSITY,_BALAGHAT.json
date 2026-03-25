@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1093",
+  "university_name": "SARDAR PATEL UNIVERSITY, BALAGHAT",
+  "state": "Madhya Pradesh",
+  "district": "Balaghat",
+  "website": "www.spubgt.ac.in",
+  "year_established": "2018",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:40.692758Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

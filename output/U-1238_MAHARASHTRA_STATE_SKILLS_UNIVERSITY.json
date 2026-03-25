@@ -1,0 +1,457 @@
+{
+  "aishe_code": "U-1238",
+  "university_name": "MAHARASHTRA STATE SKILLS UNIVERSITY",
+  "state": "Maharashtra",
+  "district": "Mumbai",
+  "website": "www.mssu.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:48:41.607187Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "BBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mssu.ac.in/school-of-commerce-management-skills-new-design"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Clo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mssu.ac.in/school-of-science-engineering-and-technology-skills-new-design"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Cyb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "IoT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Rob",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "SPE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Clo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Cyb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "ELI",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "SPE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Dig",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Ani",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mssu.ac.in/design-creative-skills-new-design"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Game",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mssu.ac.in/design-creative-skills-new-design"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mssu.ac.in/design-creative-skills-new-design"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Tra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mssu.ac.in/design-creative-skills-new-design"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ELI",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "SPE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "or B.E",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "B.Sc.(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Fac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mssu.ac.in/programs-offered-at-thane-centre"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Res",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ret",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "SPE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "The",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mssu.ac.in/programs-offered-at-navi-mumbai-centre"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "(MLT)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mssu.ac.in/school-of-science-engineering-and-technology-skills-new-design"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Con",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Exit",
+      "level_of_education": "Diploma",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "For",
+      "level_of_education": "Diploma",
+      "source_url": "https://mssu.ac.in/school-of-commerce-management-skills-new-design"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Glo",
+      "level_of_education": "Diploma",
+      "source_url": "https://mssu.ac.in/school-of-commerce-management-skills-new-design"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://mssu.ac.in/school-of-science-engineering-and-technology-skills-new-design"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "hol",
+      "level_of_education": "Diploma",
+      "source_url": "https://mssu.ac.in/school-of-science-engineering-and-technology-skills-new-design"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mah",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Rat",
+      "level_of_education": "Certificate",
+      "source_url": "https://apps.mssu.ac.in/stc/DownloadCertificate"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ver",
+      "level_of_education": "Certificate",
+      "source_url": "https://apps.mssu.ac.in/ChatGPT/ChatGPTLogin.aspx"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "both",
+      "level_of_education": "Certificate",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "ELI",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/school-of-humanities-skills-new-design"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Col",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/school-of-humanities-skills-new-design"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Com",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Hons",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/programs-offered-at-thane-centre"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/school-of-humanities-skills-new-design"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Aqe",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/wp-content/uploads/2025/09/fee-structure.pdf"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Coi",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/wp-content/uploads/2025/09/fee-structure.pdf"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Cqs",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/wp-content/uploads/2025/09/fee-structure.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/wp-content/uploads/2025/09/fee-structure.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "hir",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://mssu.ac.in/admissions-2"
+    }
+  ],
+  "total_courses": 73,
+  "pages_scraped": 17,
+  "errors": []
+}

@@ -1,0 +1,97 @@
+{
+  "aishe_code": "U-1299",
+  "university_name": "ODISHA UNIVERSITY OF HEALTH SCIENCES",
+  "state": "Odisha",
+  "district": "Khordha",
+  "website": "https://www.ouhs.ac.in/",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:51:49.584956Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.SC",
+      "course_name": "NUR",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ouhs.ac.in"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ouhs.ac.in"
+    },
+    {
+      "degree_name": "B.SC",
+      "course_name": "NUR",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ouhs.ac.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ouhs.ac.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "EXA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ouhs.ac.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Part -1",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ouhs.ac.in"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "ICI",
+      "level_of_education": "Unknown",
+      "source_url": "https://ouhs.ac.in/curriculum"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ouhs.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "col",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ouhs.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ouhs.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ouhs.ac.in"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "s at",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ouhs.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ouhs.ac.in"
+    }
+  ],
+  "total_courses": 13,
+  "pages_scraped": 25,
+  "errors": []
+}

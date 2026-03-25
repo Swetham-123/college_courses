@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0094",
+  "university_name": "Pt. Sundarlal Sharma (Open) University, Bilaspur",
+  "state": "Chhattisgarh",
+  "district": "Bilaspur",
+  "website": "pssou.ac.in",
+  "year_established": "2005",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:14.016485Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,1393 @@
+{
+  "aishe_code": "U-0528",
+  "university_name": "Mangalayatan University, Aligarh",
+  "state": "Uttar Pradesh",
+  "district": "Aligarh",
+  "website": "www.mangalayatan.in",
+  "year_established": "2006",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:00:15.792464Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PG\nDiploma",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": ") is a",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Agr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission/agriculture-course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission/biotechnology-course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission/chemistry-course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ele",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission/ece-course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fee",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "His",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission/history-course.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Jain",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission/jain-philosophy-course.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Jou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission/journalism-and-mass-communication-course.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Min",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pub",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission/public-administration-course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Tou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission/tourism-and-hotel-management-course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pos",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Agr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Bot",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Col",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ECE",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission/ece-course"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Eco",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ele",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Fine",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Hin",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "His",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "JMC",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission/journalism-and-mass-communication-course.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Jain",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Jou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Lib",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Life",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Mat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Mec",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Mic",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Min",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/agriculture-bsc-msc-diploma-courses-admission"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Nur",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Psy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pub",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Soc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sup",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Tou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Zoo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/bsc-pcm-zbc-psm-admission-physics-chemistry-mathematics-zoology-botany-statistics-course"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "hol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission/agriculture-course"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission/agriculture-course"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangalayatan.in/phd-admission/ece-course"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "LLM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/llb-llm-ba-llb-law-courses-admission"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/llb-llm-ba-llb-law-courses-admission"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Know",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Eli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Eve",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "How",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Know",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "can",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/agriculture-bsc-msc-diploma-courses-admission"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/biotechnology-courses-admission-bsc-msc"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bsc-pcm-zbc-psm-admission-physics-chemistry-mathematics-zoology-botany-statistics-course"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bsc-pcm-zbc-psm-admission-physics-chemistry-mathematics-zoology-botany-statistics-course"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bsc-msc-nursing-courses-admission"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bsc-pcm-zbc-psm-admission-physics-chemistry-mathematics-zoology-botany-statistics-course"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bsc-pcm-zbc-psm-admission-physics-chemistry-mathematics-zoology-botany-statistics-course"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Eng",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bsc-msc-nursing-courses-admission"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Know",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ple",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission/pgdbm-admission"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission/pgdbm-admission"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Know",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "Msc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission/pgdbm-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B./ B.B.A",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/llb-llm-ba-llb-law-courses-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B./B.B.A",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/llb-llm-ba-llb-law-courses-admission"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "B.A.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "BA B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Know",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Eli",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/pharmacy-bpharm-dpharma-mpharm-courses-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/agriculture-bsc-msc-diploma-courses-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed., B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed./ B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed./B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/biotechnology-courses-admission-bsc-msc"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hor",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/agriculture-bsc-msc-diploma-courses-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "MLT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "MLT (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/paramedical-course-admission-bmlt-lab-bsc-optometry-medical-radiology-and-imaging-technology"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bsc-msc-nursing-courses-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ope",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/paramedical-course-admission-bmlt-lab-bsc-optometry-medical-radiology-and-imaging-technology"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "PCM",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "PCM (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bsc-pcm-zbc-psm-admission-physics-chemistry-mathematics-zoology-botany-statistics-course"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Rad",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "ZBC",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "ZBC (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bsc-pcm-zbc-psm-admission-physics-chemistry-mathematics-zoology-botany-statistics-course"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bsc-pcm-zbc-psm-admission-physics-chemistry-mathematics-zoology-botany-statistics-course"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bsc-pcm-zbc-psm-admission-physics-chemistry-mathematics-zoology-botany-statistics-course"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/agriculture-bsc-msc-diploma-courses-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cyb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Lat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/biotechnology-courses-admission-bsc-msc"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB.)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/llb-llm-ba-llb-law-courses-admission"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Know",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "can",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Know",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bsc-msc-nursing-courses-admission"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "MLT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "OTT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "RMIT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "Integrated B.A",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "Integrated B.Ed",
+      "course_name": "( B.A.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "Integrated B.Ed",
+      "course_name": "are",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "Integrated B.Sc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "Integrated B.Sc",
+      "course_name": "B.Ed B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bed-integrated-ba-bsc-bed-med-beled-courses-admission"
+    },
+    {
+      "degree_name": "Integrated BA",
+      "course_name": "BEd",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "Integrated BSc",
+      "course_name": "BEd",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Eli",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/llb-llm-ba-llb-law-courses-admission"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Know",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/llb-llm-ba-llb-law-courses-admission"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangalayatan.in/bsc-msc-nursing-courses-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "(GNM",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in/bsc-msc-nursing-courses-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Agr",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bus",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission/pgdbm-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "CSE",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Civ",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in/paramedical-course-admission-bmlt-lab-bsc-optometry-medical-radiology-and-imaging-technology"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission/pgdbm-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dep",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fine",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "MRIT",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mec",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in/paramedical-course-admission-bmlt-lab-bsc-optometry-medical-radiology-and-imaging-technology"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ope",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in/paramedical-course-admission-bmlt-lab-bsc-optometry-medical-radiology-and-imaging-technology"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Rad",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in/paramedical-course-admission-bmlt-lab-bsc-optometry-medical-radiology-and-imaging-technology"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in/tourism-hospitality-course-admission-advanced-diploma-bvoc"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in/agriculture-bsc-msc-diploma-courses-admission"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "eit",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in/tourism-hospitality-course-admission-advanced-diploma-bvoc"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "lev",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in/pharmacy-bpharm-dpharma-mpharm-courses-admission"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangalayatan.in/paramedical-course-admission-bmlt-lab-bsc-optometry-medical-radiology-and-imaging-technology"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "sho",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mangalayatan.in/phd-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Bus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Dig",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hos",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Know",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Know",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "ICAL",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "ICI",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iCO",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/pharmacy-bpharm-dpharma-mpharm-courses-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "det",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dow",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/bsc-pcm-zbc-psm-admission-physics-chemistry-mathematics-zoology-botany-statistics-course"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "just",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "met",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/pharmacy-bpharm-dpharma-mpharm-courses-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/agriculture-bsc-msc-diploma-courses-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nee",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-admission/agriculture-course"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "very",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/phd-mphil-courses-entrance-exam-admission"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "eve",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission/pgdbm-admission"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission/pgdbm-admission"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission/pgdbm-admission"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/bba-mba-dual-specialization-management-courses-admission/pgdbm-admission"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangalayatan.in/pharmacy-bpharm-dpharma-mpharm-courses-admission"
+    }
+  ],
+  "total_courses": 229,
+  "pages_scraped": 25,
+  "errors": []
+}

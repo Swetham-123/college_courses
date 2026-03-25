@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1377",
+  "university_name": "Sibsagar University",
+  "state": "Assam",
+  "district": "Sivasagar",
+  "website": "www.sibsagaruniversity.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:03.499096Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0782",
+  "university_name": "SHRI GOVIND GURU UNIVERSITY",
+  "state": "Gujarat",
+  "district": "Panch Mahals",
+  "website": "www.sggu.ac.in",
+  "year_established": "2015",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:50.439892Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

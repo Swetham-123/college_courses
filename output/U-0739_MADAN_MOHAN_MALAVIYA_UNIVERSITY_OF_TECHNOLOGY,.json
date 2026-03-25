@@ -1,0 +1,871 @@
+{
+  "aishe_code": "U-0739",
+  "university_name": "MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY,",
+  "state": "Uttar Pradesh",
+  "district": "Gorakhpur",
+  "website": "www.mmmut.ac.in",
+  "year_established": "1962",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:38:12.444852Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/PhDAwarded.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "BHU)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/CMSHome.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "D.M/M",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/PhDAwarded.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Dep",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/Programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/phd_admission.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fir",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/phd_admission.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "und",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/A_PhD.aspx"
+    },
+    {
+      "degree_name": "Ph.d",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/phd_admission.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Aer",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/HonoraryDegreeRecipient.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Fir",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Jan",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/AdmissionBrochure.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "July 2025-26",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/phd_admission.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/A_PhD.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/phd_admission.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/PhDAwarded.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/A_PhD.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/Programmes.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sea",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/A_PhD.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ter",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/phd_admission.aspx"
+    },
+    {
+      "degree_name": "phd",
+      "course_name": "dig",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmmut.ac.in/PhDScheme.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "ADM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/A_PG.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Fir",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/A_PG.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/A_PG.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Pos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/Programmes.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/Programmes.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "ses",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "M.TECH",
+      "course_name": "ADM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "AND M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Fir",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "M.B.A., M.C.A",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/Programmes.aspx"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/Programmes.aspx"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "sea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/A_PG.aspx"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "ses",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "sha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/A_PG.aspx"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "thr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "AND",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Cer",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/CMSHome.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Dis",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/CMSHome.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/CMSHome.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fir",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ist",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA 2024-25(",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/ViewAcademicCalendar.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA/ M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ord",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/CMSHome.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "PDF",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/CMSHome.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "FOR",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Fir",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Ist",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "MBA)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "with",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/A_PG.aspx"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "D\nDr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/PhDAwarded.aspx"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Fir",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "MSc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Rev",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "and M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "Mtech",
+      "course_name": "Fir",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Det",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Fir",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Ist",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Sec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/Programmes.aspx"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "str",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "B.TECH",
+      "course_name": "FIR",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ist",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Sec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ses",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and B.B.A",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/Programmes.aspx"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "can",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/Programmes.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/CMSHome.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Even",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/CMSHome.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ist",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "ODD",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/CMSHome.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ord",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/CMSHome.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "STP",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/CMSHome.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/CMSHome.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "and B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ViewAcademicCalendar.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/Programmes.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "fir",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "sha",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Fir",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "hol",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "exa",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "or B",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "str",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "(NOC)",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mmmut.ac.in/InternationalAdmission.aspx"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "For",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Fir",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/Programmes.aspx"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "will",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/A_PG.aspx"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "als",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://mmmut.ac.in/News_content/33242notice_08192025.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/HonoraryDegreeRecipient.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/InternationalAdmission.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "add",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/InternationalAdmission.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/ug_admission.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "che",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/InternationalAdmission.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/pg_admission.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "den",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/InternationalAdmission.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/A_PG.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/A_PhD.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/A_PhD.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/InternationalAdmission.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pri",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/CMSHome.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/InternationalAdmission.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/InternationalAdmission.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/InternationalAdmission.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/A_PhD.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/A_UG.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/A_PhD.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/A_PhD.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/InternationalAdmission.aspx"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmmut.ac.in/InternationalAdmission.aspx"
+    }
+  ],
+  "total_courses": 142,
+  "pages_scraped": 21,
+  "errors": []
+}

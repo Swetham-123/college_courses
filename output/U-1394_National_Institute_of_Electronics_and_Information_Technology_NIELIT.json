@@ -1,0 +1,31 @@
+{
+  "aishe_code": "U-1394",
+  "university_name": "National  Institute of Electronics and Information Technology NIELIT",
+  "state": "Punjab",
+  "district": "Rupnagar",
+  "website": "nielit.gov.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:26:40.430206Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://nielit.gov.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://nielit.gov.in"
+    }
+  ],
+  "total_courses": 2,
+  "pages_scraped": 1,
+  "errors": []
+}

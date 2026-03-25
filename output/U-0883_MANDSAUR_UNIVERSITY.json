@@ -1,0 +1,799 @@
+{
+  "aishe_code": "U-0883",
+  "university_name": "MANDSAUR UNIVERSITY",
+  "state": "Madhya Pradesh",
+  "district": "Mandsaur",
+  "website": "www.meu.edu.in",
+  "year_established": "2016",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:58:11.669299Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Ph.D.(",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/faculty-of-education"
+    },
+    {
+      "degree_name": "PHD",
+      "course_name": "edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/faculty-of-education"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/ph-d-entrance-exam"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/faculty-of-life-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "CSE",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/department-of-computer-science-and-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Col",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/faculty-of-life-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/faculty-of-education"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/ph-d-entrance-exam"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fac",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/faculty-of-business-administration-and-commerce"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Post",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/department-of-electrical-and-electronics-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/department-of-mechanical-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and M",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/faculty-of-business-administration-and-commerce"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/faculty-of-education"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/department-of-electrical-and-electronics-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "hol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/department-of-electrical-and-electronics-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/ph-d-entrance-exam"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "qua",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/faculty-of-education"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/faculty-of-life-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/faculty-of-business-administration-and-commerce"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/faculty-of-life-sciences"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "She",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/department-of-computer-science-and-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/department-of-computer-science-and-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sup",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/department-of-computer-science-and-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/department-of-computer-science-and-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/department-of-mechanical-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/faculty-of-business-administration-and-commerce"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://meu.edu.in/faculty-of-business-administration-and-commerce"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-business-administration-and-commerce"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "She",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-education"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "and B",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-education"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "and M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-education"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "from",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-education"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-life-sciences"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-education"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-life-sciences"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-education"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(IEM)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/department-of-computer-science-and-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Rob",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/department-of-mechanical-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Und",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/department-of-electrical-and-electronics-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/department-of-computer-science-and-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/department-of-computer-science-and-engineering"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Dig",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-business-administration-and-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fir",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-business-administration-and-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MODE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-business-administration-and-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-business-administration-and-commerce"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Fir",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-computer-science-and-application"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-computer-science-and-application"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "here",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-life-sciences"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "dis",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://meu.edu.in/faculty-of-life-sciences"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "The",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/special-campaign-5-0-cleanliness-activities-in-teis-under-darpg-programme"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "from",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/faculty-of-education"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "acy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Des",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/faculty-of-business-administration-and-commerce"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hons. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(EEE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "The",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/department-of-electrical-and-electronics-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/department-of-computer-science-and-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/department-of-computer-science-and-engineering"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/faculty-of-business-administration-and-commerce"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BCA (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/faculty-of-computer-science-and-application"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BCA(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/faculty-of-computer-science-and-application"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Clo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Cyb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ani",
+      "level_of_education": "Diploma",
+      "source_url": "https://meu.edu.in/faculty-of-business-administration-and-commerce"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Civ",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mas",
+      "level_of_education": "Diploma",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mec",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "The",
+      "level_of_education": "Diploma",
+      "source_url": "https://meu.edu.in/department-of-mechanical-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tog",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Form",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://meu.edu.in/department-of-forensic-science"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Inf",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/department-of-computer-science-and-engineering"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/department-of-computer-science-and-engineering"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Fas",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Com",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Ele",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Mec",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/faculty-of-education"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "New",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/department-of-computer-science-and-engineering"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/wp-content/uploads/2024/08/Final_PhD_Sophisticated_instrumentation-compressed.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Pas",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/faculty-of-life-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ado",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/wp-content/uploads/2024/06/Approval-Letter_UGC2016.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/wp-content/uploads/2024/06/Approval-Letter_UGC2016.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/wp-content/uploads/2024/06/Approval-Letter_UGC2016.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ens",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/wp-content/uploads/2024/06/Approval-Letter_UGC2016.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eth",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/faculty-of-education"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/wp-content/uploads/2024/06/Approval-Letter_UGC2016.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ope",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/wp-content/uploads/2024/06/Approval-Letter_UGC2016.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pla",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/wp-content/uploads/2024/06/Approval-Letter_UGC2016.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pos",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/wp-content/uploads/2024/06/Approval-Letter_UGC2016.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/special-campaign-5-0-cleanliness-activities-in-teis-under-darpg-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/wp-content/uploads/2024/06/Approval-Letter_UGC2016.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vit",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/wp-content/uploads/2024/06/Approval-Letter_UGC2016.pdf"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "I am",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gre",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/faculty-of-education"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/department-of-mechanical-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.meu.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/department-of-civil-engineering"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://meu.edu.in/department-of-computer-science-and-engineering"
+    }
+  ],
+  "total_courses": 130,
+  "pages_scraped": 25,
+  "errors": []
+}

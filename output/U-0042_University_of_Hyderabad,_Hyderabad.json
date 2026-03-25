@@ -1,0 +1,379 @@
+{
+  "aishe_code": "U-0042",
+  "university_name": "University of Hyderabad, Hyderabad",
+  "state": "Telangana",
+  "district": "Ranga Reddy",
+  "website": "www.uohyd.ac.in",
+  "year_established": "1974",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:12:05.780072Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uohyd.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Jan-2026",
+      "level_of_education": "Doctoral",
+      "source_url": "http://acad.uohyd.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Jan_2026",
+      "level_of_education": "Doctoral",
+      "source_url": "http://acad.uohyd.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "LIST",
+      "level_of_education": "Doctoral",
+      "source_url": "http://acad.uohyd.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uohyd.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Nod",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uohyd.ac.in/ugc-care-nodal-officer"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uohyd.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://acad.uohyd.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "25\nM.B.A. 2025-27",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://acad.uohyd.ac.in/mba25.html"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "25M.B.A. 2025-27",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://acad.uohyd.ac.in/mba25.html"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ADM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uohyd.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "For",
+      "level_of_education": "Certificate",
+      "source_url": "http://acad.uohyd.ac.in/mba25.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Govt",
+      "level_of_education": "Certificate",
+      "source_url": "http://acad.uohyd.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "fice",
+      "level_of_education": "Certificate",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s to",
+      "level_of_education": "Certificate",
+      "source_url": "https://mmttc.uohyd.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "will",
+      "level_of_education": "Certificate",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Adm",
+      "level_of_education": "Unknown",
+      "source_url": "http://acad.uohyd.ac.in/mba25.html"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "ICAL",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/schools-departments"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/wp-content/uploads/2025/12/LKG-notifcation-2026-2027.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://mmttc.uohyd.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "att",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "http://acad.uohyd.ac.in/mba25.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "http://acad.uohyd.ac.in/mba25.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cub",
+      "level_of_education": "Unknown",
+      "source_url": "https://bionest.uohyd.ac.in/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dea",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "det",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fin",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fol",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gen",
+      "level_of_education": "Unknown",
+      "source_url": "http://acad.uohyd.ac.in/mba25.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ide",
+      "level_of_education": "Unknown",
+      "source_url": "https://dstcpr.uohyd.ac.in/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "imp",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "http://acad.uohyd.ac.in/mba25.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "live",
+      "level_of_education": "Unknown",
+      "source_url": "http://acad.uohyd.ac.in/mba25.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "http://acad.uohyd.ac.in/mba25.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obt",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pos",
+      "level_of_education": "Unknown",
+      "source_url": "http://acad.uohyd.ac.in/mba25.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "http://acad.uohyd.ac.in/mba25.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rou",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "http://acad.uohyd.ac.in/mba25.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "http://acad.uohyd.ac.in/mba25.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://uohyd.ac.in/office-of-post-doctoral-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "http://acad.uohyd.ac.in/mba25.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "uti",
+      "level_of_education": "Unknown",
+      "source_url": "https://dstcpr.uohyd.ac.in/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://dstcpr.uohyd.ac.in/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://mmttc.uohyd.ac.in"
+    }
+  ],
+  "total_courses": 60,
+  "pages_scraped": 21,
+  "errors": []
+}

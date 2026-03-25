@@ -1,0 +1,547 @@
+{
+  "aishe_code": "U-0465",
+  "university_name": "Meenakshi Academy of Higher Education and Research, Chennai",
+  "state": "Tamil Nadu",
+  "district": "Chennai",
+  "website": "www.maher.ac.in",
+  "year_established": "2004",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:11:46.248299Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "D.Sc",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.maher.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.maher.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.maher.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Viva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.maher.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Gui",
+      "level_of_education": "Doctoral",
+      "source_url": "https://maher.ac.in/phdguide"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Yoga",
+      "level_of_education": "Doctoral",
+      "source_url": "https://maher.ac.in/orientation-program"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "M.A./M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/admissionenquiry"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/admissionenquiry"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "BPT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/programsadoptingcbcselectives"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Yoga",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/admissionenquiry"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ana",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Car",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/orientation-program"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Chi",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cri",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/orientation-program"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "DM/M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/admissionenquiry"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Men",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Neu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/orientation-program"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Obs",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Yoga",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "Msc",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://maher.ac.in/orientation-program"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Acc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Cor",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "GEN(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programsadoptingcbcselectives"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Gen",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/admissionenquiry"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ana",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Car",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programoffered"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nut",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ope",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Opt",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Per",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Post",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/admissionenquiry"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Rad",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ren",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Res",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Vis",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Yoga",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programoffered"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "B.Sc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programsadoptingcbcselectives"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "B.Sc. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "MDS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/admissionenquiry"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "Pos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/orientation-program"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Yoga",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "B.Sc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programsadoptingcbcselectives"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "BDS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Pos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://maher.ac.in/orientation-program"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Den",
+      "level_of_education": "Diploma",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Nur",
+      "level_of_education": "Diploma",
+      "source_url": "https://maher.ac.in/admissionenquiry"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Diploma",
+      "source_url": "https://maher.ac.in/programsadoptingcbcselectives"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://maher.ac.in/certificatecourses"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Tam",
+      "level_of_education": "Unknown",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://maher.ac.in/programsadoptingcbcselectives"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "HRM",
+      "level_of_education": "Unknown",
+      "source_url": "https://maher.ac.in/programsadoptingcbcselectives"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Hum",
+      "level_of_education": "Unknown",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Tam",
+      "level_of_education": "Unknown",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://maher.ac.in/trainingforstaff"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.maher.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical)",
+      "level_of_education": "Unknown",
+      "source_url": "https://maher.ac.in/cds/eligibility"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://maher.ac.in/programs"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ico",
+      "level_of_education": "Unknown",
+      "source_url": "https://maher.ac.in/facultyacademicprogram"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.maher.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://maher.ac.in/amcon/programmes-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://maher.ac.in/cds/eligibility"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.maher.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://maher.ac.in/amcon/programmes-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.maher.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.maher.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "med",
+      "level_of_education": "Unknown",
+      "source_url": "https://maher.ac.in/amcon/programmes-admissions"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Sign",
+      "level_of_education": "Unknown",
+      "source_url": "https://online.maher.ac.in"
+    }
+  ],
+  "total_courses": 88,
+  "pages_scraped": 25,
+  "errors": []
+}

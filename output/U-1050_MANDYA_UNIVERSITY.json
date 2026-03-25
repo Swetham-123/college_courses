@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1050",
+  "university_name": "MANDYA UNIVERSITY",
+  "state": "Karnataka",
+  "district": "Mandya",
+  "website": "www.mandyauniversity.ac.in",
+  "year_established": "2019",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:59:30.488664Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

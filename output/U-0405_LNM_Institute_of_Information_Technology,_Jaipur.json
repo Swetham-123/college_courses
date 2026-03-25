@@ -1,0 +1,697 @@
+{
+  "aishe_code": "U-0405",
+  "university_name": "LNM Institute of Information Technology, Jaipur",
+  "state": "Rajasthan",
+  "district": "Jaipur",
+  "website": "www.lnmiit.ac.in",
+  "year_established": "2002",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:37:08.398087Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Abo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lnmiit.ac.in/admissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lnmiit.ac.in/admissions/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Aim",
+      "level_of_education": "Doctoral",
+      "source_url": "https://lnmiit.ac.in/department/cse"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lnmiit.ac.in/admissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lnmiit.ac.in/admissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lnmiit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://lnmiit.ac.in/department/physics"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adv",
+      "level_of_education": "Doctoral",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Gui",
+      "level_of_education": "Doctoral",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "lev",
+      "level_of_education": "Doctoral",
+      "source_url": "https://lnmiit.ac.in/department/hss"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://lnmiit.ac.in/department/mme"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://lnmiit.ac.in/academics"
+    },
+    {
+      "degree_name": "phd",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lnmiit.ac.in/admissions/phd"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "M.Sc. (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://licai.lnmiit.ac.in/5-year-integrated-b-sc-m-sc-degrees-in-artificial-intelligence"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-science"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-science"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-science"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-science"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://lnmiit.ac.in/department/physics"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "will",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-science"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(ECE)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "ECE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "ECE (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://lnmiit.ac.in/department/ece"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "or M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Mem",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "and 1",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "msc",
+      "course_name": "adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-science"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/ug"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://lnmiit.ac.in/department/physics"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lnmiit.ac.in/admissions/ug"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "Cre",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://licai.lnmiit.ac.in/5-year-integrated-b-sc-m-sc-degrees-in-artificial-intelligence"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://lnmiit.ac.in/department/ece"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lnmiit.ac.in/academic-documents"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "s of",
+      "level_of_education": "Diploma",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/department/cse"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/department/cse"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/department/cse"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "als",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/academic-documents"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "abo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "add",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ado",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ali",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ans",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/department/physics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/research/physics-department-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "aug",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bet",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "del",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/events/user-awareness-programme-on-orcid-irins-and-inflibnet-services-for-scholarly-communities"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eff",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "emp",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/department/mme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fin",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fir",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fol",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nec",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nom",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "null",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "one",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/department/cse"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "only",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ori",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/research/physics-department-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pay",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pla",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rej",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sel",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/events/user-awareness-programme-on-orcid-irins-and-inflibnet-services-for-scholarly-communities"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "suc",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/department/mme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "two",
+      "level_of_education": "Unknown",
+      "source_url": "https://lnmiit.ac.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/ug"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://licai.lnmiit.ac.in/5-year-integrated-b-sc-m-sc-degrees-in-artificial-intelligence"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "via",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vol",
+      "level_of_education": "Unknown",
+      "source_url": "https://licai.lnmiit.ac.in/5-year-integrated-b-sc-m-sc-degrees-in-artificial-intelligence"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wai",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "zero",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-engineering"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Vib",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/pg-science"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lnmiit.ac.in/admissions/ug"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://licai.lnmiit.ac.in/5-year-integrated-b-sc-m-sc-degrees-in-artificial-intelligence"
+    }
+  ],
+  "total_courses": 113,
+  "pages_scraped": 25,
+  "errors": []
+}

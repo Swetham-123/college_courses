@@ -1,0 +1,97 @@
+{
+  "aishe_code": "U-0758",
+  "university_name": "PACIFIC MEDICAL UNIVERSITY",
+  "state": "Rajasthan",
+  "district": "Udaipur",
+  "website": "www.pacificmedicaluniversity.ac.in",
+  "year_established": "2014",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:54:44.854077Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.pacificmedicaluniversity.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ord",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.pacificmedicaluniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.pacificmedicaluniversity.ac.in"
+    },
+    {
+      "degree_name": "Msc",
+      "course_name": "Gnm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.pacificmedicaluniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.pacificmedicaluniversity.ac.in"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.pacificmedicaluniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bac",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.pacificmedicaluniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.pacificmedicaluniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Par",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.pacificmedicaluniversity.ac.in"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "Dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.pacificmedicaluniversity.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.pacificmedicaluniversity.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.pacificmedicaluniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tau",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.pacificmedicaluniversity.ac.in"
+    }
+  ],
+  "total_courses": 13,
+  "pages_scraped": 20,
+  "errors": []
+}

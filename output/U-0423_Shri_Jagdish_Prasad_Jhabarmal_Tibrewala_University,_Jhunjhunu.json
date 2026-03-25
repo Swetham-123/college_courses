@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0423",
+  "university_name": "Shri Jagdish Prasad Jhabarmal Tibrewala University, Jhunjhunu",
+  "state": "Rajasthan",
+  "district": "Jhunjhunu",
+  "website": "www.jjtu.ac.in",
+  "year_established": "2009",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:51.273023Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

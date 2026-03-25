@@ -1,0 +1,439 @@
+{
+  "aishe_code": "U-0530",
+  "university_name": "Motilal Nehru National Institute of Technology, Allahabad",
+  "state": "Uttar Pradesh",
+  "district": "Prayagraj",
+  "website": "www.mnnit.ac.in",
+  "year_established": "1961",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:22:28.172719Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(ICT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(IIT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(NIT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Area",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnnit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnnit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnnit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/sciences/physics/physicscourses"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/sciences/physics/physicscourses"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "(USM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "SMS",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/mgmt-studies"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "_web_",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnnit.ac.in/images/newstories/2024/PhD_web_upload120224.pdf"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/mgmt-studies"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/mgmt-studies"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "und",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/mgmt-studies"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "var",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/mgmt-studies"
+    },
+    {
+      "degree_name": "ph.d",
+      "course_name": "reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://academics.mnnit.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/sciences/chem/chemcourses"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/sciences/physics/physicscourses"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/engineering/am/appmec"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/engineering/csed/csedcourses"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Eng",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/engineering/am/appmec"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Flu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/engineering/am/appmec"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Inf",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/engineering/csed/csedcourses"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/engineering/am/appmec"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Part",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pow",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/engineering/ee/eecourses"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Sof",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/engineering/csed/csedcourses"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Syl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "for",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/engineering/csed/csedcourses"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/academic/pg-program"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fee",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/mgmt-studies"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "The",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/mgmt-studies"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "bat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/mgmt-studies"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/mgmt-studies"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "take",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/mgmt-studies"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/engineering/biotech/biotechcourses"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/engineering/ee/eecourses"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/engineering/am/appmec"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "syl",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/engineering/ee/eecourses"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Por",
+      "level_of_education": "Certificate",
+      "source_url": "https://academics.mnnit.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "com",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnnit.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "reg",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnnit.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "fir",
+      "level_of_education": "Certificate",
+      "source_url": "https://academics.mnnit.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnnit.ac.in"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "Rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnnit.ac.in/images/newstories/2024/PhD_web_upload120224.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnnit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "act",
+      "level_of_education": "Unknown",
+      "source_url": "https://academics.mnnit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "both",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "clu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/others/gis-cell/giscellcourses"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dir",
+      "level_of_education": "Unknown",
+      "source_url": "https://academics.mnnit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fou",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnnit.ac.in/index.php/department/others/gis-cell/giscellcourses"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://academics.mnnit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://academics.mnnit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://academics.mnnit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "red",
+      "level_of_education": "Unknown",
+      "source_url": "https://academics.mnnit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnnit.ac.in/index.php/department/engineering/cm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://academics.mnnit.ac.in"
+    }
+  ],
+  "total_courses": 70,
+  "pages_scraped": 25,
+  "errors": []
+}

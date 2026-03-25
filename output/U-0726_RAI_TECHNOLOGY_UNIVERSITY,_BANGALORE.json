@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0726",
+  "university_name": "RAI TECHNOLOGY UNIVERSITY, BANGALORE",
+  "state": "Karnataka",
+  "district": "Bengaluru Urban",
+  "website": "https://www.raitechuniversity.in",
+  "year_established": "2014",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:19.142511Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

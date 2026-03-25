@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0047",
+  "university_name": "Rajiv Gandhi University, Itanagar",
+  "state": "Arunachal Pradesh",
+  "district": "Papum Pare",
+  "website": "www.rgu.ac.in",
+  "year_established": "1984",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:23.640604Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

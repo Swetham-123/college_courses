@@ -1,0 +1,1087 @@
+{
+  "aishe_code": "U-1215",
+  "university_name": "NOBLE UNIVERSITY",
+  "state": "Gujarat",
+  "district": "Junagadh",
+  "website": "https://nobleuniversity.ac.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:48:52.281312Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fee",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "RAC",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sub",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nobleuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.d",
+      "course_name": "Sup",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "syn",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "MSc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in/courses-fees-and-eligibility-at-noble-university"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Tre",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "car",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "teg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in/best-courses-for-students-after-12th-commerce"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Car",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "When",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "bet",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "can",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "is a",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "nec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "or B",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/best-courses-for-students-after-12th-commerce"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/best-courses-for-students-after-12th-commerce"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "are",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/job-oriented-courses-after-12th-faster-employment/"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/pharmacy-vs-nursing-career-stability/"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/diverse-science-programs-after-12th-science"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/courses-fees-and-eligibility-at-noble-university"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/diverse-science-programs-after-12th-science"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/career-paths-diploma-mechanical/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "App",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/courses-fees-and-eligibility-at-noble-university"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/diverse-science-programs-after-12th-science"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/diverse-science-programs-after-12th-science"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/diverse-science-programs-after-12th-science"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/diverse-science-programs-after-12th-science"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/direct-admission-noble-university-2026-guide"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "can",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/career-paths-diploma-mechanical/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "clu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "cov",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/what-after-10th-choosing-your-career-path-early/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/career-paths-diploma-mechanical/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "sti",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ave",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Some",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/job-oriented-courses-after-12th-faster-employment/"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "both",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "but",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/best-courses-for-students-after-12th-commerce"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "for",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "good",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "is a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/best-courses-for-students-after-12th-commerce"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BCA (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "bet",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "foc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "giv",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "vs B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "BCom",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "Stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "Typ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "car",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "clu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "dev",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "str",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/courses-fees-and-eligibility-at-noble-university"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "when",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/courses-fees-and-eligibility-at-noble-university"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/diverse-science-programs-after-12th-science"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "BDS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ani",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/what-after-10th-choosing-your-career-path-early/"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Aux",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/diverse-science-programs-after-12th-science"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Civ",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dip",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/career-roadmap-after-10th-in-gujarat"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dur",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/courses-fees-and-eligibility-at-noble-university"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Gen",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/diverse-science-programs-after-12th-science"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "LAT",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/career-roadmap-after-10th-in-gujarat"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mec",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Nur",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Rad",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "The",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Voc",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/direct-admission-noble-university-2026-guide"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "Are",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/skill-based-degrees-vocational-education"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "aft",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/career-roadmap-after-10th-in-gujarat"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/career-roadmap-after-10th-in-gujarat"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "bac",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "can",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/career-paths-diploma-mechanical/"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "doe",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/what-after-10th-choosing-your-career-path-early/"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "edu",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/what-after-10th-choosing-your-career-path-early/"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "equ",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "gra",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/career-paths-diploma-mechanical/"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "hol",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/career-paths-diploma-mechanical/"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "is a",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "kno",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/career-paths-diploma-mechanical/"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "lim",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "mig",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "ope",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/what-after-10th-choosing-your-career-path-early/"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "s in",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/career-roadmap-after-10th-in-gujarat"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "s to",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/best-courses-for-students-after-12th-commerce"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "vet",
+      "level_of_education": "Diploma",
+      "source_url": "https://nobleuniversity.ac.in/skill-based-degrees-vocational-education"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "(For",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "(NOC)",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dig",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/direct-admission-noble-university-2026-guide"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ess",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Nee",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Only",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "The",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Gap",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Par",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "come",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "for",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s\nID",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/direct-admission-noble-university-2026-guide"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s do I",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s if",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s or",
+      "level_of_education": "Certificate",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/best-courses-for-students-after-12th-commerce"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/best-courses-for-students-after-12th-commerce"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/best-courses-for-students-after-12th-commerce"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "With",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/wp-content/uploads/2023/12/Regulations-for-Doctor-of-Philosophy-Ph.D.-Degree-Programme-2022-under-NOBLE-UNIVERSITY.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/what-after-10th-choosing-your-career-path-early/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/skill-based-degrees-vocational-education"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/courses-fees-and-eligibility-at-noble-university"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/bca-mca-tech-degrees-it-career-path"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ben",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/university-selection-tips/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dir",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/direct-admission-noble-university-2026-guide"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exc",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/noble-university-admission-checklist-2026/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ove",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/diverse-science-programs-after-12th-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pur",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/diverse-science-programs-after-12th-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/career-roadmap-after-10th-in-gujarat"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/courses-fees-and-eligibility-at-noble-university"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/career-paths-diploma-mechanical/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/courses-fees-and-eligibility-at-noble-university"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "very",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/bcom-vs-bba-vs-bms-better-roi"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vis",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/university-selection-tips/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/courses-fees-and-eligibility-at-noble-university"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "your",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/what-after-10th-choosing-your-career-path-early/"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/pharmacy-vs-nursing-career-stability/"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/career-roadmap-after-10th-in-gujarat"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/diploma-vs-degree-differences-benefits-careers"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iev",
+      "level_of_education": "Unknown",
+      "source_url": "https://nobleuniversity.ac.in/best-courses-for-students-after-12th-commerce"
+    }
+  ],
+  "total_courses": 178,
+  "pages_scraped": 26,
+  "errors": []
+}

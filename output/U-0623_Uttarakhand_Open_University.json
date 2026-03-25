@@ -1,0 +1,475 @@
+{
+  "aishe_code": "U-0623",
+  "university_name": "Uttarakhand Open University",
+  "state": "Uttarakhand",
+  "district": "Nainital",
+  "website": "https://uou.ac.in",
+  "year_established": "2005",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:17:55.552380Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(JOU)-20)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uou.ac.in/school/school-journalism-media-studies"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uou.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uou.ac.in/form/online-ph-d-application-form"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uou.ac.in/form/online-ph-d-application-form"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uou.ac.in/school/school-education"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Home",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uou.ac.in/school/school-health-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "JOU",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uou.ac.in/school/school-journalism-media-studies"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uou.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Yoga",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uou.ac.in/school/school-health-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uou.ac.in/school/school-earth-and-environmental-science"
+    },
+    {
+      "degree_name": "M.COM",
+      "course_name": "Fee",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uou.ac.in/school/school-management-studies-commerce"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Lea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uou.ac.in/school/school-management-studies-commerce"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uou.ac.in/school/school-sciences"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uou.ac.in/school/school-earth-and-environmental-science"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uou.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Onl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uou.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uou.ac.in/school/school-management-studies-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uou.ac.in/school/school-management-studies-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "lea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uou.ac.in/school/school-management-studies-commerce"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Onl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uou.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uou.ac.in/school/school-computer-sciences-information-technology"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "BOT)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uou.ac.in/school/school-sciences"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "GIS)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uou.ac.in/school/school-earth-and-environmental-science"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "PHY)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uou.ac.in/school/school-sciences"
+    },
+    {
+      "degree_name": "B.COM",
+      "course_name": "Rep",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://uou.ac.in/school/school-management-studies-commerce"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://uou.ac.in/school/school-management-studies-commerce"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://uou.ac.in/school/school-management-studies-commerce"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "(ODL)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://uou.ac.in/school/school-education"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Spe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://uou.ac.in/school/school-education"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "IInd",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://uou.ac.in/school/school-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ist",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://uou.ac.in/school/school-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://uou.ac.in/school/school-sciences"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://uou.ac.in/downloads/admission/fee-structure"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Prof",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://uou.ac.in/school/school-computer-sciences-information-technology"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dip",
+      "level_of_education": "Diploma",
+      "source_url": "https://uou.ac.in/school/school-agriculture-development-studies"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Geo",
+      "level_of_education": "Diploma",
+      "source_url": "https://uou.ac.in/school/school-earth-and-environmental-science"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hos",
+      "level_of_education": "Diploma",
+      "source_url": "https://uou.ac.in/school/school-tourism-hotel-management"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Inf",
+      "level_of_education": "Diploma",
+      "source_url": "https://uou.ac.in/school/school-computer-sciences-information-technology"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Val",
+      "level_of_education": "Diploma",
+      "source_url": "https://uou.ac.in/school/school-agriculture-development-studies"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Vas",
+      "level_of_education": "Diploma",
+      "source_url": "https://uou.ac.in/school/school-humanities"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ved",
+      "level_of_education": "Diploma",
+      "source_url": "https://uou.ac.in/school/school-humanities"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Yog",
+      "level_of_education": "Diploma",
+      "source_url": "https://uou.ac.in/school/school-health-sciences"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://uou.ac.in/school/school-agriculture-development-studies"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cer",
+      "level_of_education": "Certificate",
+      "source_url": "https://uou.ac.in/school/school-agriculture-development-studies"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Com",
+      "level_of_education": "Certificate",
+      "source_url": "https://uou.ac.in/school/school-vocational-studies"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cyb",
+      "level_of_education": "Certificate",
+      "source_url": "https://uou.ac.in/school/school-law"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Data",
+      "level_of_education": "Certificate",
+      "source_url": "https://uou.ac.in/school/school-vocational-studies"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Geo",
+      "level_of_education": "Certificate",
+      "source_url": "https://uou.ac.in/school/school-earth-and-environmental-science"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mem",
+      "level_of_education": "Certificate",
+      "source_url": "https://uou.ac.in/school/school-social-science"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Nat",
+      "level_of_education": "Certificate",
+      "source_url": "https://uou.ac.in/school/school-health-sciences"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Org",
+      "level_of_education": "Certificate",
+      "source_url": "https://uou.ac.in/school/school-agriculture-development-studies"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pha",
+      "level_of_education": "Certificate",
+      "source_url": "https://uou.ac.in/school/school-humanities"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://uou.ac.in/programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Rig",
+      "level_of_education": "Certificate",
+      "source_url": "https://uou.ac.in/school/school-law"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "San",
+      "level_of_education": "Certificate",
+      "source_url": "https://uou.ac.in/school/school-humanities"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Yog",
+      "level_of_education": "Certificate",
+      "source_url": "https://uou.ac.in/school/school-health-sciences"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://uou.ac.in/school/school-earth-and-environmental-science"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Urdu",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in/school/school-humanities"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Yoga",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in/school/school-health-sciences"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in/school/school-social-science"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in/school/school-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Jyo",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in/school/school-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Mus",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "San",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in/school/school-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in/school/school-health-sciences"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "YOGA",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "and B. A",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in/school/school-humanities"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "snd B. A",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in/school/school-humanities"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in/downloads/admission/Credit-Transfer-Report-IGNOU-SWAYAM-Courses.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in/school/school-journalism-media-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in/form/online-ph-d-application-form"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in/form/online-ph-d-application-form"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://online.uou.ac.in/Student_PChangeTermCondition.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upl",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in/form/online-ph-d-application-form"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "very",
+      "level_of_education": "Unknown",
+      "source_url": "https://uou.ac.in/school/school-journalism-media-studies"
+    }
+  ],
+  "total_courses": 76,
+  "pages_scraped": 25,
+  "errors": []
+}

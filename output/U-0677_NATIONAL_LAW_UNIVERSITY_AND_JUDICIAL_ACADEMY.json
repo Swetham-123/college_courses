@@ -1,0 +1,253 @@
+{
+  "aishe_code": "U-0677",
+  "university_name": "NATIONAL LAW UNIVERSITY AND JUDICIAL ACADEMY",
+  "state": "Assam",
+  "district": "Kamrup Metro",
+  "website": "www.nluassam.ac.in",
+  "year_established": "2009",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:39:30.367943Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fee",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nluassam.ac.in/phd_fees.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nluassam.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nluassam.ac.in/phd_admission_notice_25.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nluassam.ac.in/admission_procedure.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/acad-calendar.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B.(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/acad_ballb.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/docs/academic/brochures/programme-brochure.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/acad_ballb.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "att",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/admission_procedure.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/admission_procedure.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/acad_llm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/admission_procedure_llm.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/admission_fee.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/phd_fees.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/admission_fee.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/admission_procedure.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ret",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/admission_fee.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "scr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "two",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nluassam.ac.in/phd_admission.php"
+    }
+  ],
+  "total_courses": 39,
+  "pages_scraped": 25,
+  "errors": []
+}

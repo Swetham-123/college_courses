@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0322",
+  "university_name": "Pravara Institute of Medical Sciences, Ahmednagar",
+  "state": "Maharashtra",
+  "district": "Ahilyanagar",
+  "website": "www.pravara.com",
+  "year_established": "2003",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:11.537942Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

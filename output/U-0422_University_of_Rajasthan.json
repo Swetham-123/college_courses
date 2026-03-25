@@ -1,0 +1,211 @@
+{
+  "aishe_code": "U-0422",
+  "university_name": "University of Rajasthan",
+  "state": "Rajasthan",
+  "district": "Jaipur",
+  "website": "www.uniraj.ac.in",
+  "year_established": "1947",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:14:26.845334Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "D.Litt",
+      "course_name": "D.Sc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uniraj.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Dep",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2201&ccid=1"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uniraj.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uniraj.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Cen",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2204&ccid=3"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "FYIP",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2204&ccid=3"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2204&ccid=3"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ban",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2205&ccid=4"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Coo",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2205&ccid=4"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2209&ccid=8"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cri",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2205&ccid=4"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dip",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2204&ccid=3"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dra",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2205&ccid=4"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ent",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2209&ccid=8"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Exp",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2209&ccid=8"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ind",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2205&ccid=4"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Jain",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2205&ccid=4"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Lab",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2205&ccid=4"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tax",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2205&ccid=4"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tra",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2209&ccid=8"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Wom",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2205&ccid=4"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2205&ccid=4"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "LEP",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uniraj.ac.in/index.php?mid=2204&ccid=3"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uniraj.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "http://uniraj.ac.in/circular/notice/Felicitation_Programme-8jan2026.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uniraj.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uniraj.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uniraj.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uniraj.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uniraj.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uniraj.ac.in"
+    }
+  ],
+  "total_courses": 32,
+  "pages_scraped": 25,
+  "errors": []
+}

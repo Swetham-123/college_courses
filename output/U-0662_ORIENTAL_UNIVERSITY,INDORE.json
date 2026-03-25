@@ -1,0 +1,145 @@
+{
+  "aishe_code": "U-0662",
+  "university_name": "ORIENTAL UNIVERSITY,INDORE",
+  "state": "Madhya Pradesh",
+  "district": "Indore",
+  "website": "www.oui.edu.in",
+  "year_established": "2011",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:53:33.467219Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Civ",
+      "level_of_education": "Doctoral",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ele",
+      "level_of_education": "Doctoral",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mec",
+      "level_of_education": "Doctoral",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sim",
+      "level_of_education": "Unknown",
+      "source_url": "https://oui.edu.in/doctoral-programs"
+    }
+  ],
+  "total_courses": 21,
+  "pages_scraped": 10,
+  "errors": []
+}

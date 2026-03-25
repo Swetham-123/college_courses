@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1405",
+  "university_name": "Rungta International Skills University",
+  "state": "Chhattisgarh",
+  "district": "Durg",
+  "website": "https://rungta.ac.in/",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:32.361664Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

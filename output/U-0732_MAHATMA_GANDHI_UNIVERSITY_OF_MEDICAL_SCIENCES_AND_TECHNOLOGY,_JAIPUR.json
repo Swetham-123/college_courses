@@ -1,0 +1,463 @@
+{
+  "aishe_code": "U-0732",
+  "university_name": "MAHATMA GANDHI UNIVERSITY OF MEDICAL SCIENCES AND TECHNOLOGY, JAIPUR",
+  "state": "Rajasthan",
+  "district": "Jaipur",
+  "website": "www.mgumst.org",
+  "year_established": "2001",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:52:35.959362Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "BPT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgumst.org/academics/mg-physiotherapy-college"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cli",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgumst.org/academics/syllabus"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Doc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgumst.org/academics/syllabus"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "M.Sc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgumst.org/academics/mg-nursing-college"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "MDS",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgumst.org/academics/mg-dental-college-hospital"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "MHA",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgumst.org/academics/mg-college-of-hospital-administration"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Occ",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgumst.org/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgumst.org/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgumst.org"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Val",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgumst.org/academics/mg-occupational-therapy-college"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pub",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgumst.org"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "(Med.)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ana",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Car",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cri",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Dia",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Eme",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Epi",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Hos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mol",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/academics/syllabus"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Obs",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ope",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Oph",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Pae",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Rad",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Spo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Tra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Yoga",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Nuc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgumst.org/postgraduate-programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Acc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/all-programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/academics/syllabus"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/academics/syllabus"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "End",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/all-programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/academics/syllabus"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/academics/syllabus"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mol",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/all-programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Neu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/all-programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/academics/syllabus"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ort",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/all-programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/academics/syllabus"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/academics/mg-medical-college-hospital"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Rad",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/all-programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Spo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/all-programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Sur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/all-programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Tra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/all-programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Yoga",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/academics/syllabus"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/all-programs"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "Stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/academics/mg-dental-college-hospital"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "Wel",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/academics/mg-dental-college-hospital"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "MBBS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/academics/syllabus"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/academics/mg-medical-college-hospital"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Syl",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/academics/syllabus"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgumst.org/academics/mg-college-of-hospital-administration"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "ter",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mgumst.org/academics/sops-policies"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "Mas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgumst.org"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgumst.org/uploads/Files/11rkf-NotificationregardingadmissiononvacantseatsofMD-MSandMDScourse-2023-243rdRound.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgumst.org"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgumst.org/academics/syllabus"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgumst.org"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "hig",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgumst.org/academics/mg-college-of-hospital-administration"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgumst.org/academics/mg-college-of-hospital-administration"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgumst.org/academics/mg-occupational-therapy-college"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "read",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgumst.org/academics/mg-dental-college-hospital"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgumst.org"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ico",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgumst.org/academics/student-development-programs"
+    }
+  ],
+  "total_courses": 74,
+  "pages_scraped": 25,
+  "errors": []
+}

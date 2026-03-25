@@ -1,0 +1,673 @@
+{
+  "aishe_code": "U-0237",
+  "university_name": "National Institute of Technology, Karnataka",
+  "state": "Karnataka",
+  "district": "Dakshina Kannada",
+  "website": "http://www.nitk.ac.in",
+  "year_established": "1960",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:32:56.650065Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cer",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/PHD_Research_Programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/PHD_Research_Programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fel",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Hum",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/PHD_Research_Programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mat",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/PHD_Research_Programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mec",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Odd",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/PHD_Research_Programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/PHD_Research_Programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and M",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "for",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": ")\nPh.D",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/PHD_Research_Programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adv",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Aug 03, 2022",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Civ",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ele",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Inf",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Jul 19, 2022",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "MCA-2021",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Mat",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Mea",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Met",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Min",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Nov 25, 2019",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/call-for-admission-to-mtechmtechres-and-phd--programmes-220-21-"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Wat",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "onl",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "Phd",
+      "course_name": "Rep",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Call",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in/shortlisted-candidates-for-admission-to-self-financed-pg-courses--------"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in/PHD_Research_Programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Self",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in/shortlisted-candidates-for-admission-to-self-financed-pg-courses--------"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "und",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(Res)",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(Res), M",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Call",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in/shortlisted-candidates-for-admission-to-self-financed-pg-courses--------"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Dep",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in/shortlisted-candidates-for-pgself-finance-programme-admission-2022"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "IT I",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "M.B.A, M",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "MSc",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in/PG_Programmes"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Res",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Self",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in/shortlisted-candidates-for-admission-to-self-financed-pg-courses--------"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and M",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "spot",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "und",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Jun 22, 2020",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MSc",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Self",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Spot",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in/admission-to---self-financed-pg-courses---application-portal-open"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Call",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in/shortlisted-candidates-for-admission-to-self-financed-pg-courses--------"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Sho",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in/shortlisted-candidates-for-pgself-finance-programme-admission-2022"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in/admission-to-full-time-self-financed-post-graduate-programmes-mtech-m"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "&MSc",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Self",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "Mtech",
+      "course_name": "Msc -2021",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "B.TECH",
+      "course_name": "STU",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aca",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "IT I",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "IT V",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Onl",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Bat",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "onl",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "They",
+      "level_of_education": "Certificate",
+      "source_url": "http://www.nitk.ac.in/PHD_Research_Programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "for",
+      "level_of_education": "Certificate",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "http://www.nitk.ac.in/PHD_Research_Programmes"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Call",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitk.ac.in/shortlisted-candidates-for-admission-to-self-financed-pg-courses--------"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitk.ac.in/admissions-to-btech-mtech-phd-msc--mba-programmes-2025-26updated-"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "SRF",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitk.ac.in/PHD_Research_Programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitk.ac.in/PHD_Research_Programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitk.ac.in/PHD_Research_Programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eff",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitk.ac.in/PHD_Research_Programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fol",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitk.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "open",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitk.ac.in/PHD_Research_Programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitk.ac.in/call-for-admission-to-mtechmtechres-and-phd--programmes-220-21-"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "als",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitk.ac.in"
+    }
+  ],
+  "total_courses": 109,
+  "pages_scraped": 25,
+  "errors": []
+}

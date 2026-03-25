@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1301",
+  "university_name": "SHUBHAM UNIVERSITY",
+  "state": "Madhya Pradesh",
+  "district": "Bhopal",
+  "website": "https://www.shubhamuniversity.com",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:01.226399Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

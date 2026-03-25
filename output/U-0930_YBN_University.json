@@ -1,0 +1,601 @@
+{
+  "aishe_code": "U-0930",
+  "university_name": "YBN University",
+  "state": "Jharkhand",
+  "district": "Ranchi",
+  "website": "ybnu.ac.in",
+  "year_established": "2017",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:29:54.193248Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://ybnu.ac.in/ybn-phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://ybnu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Exe",
+      "level_of_education": "Doctoral",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "New",
+      "level_of_education": "Doctoral",
+      "source_url": "https://ybnu.ac.in/ybn-phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://ybnu.ac.in/ybn-phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://ybnu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Syl",
+      "level_of_education": "Doctoral",
+      "source_url": "https://ybnu.ac.in/school-of-science-course-fee.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://ybnu.ac.in/school-of-pharmacy-courses.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://ybnu.ac.in/ybn-phd.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://ybnu.ac.in/school-of-science-course-fee.php"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "MAS",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Pre",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://ybnu.ac.in/career_guidance_and_skill_development_programs.php"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://ybnu.ac.in/school-of-pharmacy-courses.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://ybnu.ac.in/school-of-agriculture-courses-fees.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "MAS",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ope",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Maa",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "MSc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://ybnu.ac.in/school-of-computer-courses-fees.php"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Spe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://ybnu.ac.in/school-of-computer-courses-fees.php"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "for",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://ybnu.ac.in/school-of-computer-courses-fees.php"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "(NEP-20)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "D.El",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/teacher-education-courses-fees.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/school-of-agriculture-courses-fees.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "BAC",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/school-of-paramedical-courses-fees.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Dia",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/school-of-paramedical-courses-fees.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/school-of-paramedical-courses-fees.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/undergraduate-ybn.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nut",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/school-of-paramedical-courses-fees.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ope",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/school-of-paramedical-courses-fees.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Opt",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/school-of-paramedical-courses-fees.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "for",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/school-of-computer-courses-fees.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "rel",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "the",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/school-of-science-course-fee.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(ECE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "(NEP-20)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL. B",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/legal-studies-courses-fees.php"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BSc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/school-of-computer-courses-fees.php"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Spe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "COM",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Life",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "(Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "only)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "PHA",
+      "level_of_education": "Diploma",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "YOGA",
+      "level_of_education": "Diploma",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Agr",
+      "level_of_education": "Diploma",
+      "source_url": "https://ybnu.ac.in/school-of-agriculture-courses-fees.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dip",
+      "level_of_education": "Diploma",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://ybnu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Engg",
+      "level_of_education": "Diploma",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hea",
+      "level_of_education": "Diploma",
+      "source_url": "https://ybnu.ac.in/school-of-paramedical-courses-fees.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hor",
+      "level_of_education": "Diploma",
+      "source_url": "https://ybnu.ac.in/school-of-agriculture-courses-fees.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Lib",
+      "level_of_education": "Diploma",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://ybnu.ac.in/school-of-paramedical-courses-fees.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ope",
+      "level_of_education": "Diploma",
+      "source_url": "https://ybnu.ac.in/school-of-paramedical-courses-fees.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Opt",
+      "level_of_education": "Diploma",
+      "source_url": "https://ybnu.ac.in/school-of-paramedical-courses-fees.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "P.G.D",
+      "level_of_education": "Diploma",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://ybnu.ac.in/school-of-agriculture-courses-fees.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dre",
+      "level_of_education": "Certificate",
+      "source_url": "https://ybnu.ac.in/school-of-paramedical-courses-fees.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "BAC",
+      "level_of_education": "Unknown",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "MAS",
+      "level_of_education": "Unknown",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Hons",
+      "level_of_education": "Unknown",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "MCF",
+      "level_of_education": "Unknown",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "BED",
+      "course_name": "YBN",
+      "level_of_education": "Unknown",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "MAS",
+      "level_of_education": "Unknown",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "MCF",
+      "level_of_education": "Unknown",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "EPE",
+      "level_of_education": "Unknown",
+      "source_url": "https://ybnu.ac.in/PDF2/phd/YBNU_PhD_ORDINANCE_2019.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://ybnu.ac.in/PDF2/ACADEMIC PROGRAM YBNU.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://ybnu.ac.in/admission.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://ybnu.ac.in/school-of-pharmacy-rajaulatu-principal-message.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cur",
+      "level_of_education": "Unknown",
+      "source_url": "https://ybnu.ac.in/school-of-legal-studies-principal-message.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fal",
+      "level_of_education": "Unknown",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pun",
+      "level_of_education": "Unknown",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://ybnu.ac.in/school-of-pharmacy-rajaulatu-principal-message.php"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "alo",
+      "level_of_education": "Unknown",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://ybnu.ac.in/school-of-legal-studies-principal-message.php"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "lia",
+      "level_of_education": "Unknown",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "this",
+      "level_of_education": "Unknown",
+      "source_url": "http://app.ybnu.ac.in/pub/onlineregistrationform.php"
+    }
+  ],
+  "total_courses": 97,
+  "pages_scraped": 25,
+  "errors": []
+}

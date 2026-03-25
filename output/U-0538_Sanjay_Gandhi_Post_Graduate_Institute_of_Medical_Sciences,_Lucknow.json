@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0538",
+  "university_name": "Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow",
+  "state": "Uttar Pradesh",
+  "district": "Lucknow",
+  "website": "www.sgpgims.org.in",
+  "year_established": "1983",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:36.556411Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

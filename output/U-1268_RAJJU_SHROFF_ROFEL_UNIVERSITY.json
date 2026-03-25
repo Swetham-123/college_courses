@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1268",
+  "university_name": "RAJJU SHROFF ROFEL UNIVERSITY",
+  "state": "Gujarat",
+  "district": "Valsad",
+  "website": "www.rsru.edu.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:24.097073Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

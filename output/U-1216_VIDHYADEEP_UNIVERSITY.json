@@ -1,0 +1,445 @@
+{
+  "aishe_code": "U-1216",
+  "university_name": "VIDHYADEEP UNIVERSITY",
+  "state": "Gujarat",
+  "district": "Surat",
+  "website": "www.vidhyadeepuni.ac.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:23:03.371256Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "B.Ed",
+      "course_name": ")\nPh.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vidhyadeepuni.ac.in/programs-offered.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Col",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Core",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Enr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Onl",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sup",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Out",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vidhyadeepuni.ac.in"
+    },
+    {
+      "degree_name": "Phd",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vidhyadeepuni.ac.in"
+    },
+    {
+      "degree_name": "Phd",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vidhyadeepuni.ac.in/programs-offered.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "IT ) M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vidhyadeepuni.ac.in/programs-offered.php"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vidhyadeepuni.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.A / B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Inf",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vidhyadeepuni.ac.in/programs-offered.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vidhyadeepuni.ac.in/programs-offered.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vieat.vidhyadeepuni.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vieat.vidhyadeepuni.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vidhyadeepuni.ac.in/programs-offered.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vieat.vidhyadeepuni.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Inf",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vieat.vidhyadeepuni.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vieat.vidhyadeepuni.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Rob",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vidhyadeepuni.ac.in/programs-offered.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vieat.vidhyadeepuni.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "dir",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Ani",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "(Any",
+      "level_of_education": "Diploma",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "All",
+      "level_of_education": "Diploma",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "CLO",
+      "level_of_education": "Diploma",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Civ",
+      "level_of_education": "Diploma",
+      "source_url": "https://vieat.vidhyadeepuni.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vidhyadeepuni.ac.in/programs-offered.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vidhyadeepuni.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fire",
+      "level_of_education": "Diploma",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Lab",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vidhyadeepuni.ac.in/programs-offered.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vidhyadeepuni.ac.in/programs-offered.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vidhyadeepuni.ac.in/programs-offered.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "adm",
+      "level_of_education": "Diploma",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "as C",
+      "level_of_education": "Diploma",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "edu",
+      "level_of_education": "Diploma",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Civ",
+      "level_of_education": "Unknown",
+      "source_url": "https://vieat.vidhyadeepuni.ac.in"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Ele",
+      "level_of_education": "Unknown",
+      "source_url": "https://vieat.vidhyadeepuni.ac.in"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "bOa",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidhyadeepuni.ac.in/media/UGC sec2(f) approval VIDYADEEP UNI.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidhyadeepuni.ac.in/media/UGC sec2(f) approval VIDYADEEP UNI.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vidhyadeepuni.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical &",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vidhyadeepuni.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "boo",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidhyadeepuni.ac.in/eligibility-for-admission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mai",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "march",
+      "course_name": "ahe",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ioc",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidhyadeepuni.ac.in/ph-d-program"
+    }
+  ],
+  "total_courses": 71,
+  "pages_scraped": 12,
+  "errors": []
+}

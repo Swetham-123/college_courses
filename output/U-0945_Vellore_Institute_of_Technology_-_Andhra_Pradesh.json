@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0945",
+  "university_name": "Vellore Institute of Technology - Andhra Pradesh",
+  "state": "Andhra Pradesh",
+  "district": "Guntur",
+  "website": "www.vitap.ac.in",
+  "year_established": "2017",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:21:19.844898Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

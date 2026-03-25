@@ -1,0 +1,373 @@
+{
+  "aishe_code": "U-0618",
+  "university_name": "National Institute of Technology Nagaland",
+  "state": "Nagaland",
+  "district": "Dimapur",
+  "website": "www.nitnagaland.ac.in",
+  "year_established": "2009",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:35:46.163853Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "INTEGRATED PH.D",
+      "course_name": "PRO",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-ph-d"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/rules-and-regulations"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sho",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-ph-d"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sti",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Dep",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/departments/computer-science-and-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Home",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-ph-d"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "PDF",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Rul",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "app",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-ph-d"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-mtech"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/rules-and-regulations"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-mtech"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-ccmt-ccmn"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Reg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/rules-and-regulations"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-ccmt-ccmn"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/btech/btech-csab24"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSAB20",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSAB21",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSAB22",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSAB23",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSAB24",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSAB25",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/btech/btech-csab24"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Reg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/rules-and-regulations"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "Reg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/rules-and-regulations"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "(NOC)",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Eka",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "For",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Loan",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Self",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-mtech"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "wou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-mtech"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "add",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-mtech"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "iss",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-mtech"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s in",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-mtech"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in/templates/g5_helium/PDF/EVENTS/Programme_schedule_MSME_2023.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-mtech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-mtech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-ph-d"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-ph-d"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/convocation/5th-convocation"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/btech/btech-csab24"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-mtech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/convocation/4th-convocation"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "hos",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/btech/btech-csab22"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "per",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-mtech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/departments/computer-science-and-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/admission/admission-mtech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "scr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/academics/convocation/4th-convocation"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "suc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in/index.php/departments/computer-science-and-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitnagaland.ac.in"
+    }
+  ],
+  "total_courses": 59,
+  "pages_scraped": 25,
+  "errors": []
+}

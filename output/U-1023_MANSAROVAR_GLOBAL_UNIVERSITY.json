@@ -1,0 +1,319 @@
+{
+  "aishe_code": "U-1023",
+  "university_name": "MANSAROVAR GLOBAL UNIVERSITY",
+  "state": "Madhya Pradesh",
+  "district": "Sehore",
+  "website": "www.mguindia.com",
+  "year_established": "2018",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:03:23.342647Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "S\nPh.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mguindia.com"
+    },
+    {
+      "degree_name": "PHD",
+      "course_name": "COU",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mguindia.com"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ADM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mguindia.com"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "RDC",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mguindia.com"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mguindia.com"
+    },
+    {
+      "degree_name": "Integrated MBA",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mguindia.com/management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mguindia.com/management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mguindia.com/management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Is a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mguindia.com/management"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mguindia.com/commerce"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mguindia.com"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bus",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mguindia.com/management"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cas",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mguindia.com/commerce"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mguindia.com/social-sciences"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mguindia.com/paramedical"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Man",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mguindia.com/management"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Oph",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mguindia.com/paramedical"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mguindia.com/pharmacy"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Soc",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mguindia.com/social-sciences"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "ent",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mguindia.com/paramedical"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "hol",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mguindia.com/paramedical"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "occ",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mguindia.com/paramedical"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "rec",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mguindia.com/paramedical"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mguindia.com/paramedical"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mguindia.com/law"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Add",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/social-sciences"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Fine",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/social-sciences"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/law"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/management"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ach",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/paramedical"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "act",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/paramedical"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "aid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/commerce"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/paramedical"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/law"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/management"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/pharmacy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "han",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/paramedical"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pla",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/management"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/management"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/law"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/pharmacy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sure",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/management"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tho",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/pharmacy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "var",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/commerce"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/management"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/pharmacy"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/paramedical"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguindia.com/commerce"
+    }
+  ],
+  "total_courses": 50,
+  "pages_scraped": 10,
+  "errors": []
+}

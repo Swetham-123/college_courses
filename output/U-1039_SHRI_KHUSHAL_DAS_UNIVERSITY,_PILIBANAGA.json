@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1039",
+  "university_name": "SHRI KHUSHAL DAS UNIVERSITY, PILIBANAGA",
+  "state": "Rajasthan",
+  "district": "Hanumangarh",
+  "website": "www.skduniversity.com",
+  "year_established": "2018",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:44.856975Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

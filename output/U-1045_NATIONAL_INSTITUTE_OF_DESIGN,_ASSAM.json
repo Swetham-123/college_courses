@@ -1,0 +1,115 @@
+{
+  "aishe_code": "U-1045",
+  "university_name": "NATIONAL INSTITUTE OF DESIGN, ASSAM",
+  "state": "Assam",
+  "district": "Jorhat",
+  "website": "www.nidj.ac.in",
+  "year_established": "2015",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:26:16.593688Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Med",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nidj.ac.in/hi/programs/industrial-design"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "IISc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nidj.ac.in/hi/programs/industrial-design"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nidj.ac.in/hi/programs/industrial-design"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Tex",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nidj.ac.in/hi/programs/textile-and-apparel-design"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nidj.ac.in/hi/programs/industrial-design"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Live",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidj.ac.in/hi/elective-interdisciplinary-course-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidj.ac.in/hi/elective-interdisciplinary-course-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidj.ac.in/hi/elective-interdisciplinary-course-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidj.ac.in/hi/elective-interdisciplinary-course-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gro",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidj.ac.in/hi/elective-interdisciplinary-course-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "per",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidj.ac.in/hi/elective-interdisciplinary-course-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rei",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidj.ac.in/hi/elective-interdisciplinary-course-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "shi",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidj.ac.in/hi/elective-interdisciplinary-course-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "that",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidj.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ali",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidj.ac.in/hi/programs/communication-design"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidj.ac.in/hi/nidj/admissions"
+    }
+  ],
+  "total_courses": 16,
+  "pages_scraped": 8,
+  "errors": []
+}

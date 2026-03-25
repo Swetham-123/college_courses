@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0360",
+  "university_name": "Orissa University of Agriculture &  Technology, Bhubaneswar",
+  "state": "Odisha",
+  "district": "Khordha",
+  "website": "http://ouat.ac.in",
+  "year_established": "1962",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:54:01.994874Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

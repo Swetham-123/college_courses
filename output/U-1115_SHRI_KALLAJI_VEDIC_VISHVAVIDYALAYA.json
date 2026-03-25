@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1115",
+  "university_name": "SHRI KALLAJI VEDIC VISHVAVIDYALAYA",
+  "state": "Rajasthan",
+  "district": "Chittorgarh",
+  "website": "www.skvv.ac.in",
+  "year_established": "2018",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:44.574761Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

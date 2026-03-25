@@ -1,0 +1,937 @@
+{
+  "aishe_code": "U-0639",
+  "university_name": "UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+  "state": "Meghalaya",
+  "district": "Ri Bhoi",
+  "website": "www.ustm.ac.in",
+  "year_established": "2011",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:15:22.467419Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ustm.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ustm.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Doc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ustm.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Home",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ustm.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ustm.ac.in/ph-d-manual"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Rul",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ustm.ac.in/ph-d-manual"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sem",
+      "level_of_education": "Doctoral",
+      "source_url": "https://ustm.ac.in/event/two-day-national-workshop-on-re-imagining-teacher-education-inaugurated-at-ustm"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "USTM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ustm.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Und",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ustm.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "for",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ustm.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ustm.ac.in/ph-d-manual"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "LLM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ana",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cri",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Eme",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Opt",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "B.ED",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/admission-procedure-3"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "will",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Rur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ana",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Car",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cri",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Dia",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Eme",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nut",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Opt",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Rad",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Rur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Bot",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Food",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Geo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Zoo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Integrated B.Sc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Integrated B.Sc",
+      "course_name": "B.Ed , B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "Integrated BA",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Pay",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ustm.ac.in"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "Dip",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ana",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bio",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "CSSD (",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Car",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cri",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dia",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eme",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "End",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Opt",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Phy",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Und",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.ustm.ac.in/admission-procedure-3"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "ori",
+      "level_of_education": "Certificate",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "High",
+      "level_of_education": "Certificate",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "acc",
+      "level_of_education": "Certificate",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "the",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.ustm.ac.in/phd"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Geo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Rur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Garo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Geo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Int",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Kha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Rur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Two",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/wp-content/uploads/2026/01/PhD-Admission-Notification-2026A.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "aff",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "arr",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/flexible-graduate-and-post-graduate-courses-at-ustm-for-sports-cultural-talents"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cor",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cur",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ded",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dee",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dow",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fea",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/event/ustm-showcases-breakthrough-ai-projects-at-regional-ai-impact-conference-2025"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obt",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pas",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rej",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sta",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "str",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sum",
+      "level_of_education": "Unknown",
+      "source_url": "https://ustm.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ustm.ac.in/phd"
+    }
+  ],
+  "total_courses": 153,
+  "pages_scraped": 16,
+  "errors": []
+}

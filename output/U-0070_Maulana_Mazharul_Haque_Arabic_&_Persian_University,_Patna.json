@@ -1,0 +1,223 @@
+{
+  "aishe_code": "U-0070",
+  "university_name": "Maulana Mazharul Haque Arabic & Persian University, Patna",
+  "state": "Bihar",
+  "district": "Patna",
+  "website": "https://mmhapu.ac.in",
+  "year_established": "1992",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:08:14.686073Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "MBA",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ent",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Exa",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Not",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "SCR",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "_Sem1_",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "_Sem2_",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "_Sem3_",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "sem",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Part",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Part - I",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Part-2",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Part-I (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Part-I (2023-2025)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Part-I (2024-2026)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Reg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "B.ed",
+      "course_name": "Part -I (2024-2026)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "BCOM",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Part-1 2025",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Part-2 2025",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Part-1 2025",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Part-2 2025",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "EXAM",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "BEd",
+      "course_name": "Part1",
+      "level_of_education": "Unknown",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "BEd",
+      "course_name": "Part2",
+      "level_of_education": "Unknown",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "Reg",
+      "level_of_education": "Unknown",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://mmhapu.ac.in/file/1748745057_Examination Programme of PG all course sem-II and IV.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://mmhapu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://mmhapu.ac.in"
+    }
+  ],
+  "total_courses": 34,
+  "pages_scraped": 25,
+  "errors": []
+}

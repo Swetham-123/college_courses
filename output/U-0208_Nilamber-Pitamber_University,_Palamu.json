@@ -1,0 +1,139 @@
+{
+  "aishe_code": "U-0208",
+  "university_name": "Nilamber-Pitamber University, Palamu",
+  "state": "Jharkhand",
+  "district": "Palamu",
+  "website": "www.npu.ac.in",
+  "year_established": "2009",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:45:17.403862Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.A",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://npu.ac.in/Pages/FacultyDepartments"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://npu.ac.in/Pages/FacultyDepartments"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://npu.ac.in/Pages/FacultyDepartments"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adv",
+      "level_of_education": "Doctoral",
+      "source_url": "https://npu.ac.in/Pages/FacultyDepartments"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Anc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://npu.ac.in/Pages/FacultyDepartments"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Dif",
+      "level_of_education": "Doctoral",
+      "source_url": "https://npu.ac.in/Pages/FacultyDepartments"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ele",
+      "level_of_education": "Doctoral",
+      "source_url": "https://npu.ac.in/Pages/FacultyDepartments"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://npu.ac.in/Pages/PHdEnt2023"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ope",
+      "level_of_education": "Doctoral",
+      "source_url": "https://npu.ac.in/Pages/FacultyDepartments"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ord",
+      "level_of_education": "Doctoral",
+      "source_url": "https://npu.ac.in/Pages/PhDOrdinance"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://npu.ac.in/Pages/PHdEnt2023"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://npu.ac.in/Pages/FacultyDepartments"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://npu.ac.in/Pages/FacultyDepartments"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Dep",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.npu.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://npu.ac.in/Pages/FacultyDepartments"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://npu.ac.in/Uploads/admission_form_phd.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ina",
+      "level_of_education": "Unknown",
+      "source_url": "https://npu.ac.in/Pages/PHdEnt2023"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://npu.ac.in/Pages/PHdEnt2023"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://npu.ac.in/Pages/PHdEnt2023"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://npu.ac.in/Pages/PHdEnt2023"
+    }
+  ],
+  "total_courses": 20,
+  "pages_scraped": 14,
+  "errors": []
+}

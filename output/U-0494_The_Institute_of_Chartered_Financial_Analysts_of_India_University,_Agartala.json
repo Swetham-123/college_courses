@@ -1,0 +1,811 @@
+{
+  "aishe_code": "U-0494",
+  "university_name": "The Institute of Chartered Financial Analysts of India University, Agartala",
+  "state": "Tripura",
+  "district": "West Tripura",
+  "website": "www.iutripura.edu.in",
+  "year_established": "2004",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:03:23.038275Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PHD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iutripura.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Doc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iutripura.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iutripura.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iutripura.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iutripura.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Integrated MCA",
+      "course_name": "teg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "M.Ed",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Spl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-mathematics"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Wat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iutripura.edu.in/academics/schools/faculty-of-physical-education-department-yoga-naturopathy"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iutripura.edu.in/academics/schools/faculty-of-physical-education-department-yoga-naturopathy"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Car",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-clinical-psychology-hons"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-in-data-science-ai"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Dia",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Eco",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Eme",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-nursing"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Pass",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-pass"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-physics"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-psychology-hons"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-pass"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/btech"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/academics/schools/faculty-of-physical-education-department-yoga-naturopathy"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Lat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/btech-lateral-entry"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/btech"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/ba-llb-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/ba-llb-hons"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bba-llb-hons"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bba-llb-hons"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bba-llb-hons"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/academics/schools/faculty-of-physical-education-department-yoga-naturopathy"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bba-llb-hons"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/academics/schools/faculty-of-physical-education-department-yoga-naturopathy"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "B.Sc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/academics/schools/faculty-of-physical-education-department-yoga-naturopathy"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Car",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-cardiac-care-technology"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Eme",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-emergency-medical-technology"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Tri",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/btech"
+    },
+    {
+      "degree_name": "Integrated\nB.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "Integrated B.A",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "Integrated B.Com",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "Integrated B.Sc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/llb"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/llb"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cer",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Phy",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iutripura.edu.in/academics/schools/faculty-of-physical-education-department-yoga-naturopathy"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "may",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/btech-lateral-entry"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-medical-lab-technology-lateral-entry"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/btech-lateral-entry"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Any",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mar",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mark",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Nat",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/ba-llb-hons"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s of",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iutripura.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "C in",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-medical-lab-technology-lateral-entry"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "sho",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/ba-pass"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/ba-llb-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/ba-llb-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-physics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ade",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-cardiac-care-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "deb",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/btech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dir",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-clinical-psychology-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/btech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "hav",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-medical-lab-technology-lateral-entry"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "less",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-in-data-science-ai"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rej",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ret",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-clinical-psychology-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "six",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/llb"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ten",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/ba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "work",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/btech"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/bsc-emergency-medical-technology"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iutripura.edu.in/programs/ugprograms/post-graduate-diploma-yoga"
+    }
+  ],
+  "total_courses": 132,
+  "pages_scraped": 25,
+  "errors": []
+}

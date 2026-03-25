@@ -1,0 +1,193 @@
+{
+  "aishe_code": "U-1330",
+  "university_name": "National Institute of Technical Teachers Training and Research Kolkata",
+  "state": "West Bengal",
+  "district": "North 24 Parganas",
+  "website": "www.nitttrkol.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:28:49.116902Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Tech",
+      "course_name": "& Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrkol.ac.in/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "Phd",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ent",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "for",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nitttrkol.ac.in/media/download/MTech/MTech_PhD_PGD_Fees_Structure_2025-26.pdf"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "lev",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Com",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "ori",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrkol.ac.in/media/download/MTech/MTech_PhD_PGD_Fees_Structure_2025-26.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "aff",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrkol.ac.in/phd.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obs",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrkol.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrkol.ac.in"
+    }
+  ],
+  "total_courses": 29,
+  "pages_scraped": 25,
+  "errors": []
+}

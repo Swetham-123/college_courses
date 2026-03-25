@@ -1,0 +1,391 @@
+{
+  "aishe_code": "U-0865",
+  "university_name": "TECHNO INDIA UNIVERSITY, WEST BENGAL",
+  "state": "West Bengal",
+  "district": "Kolkata",
+  "website": "www.technoindiauniversity.ac.in",
+  "year_established": "2012",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:57.843166Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Integrated MCA",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.technoindiauniversity.ac.in/ComputerApplication/index.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Spo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.technoindiauniversity.ac.in/ComputerApplication/index.php"
+    },
+    {
+      "degree_name": "Integrated BCA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/ComputerApplication/index.php"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Law/index.php"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Spo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Law/index.php"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Tec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Law/index.php"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Pharmacy/index.php"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Tec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Pharmacy/index.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Management/index.php"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Tec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/ComputerApplication/index.php"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Commerce/index.php"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Tec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Commerce/index.php"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Pharmacy/index.php"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "from a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Pharmacy/index.php"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Pharmacy/index.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Nursing/index.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Nursing/index.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "for",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Science/index.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "(Law)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Law/index.php"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/ComputerApplication/index.php"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "from",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/ComputerApplication/index.php"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/ComputerApplication/index.php"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "Fas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/index3.php?id=100"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/index3.php?id=100"
+    },
+    {
+      "degree_name": "Integrated\n\t\t\t\t\t\t\t\t\t\t\t\tB.A",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Law/index.php"
+    },
+    {
+      "degree_name": "Integrated\n\t\t\t\t\t\t\t\t\t\t\t\tB.Com",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Law/index.php"
+    },
+    {
+      "degree_name": "Integrated B.A",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Law/index.php"
+    },
+    {
+      "degree_name": "Integrated B.Com",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Law/index.php"
+    },
+    {
+      "degree_name": "Integrated BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Law/index.php"
+    },
+    {
+      "degree_name": "Integrated BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Law/index.php"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Law/index.php"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Law/index.php"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.technoindiauniversity.ac.in/Pharmacy/index.php"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.technoindiauniversity.ac.in/Nursing/index.php"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "whi",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.technoindiauniversity.ac.in/Pharmacy/index.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.technoindiauniversity.ac.in/Pharmacy/index.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.technoindiauniversity.ac.in/index3.php?id=12"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "reg",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.technoindiauniversity.ac.in/index3.php?id=12"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s to",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.technoindiauniversity.ac.in/index3.php?id=12"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "DONE",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in/index3.php?id=12"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bet",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in/index3.php?id=12"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in/index3.php?id=12"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gen",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in/ComputerApplication/index.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in/Pharmacy/index.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "here",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "his",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in/index3.php?id=12"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obt",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in/Law/index.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "par",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rem",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in/ComputerApplication/index.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sole",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in/index3.php?id=12"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in/Pharmacy/index.php"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.technoindiauniversity.ac.in"
+    }
+  ],
+  "total_courses": 62,
+  "pages_scraped": 25,
+  "errors": []
+}

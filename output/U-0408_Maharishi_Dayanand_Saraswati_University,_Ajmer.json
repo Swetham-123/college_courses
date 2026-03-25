@@ -1,0 +1,31 @@
+{
+  "aishe_code": "U-0408",
+  "university_name": "Maharishi Dayanand Saraswati University, Ajmer",
+  "state": "Rajasthan",
+  "district": "Ajmer",
+  "website": "mdsuajmer.ac.in",
+  "year_established": "1987",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:49:09.115211Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "March",
+      "course_name": "Sas",
+      "level_of_education": "Unknown",
+      "source_url": "https://mdsuajmer.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://mdsuajmer.ac.in/pdf/Reservation.pdf"
+    }
+  ],
+  "total_courses": 2,
+  "pages_scraped": 10,
+  "errors": []
+}

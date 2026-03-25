@@ -1,0 +1,139 @@
+{
+  "aishe_code": "U-0359",
+  "university_name": "Maharaja Sriram Chandra Bhanja Deo University",
+  "state": "Odisha",
+  "district": "Mayurbhanj",
+  "website": "www.nou.nic.in",
+  "year_established": "1998",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:45:24.462928Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nou.nic.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nou.nic.in/Ph.D-admission.htm"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nou.nic.in/Ph.D-admission.htm"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Vac",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nou.nic.in/Ph.D-admission.htm"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nou.nic.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ter",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nou.nic.in/Ph.D-admission.htm"
+    },
+    {
+      "degree_name": "Integrated B.Ed",
+      "course_name": "M.Ed",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nou.nic.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nou.nic.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ind",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nou.nic.in"
+    },
+    {
+      "degree_name": "M.sc",
+      "course_name": "phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nou.nic.in/equivalent-of-degrees(corrigendum).PDF"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nou.nic.in/equivalent-of-degrees(corrigendum).PDF"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "for",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nou.nic.in"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "s of",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nou.nic.in/equivalent-of-degrees(corrigendum).PDF"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nou.nic.in"
+    },
+    {
+      "degree_name": "BEd",
+      "course_name": "MEd",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nou.nic.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nou.nic.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nou.nic.in/CDOE-PG-Admission_February-2026.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nou.nic.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nou.nic.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "read",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nou.nic.in/equivalent-of-degrees(corrigendum).PDF"
+    }
+  ],
+  "total_courses": 20,
+  "pages_scraped": 11,
+  "errors": []
+}

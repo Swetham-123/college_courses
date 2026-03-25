@@ -1,0 +1,181 @@
+{
+  "aishe_code": "U-0571",
+  "university_name": "University of Gour Banga, Malda",
+  "state": "West Bengal",
+  "district": "Malda",
+  "website": "www.ugb.ac.in",
+  "year_established": "2008",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:11:52.219625Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PH.D",
+      "course_name": "THE",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(RET) 2019-20",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Viva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and M",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "fin",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "open",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Open",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Viva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "B.ED",
+      "course_name": "EXA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "B.ED",
+      "course_name": "STU",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Part-I &",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "PRO",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "the",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ugb.ac.in/couch/uploads/file/Notice/536_notice_pg-admission_ur_reserved_3rd_phase_2025-2027_09-10-2025.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ugb.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ugb.ac.in"
+    }
+  ],
+  "total_courses": 27,
+  "pages_scraped": 25,
+  "errors": []
+}

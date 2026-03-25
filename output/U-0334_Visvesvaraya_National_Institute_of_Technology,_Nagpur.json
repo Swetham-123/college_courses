@@ -1,0 +1,397 @@
+{
+  "aishe_code": "U-0334",
+  "university_name": "Visvesvaraya National Institute of Technology, Nagpur",
+  "state": "Maharashtra",
+  "district": "Nagpur",
+  "website": "www.vnit.ac.in",
+  "year_established": "1960",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:25:28.611577Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PHD",
+      "course_name": "Fees",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vnit.ac.in/section/academics/fees"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vnit.ac.in/basic_science/chemistry"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vnit.ac.in/section/academics/academic-forms"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vnit.ac.in/basic_science/chemistry"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "http://vnit.ac.in/basic_science/phy"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vnit.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vnit.ac.in/section/academics/notice-new"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Fre",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vnit.ac.in/section/academics/academic-forms"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vnit.ac.in/section/academics/notice-new"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ph D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vnit.ac.in/section/academics/notice-new"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "http://vnit.ac.in/basic_science/phy"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vnit.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sup",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "coo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/basic_science/chemistry"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Dis",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/section/academics/academic-forms"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://vnit.ac.in/basic_science/phy"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://vnit.ac.in/basic_science/phy"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/basic_science/chemistry"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Add",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Dis",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/section/academics/academic-forms"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "MSc 1",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Onl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/academic-programs"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Spo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and 3 M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/academic-programs"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and P. G",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/academic-programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ACM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Adv",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vnit.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(All",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vnit.ac.in/section/academics/notice-new"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE(R)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vnit.ac.in/section/academics/notice-new"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vnit.ac.in/study-in-india"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Eng",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://vnit.ac.in/basic_science/phy"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Fir",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://vnit.ac.in/basic_science/phy"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Min",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://vnit.ac.in/basic_science/phy"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vnit.ac.in/section/academics/academic-forms"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Sum",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vnit.ac.in/section/academics/notice-new"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Win",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vnit.ac.in/academic-event-calendar"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vnit.ac.in/academic-programs"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vnit.ac.in/section/academics/notice-new"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Add",
+      "level_of_education": "Diploma",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "For",
+      "level_of_education": "Diploma",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Onl",
+      "level_of_education": "Certificate",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Post",
+      "level_of_education": "Certificate",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "sti",
+      "level_of_education": "Certificate",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "havi",
+      "level_of_education": "Unknown",
+      "source_url": "https://vnit.ac.in/section/academics/notice-new"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://vnit.ac.in/section/academics/academic-forms"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "http://vnit.ac.in/basic_science/phy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://vnit.ac.in/study-in-india"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fol",
+      "level_of_education": "Unknown",
+      "source_url": "https://vnit.ac.in/section/academics/admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vnit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upl",
+      "level_of_education": "Unknown",
+      "source_url": "https://vnit.ac.in/academic-programs"
+    }
+  ],
+  "total_courses": 63,
+  "pages_scraped": 19,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1082",
+  "university_name": "THE CHARUTAR VIDYA MANDAL (CVM) UNIVERSITY",
+  "state": "Gujarat",
+  "district": "Anand",
+  "website": "https://cvmu.edu.in",
+  "year_established": "2019",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:01:03.979136Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 13,
+  "errors": []
+}

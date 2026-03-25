@@ -1,0 +1,250 @@
+2026-03-23 19:02:31,242 [INFO] Loaded 700 universities
+2026-03-23 19:02:31,505 [INFO] Selenium enabled — will handle JS, dropdowns, accordions, pagination
+2026-03-23 19:02:31,506 [INFO] Scraping 700 universities | workers=3 | selenium=True
+2026-03-23 19:02:31,536 [INFO] [U-0813] Scraping: LNCT UNIVERSITY  →  https://www.lnctu.ac.in
+2026-03-23 19:02:31,537 [INFO] [U-1236] Scraping: LNCT VIDHYAPEETH UNIVERSITY  →  https://www.lnctvu.ac.in
+2026-03-23 19:02:31,537 [INFO] [U-0405] Scraping: LNM Institute of Information Technology, Jaipur  →  https://www.lnmiit.ac.in
+2026-03-23 19:03:03,072 [INFO] ====== WebDriver manager ======
+2026-03-23 19:03:07,633 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:03:09,011 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:03:10,404 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:03:13,485 [INFO] WebDriver version 146.0.7680.153 selected
+2026-03-23 19:03:13,503 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/146.0.7680.153/win32/chromedriver-win32.zip
+2026-03-23 19:03:13,504 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/146.0.7680.153/win32/chromedriver-win32.zip
+2026-03-23 19:03:15,099 [INFO] Driver downloading response is 200
+2026-03-23 19:03:16,005 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:03:17,519 [INFO] Driver has been saved in cache [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153]
+2026-03-23 19:03:27,131 [INFO] ====== WebDriver manager ======
+2026-03-23 19:03:28,328 [INFO] ====== WebDriver manager ======
+2026-03-23 19:03:30,459 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:03:31,242 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:03:31,397 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:03:32,329 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:03:32,408 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 19:03:33,379 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 19:04:18,837 [INFO]   ✓ [U-0813] LNCT UNIVERSITY → 261 courses across 19 pages
+2026-03-23 19:04:22,921 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51229): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/97b01d4c4dc24902b9bd83658e3ba3ab
+2026-03-23 19:04:26,970 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51229): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/97b01d4c4dc24902b9bd83658e3ba3ab
+2026-03-23 19:04:31,049 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51229): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/97b01d4c4dc24902b9bd83658e3ba3ab
+2026-03-23 19:04:35,125 [INFO] [U-1212] Scraping: LOKBHARTI UNIVERSITY FOR RURAL INNOVATION  →  https://www.lokbharatiuniversity.edu.in
+2026-03-23 19:04:35,126 [INFO] Progress 1/700 (0.1%) | 0.01/s | ETA 1440.2 min
+2026-03-23 19:07:09,919 [INFO] ====== WebDriver manager ======
+2026-03-23 19:07:14,495 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:07:16,351 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:07:18,105 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 19:07:46,835 [INFO] Loaded 700 universities
+2026-03-23 19:07:46,836 [INFO] Scraping 2 universities | workers=1 | selenium=False
+2026-03-23 19:07:46,849 [INFO] [U-0813] Scraping: LNCT UNIVERSITY  →  https://www.lnctu.ac.in
+2026-03-23 19:08:23,028 [INFO]   ✓ [U-0813] LNCT UNIVERSITY → 257 courses across 17 pages
+2026-03-23 19:08:23,058 [INFO] [U-1236] Scraping: LNCT VIDHYAPEETH UNIVERSITY  →  https://www.lnctvu.ac.in
+2026-03-23 19:08:23,058 [INFO] Progress 1/2 (50.0%) | 0.03/s | ETA 0.6 min
+2026-03-23 19:09:35,793 [INFO]   ✓ [U-1236] LNCT VIDHYAPEETH UNIVERSITY → 63 courses across 15 pages
+2026-03-23 19:11:51,984 [INFO] Loaded 700 universities
+2026-03-23 19:11:52,100 [INFO] Selenium enabled — will handle JS, dropdowns, accordions, pagination
+2026-03-23 19:11:52,100 [INFO] Scraping 700 universities | workers=1 | selenium=True
+2026-03-23 19:11:52,200 [INFO] [U-0813] Scraping: LNCT UNIVERSITY  →  https://www.lnctu.ac.in
+2026-03-23 19:12:20,034 [INFO] ====== WebDriver manager ======
+2026-03-23 19:12:24,489 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:12:26,126 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:12:27,921 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 19:13:14,734 [INFO]   ✓ [U-0813] LNCT UNIVERSITY → 261 courses across 19 pages
+2026-03-23 19:13:18,808 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61813): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/680db40e3a0e4b3f5324b4f4554566d7
+2026-03-23 19:13:22,882 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61813): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/680db40e3a0e4b3f5324b4f4554566d7
+2026-03-23 19:13:26,957 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61813): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/680db40e3a0e4b3f5324b4f4554566d7
+2026-03-23 19:13:31,025 [INFO] [U-1236] Scraping: LNCT VIDHYAPEETH UNIVERSITY  →  https://www.lnctvu.ac.in
+2026-03-23 19:13:31,032 [INFO] Progress 1/700 (0.1%) | 0.01/s | ETA 1152.6 min
+2026-03-23 19:14:38,182 [INFO] ====== WebDriver manager ======
+2026-03-23 19:14:42,897 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:14:44,324 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:14:45,860 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 19:29:09,692 [INFO]   ✓ [U-1236] LNCT VIDHYAPEETH UNIVERSITY → 81 courses across 30 pages
+2026-03-23 19:29:13,759 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61785): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/abfd527dc32a3e177d10cbc1fa8b6163
+2026-03-23 19:29:17,808 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61785): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/abfd527dc32a3e177d10cbc1fa8b6163
+2026-03-23 19:29:21,894 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61785): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/abfd527dc32a3e177d10cbc1fa8b6163
+2026-03-23 19:29:25,981 [INFO] [U-0405] Scraping: LNM Institute of Information Technology, Jaipur  →  https://www.lnmiit.ac.in
+2026-03-23 19:29:25,982 [INFO] Progress 2/700 (0.3%) | 0.00/s | ETA 6130.1 min
+2026-03-23 19:30:21,041 [INFO] ====== WebDriver manager ======
+2026-03-23 19:30:24,024 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:30:25,290 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:30:26,709 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 19:44:28,394 [INFO]   ✓ [U-0405] LNM Institute of Information Technology, → 186 courses across 30 pages
+2026-03-23 19:44:32,468 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51220): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/031f0a0255966c2b0ec04d2ab5e93c66
+2026-03-23 19:44:36,569 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51220): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/031f0a0255966c2b0ec04d2ab5e93c66
+2026-03-23 19:44:40,668 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51220): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/031f0a0255966c2b0ec04d2ab5e93c66
+2026-03-23 19:44:44,776 [INFO] [U-1212] Scraping: LOKBHARTI UNIVERSITY FOR RURAL INNOVATION  →  https://www.lokbharatiuniversity.edu.in
+2026-03-23 19:44:44,776 [INFO] Progress 3/700 (0.4%) | 0.00/s | ETA 7638.6 min
+2026-03-23 19:46:26,996 [INFO] ====== WebDriver manager ======
+2026-03-23 19:46:29,285 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:46:30,156 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:46:30,958 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 19:54:09,436 [INFO]   ✓ [U-1212] LOKBHARTI UNIVERSITY FOR RURAL INNOVATIO → 104 courses across 30 pages
+2026-03-23 19:54:13,538 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53259): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/622a4d79e4894e54d98cd3b16d9355da
+2026-03-23 19:54:17,607 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53259): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/622a4d79e4894e54d98cd3b16d9355da
+2026-03-23 19:54:21,707 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53259): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/622a4d79e4894e54d98cd3b16d9355da
+2026-03-23 19:54:25,796 [INFO] [U-1102] Scraping: LOK JAGRUTI KENDRA UNIVERSITY  →  https://www.ljku.edu.in
+2026-03-23 19:54:25,796 [INFO] Progress 4/700 (0.6%) | 0.00/s | ETA 7405.7 min
+2026-03-23 19:54:46,212 [INFO] ====== WebDriver manager ======
+2026-03-23 19:54:48,512 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:54:49,359 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 19:54:50,142 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 20:00:18,750 [INFO]   ✓ [U-1102] LOK JAGRUTI KENDRA UNIVERSITY → 139 courses across 30 pages
+2026-03-23 20:00:22,856 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61460): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/3c99d1b99c96e9dc8499fb907bd5162e
+2026-03-23 20:00:26,953 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61460): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/3c99d1b99c96e9dc8499fb907bd5162e
+2026-03-23 20:00:31,068 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61460): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/3c99d1b99c96e9dc8499fb907bd5162e
+2026-03-23 20:00:35,174 [INFO] [U-1031] Scraping: LORDS UNIVERSITY  →  https://www.lordsuni.edu.in
+2026-03-23 20:00:35,176 [INFO] Progress 5/700 (0.7%) | 0.00/s | ETA 6771.8 min
+2026-03-23 20:00:47,842 [INFO] ====== WebDriver manager ======
+2026-03-23 20:00:49,845 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 20:00:50,629 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 20:00:51,566 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 20:01:25,825 [INFO]   ✓ [U-1031] LORDS UNIVERSITY → 44 courses across 7 pages
+2026-03-23 20:01:29,918 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=52187): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/d3eb7e7ef7552e3bab29c9a0775ecd79
+2026-03-23 20:01:34,057 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=52187): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/d3eb7e7ef7552e3bab29c9a0775ecd79
+2026-03-23 20:01:38,136 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=52187): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/d3eb7e7ef7552e3bab29c9a0775ecd79
+2026-03-23 20:01:42,203 [INFO] [U-0379] Scraping: Lovely Professional University  →  https://www.lpu.in
+2026-03-23 20:01:42,203 [INFO] Progress 6/700 (0.9%) | 0.00/s | ETA 5764.3 min
+2026-03-23 20:01:58,776 [INFO] ====== WebDriver manager ======
+2026-03-23 20:02:00,643 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 20:02:01,388 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 20:02:02,045 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 22:07:59,489 [INFO]   ✓ [U-0379] Lovely Professional University → 311 courses across 30 pages
+2026-03-23 22:08:09,393 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59531): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/8404a53b39b34c0feec1b7025c4caa19
+2026-03-23 22:08:13,542 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59531): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/8404a53b39b34c0feec1b7025c4caa19
+2026-03-23 22:08:17,693 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59531): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/8404a53b39b34c0feec1b7025c4caa19
+2026-03-23 22:08:21,777 [INFO] Progress 7/700 (1.0%) | 0.00/s | ETA 17473.0 min
+2026-03-23 22:08:21,777 [INFO] [U-1213] Scraping: MAA SHAKUMBHARI UNIVERSITY  →  https://msuniversity.ac.in
+2026-03-23 22:08:21,780 [INFO] Progress 8/700 (1.1%) | 0.00/s | ETA 15266.8 min
+2026-03-23 22:08:40,366 [INFO] ====== WebDriver manager ======
+2026-03-23 22:08:42,177 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 22:08:42,826 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 22:08:43,510 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 22:20:42,197 [INFO]   ✓ [U-1213] MAA SHAKUMBHARI UNIVERSITY → 46 courses across 30 pages
+2026-03-23 22:20:46,254 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49676): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/5f4fd3489b5e40f0dc018359abdacd4c
+2026-03-23 22:20:50,330 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49676): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/5f4fd3489b5e40f0dc018359abdacd4c
+2026-03-23 22:20:54,387 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49676): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/5f4fd3489b5e40f0dc018359abdacd4c
+2026-03-23 22:20:58,487 [INFO] [U-1413] Scraping: Maa Vindhyavasini University  →  http://mvvu.ac.in
+2026-03-23 22:20:58,488 [INFO] Progress 9/700 (1.3%) | 0.00/s | ETA 14519.2 min
+2026-03-23 22:21:06,542 [INFO] ====== WebDriver manager ======
+2026-03-23 22:21:09,565 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 22:21:10,575 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 22:21:11,833 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 22:28:54,868 [INFO]   ✓ [U-1413] Maa Vindhyavasini University → 30 courses across 23 pages
+2026-03-23 22:28:58,934 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=62303): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/bf5a9f7da6acfcfb1b02498039607eba
+2026-03-23 22:29:03,013 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=62303): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/bf5a9f7da6acfcfb1b02498039607eba
+2026-03-23 22:29:07,082 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=62303): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/bf5a9f7da6acfcfb1b02498039607eba
+2026-03-23 22:29:11,134 [INFO] [U-1421] Scraping: Madanapalle Institute of Technology and Science MI  →  https://mits.ac.in/university
+2026-03-23 22:29:11,134 [INFO] Progress 10/700 (1.4%) | 0.00/s | ETA 13614.9 min
+2026-03-23 22:29:38,115 [INFO] ====== WebDriver manager ======
+2026-03-23 22:29:40,732 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 22:29:42,403 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 22:29:44,056 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 22:48:19,783 [INFO]   ✓ [U-1421] Madanapalle Institute of Technology and  → 1756 courses across 30 pages
+2026-03-23 22:48:23,863 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53196): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/847fd72f4abd219d66ced12c5c4f655d
+2026-03-23 22:48:27,968 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53196): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/847fd72f4abd219d66ced12c5c4f655d
+2026-03-23 22:48:32,043 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53196): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/847fd72f4abd219d66ced12c5c4f655d
+2026-03-23 22:48:36,248 [INFO] [U-0739] Scraping: MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY,  →  https://www.mmmut.ac.in
+2026-03-23 22:48:36,249 [INFO] Progress 11/700 (1.6%) | 0.00/s | ETA 13575.5 min
+2026-03-23 22:49:34,375 [INFO] ====== WebDriver manager ======
+2026-03-23 22:49:38,170 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 22:49:40,027 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 22:49:41,687 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 23:02:45,588 [INFO]   ✓ [U-0739] MADAN MOHAN MALAVIYA UNIVERSITY OF TECHN → 313 courses across 30 pages
+2026-03-23 23:02:49,664 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54103): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/7476bdac35596ae17f1b73e3d60699f0
+2026-03-23 23:02:53,743 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54103): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/7476bdac35596ae17f1b73e3d60699f0
+2026-03-23 23:02:57,808 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54103): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/7476bdac35596ae17f1b73e3d60699f0
+2026-03-23 23:03:01,936 [INFO] [U-1068] Scraping: Madhabdev University  →  https://madhabdevuniversity.ac.in
+2026-03-23 23:03:01,937 [INFO] Progress 12/700 (1.7%) | 0.00/s | ETA 13253.4 min
+2026-03-23 23:03:36,049 [INFO] ====== WebDriver manager ======
+2026-03-23 23:03:41,901 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:03:43,514 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:03:45,065 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 23:05:41,511 [INFO]   ✓ [U-1068] Madhabdev University → 14 courses across 30 pages
+2026-03-23 23:05:45,612 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53897): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/662f500123fced8fbb877e1164da81ed
+2026-03-23 23:05:49,681 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53897): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/662f500123fced8fbb877e1164da81ed
+2026-03-23 23:05:53,743 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=53897): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/662f500123fced8fbb877e1164da81ed
+2026-03-23 23:05:57,811 [INFO] [U-1329] Scraping: Madhav Institute of Technology and Science  →  https://www.mitsgwalior.in
+2026-03-23 23:05:57,812 [INFO] Progress 13/700 (1.9%) | 0.00/s | ETA 12371.0 min
+2026-03-23 23:06:13,127 [INFO] ====== WebDriver manager ======
+2026-03-23 23:06:17,099 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:06:18,680 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:06:20,446 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 23:06:49,337 [INFO]   ✓ [U-1329] Madhav Institute of Technology and Scien → 65 courses across 16 pages
+2026-03-23 23:06:53,408 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51544): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/f29b95ffb1ee77db315f19624707a810
+2026-03-23 23:06:57,465 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51544): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/f29b95ffb1ee77db315f19624707a810
+2026-03-23 23:07:01,514 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51544): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/f29b95ffb1ee77db315f19624707a810
+2026-03-23 23:07:05,616 [INFO] [U-0698] Scraping: MADHAV UNIVERSITY  →  https://www.madhavuniversity.edu.in
+2026-03-23 23:07:05,617 [INFO] Progress 14/700 (2.0%) | 0.00/s | ETA 11526.0 min
+2026-03-23 23:07:19,937 [INFO] ====== WebDriver manager ======
+2026-03-23 23:07:23,920 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:07:25,714 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:07:27,353 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 23:07:50,676 [INFO]   ✓ [U-0698] MADHAV UNIVERSITY → 112 courses across 16 pages
+2026-03-23 23:07:54,741 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61633): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/9ca7e22e0ae195ebbbd485502526eb0e
+2026-03-23 23:07:58,808 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61633): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/9ca7e22e0ae195ebbbd485502526eb0e
+2026-03-23 23:08:02,866 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=61633): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/9ca7e22e0ae195ebbbd485502526eb0e
+2026-03-23 23:08:06,964 [INFO] [U-1184] Scraping: MADHUSUDAN LAW UNIVERSITY  →  https://www.mlu.ac.in
+2026-03-23 23:08:06,965 [INFO] Progress 15/700 (2.1%) | 0.00/s | ETA 10788.6 min
+2026-03-23 23:08:27,455 [INFO] ====== WebDriver manager ======
+2026-03-23 23:08:31,458 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:08:33,180 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:08:34,797 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 23:14:50,570 [INFO]   ✓ [U-1184] MADHUSUDAN LAW UNIVERSITY → 37 courses across 28 pages
+2026-03-23 23:14:54,635 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=52521): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/4724cc34cecfe6aa71035a3c0ea99b29
+2026-03-23 23:14:58,695 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=52521): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/4724cc34cecfe6aa71035a3c0ea99b29
+2026-03-23 23:15:02,769 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=52521): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/4724cc34cecfe6aa71035a3c0ea99b29
+2026-03-23 23:15:06,811 [INFO] [U-0941] Scraping: Madhyanchal Professional University  →  https://www.mpu.ac.in
+2026-03-23 23:15:06,811 [INFO] Progress 16/700 (2.3%) | 0.00/s | ETA 10398.7 min
+2026-03-23 23:16:15,896 [INFO] ====== WebDriver manager ======
+2026-03-23 23:16:19,948 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:16:21,934 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:16:24,211 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 23:24:18,287 [INFO]   ✓ [U-0941] Madhyanchal Professional University → 228 courses across 30 pages
+2026-03-23 23:24:22,348 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54460): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/b750643e10de54b1d545595016897aa1
+2026-03-23 23:24:26,432 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54460): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/b750643e10de54b1d545595016897aa1
+2026-03-23 23:24:30,479 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54460): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/b750643e10de54b1d545595016897aa1
+2026-03-23 23:24:34,537 [INFO] [U-0996] Scraping: MADHYA PRADESH AYURVIGYAN VISHWAVIDHLAYA, JABALPUR  →  https://www.mpmsu.edu.in
+2026-03-23 23:24:34,537 [INFO] Progress 17/700 (2.4%) | 0.00/s | ETA 10152.9 min
+2026-03-23 23:25:19,910 [INFO] ====== WebDriver manager ======
+2026-03-23 23:25:24,094 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:25:26,345 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:25:28,576 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 23:26:06,840 [INFO]   ✓ [U-0996] MADHYA PRADESH AYURVIGYAN VISHWAVIDHLAYA → 46 courses across 16 pages
+2026-03-23 23:26:10,906 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63427): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/3f1068c4ac3914fee039d043e27a1905
+2026-03-23 23:26:14,971 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63427): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/3f1068c4ac3914fee039d043e27a1905
+2026-03-23 23:26:19,007 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=63427): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/3f1068c4ac3914fee039d043e27a1905
+2026-03-23 23:26:23,123 [INFO] [U-0278] Scraping: Madhya Pradesh Bhoj Open University, Bhopal  →  http://mpbou.edu.in
+2026-03-23 23:26:23,123 [INFO] Progress 18/700 (2.6%) | 0.00/s | ETA 9643.4 min
+2026-03-23 23:26:50,052 [INFO] ====== WebDriver manager ======
+2026-03-23 23:26:54,133 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:26:55,851 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:26:57,513 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 23:35:26,738 [INFO]   ✓ [U-0278] Madhya Pradesh Bhoj Open University, Bho → 147 courses across 30 pages
+2026-03-23 23:35:30,808 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59734): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/8009ecc248d6da684e6d0d21e9f31659
+2026-03-23 23:35:34,875 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59734): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/8009ecc248d6da684e6d0d21e9f31659
+2026-03-23 23:35:38,936 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59734): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/8009ecc248d6da684e6d0d21e9f31659
+2026-03-23 23:35:43,031 [INFO] [U-0462] Scraping: Madras University, Chennai  →  https://www.unom.ac.in
+2026-03-23 23:35:43,031 [INFO] Progress 19/700 (2.7%) | 0.00/s | ETA 9456.9 min
+2026-03-23 23:36:43,800 [INFO] ====== WebDriver manager ======
+2026-03-23 23:36:46,919 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:36:48,607 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:36:50,368 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 23:37:55,773 [INFO]   ✓ [U-0462] Madras University, Chennai → 22 courses across 16 pages
+2026-03-23 23:37:59,833 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51388): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/7381c34000a230a8bb0e45c07981ac4b
+2026-03-23 23:38:03,886 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51388): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/7381c34000a230a8bb0e45c07981ac4b
+2026-03-23 23:38:07,937 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51388): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/7381c34000a230a8bb0e45c07981ac4b
+2026-03-23 23:38:12,012 [INFO] [U-0463] Scraping: Madurai Kamaraj University, Madurai  →  https://www.mkuniversity.ac.in
+2026-03-23 23:38:12,012 [INFO] Progress 20/700 (2.9%) | 0.00/s | ETA 9055.3 min
+2026-03-23 23:38:15,773 [INFO] ====== WebDriver manager ======
+2026-03-23 23:38:18,480 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:38:19,964 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:38:21,711 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-23 23:45:05,051 [INFO]   ✓ [U-0463] Madurai Kamaraj University, Madurai → 172 courses across 16 pages
+2026-03-23 23:45:09,115 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49373): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/60567c6158158c1b2c534bb828106b40
+2026-03-23 23:45:13,184 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49373): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/60567c6158158c1b2c534bb828106b40
+2026-03-23 23:45:17,270 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49373): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/60567c6158158c1b2c534bb828106b40
+2026-03-23 23:45:21,677 [INFO] [U-0069] Scraping: Magadh University, Bodh Gaya  →  https://www.magadhuniversity.ac.in
+2026-03-23 23:45:21,687 [INFO] Progress 21/700 (3.0%) | 0.00/s | ETA 8842.9 min
+2026-03-23 23:45:26,281 [INFO] ====== WebDriver manager ======
+2026-03-23 23:45:29,740 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:45:31,001 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-23 23:45:32,049 [INFO] Driver [C:\Users\OrCon\.wdm\drivers\chromedriver\win64\146.0.7680.153\chromedriver-win32/chromedriver.exe] found in cache

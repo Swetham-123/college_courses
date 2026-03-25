@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0325",
+  "university_name": "Shivaji University, Kolhapur",
+  "state": "Maharashtra",
+  "district": "Kolhapur",
+  "website": "www.unishivaji.ac.in",
+  "year_established": "1962",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:47.609011Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

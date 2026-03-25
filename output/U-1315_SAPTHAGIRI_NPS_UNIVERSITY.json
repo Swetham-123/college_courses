@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1315",
+  "university_name": "SAPTHAGIRI NPS UNIVERSITY",
+  "state": "Karnataka",
+  "district": "Bengaluru Urban",
+  "website": "www.snpsu.edu.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:39.188790Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

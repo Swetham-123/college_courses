@@ -1,0 +1,271 @@
+{
+  "aishe_code": "U-1087",
+  "university_name": "VIJAYBHOOMI UNIVERSITY",
+  "state": "Maharashtra",
+  "district": "Raigad",
+  "website": "https://vijaybhoomi.edu.in",
+  "year_established": "2018",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:23:50.346506Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vijaybhoomi.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vijaybhoomi.edu.in/phd-admissions-2025"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vijaybhoomi.edu.in/phd-admissions-2025"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vijaybhoomi.edu.in/phd-admissions-2025"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cor",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vijaybhoomi.edu.in/phd-admissions-2025"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fac",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vijaybhoomi.edu.in/phd-admissions-2025"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vijaybhoomi.edu.in/phd-admissions-2025"
+    },
+    {
+      "degree_name": "Integrated BBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vijaybhoomi.edu.in/undergraduate-programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vijaybhoomi.edu.in/undergraduate-programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vijaybhoomi.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vijaybhoomi.edu.in/undergraduate-programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vijaybhoomi.edu.in/admissions2026"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vijaybhoomi.edu.in/jagsoms-mba-program"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and a",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vijaybhoomi.edu.in/jagsoms-mba-program"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "AI\nB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vijaybhoomi.edu.in/undergraduate-programs"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vijaybhoomi.edu.in/admissions2026"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Sou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vijaybhoomi.edu.in/undergraduate-programs"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vijaybhoomi.edu.in/admissions2026"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vijaybhoomi.edu.in/admissions2026"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "KED",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vijaybhoomi.edu.in/admissions2026"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "KPMG",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vijaybhoomi.edu.in/undergraduate-programs"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vijaybhoomi.edu.in/undergraduate-programs"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vijaybhoomi.edu.in/undergraduate-programs"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vijaybhoomi.edu.in"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vijaybhoomi.edu.in/international-programs"
+    },
+    {
+      "degree_name": "Integrated BBA",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vijaybhoomi.edu.in/international-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "(NOC)",
+      "level_of_education": "Certificate",
+      "source_url": "https://vijaybhoomi.edu.in/phd-admissions-2025"
+    },
+    {
+      "degree_name": "Ma",
+      "course_name": "Lab",
+      "level_of_education": "Unknown",
+      "source_url": "https://vijaybhoomi.edu.in/futureconnect-program"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://vijaybhoomi.edu.in/allied-health-programs"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ico",
+      "level_of_education": "Unknown",
+      "source_url": "https://vijaybhoomi.edu.in/futureconnect-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vijaybhoomi.edu.in/?utm_source=DigitalMarketing&utm_medium=SocialMedia&utm_campaign=quorav1&utm_brt_id=193468CCC9533D70&utm_admission_season=2024-25&additonal=none"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "alo",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vijaybhoomi.edu.in/?utm_source=DigitalMarketing&utm_medium=SocialMedia&utm_campaign=quorav1&utm_brt_id=193468CCC9533D70&utm_admission_season=2024-25&additonal=none"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://vijaybhoomi.edu.in/phd-admissions-2025"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://vijaybhoomi.edu.in/phd-admissions-2025"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://vijaybhoomi.edu.in/phd-admissions-2025"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://vijaybhoomi.edu.in/phd-admissions-2025"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://vijaybhoomi.edu.in/phd-admissions-2025"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://vijaybhoomi.edu.in/phd-admissions-2025"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vijaybhoomi.edu.in/?utm_source=DigitalMarketing&utm_medium=SocialMedia&utm_campaign=quorav1&utm_brt_id=193468CCC9533D70&utm_admission_season=2024-25&additonal=none"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://vijaybhoomi.edu.in/phd-admissions-2025"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://vijaybhoomi.edu.in/phd-admissions-2025"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://vijaybhoomi.edu.in/vijaybhoomi-kedge-launch-global-mba-msc-bba-programmes-kedge-mumbai-campus-french-faculty-and-eu-mobility-pathways-planned"
+    }
+  ],
+  "total_courses": 42,
+  "pages_scraped": 13,
+  "errors": []
+}

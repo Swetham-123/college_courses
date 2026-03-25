@@ -1,0 +1,175 @@
+{
+  "aishe_code": "U-0616",
+  "university_name": "National Institute of Technology Uttarakhand",
+  "state": "Uttarakhand",
+  "district": "Pauri Garhwal",
+  "website": "www.nituk.ac.in",
+  "year_established": "2009",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:38:15.632025Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PH.D",
+      "course_name": "MON",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nituk.ac.in/academics-relatedforms"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nituk.ac.in/admissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nituk.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nituk.ac.in/academics-relatedforms"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nituk.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nituk.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nituk.ac.in/academics-relatedforms"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nituk.ac.in/admissions"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "und",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nituk.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Can",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nituk.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nituk.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Can",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nituk.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nituk.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Self",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nituk.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "for",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nituk.ac.in/academics-relatedforms"
+    },
+    {
+      "degree_name": "M.sc",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nituk.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nituk.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Can",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nituk.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "PDF",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nituk.ac.in/academics-relatedforms"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nituk.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "fir",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nituk.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Rel",
+      "level_of_education": "Diploma",
+      "source_url": "https://nituk.ac.in/admissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "For",
+      "level_of_education": "Certificate",
+      "source_url": "https://nituk.ac.in/admissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "PDF",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nituk.ac.in/academics-relatedforms"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://nituk.ac.in/uploads/topics/17675893902223.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "one",
+      "level_of_education": "Unknown",
+      "source_url": "https://nituk.ac.in/admissions"
+    }
+  ],
+  "total_courses": 26,
+  "pages_scraped": 17,
+  "errors": []
+}

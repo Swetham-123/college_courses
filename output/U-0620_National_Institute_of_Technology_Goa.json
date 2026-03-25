@@ -1,0 +1,181 @@
+{
+  "aishe_code": "U-0620",
+  "university_name": "National Institute of Technology Goa",
+  "state": "Goa",
+  "district": "South Goa",
+  "website": "https://www.nitgoa.ac.in/",
+  "year_established": "2010",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:32:38.250159Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(All",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitgoa.ac.in/academics/academic_calendar.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adv",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitgoa.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Dis",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitgoa.ac.in/academics/DissertionFormat.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Onl",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitgoa.ac.in/admissions/phd.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Rul",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitgoa.ac.in/academics/rules_and_regulations.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitgoa.ac.in/admissions/strengths.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "for",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitgoa.ac.in/admissions/phd.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitgoa.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "und",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitgoa.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Dis",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitgoa.ac.in/academics/DissertionFormat.html"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitgoa.ac.in/admissions/mtech.html"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitgoa.ac.in/admissions/mtech.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitgoa.ac.in/admissions/josaa.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Rep",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitgoa.ac.in/academics/DissertionFormat.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitgoa.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "from 2013",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitgoa.ac.in/academics/rules_and_regulations.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "from 2022",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitgoa.ac.in/academics/rules_and_regulations.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "from 2023",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitgoa.ac.in/academics/rules_and_regulations.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitgoa.ac.in/admissions/mtech.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Anti",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitgoa.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Sub",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitgoa.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ten",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitgoa.ac.in"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "ICAL",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitgoa.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitgoa.ac.in/uploads/AdmissionBrochure 2august2024.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitgoa.ac.in"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "she",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitgoa.ac.in"
+    },
+    {
+      "degree_name": "mA",
+      "course_name": "end",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitgoa.ac.in/uploads/shortlistTechnicalAssistant 26august2025.pdf"
+    }
+  ],
+  "total_courses": 27,
+  "pages_scraped": 25,
+  "errors": []
+}

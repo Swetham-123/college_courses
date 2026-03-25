@@ -1,0 +1,1609 @@
+{
+  "aishe_code": "U-0902",
+  "university_name": "Usha Martin University",
+  "state": "Jharkhand",
+  "district": "Ranchi",
+  "website": "https://www.umu.ac.in/",
+  "year_established": "2013",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:16:21.609985Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.umu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "for",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.umu.ac.in/post-graduate-programmes/faculty-of-education"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "spe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Min",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-in-mining-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "aft",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ind",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-in-mechanical-engineering"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "aft",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-in-mechanical-engineering"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "mec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-in-mechanical-engineering"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "thr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-in-mechanical-engineering"
+    },
+    {
+      "degree_name": "B.COM",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Acc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Eli",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/commerce-course-in-jharkhand"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Gen",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/commerce-course-in-jharkhand"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Hons",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/commerce-course-in-jharkhand"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Tax",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "and B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/commerce-course-in-jharkhand"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/commerce-course-in-jharkhand"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Lat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-pharma-lateral-entry-course"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "acy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-pharma-lateral-entry-course"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "acy (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-pharma-lateral-entry-course"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "and B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-pharma-lateral-entry-course"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-pharma-lateral-entry-course"
+    },
+    {
+      "degree_name": "B.SC",
+      "course_name": "MLT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(OTT)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-operation-theatre-technology-ott"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(PCM)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(PCM) a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-forensic-science"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "MLT (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-mlt-le-medical-laboratory-technology"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "MLT a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "MLT)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "MLT), a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "OTT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-operation-theatre-technology-ott"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ope",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-operation-theatre-technology-ott"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ott a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-operation-theatre-technology-ott"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "PCM",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "PCM (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Rad",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-radiography-imaging-technology"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "any",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-electrical-electronics-eee-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-mechanical-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-forensic-science"
+    },
+    {
+      "degree_name": "B.TECH",
+      "course_name": "(CSE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-in-computer-science-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-in-computer-science-cse-lateral-entry"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "EEE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-electrical-electronics-engineering-eee"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Eng",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Lat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Min",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "UMU, a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-in-computer-science-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "is a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "B.com",
+      "course_name": "What",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "B.sc",
+      "course_name": "(MLT)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-arts-ba-llb-law-course"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-arts-ba-llb-law-course"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AECC01",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-computer-application-bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AECC02",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-computer-application-bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AECC03",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-computer-application-bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AECC04",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-computer-application-bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AECC05",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-computer-application-bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Pri",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-computer-application-bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-computer-application-bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Rul",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-computer-application-bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-computer-application-bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-computer-application-bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-computer-application-bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "is a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-computer-application-bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "jou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-computer-application-bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-computer-application-bca"
+    },
+    {
+      "degree_name": "BCOM",
+      "course_name": "AMJ1-701",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "BCOM",
+      "course_name": "AMJ2-702",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "BCOM",
+      "course_name": "AMJ3-801",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "BCOM",
+      "course_name": "AMJ4-802",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "BCOM",
+      "course_name": "IAP-305",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "BCOM",
+      "course_name": "IRC1-104",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "BCOM",
+      "course_name": "IRC2-204",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "BCOM",
+      "course_name": "IRC3-304",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "BCOM",
+      "course_name": "IVS-105A",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "BCOM",
+      "course_name": "IVS-205B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-commerce-b-com"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "Acc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/commerce-course-in-jharkhand"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/commerce-course-in-jharkhand"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "Hons",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/commerce-course-in-jharkhand"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "Hons.)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/commerce-course-in-jharkhand"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/commerce-course-in-jharkhand"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/commerce-course-in-jharkhand"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "is a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/commerce-course-in-jharkhand"
+    },
+    {
+      "degree_name": "BPharm",
+      "course_name": "Lat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-pharma-lateral-entry-course"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "MLT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM101",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM102",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM103",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM104",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM105",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM106",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM107",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM108",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM109",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM110",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM111",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM201",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM202",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM203",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM204",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM205",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM206",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM207",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM208",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM209",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM210",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM211",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM301",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM302",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM303",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM304",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM305",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM306",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM307",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM308",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM309",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM311",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM401",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM402",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM403",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM404",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM405",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM406",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM407",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM408",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM409",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM410",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM411",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM501",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM502",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM503",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM504",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM505",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM506",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM507",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM508",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM509",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM510",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM511",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM512",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM601",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM602",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM603",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM604",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM605",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM606",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM607",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM608",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM609",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM610",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM611",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM612",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM701",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM702",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM703",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM704",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM705",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM706",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM707",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM708",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM709",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM801",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM802",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM803",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "PCM804",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "MLT (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "MLT)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Ope",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-operation-theatre-technology-ott"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "for",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-forensic-science"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-in-computer-science-cse-lateral-entry"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-in-civil-engineering"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-in-computer-science-cse-lateral-entry"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "EEE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-electrical-electronics-eee-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-electrical-electronics-engineering-eee"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-in-mechanical-engineering"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Min",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-in-mining-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "lat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-arts-ba-llb-law-course"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-arts-ba-llb-law-course"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-in-civil-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "MLT",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-mlt-le-medical-laboratory-technology"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-pharma-lateral-entry-course"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "exa",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "(MLT)",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-mlt-le-medical-laboratory-technology"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "aft",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-mlt-le-medical-laboratory-technology"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "and B",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-in-computer-science-cse-lateral-entry"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "any",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-in-mining-engineering"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "civ",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-civil-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "deg",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-in-mining-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-electrical-electronics-eee-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-in-computer-science-cse-lateral-entry"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "from a",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-pharma-lateral-entry-course"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "hol",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "lev",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-mechanical-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "may",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-pharma-lateral-entry-course"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "mec",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-mechanical-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "min",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "or B",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-mechanical-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "will",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-pharma-lateral-entry-course"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "For",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-in-mining-engineering"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Min",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-in-mining-engineering"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-arts-ba-llb-law-course"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B.)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-arts-ba-llb-law-course"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-engineering"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-arts-ba-llb-law-course"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B.)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-arts-ba-llb-law-course"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "Met",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-in-mining-engineering"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/post-graduate-programmes/faculty-of-education"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Lat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-mechanical-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-pharma-lateral-entry-course"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-pharma-lateral-entry-course"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-pharma-lateral-entry-course"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-civil-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-arts-ba-llb-law-course"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "col",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-forensic-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-electrical-electronics-eee-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dee",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "del",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-in-computer-science-cse-lateral-entry"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ear",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-computer-application-bca"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "emp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-in-mining-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-civil-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-arts-ba-llb-law-course"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fam",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "four",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "imp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "keen",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-in-mining-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-in-mining-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "met",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obt",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/btech-in-mining-engineering-lateral-entry"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-physics-chemistry-maths-pcm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rej",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "self",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-radiography-imaging-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bsc-in-medical-laboratory-technology-bsc-mlt"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tim",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-tech-lateral-entry-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/bachelor-of-arts-ba-llb-law-course"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-sc-forensic-science"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.umu.ac.in/undergraduate-programmes/b-pharma-lateral-entry-course"
+    }
+  ],
+  "total_courses": 265,
+  "pages_scraped": 25,
+  "errors": []
+}

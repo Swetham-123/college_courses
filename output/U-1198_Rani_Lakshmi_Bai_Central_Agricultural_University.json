@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1198",
+  "university_name": "Rani Lakshmi Bai Central Agricultural University",
+  "state": "Uttar Pradesh",
+  "district": "Jhansi",
+  "website": "www.https://rlbcau.ac.in",
+  "year_established": "2014",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:28.015413Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

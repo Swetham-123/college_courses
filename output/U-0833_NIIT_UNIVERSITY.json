@@ -1,0 +1,859 @@
+{
+  "aishe_code": "U-0833",
+  "university_name": "NIIT UNIVERSITY",
+  "state": "Rajasthan",
+  "district": "Alwar",
+  "website": "www.niituniversity.in",
+  "year_established": "2009",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:44:45.107172Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Enr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/academics/doctoral-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "(CSE)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/academics/phd-in-computer-science-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/academics/phd-in-mathematics-and-basic-sciences"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Comp",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/academics/phd-in-computer-science-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/academics/doctoral-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ele",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "GIS",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Geo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/academics/doctoral-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Hum",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Mat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "lev",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/academics/geographic-information-system"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "non",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/academics/doctoral-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "s in",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/academics/doctoral-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sea",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "spe",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/academics/doctoral-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "Integrated MBA",
+      "course_name": "Big",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/academics/postgraduate-programmes"
+    },
+    {
+      "degree_name": "Integrated MBA",
+      "course_name": "Pos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "Integrated MBA",
+      "course_name": "Post",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "Integrated MBA",
+      "course_name": "Uni",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "Integrated MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/admissions/undergraduate-integrated-programmes"
+    },
+    {
+      "degree_name": "Integrated MBA",
+      "course_name": "teg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "Integrated MBA",
+      "course_name": "with",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "Integrated MSc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/academics/postgraduate-programmes"
+    },
+    {
+      "degree_name": "Integrated MTech",
+      "course_name": "Post",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "Integrated MTech",
+      "course_name": "Stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/academics/undergraduate-and-integrated-programmes"
+    },
+    {
+      "degree_name": "Integrated MTech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/academics/undergraduate-and-integrated-programmes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ISDE 2021",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/admissions/industry-linked-programmes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Inf",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/admissions/industry-linked-programmes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "NIIT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/admissions/industry-linked-programmes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/academics/postgraduate-programmes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/academics/industry-linked-programmes"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/academics/industry-linked-programmes/overview"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Cyb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/academics/industry-linked-programmes"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Edu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Four",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/academics/postgraduate-programmes"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "GIS",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/academics/postgraduate-programmes"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "ILP",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/admissions/industry-linked-programmes"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/academics/postgraduate-programmes"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/academics/postgraduate-programmes"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/academics/postgraduate-programmes"
+    },
+    {
+      "degree_name": "integrated MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/academics/industry-linked-programmes/overview"
+    },
+    {
+      "degree_name": "integrated MTech",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niituniversity.in/academics/postgraduate-programmes"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Are",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/admissions/undergraduate-integrated-programmes"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Core",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/bba-programme"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/bba-programme"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/bba-programme"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/bba-programme"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "dif",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/bba-programme"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "dus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/bba-programme"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "fer",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/bba-programme"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/bba-programme"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "BTe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "CSE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/nu-experience/student-life-campus/resonance-orientation-programme"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/b-tech-courses-list"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Cyb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/undergraduate-and-integrated-programmes"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/undergraduate-and-integrated-programmes"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Eng",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/b-tech-courses-list"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "NIIT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/b-tech-courses-list"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Rob",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "The 4",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/undergraduate-and-integrated-programmes"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/nu-experience/student-life-campus/resonance-orientation-programme"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/b-tech-courses-list"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niituniversity.in/academics/undergraduate-and-integrated-programmes"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "(PGD)",
+      "level_of_education": "Diploma",
+      "source_url": "https://niituniversity.in/academics/industry-linked-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ban",
+      "level_of_education": "Diploma",
+      "source_url": "https://niituniversity.in/academics/industry-linked-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tec",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://niituniversity.in/academics/industry-linked-programmes/overview"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "with",
+      "level_of_education": "Diploma",
+      "source_url": "https://niituniversity.in/academics/postgraduate-diploma-banking-and-relationship-management-with-axis-bank"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://niituniversity.in/academics/undergraduate-and-integrated-programmes"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://niituniversity.in/academics/undergraduate-and-integrated-programmes"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "atw",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/bba-programme"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/doctoral-programmes"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical &",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/phd-in-biotechnology"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/phd-in-biotechnology"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/nu-experience/student-life-campus/resonance-orientation-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Big",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/b-tech-courses-list"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Rob",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/undergraduate-and-integrated-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/nu-experience/student-life-campus/resonance-orientation-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "abs",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/industry-linked-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "add",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/geographic-information-system"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/postgraduate-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/undergraduate-and-integrated-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/bba-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cor",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "emp",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for a",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mea",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/geographic-information-system"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "met",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/postgraduate-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pla",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/geographic-information-system"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "reg",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sel",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/bba-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sto",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/admissions/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sys",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/geographic-information-system"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/postgraduate-diploma-banking-and-relationship-management-with-axis-bank"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/doctoral-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "who",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niituniversity.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://niituniversity.in/academics/industry-linked-programmes"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "als",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niituniversity.in"
+    }
+  ],
+  "total_courses": 140,
+  "pages_scraped": 25,
+  "errors": []
+}

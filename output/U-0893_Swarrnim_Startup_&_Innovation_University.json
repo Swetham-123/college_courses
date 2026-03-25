@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0893",
+  "university_name": "Swarrnim Startup & Innovation University",
+  "state": "Gujarat",
+  "district": "Gandhinagar",
+  "website": "www.swarrnim.edu.in",
+  "year_established": "2009",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:52.959433Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

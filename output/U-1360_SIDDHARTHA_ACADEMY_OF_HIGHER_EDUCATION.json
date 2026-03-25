@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1360",
+  "university_name": "SIDDHARTHA ACADEMY OF HIGHER EDUCATION",
+  "state": "Andhra Pradesh",
+  "district": "Krishna",
+  "website": "www.siddhartha.edu.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:11.940809Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

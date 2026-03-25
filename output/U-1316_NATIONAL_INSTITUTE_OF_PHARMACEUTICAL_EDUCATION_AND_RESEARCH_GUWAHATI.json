@@ -1,0 +1,187 @@
+{
+  "aishe_code": "U-1316",
+  "university_name": "NATIONAL INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH GUWAHATI",
+  "state": "Assam",
+  "district": "Kamrup",
+  "website": "https://niperguwahati.ac.in/",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:27:57.838844Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niperguwahati.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niperguwahati.ac.in/admission.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niperguwahati.ac.in/admission.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niperguwahati.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Med",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niperguwahati.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niperguwahati.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niperguwahati.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niperguwahati.ac.in/admission.html"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niperguwahati.ac.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://niperguwahati.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical &",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in/foreign_admission.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "clu",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cub",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in/seminar.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in/foreign_admission.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dir",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in/admission.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ele",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gov",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in/admission.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in/admission.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in/admission.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in/seminar.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vit",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in/admission.html"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "too",
+      "level_of_education": "Unknown",
+      "source_url": "https://niperguwahati.ac.in"
+    }
+  ],
+  "total_courses": 28,
+  "pages_scraped": 5,
+  "errors": []
+}

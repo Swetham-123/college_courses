@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0407",
+  "university_name": "Maharana Pratap University of Agriculture & Technology, Udaipur",
+  "state": "Rajasthan",
+  "district": "Udaipur",
+  "website": "www.mpuat.ac.in",
+  "year_established": "1999",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:47:23.647409Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

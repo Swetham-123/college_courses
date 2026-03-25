@@ -1,0 +1,85 @@
+{
+  "aishe_code": "U-0315",
+  "university_name": "Mahatma Phule Krishi Vidyapeeth, Rahuri",
+  "state": "Maharashtra",
+  "district": "Ahilyanagar",
+  "website": "www.mpkv.ac.in",
+  "year_established": "1968",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:53:18.671706Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpkv.ac.in/Student/AdmissionProcedure"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Agr",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mpkv.ac.in/Education/EduCourseDiploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bac",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mpkv.ac.in/Education/EduCourseDoctoral"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Far",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mpkv.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mpkv.ac.in/Education/EduCirtificateCourse"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pri",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mpkv.ac.in/Education/EduAcademicRegulations"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mpkv.ac.in"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Apr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpkv.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpkv.ac.in/StaticPdf/EligibilityDoctor.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpkv.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpkv.ac.in/Education/EduCirtificateCourse"
+    }
+  ],
+  "total_courses": 11,
+  "pages_scraped": 12,
+  "errors": []
+}

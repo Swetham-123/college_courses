@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1170",
+  "university_name": "PLAKSHA UNIVERSITY",
+  "state": "Punjab",
+  "district": "S.A.S Nagar",
+  "website": "www.plaksha.edu.in",
+  "year_established": "2021",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:07.697254Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

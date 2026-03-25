@@ -1,0 +1,541 @@
+{
+  "aishe_code": "U-0544",
+  "university_name": "Teerthanker Mahaveer University, Moradabad",
+  "state": "Uttar Pradesh",
+  "district": "Moradabad",
+  "website": "www.tmu.ac.in",
+  "year_established": "2008",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:58:11.085564Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "LLM",
+      "course_name": "View",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Chi",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Men",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Agri",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/blog/top-mba-specialisations"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/blog/top-mba-specialisations"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Gra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/blog/top-mba-specialisations"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/blog/top-mba-specialisations"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "IB\nE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Int",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/blog/top-mba-specialisations"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Log",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mar",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ope",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/blog/top-mba-specialisations"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Spe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "cur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/blog/top-mba-specialisations"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/blog/top-mba-specialisations"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "from",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/blog/top-mba-specialisations"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/blog/top-mba-specialisations"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Obs",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Mac",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ban",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Edu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Mar",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.tmu.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "is a 3",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "also",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "hool",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.tmu.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "INTEGRATED\nDIPLOMA",
+      "course_name": "Sel",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.tmu.ac.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "take",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.tmu.ac.in"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "TEG",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tmu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Acc",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ban",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bus",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dig",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eve",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hot",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Jou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Off",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ope",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tmu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ret",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tax",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "anta",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in/blog/top-mba-specialisations"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in/programme"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in/blog/cuet-ug"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tmu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "alo",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tmu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in/blog/cuet-ug"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in/blog/cuet-ug"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dian",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in/blog/cuet-ug"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in/blog/cuet-ug"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "emp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in/blog/top-mba-specialisations"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fic",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in/blog/cuet-ug"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tmu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in/blog/cuet-ug"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sui",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in/blog/best-commerce-courses-after-12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tmu.ac.in/blog/cuet-ug"
+    }
+  ],
+  "total_courses": 87,
+  "pages_scraped": 6,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0200",
+  "university_name": "Sher-e-Kashmir University of Agricultural Science & Technology of Kashmir, Srinagar",
+  "state": "Jammu and Kashmir",
+  "district": "Srinagar",
+  "website": "www.skuastkashmir.ac.in",
+  "year_established": "1982",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:47.457424Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

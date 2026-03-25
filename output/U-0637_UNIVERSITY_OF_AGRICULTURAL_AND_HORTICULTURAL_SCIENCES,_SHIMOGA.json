@@ -1,0 +1,265 @@
+{
+  "aishe_code": "U-0637",
+  "university_name": "UNIVERSITY OF AGRICULTURAL AND HORTICULTURAL SCIENCES, SHIMOGA",
+  "state": "Karnataka",
+  "district": "Shivamogga",
+  "website": "www.uahs.edu.in",
+  "year_established": "2011",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:09:22.228600Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PHD",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "PHD",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uahs.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Agr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Flo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "For",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fru",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Gen",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "MES",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uahs.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pla",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sil",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Soil",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Syl",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Veg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Agr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Flo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "For",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Phd",
+      "course_name": "Syl",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Hor",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Syl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "VOL 1",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Vol 2",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "COU",
+      "level_of_education": "Diploma",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Col",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uahs.edu.in"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "hol",
+      "level_of_education": "Diploma",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "exc",
+      "level_of_education": "Certificate",
+      "source_url": "https://uahs.edu.in/wp-content/uploads/2025/02/3k.jpg"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "iss",
+      "level_of_education": "Certificate",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uahs.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ful",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uahs.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "over",
+      "level_of_education": "Unknown",
+      "source_url": "https://uahs.edu.in/programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://uahs.edu.in/programmes"
+    }
+  ],
+  "total_courses": 41,
+  "pages_scraped": 9,
+  "errors": []
+}

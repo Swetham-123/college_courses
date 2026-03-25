@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1433",
+  "university_name": "University of Agricultural Sciences Mandya",
+  "state": "Karnataka",
+  "district": "Mandya",
+  "website": null,
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:10:05.261123Z",
+  "status": "no_url",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "No website URL available"
+  ]
+}

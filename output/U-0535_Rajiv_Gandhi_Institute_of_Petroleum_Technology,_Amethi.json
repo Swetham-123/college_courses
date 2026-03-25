@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0535",
+  "university_name": "Rajiv Gandhi Institute of Petroleum Technology, Amethi",
+  "state": "Uttar Pradesh",
+  "district": "Amethi",
+  "website": "www.rgipt.ac.in",
+  "year_established": "2007",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:21.999752Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

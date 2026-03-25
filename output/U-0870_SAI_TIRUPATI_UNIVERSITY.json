@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0870",
+  "university_name": "SAI TIRUPATI UNIVERSITY",
+  "state": "Rajasthan",
+  "district": "Udaipur",
+  "website": "www.saitirupatiuniversity.ac.in",
+  "year_established": "2016",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:33.466727Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

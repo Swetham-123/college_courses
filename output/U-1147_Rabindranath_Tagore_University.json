@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1147",
+  "university_name": "Rabindranath Tagore University",
+  "state": "Assam",
+  "district": "Nagaon",
+  "website": "rtuassam.ac.in",
+  "year_established": "1964",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:17.677384Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

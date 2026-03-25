@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0927",
+  "university_name": "Sharnbasva University",
+  "state": "Karnataka",
+  "district": "Kalaburagi",
+  "website": "www.suk.edu.in",
+  "year_established": "2017",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:46.902584Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

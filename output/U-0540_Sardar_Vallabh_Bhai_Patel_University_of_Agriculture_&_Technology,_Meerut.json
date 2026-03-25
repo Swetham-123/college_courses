@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0540",
+  "university_name": "Sardar Vallabh Bhai Patel University of Agriculture & Technology, Meerut",
+  "state": "Uttar Pradesh",
+  "district": "Meerut",
+  "website": "svpuat.edu.in",
+  "year_established": "2000",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:41.742906Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

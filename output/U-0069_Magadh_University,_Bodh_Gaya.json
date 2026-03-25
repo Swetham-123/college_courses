@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0069",
+  "university_name": "Magadh University, Bodh Gaya",
+  "state": "Bihar",
+  "district": "Gaya",
+  "website": "www.magadhuniversity.ac.in",
+  "year_established": "1962",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:43:35.327655Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

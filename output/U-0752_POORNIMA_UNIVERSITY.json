@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0752",
+  "university_name": "POORNIMA UNIVERSITY",
+  "state": "Rajasthan",
+  "district": "Jaipur",
+  "website": "www.poornima.edu.in",
+  "year_established": "2012",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:09.477320Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,919 @@
+{
+  "aishe_code": "U-0379",
+  "university_name": "Lovely Professional University",
+  "state": "Punjab",
+  "district": "Kapurthala",
+  "website": "www.lpu.in",
+  "year_established": "2005",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:37:08.403101Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "D.Litt",
+      "course_name": "Bas",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "D.Litt",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "D.Litt",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "D.Litt",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "D.Sc",
+      "course_name": "Bas",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "D.Sc",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "D.Sc",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Agr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cli",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fre",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fru",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Gen",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pla",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Soil",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Veg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "asp",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "dis",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "exp",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sup",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ten",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "will",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "wou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "phd",
+      "course_name": "As a",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "phd",
+      "course_name": "fee",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "phd",
+      "course_name": "how",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lpu.in/academics/calendar-regular-programmes.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lpu.in/academics/calendar-regular-programmes.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "asp",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "or M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Fas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ivo",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tan",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "Eth",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "All",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Bac",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ban",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Bus",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/admission/executive-development-programmes.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cam",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/programmes/all/diploma-or-certificate"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cyb",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/admission/executive-development-programmes.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Data",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/admission/executive-development-programmes.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dip",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Edu",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Exa",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Gen",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/admission/executive-development-programmes.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Gra",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Lea",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/admission/executive-development-programmes.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Nam",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Nep",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Sec",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Sie",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Uga",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Zam",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Zim",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s or",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Exam",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Exam (",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "with a",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lpu.in/admission/short-term-courses.php"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "she",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "ICI",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "IUM",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Any",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "OFF",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/admission/short-term-courses.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ask",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cir",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/academics/calendar-regular-programmes.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "col",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/admission/short-term-courses.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "del",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "den",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "det",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "evi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/academics/calendar-regular-programmes.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "hyb",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "open",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "opt",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ori",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "out",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/admission/short-term-courses.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sch",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/academics/calendar-regular-programmes.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ser",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/international/programmes/programSearch.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sho",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "two",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "uti",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vit",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/admission/after-doctoral-programmes.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wai",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "tac",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ali",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/programmes/all/12th"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lpu.in/nest/phd"
+    }
+  ],
+  "total_courses": 150,
+  "pages_scraped": 25,
+  "errors": []
+}

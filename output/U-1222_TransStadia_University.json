@@ -1,0 +1,121 @@
+{
+  "aishe_code": "U-1222",
+  "university_name": "TransStadia University",
+  "state": "Gujarat",
+  "district": "Ahmedabad",
+  "website": "www.tsuniv.edu.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:07:21.036236Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Spo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsuniv.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tsuniv.edu.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "with F&A",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsuniv.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsuniv.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Spo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsuniv.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "The",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsuniv.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Tra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tsuniv.edu.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://tsuniv.edu.in/admissions-process-and-policy"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Cap",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsuniv.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Fam",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsuniv.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://tsuniv.edu.in/wp-content/uploads/2025/10/Academic-Council.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://tsuniv.edu.in/admissions-process-and-policy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://tsuniv.edu.in/admissions-process-and-policy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://tsuniv.edu.in/admissions-process-and-policy"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bri",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsuniv.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsuniv.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tsuniv.edu.in"
+    }
+  ],
+  "total_courses": 17,
+  "pages_scraped": 4,
+  "errors": []
+}

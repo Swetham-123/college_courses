@@ -1,0 +1,49 @@
+{
+  "aishe_code": "U-1165",
+  "university_name": "MURSHIDABAD UNIVERSITY",
+  "state": "West Bengal",
+  "district": "Murshidabad",
+  "website": "https://www.msduniv.ac.in",
+  "year_established": "2018",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:23:39.875217Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dis",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.msduniv.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msduniv.ac.in/Notice/132947NOTICE- Online admission for the PG Programmes of Academic Session 2025-2027 (9th Merit List).pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msduniv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msduniv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msduniv.ac.in"
+    }
+  ],
+  "total_courses": 5,
+  "pages_scraped": 25,
+  "errors": []
+}

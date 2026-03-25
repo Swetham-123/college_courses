@@ -1,0 +1,31 @@
+{
+  "aishe_code": "U-1030",
+  "university_name": "VISHWAKARMA SKILLS UNIVERSITY, JAIPUR",
+  "state": "Rajasthan",
+  "district": "Jaipur",
+  "website": "www.vsuraj.ac.in",
+  "year_established": "2017",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:24:42.244130Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vsuraj.ac.in/DownloadFiles/ybvt9374YBRISURegulations4Admission.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "our",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vsuraj.ac.in"
+    }
+  ],
+  "total_courses": 2,
+  "pages_scraped": 17,
+  "errors": []
+}

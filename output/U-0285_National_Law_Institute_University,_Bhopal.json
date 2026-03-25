@@ -1,0 +1,385 @@
+{
+  "aishe_code": "U-0285",
+  "university_name": "National Law Institute University, Bhopal",
+  "state": "Madhya Pradesh",
+  "district": "Bhopal",
+  "website": "www.nliu.ac.in",
+  "year_established": "1997",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:38:51.868631Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nliu.ac.in/ph-d-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nliu.ac.in/photo-gallery-3"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nliu.ac.in/ph-d-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cyb",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nliu.ac.in/ph-d-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nliu.ac.in/ph-d"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Var",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nliu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Mrs",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nliu.ac.in/category/examination-department"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nliu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LL.B(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nliu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LL.B. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LL.B.(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nliu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nliu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Civ",
+      "level_of_education": "Diploma",
+      "source_url": "https://nliu.ac.in/category/civil-department"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Sta",
+      "level_of_education": "Certificate",
+      "source_url": "https://nliu.ac.in/b-sc-ll-b-hons-cyber-security-admission"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://nliu.ac.in/b-a-ll-b-admissions"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s of",
+      "level_of_education": "Certificate",
+      "source_url": "https://nliu.ac.in/mclis-admissions"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "the",
+      "level_of_education": "Certificate",
+      "source_url": "https://nliu.ac.in/b-a-ll-b-admissions"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/b-a-ll-b-admissions"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B (",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/b-a-ll-b-admissions"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/b-a-ll-b-hons"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B.(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Civ",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/category/civil-department"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B (",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/admissions"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/wp-content/uploads/2026/03/MCLIS-Admission_2026-18-March-2026.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/photo-gallery-3"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Four",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/mclis-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "add",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/b-sc-ll-b-hons-cyber-security-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adj",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/mclis-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/l-l-m-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/mclis-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/mclis-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bro",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/mclis-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/mclis-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cor",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/mclis-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ear",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/mclis-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/b-a-ll-b-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obj",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/mclis-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pos",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/mclis-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/ph-d-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "two",
+      "level_of_education": "Unknown",
+      "source_url": "https://nliu.ac.in/mclis-admissions"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "exc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gain",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "hap",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "ide",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "to a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "who I",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nliu.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nliu.ac.in"
+    }
+  ],
+  "total_courses": 61,
+  "pages_scraped": 25,
+  "errors": []
+}

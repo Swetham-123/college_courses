@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0168",
+  "university_name": "Maharishi Markandeshwar University, Mullana-Ambala",
+  "state": "Haryana",
+  "district": "Ambala",
+  "website": "www.mmumullana.org",
+  "year_established": "2007",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:49:43.085725Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0679",
+  "university_name": "SARDAR PATEL UNIVERSITY OF POLICE, SECURITY AND CRIMINAL JUSTICE",
+  "state": "Rajasthan",
+  "district": "Jodhpur",
+  "website": "www.policeuniversity.ac.in",
+  "year_established": "2012",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:40.792947Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

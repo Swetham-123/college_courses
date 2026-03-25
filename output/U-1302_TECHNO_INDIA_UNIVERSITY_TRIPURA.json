@@ -1,0 +1,277 @@
+{
+  "aishe_code": "U-1302",
+  "university_name": "TECHNO INDIA UNIVERSITY TRIPURA",
+  "state": "Tripura",
+  "district": "West Tripura",
+  "website": "www.tiut.ac.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:56.308927Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://tiut.ac.in/admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://tiut.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fee",
+      "level_of_education": "Doctoral",
+      "source_url": "https://tiut.ac.in/phd_fee_structure"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://tiut.ac.in/admission"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tiut.ac.in/school?id=13"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tiut.ac.in/school?id=3"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tiut.ac.in/school?id=3"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tiut.ac.in/school?id=13"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tiut.ac.in/school?id=3"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Sta",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tiut.ac.in/school?id=3"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=5"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=13"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=3"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Eco",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=4"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Fis",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=12"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hons",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=3"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=3"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=13"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=3"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Sta",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=3"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(IoT)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=1"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=1"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=1"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=6"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Dig",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=4"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hea",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=4"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in/school?id=6"
+    },
+    {
+      "degree_name": "dual degree",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiut.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://tiut.ac.in/scholarship"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiut.ac.in/school?id=2"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiut.ac.in/school?id=2"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiut.ac.in/school?id=2"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiut.ac.in/school?id=2"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiut.ac.in/school?id=2"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiut.ac.in/notice/notice_107.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiut.ac.in/school?id=13"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiut.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiut.ac.in/scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enc",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiut.ac.in/scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiut.ac.in/scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mon",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiut.ac.in/scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiut.ac.in/scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiut.ac.in/phd_fee_structure"
+    }
+  ],
+  "total_courses": 43,
+  "pages_scraped": 20,
+  "errors": []
+}

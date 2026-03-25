@@ -1,0 +1,151 @@
+{
+  "aishe_code": "U-0316",
+  "university_name": "Vasantrao Naik Marathwada Krishi Vidyapeeth, Parbhani",
+  "state": "Maharashtra",
+  "district": "Parbhani",
+  "website": "www.vnmkv.ac.in",
+  "year_established": "1972",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:20:28.877647Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Aca",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vnmkv.ac.in/Home/StudentsAcademic"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vnmkv.ac.in/Admissions/PhdAdmissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Agr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vnmkv.ac.in/Home/StudentsAcademic"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "CET 2024",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vnmkv.ac.in/Admissions/PhdAdmissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "CET-2023",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vnmkv.ac.in/Admissions/PhdAdmissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "CET-2025",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vnmkv.ac.in/Admissions/PhdAdmissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ext",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vnmkv.ac.in/Home/StudentsAcademic"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Hor",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vnmkv.ac.in/Home/StudentsAcademic"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vnmkv.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "CET-23",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vnmkv.ac.in/Admissions/PhdAdmissions"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "FSN",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vnmkv.ac.in/Home/StudentsAcademic"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vnmkv.ac.in/Admissions/PGAdmissions"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vnmkv.ac.in/Home/StudentsAcademic"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Adm",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vnmkv.ac.in/Admissions/PhdAdmissions"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vnmkv.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "mer",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vnmkv.ac.in/Admissions/AgriDiplomaAdmissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.vnmkv.ac.in/Admissions/PhdAdmissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Syl",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.vnmkv.ac.in/Home/StudentsAcademic"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Apr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vnmkv.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "http://university.vnmkv.ac.in/NewsUpdatepdf/_pgcet_2026.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vnmkv.ac.in/Admissions/PhdAdmissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ver",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vnmkv.ac.in/Admissions/PhdAdmissions"
+    }
+  ],
+  "total_courses": 22,
+  "pages_scraped": 12,
+  "errors": []
+}

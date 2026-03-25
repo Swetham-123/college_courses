@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0614",
+  "university_name": "National Institute of Technology Sikkim",
+  "state": "Sikkim",
+  "district": "Namchi",
+  "website": "http://www.nitsikkim.ac.in",
+  "year_established": "2010",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:36:47.908454Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

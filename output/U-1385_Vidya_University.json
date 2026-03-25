@@ -1,0 +1,757 @@
+{
+  "aishe_code": "U-1385",
+  "university_name": "Vidya University",
+  "state": "Uttar Pradesh",
+  "district": "Meerut",
+  "website": "https://vidya.edu.in/",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:23:09.646940Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "A Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-law"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-computer-science"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Dip",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://admissions.vidya.edu.in/AdmissionOpen?src=Website"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Jou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/pharmacy"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sci",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Var",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/doctoral-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "equ",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-law"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "gra",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-computer-science"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://admissions.vidya.edu.in/AdmissionOpen?src=Website"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-computer-science"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-computer-science"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "will",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-computer-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-commerce"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-management"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "asp",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-management"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "gra",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "is a",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "jou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-management"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "on a",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pos",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-commerce"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "usu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "you",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidya.edu.in/Faculty/phd-science"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "LLM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Dur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/postgradaute-programmes"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/Faculty/legal-studies-research"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Dur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/postgradaute-programmes"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Fac",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vidya.edu.in/AdmissionOpen?src=Website"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/postgradaute-programmes"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Int",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "(HRM)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "PLUS (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Clo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Cyb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Int",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "mba",
+      "course_name": "mee",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vidya.edu.in/admissions-contact-us"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Ind",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://vidya.edu.in/diploma-and-certification-programmes"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Ban",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Dip",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.vidya.edu.in/AdmissionOpen?src=Website"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Dur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Dip",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Dur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE (2018-2022)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cyb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "(Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Clo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Cyb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Dur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/Faculty/legal-studies-research"
+    },
+    {
+      "degree_name": "bba",
+      "course_name": "col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/admissions-contact-us"
+    },
+    {
+      "degree_name": "bca",
+      "course_name": "mee",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/admissions-contact-us"
+    },
+    {
+      "degree_name": "btech",
+      "course_name": "col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidya.edu.in/admissions-contact-us"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ind",
+      "level_of_education": "Diploma",
+      "source_url": "https://vidya.edu.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://vidya.edu.in/diploma-and-certification-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://vidya.edu.in/Faculty/education-and-sports"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://vidya.edu.in/Faculty/diploma-industrial-fermentation-and-alcohol-technology"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "rec",
+      "level_of_education": "Diploma",
+      "source_url": "https://vidya.edu.in/Faculty/diploma-industrial-fermentation-and-alcohol-technology"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "with",
+      "level_of_education": "Certificate",
+      "source_url": "https://vidya.edu.in/Faculty/phd-science"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ia, I",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in/Faculty/diploma-industrial-fermentation-and-alcohol-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in/Faculty/phd-law"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in/Faculty/phd-computer-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eff",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in/Faculty/phd-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in/Faculty/phd-computer-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in/Faculty/education-and-sports"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in/Faculty/phd-computer-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "med",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in/Faculty/diploma-industrial-fermentation-and-alcohol-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nom",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in/Faculty/phd-computer-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "val",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in/Faculty/phd-law"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bui",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "to a",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with a",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in/Faculty/pharmacy"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidya.edu.in/Faculty/basic-science-and-allied-health-sciences"
+    }
+  ],
+  "total_courses": 123,
+  "pages_scraped": 25,
+  "errors": []
+}

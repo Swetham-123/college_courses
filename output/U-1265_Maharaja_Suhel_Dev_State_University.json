@@ -1,0 +1,49 @@
+{
+  "aishe_code": "U-1265",
+  "university_name": "Maharaja Suhel Dev State University",
+  "state": "Uttar Pradesh",
+  "district": "Azamgarh",
+  "website": "www.msdsu.ac.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:45:34.983949Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "MBA",
+      "course_name": "HTM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msdsu.ac.in"
+    },
+    {
+      "degree_name": "PG DIPLOMA",
+      "course_name": "TIME",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.msdsu.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msdsu.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "App",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.msdsu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msdsu.ac.in"
+    }
+  ],
+  "total_courses": 5,
+  "pages_scraped": 1,
+  "errors": []
+}

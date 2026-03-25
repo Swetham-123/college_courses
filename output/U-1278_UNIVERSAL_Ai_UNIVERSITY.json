@@ -1,0 +1,649 @@
+{
+  "aishe_code": "U-1278",
+  "university_name": "UNIVERSAL Ai UNIVERSITY",
+  "state": "Maharashtra",
+  "district": "Raigad",
+  "website": "https://www.universalai.in/",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:08:29.863661Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Exam",
+      "level_of_education": "Doctoral",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Bro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Col",
+      "level_of_education": "Doctoral",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Any",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/integrated-program-in-management-bba-mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Dual",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fir",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Glo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/mba-international-managementgmp"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Sin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/integrated-program-in-management-bba-mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Uni",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/integrated-program-in-management-bba-mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "fees",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/mba-international-managementgmp"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "lea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "with",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/integrated-program-in-management-bba-mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "with 6",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/mba-international-managementgmp"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Lux",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/mba-international-managementgmp"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Wine",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.universalai.in/mba-international-managementgmp"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://universalai.in/ba-hons-psychology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/academic-calendar"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Sou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "BSc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://universalai.in/ba-hons-psychology"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/case_study/law-school"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB &",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/case_study/law-school"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/case_study/law-school"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/integrated-program-in-management-bba-mba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/case_study/law-school"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Lea",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/integrated-program-in-management-bba-mba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/integrated-program-in-management-bba-mba"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Env",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/case_study/enviorment-sustainability-school"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Psy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/academic-calendar"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Spo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/case_study/universal-business-school"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Sou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "Integrated B.Tech",
+      "course_name": "Sou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hol",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Sou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "are",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.universalai.in/integrated-program-in-management-bba-mba"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Hol",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.universalai.in/mou"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Sou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "ori",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.universalai.in/mba-international-managementgmp"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s In",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Spo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/universal-business-school"
+    },
+    {
+      "degree_name": "Me",
+      "course_name": "For",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/mba-international-managementgmp"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/universal-business-school"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cla",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "clu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/integrated-program-in-management-bba-mba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "del",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ema",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/integrated-program-in-management-bba-mba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fli",
+      "level_of_education": "Unknown",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "non",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/mba-international-managementgmp"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nor",
+      "level_of_education": "Unknown",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/mba-international-managementgmp"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "per",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/law-school"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/school-of-music-sound-cinematics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/mba-international-managementgmp"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/mba-international-managementgmp"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tre",
+      "level_of_education": "Unknown",
+      "source_url": "https://universalai.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/enviorment-sustainability-school"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/mba-international-managementgmp"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/case_study/universal-business-school"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalai.in/mba-dual-specialisation-with-ai"
+    }
+  ],
+  "total_courses": 105,
+  "pages_scraped": 17,
+  "errors": []
+}

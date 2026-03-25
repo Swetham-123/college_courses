@@ -1,0 +1,781 @@
+{
+  "aishe_code": "U-1386",
+  "university_name": "Mata Tripura Sundari Open University",
+  "state": "Tripura",
+  "district": "Gomati",
+  "website": "https://www.mtsou.edu.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:04:52.639287Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PhD",
+      "course_name": "UGC",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/ma-sociology-admission"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mcom-admission"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Full",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mcom-admission"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Open",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mcom-admission"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mcom-admission"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mcom-admission"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "thr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mba-admission"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mba-admission"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "fle",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mba-admission"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mca-admission"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Dis",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mca-admission"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Full",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mca-admission"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "ODL",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mca-admission"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mca-admission"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "fle",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mca-admission"
+    },
+    {
+      "degree_name": "MCOM",
+      "course_name": "dul",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mcom-admission"
+    },
+    {
+      "degree_name": "MCom",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mcom-admission"
+    },
+    {
+      "degree_name": "MCom",
+      "course_name": "Dis",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "MCom",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "MCom",
+      "course_name": "fle",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mcom-admission"
+    },
+    {
+      "degree_name": "PGDM",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma/business-management-admission"
+    },
+    {
+      "degree_name": "PGDM",
+      "course_name": "M is",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma/marketing-management-admission"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Best",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma/english-literature-and-linguistic-studies-admission"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Mar",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Ope",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Post",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma/computer-applications-admission"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "can",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bcom-admission"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bcom-admission"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bcom-admission"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Dis",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bcom-admission"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "ODL",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bcom-admission"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "sed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bcom-admission"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "und",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bcom-admission"
+    },
+    {
+      "degree_name": "B.com",
+      "course_name": "from",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bcom-admission"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bba-admission"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bba-admission"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Dis",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bba-admission"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "ODL",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bba-admission"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "as a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bba-admission"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "from",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bba-admission"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "und",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bba-admission"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bca-admission"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bca-admission"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Dis",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bca-admission"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "ODL",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bca-admission"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bca-admission"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "und",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bca-admission"
+    },
+    {
+      "degree_name": "BCOM",
+      "course_name": "adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bcom-admission"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "Dis",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bcom-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Acc",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Adm",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Aft",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/ba-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Art",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/diploma/ai-and-ml-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Big",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bus",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma/business-management-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cer",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cyb",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dip",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/diploma/ai-and-ml-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma/english-literature-and-linguistic-studies-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fin",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma/finance-management-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hum",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma/human-resource-management-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mar",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ope",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma/operation-management-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "The",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/diploma/ai-and-ml-admission"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "UGC",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma/business-management-admission"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "man",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Acc",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Aft",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/ba-admission"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Com",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bcom-admission"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Inf",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/ba-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/ba-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/ba-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "ODL",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/ba-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Open",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mba-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "deg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/ba-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/ba-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/ba-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/ba-admission"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/ba-admission"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/ba-admission"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/ba-admission"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/ma-english-admission"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/ma-political-science-admission"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/ma-sociology-admission"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "and M",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "or M",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "deg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/ma-sociology-admission"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/ma-sociology-admission"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mca-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bca-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bcom-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma/finance-management-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mca-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bba-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/bca-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mca-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "opt",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mba-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mca-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rem",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg-diploma"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sum",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg/mca-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/ug/ba-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mtsou.edu.in/programmes/pg"
+    }
+  ],
+  "total_courses": 127,
+  "pages_scraped": 25,
+  "errors": []
+}

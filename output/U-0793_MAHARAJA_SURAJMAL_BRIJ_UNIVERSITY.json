@@ -1,0 +1,673 @@
+{
+  "aishe_code": "U-0793",
+  "university_name": "MAHARAJA SURAJMAL BRIJ UNIVERSITY",
+  "state": "Rajasthan",
+  "district": "Bharatpur",
+  "website": "www.msbrijuniversity.ac.in",
+  "year_established": "2012",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:45:47.893997Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Viva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.msbrijuniversity.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://msbrijuniversity.ac.in/main-faculity/faculty-of-home-science"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Sem 2",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/faculty-arts-social-science"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "ABST",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "ABST (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-session-2019-20"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "ABST (P & F)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/faculty-of-commerce"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "EAFM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "EAFM (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-session-2019-20"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "EAFM (P & F)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/faculty-of-commerce"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Dow",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "S.No",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-session-2018-19"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Sem",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/faculty-of-education"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Two",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-session-2019-20"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "(All",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-session-2019-20"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Home",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-session-2019-20"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-session-2019-20"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Ed (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "ABST",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Bus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "EAFM",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Gen",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Part",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/faculty-of-commerce"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Part I (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/faculty-of-commerce"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Part-I",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Part-I (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Pass",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/faculty-of-commerce"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Spe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Syl",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/faculty-of-education"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Two",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.A./B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "B.sc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "BSC. B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2023-24"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Sem",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Part I",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-the-session-2021-22"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Sem",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Sem. I &",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Sem. V &",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "Integrated\nBA",
+      "course_name": "BEd",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/faculty-arts-social-science"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Stu",
+      "level_of_education": "Certificate",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2023-24"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Home",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hons",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/faculty-arts-social-science"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-session-2019-20"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (I",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Part -I (",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/faculty-arts-social-science"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Sem. I &",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Dra",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Geo",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Opt",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/faculty-arts-social-science"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Part I",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-the-session-2021-22"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Part-I",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-the-session-2021-22"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "his",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Dra",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2024-25"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Geo",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-session-2019-20"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Home",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Phi",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-session-2019-20"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-session-2019-20"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-session-2019-20"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "San",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/ug-pg-syllabus-2025-26"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-the-session-2021-22"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Urdu (",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-annual-semester-scheme-for-session-2019-20"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Dra",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Home",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Phi",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "San",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Sco",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/faculty-syllabus/ug-pg-syllabus-2022-23"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msbrijuniversity.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical &",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msbrijuniversity.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/main-faculity/faculty-of-medical-public-health-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://msbrijuniversity.ac.in/main-faculity/faculty-of-social-sciences"
+    }
+  ],
+  "total_courses": 109,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,109 @@
+{
+  "aishe_code": "U-1192",
+  "university_name": "NATIONAL INSTITUTE OF DESIGN ANDHRA PRADESH",
+  "state": "Andhra Pradesh",
+  "district": "Guntur",
+  "website": "www.nid.ac.in",
+  "year_established": "2015",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:26:04.771805Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "B.Des",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nid.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ori",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nid.ac.in/academic-downloads"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ien",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.ac.in/academic-downloads"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cap",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.ac.in/academics/b-des-program/textile-and-apparel-design"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cov",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.ac.in/admissions/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.ac.in/academics/b-des-program/industrial-design"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pho",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.ac.in/admissions/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.ac.in/admissions/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.ac.in/admissions/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.ac.in/admissions/faq"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.ac.in/admissions/procedure"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.ac.in/academics/b-des-program/communication-design"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.ac.in/admissions/faq"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iums",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.ac.in/academics/b-des-program/communication-design"
+    }
+  ],
+  "total_courses": 15,
+  "pages_scraped": 15,
+  "errors": []
+}

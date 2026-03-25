@@ -1,0 +1,295 @@
+{
+  "aishe_code": "U-0493",
+  "university_name": "National Institute of Technology, Agartala",
+  "state": "Tripura",
+  "district": "West Tripura",
+  "website": "www.nita.ac.in",
+  "year_established": "1965",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:29:09.402707Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=kc&ItemID=cgk"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ele",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nita.ac.in/Department/Deptindex.aspx?page=a&ItemID=om&nDeptID=caasg"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nita.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nita.ac.in/Department/Deptindex.aspx?page=a&ItemID=oi&nDeptID=caasc"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nita.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sho",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=kc&ItemID=cgk"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nita.ac.in/Department/Deptindex.aspx?page=a&ItemID=og&nDeptID=caaqs"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=kc&ItemID=cgk"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nita.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nita.ac.in/Department/Deptindex.aspx?page=a&ItemID=ok&nDeptID=caase"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "for",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=kc&ItemID=cgk"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nita.ac.in/Department/Deptindex.aspx?page=a&ItemID=om&nDeptID=caasg"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "und",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=oc&ItemID=cgk"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nita.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=kq&ItemID=cgk"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nita.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=ko&ItemID=cgk"
+    },
+    {
+      "degree_name": "M.tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nita.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nita.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nita.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nita.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=me&ItemID=cgk"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nita.ac.in/Department/Deptindex.aspx?page=a&ItemID=og&nDeptID=caaqs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nita.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed 1",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=ke&ItemID=ek"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed 3",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=ke&ItemID=ek"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=ke&ItemID=ek"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=ke&ItemID=ek"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=ke&ItemID=ek"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=og&ItemID=cgk"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nita.ac.in/Department/Deptindex.aspx?page=a&ItemID=oi&nDeptID=caasc"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "B.Ed (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=ke&ItemID=ek"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "BEd",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=ke&ItemID=ek"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "BEd.)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=ke&ItemID=ek"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nita.ac.in/Department/Deptindex.aspx?page=a&ItemID=og&nDeptID=caaqs"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "Lev",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nita.ac.in"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=og&ItemID=cgk"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=og&ItemID=cgk"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Dep",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=ca&ItemID=cs"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nita.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nita.ac.in/Department/Deptindex.aspx?page=a&ItemID=oe&nDeptID=caaqq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acq",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nita.ac.in/Department/Deptindex.aspx?page=a&ItemID=oe&nDeptID=caaqq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "del",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nita.ac.in/Department/Deptindex.aspx?page=a&ItemID=kq&nDeptID=caaqm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nita.ac.in/UserPanel/DisplayPage.aspx?page=kc&ItemID=cgk"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nita.ac.in/Department/Deptindex.aspx?page=a&ItemID=og&nDeptID=caaqs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nita.ac.in/Department/Deptindex.aspx?page=a&ItemID=ok&nDeptID=caase"
+    }
+  ],
+  "total_courses": 46,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0174",
+  "university_name": "Pt. Bhagwat Dayal Sharma University of Health Sciences",
+  "state": "Haryana",
+  "district": "Rohtak",
+  "website": "www.uhsr.ac.in",
+  "year_established": "2008",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:13.702315Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

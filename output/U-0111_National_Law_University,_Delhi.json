@@ -1,0 +1,373 @@
+{
+  "aishe_code": "U-0111",
+  "university_name": "National Law University, Delhi",
+  "state": "Delhi",
+  "district": "South West",
+  "website": "www.nludelhi.ac.in",
+  "year_established": "2008",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:39:09.933321Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "LLM",
+      "course_name": "Cal",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nludelhi.ac.in/academics/academic-calendar-of-ll-m-programme-for-academic-session-2024-2025"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Dis",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "PGTF0287",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "RCC",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nludelhi.ac.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "LLM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nludelhi.ac.in/pgip-ma-llm-insolvency"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "LLM (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nludelhi.ac.in/pgip-ma-llm-insolvency"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "PGTF0288",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "BSc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nludelhi.ac.in"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "from",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nludelhi.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nludelhi.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B (",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-global-scholars-in-residence"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nludelhi.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B.(",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/b-a-ll-b-hons"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Env",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nludelhi.ac.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/wp-content/uploads/2025/12/ACADEMIC-EXAMINATION-REGULATIONS-FOR-POSTGRADUATE-PROGRAMMES.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Lon",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-global-scholars-in-residence"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "avo",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-global-scholars-in-residence"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/international-exchange-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dep",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dir",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/international-exchange-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enc",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-global-scholars-in-residence"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-global-scholars-in-residence"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for a",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-global-scholars-in-residence"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/international-exchange-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "joi",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mar",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/international-exchange-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/pgip-ma-llm-insolvency"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obs",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/academic-calendar-of-ll-m-programme-for-academic-session-2024-2025"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obt",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/pgip-ma-llm-insolvency"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/international-exchange-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-global-scholars-in-residence"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pur",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-global-scholars-in-residence"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rev",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-global-scholars-in-residence"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sha",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-global-scholars-in-residence"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "shy",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/international-exchange-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sit",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-global-scholars-in-residence"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sol",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/pgip-ma-llm-insolvency"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/international-exchange-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tre",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/pgip-ma-llm-insolvency"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "val",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/nlud-soas-joint-ll-m-m-a-in-environmental-justice-in-south-asia-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vic",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nludelhi.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/international-exchange-programme"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://nludelhi.ac.in/academics/international-exchange-programme"
+    }
+  ],
+  "total_courses": 59,
+  "pages_scraped": 25,
+  "errors": []
+}

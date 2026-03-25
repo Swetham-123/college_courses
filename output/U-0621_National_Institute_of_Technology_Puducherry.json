@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0621",
+  "university_name": "National Institute of Technology Puducherry",
+  "state": "Puducherry",
+  "district": "Karaikal",
+  "website": "www.nitpy.ac.in",
+  "year_established": "2010",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:36:16.900758Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": []
+}

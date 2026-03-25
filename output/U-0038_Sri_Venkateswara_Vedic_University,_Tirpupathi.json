@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0038",
+  "university_name": "Sri Venkateswara Vedic University, Tirpupathi",
+  "state": "Andhra Pradesh",
+  "district": "Chittoor",
+  "website": "www.svvedicuniversity.ac.in",
+  "year_established": "2006",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:42.358831Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

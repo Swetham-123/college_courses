@@ -1,0 +1,205 @@
+{
+  "aishe_code": "U-1404",
+  "university_name": "Universal SkillTech University",
+  "state": "Maharashtra",
+  "district": "Palghar",
+  "website": "https://universalskilltechuniversity.edu.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:08:33.089924Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Int",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-design-skills"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-design-skills"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://universalskilltechuniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aft",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://universalskilltechuniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://universalskilltechuniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-science-engineering-and-technology-skills"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cyb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-science-engineering-and-technology-skills"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-science-engineering-and-technology-skills"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Dir",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "fers",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://universalskilltechuniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "for",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-science-engineering-and-technology-skills"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/admissions"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BFSI",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-commerce-entrepreneurship-and-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/admissions"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/admissions"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Dig",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-commerce-entrepreneurship-and-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ret",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-commerce-entrepreneurship-and-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Sup",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-commerce-entrepreneurship-and-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-commerce-entrepreneurship-and-management"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Get",
+      "level_of_education": "Diploma",
+      "source_url": "https://universalskilltechuniversity.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-media-and-communication-skills"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-allied-health-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-design-skills"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bui",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-science-engineering-and-technology-skills"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-science-engineering-and-technology-skills"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/school-of-design-skills"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.universalskilltechuniversity.edu.in/admissions"
+    }
+  ],
+  "total_courses": 31,
+  "pages_scraped": 8,
+  "errors": []
+}

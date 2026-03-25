@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1338",
+  "university_name": "Silicon University",
+  "state": "Odisha",
+  "district": "Khordha",
+  "website": "www.silicon.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:31.862774Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,1591 @@
+{
+  "aishe_code": "U-0894",
+  "university_name": "THE ASSAM ROYAL GLOBAL UNIVERSITY, Guwahati, District- Kamrup (Metro)",
+  "state": "Assam",
+  "district": "Kamrup Metro",
+  "website": "www.rgu.ac",
+  "year_established": "2009",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:00:54.245546Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PH.D",
+      "course_name": "PRE",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Abs",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cell",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cur",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "For",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Gui",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "PHY",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Psy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "SYL",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "exa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "exam",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "mea",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "work",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.rgu.ac/developing-emotional-intelligence-academic-research-and-teaching"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Day",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Mor",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Dur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "can",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ani",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Hot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nut",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "is a",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Dur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ent",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HRM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mar",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ope",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Dur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "dep",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Dur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "(Day",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Day",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Mor",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Dur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ani",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bot",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Eme",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Food",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Geo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nut",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ope",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Rad",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Zoo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "from",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CED",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "MED",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "can",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "for",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "lat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.sc",
+      "course_name": "spe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (H)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB(H)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Dur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "can",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "lays",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Dur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "or B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Aft",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.rgu.ac/multi-disciplinary"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Int",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "any",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "Arc",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "rel",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Aft",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.rgu.ac/multi-disciplinary"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "For",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Par",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.rgu.ac/developing-emotional-intelligence-academic-research-and-teaching"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Gen",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "if I",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "App",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Cul",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Geo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hot",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "J&MC",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "App",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Cul",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Geo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "Paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "Sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Cli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Geo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "J&MC",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "dian",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/programs"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Cli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Geo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Mass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "deg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/royal-global-university-to-introduce-ug-and-pg-programmes-in-assamese"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "dian",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "SYR",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "IAT",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "ICAL &",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "ICI",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "IUM",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Apr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/multi-disciplinary"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/developing-emotional-intelligence-academic-research-and-teaching"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/royal-global-university-to-introduce-ug-and-pg-programmes-in-assamese"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adj",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cer",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/admission-programs-fees-structure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "des",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/royal-global-university-to-introduce-ug-and-pg-programmes-in-assamese"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "duly",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/royal-global-university-to-introduce-ug-and-pg-programmes-in-assamese"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eva",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gov",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "man",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "med",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "men",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "min",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nom",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "out",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "per",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pla",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/multi-disciplinary"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ter",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "then",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "uns",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wai",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/doctoral-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wri",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/phd"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ias",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.rgu.ac/faq"
+    }
+  ],
+  "total_courses": 262,
+  "pages_scraped": 15,
+  "errors": []
+}

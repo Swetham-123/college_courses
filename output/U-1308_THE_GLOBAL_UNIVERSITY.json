@@ -1,0 +1,595 @@
+{
+  "aishe_code": "U-1308",
+  "university_name": "THE GLOBAL UNIVERSITY",
+  "state": "Arunachal Pradesh",
+  "district": "Papum Pare",
+  "website": "www.tgu.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:01:57.159916Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tgu.ac.in/phd-course-work"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tgu.ac.in/phd-registration-form"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Per",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tgu.ac.in/phd-registration-form"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tgu.ac.in/faculty-of-science"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Str",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tgu.ac.in/phd-registration-form"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pre",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tgu.ac.in/phd-course-work"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cul",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tgu.ac.in"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "ass",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-law"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "is a",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-law"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "full",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-commerce-&-management"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "MLT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-science"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "is a",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-engineering"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Are",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-management"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": ") is a",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-computer-application"
+    },
+    {
+      "degree_name": "PG DIPLOMA",
+      "course_name": "COM",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-computer-application"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-law"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "full",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-commerce-&-management"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-computer-application"
+    },
+    {
+      "degree_name": "INTEGRATED BED",
+      "course_name": "Find",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-management"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-law"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "ACC",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-commerce-&-management"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "COM",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-computer-application"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "FIRE &",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-management"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "HOR",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-science"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "HOS",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-management"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "LIB",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "NUR",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "OPH",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-science"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "REM",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-science"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "ROB",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-engineering"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "SAF",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-management"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "SOF",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-computer-application"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "The",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-commerce-&-management"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "WAR",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-management"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "YOGA",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Acu",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-science"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Agr",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-science"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Aut",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ayu",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-pharmacy"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Civ",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dis",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-science"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Find",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fire",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hea",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hot",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ind",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Man",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-management"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Per",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-management"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Spe",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "PG  Diploma",
+      "course_name": "Acu",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-science"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "lev",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "MEC",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-engineering"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "PHY",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "SEC",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "SEN",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-school-education"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Bas",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Find",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-commerce-&-management"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Her",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-pharmacy"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Hot",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "agr",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-science"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Oph",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tgu.ac.in/faculty-of-science"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "all",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tgu.ac.in/phd-registration-form"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "deg",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tgu.ac.in/phd-registration-form"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/faculty-of-law"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Hons",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/faculty-of-humanities"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Hum",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/read-news/Until-now,-the-institute-held-its-own-National-Entrance-Test-(NET)-popularly-known-as-TISSNET-for-admission-to-all-PG-courses./?id=1"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Org",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/read-news/Until-now,-the-institute-held-its-own-National-Entrance-Test-(NET)-popularly-known-as-TISSNET-for-admission-to-all-PG-courses./?id=1"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/faculty-of-science"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/faculty-of-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cru",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/read-news/National-Event-on-APAAR-(Automated-Permanent-Academic-Account-Registry)/?id=9"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "des",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/faculty-of-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/read-news/DU-Academic-Council-adopts-4th-Year-UG-research-guidelines-amid-faculty-concerns-over-workload,-funding./?id=10"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/read-news/Until-now,-the-institute-held-its-own-National-Entrance-Test-(NET)-popularly-known-as-TISSNET-for-admission-to-all-PG-courses./?id=1"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lau",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/read-news/National-Event-on-APAAR-(Automated-Permanent-Academic-Account-Registry)/?id=9"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "let",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nee",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/read-news/National-Event-on-APAAR-(Automated-Permanent-Academic-Account-Registry)/?id=9"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/read-news/DU-Academic-Council-adopts-4th-Year-UG-research-guidelines-amid-faculty-concerns-over-workload,-funding./?id=10"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/read-news/DU-Academic-Council-adopts-4th-Year-UG-research-guidelines-amid-faculty-concerns-over-workload,-funding./?id=10"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/phd-registration-form"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/phd-course-work"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/read-news/DU-Academic-Council-adopts-4th-Year-UG-research-guidelines-amid-faculty-concerns-over-workload,-funding./?id=10"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sta",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/phd-course-work"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/read-news/DU-Academic-Council-adopts-4th-Year-UG-research-guidelines-amid-faculty-concerns-over-workload,-funding./?id=10"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/phd-course-work"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tgu.ac.in/faculty-of-science"
+    }
+  ],
+  "total_courses": 96,
+  "pages_scraped": 20,
+  "errors": []
+}

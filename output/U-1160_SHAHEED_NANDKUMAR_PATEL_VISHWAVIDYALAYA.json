@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1160",
+  "university_name": "SHAHEED NANDKUMAR PATEL VISHWAVIDYALAYA",
+  "state": "Chhattisgarh",
+  "district": "Raigarh",
+  "website": "https://snpv.ac.in",
+  "year_established": "2020",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:45.542266Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

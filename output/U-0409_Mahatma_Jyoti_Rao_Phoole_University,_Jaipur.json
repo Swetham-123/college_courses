@@ -1,0 +1,589 @@
+{
+  "aishe_code": "U-0409",
+  "university_name": "Mahatma Jyoti Rao Phoole University, Jaipur",
+  "state": "Rajasthan",
+  "district": "Jaipur",
+  "website": "www.mjrpuniversity.ac.in",
+  "year_established": "2008",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:53:08.609461Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mjrpuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-pharmacy"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "LL.M",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-law"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ME/ M",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-engineering-technology"
+    },
+    {
+      "degree_name": "Integrated B.Ed",
+      "course_name": "M.Ed",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-special-education"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "app",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-commerce"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Gra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/department-of-education"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "View",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/department-of-education"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-science"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "CS\nB",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-computer-science-information-technology"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-science"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Clo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-home-science"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-home-science"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nut",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-home-science"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-science"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-science"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Agri",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Exe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-pharmacy"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Uni",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-management"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Gra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-computer-science-information-technology"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Uni",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-computer-science-information-technology"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-arts-humanities"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Gra",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-management"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Gui",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-arts-humanities"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Jou",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-media-mass-communication"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-pharmacy"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Reh",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-special-education"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-yoga-vedic-science"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/department-of-education"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Sc B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/department-of-education"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "B.Ed. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-special-education"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/department-of-education"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/department-of-education"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Lib",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/department-of-education"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "View",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/department-of-education"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(Ag.)/B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-management"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-science"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.A..B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/department-of-education"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/department-of-education"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed./ B.A.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/department-of-education"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Home",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-management"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-law"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Raj",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-management"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Chi",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-special-education"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cli",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-home-science"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ear",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-home-science"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "ITI",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-engineering-technology"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-yoga-vedic-science"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-media-mass-communication"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "s or",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mjrpuniversity.ac.in/academics"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mjrpuniversity.ac.in/admission-process"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-arts-humanities"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-law"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Med",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-media-mass-communication"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "JMC",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-media-mass-communication"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Adv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-media-mass-communication"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Cli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-arts-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-arts-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-arts-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Geo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-arts-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-arts-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Home",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-home-science"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Mus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-arts-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-arts-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-arts-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-arts-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-arts-humanities"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "JMC",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-media-mass-communication"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ia\nS",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-computer-science-information-technology"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/wp-content/uploads/2025/03/MJRPU_PhD_Admission_Notification-2025-1.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.mjrpuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "alo",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.mjrpuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "att",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/admission-process"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-yoga-vedic-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/admission-process"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/department-of-education"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eth",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-computer-science-information-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/admission-process"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.mjrpuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/admission-rules"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/admission-process"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ove",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-agriculture"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "per",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.mjrpuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "suc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-commerce"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-commerce"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.mjrpuniversity.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-pharmacy"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-pharmacy"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-science"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-visual-arts"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iums",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mjrpuniversity.ac.in/mjrpuniversity/department-of-visual-arts"
+    }
+  ],
+  "total_courses": 95,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,205 @@
+{
+  "aishe_code": "U-0767",
+  "university_name": "VENKATESHWARA OPEN UNIVERSITY",
+  "state": "Arunachal Pradesh",
+  "district": "Papum Pare",
+  "website": "www.vou.ac.in",
+  "year_established": "2012",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:21:39.576505Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Phd",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vou.ac.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://vou.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://vou.ac.in"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://vou.ac.in/index.php/school-of-hospitality-and-hotel-management"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dip",
+      "level_of_education": "Certificate",
+      "source_url": "https://vou.ac.in/index.php/school-of-liberal-arts-sciences"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ele",
+      "level_of_education": "Certificate",
+      "source_url": "https://vou.ac.in/index.php/school-of-skill-development"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "GET",
+      "level_of_education": "Certificate",
+      "source_url": "https://vou.ac.in/index.php/school-of-yoga-sciences-and-holistic-wellness"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Har",
+      "level_of_education": "Certificate",
+      "source_url": "https://vou.ac.in/index.php/school-of-skill-development"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mig",
+      "level_of_education": "Certificate",
+      "source_url": "https://vou.ac.in/index.php/admission-procedure"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Plu",
+      "level_of_education": "Certificate",
+      "source_url": "https://vou.ac.in/index.php/school-of-skill-development"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://vou.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://vou.ac.in/index.php/school-of-commerce-management"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s in",
+      "level_of_education": "Certificate",
+      "source_url": "https://vou.ac.in/index.php/admission-policy"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Cla",
+      "level_of_education": "Certificate",
+      "source_url": "https://vou.ac.in/index.php/admission-procedure"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Gra",
+      "level_of_education": "Certificate",
+      "source_url": "https://vou.ac.in/index.php/admission-procedure"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://vou.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://vou.ac.in/wp-content/uploads/2021/06/PhD_Coursework.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://vou.ac.in/index.php/admission-policy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ask",
+      "level_of_education": "Unknown",
+      "source_url": "https://vou.ac.in/index.php/admission-policy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "best",
+      "level_of_education": "Unknown",
+      "source_url": "https://vou.ac.in/index.php/school-of-liberal-arts-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://vou.ac.in/index.php/admission-policy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://vou.ac.in/index.php/admission-policy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fin",
+      "level_of_education": "Unknown",
+      "source_url": "https://vou.ac.in/index.php/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://vou.ac.in/index.php/admission-policy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://vou.ac.in/index.php/school-of-skill-development"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://vou.ac.in/index.php/admission-policy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sca",
+      "level_of_education": "Unknown",
+      "source_url": "https://vou.ac.in/index.php/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://vou.ac.in/index.php/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://vou.ac.in/index.php/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ver",
+      "level_of_education": "Unknown",
+      "source_url": "https://vou.ac.in/index.php/admission-policy"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://vou.ac.in/index.php/admission-policy"
+    }
+  ],
+  "total_courses": 31,
+  "pages_scraped": 24,
+  "errors": []
+}

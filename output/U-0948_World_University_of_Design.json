@@ -1,0 +1,607 @@
+{
+  "aishe_code": "U-0948",
+  "university_name": "World University of Design",
+  "state": "Haryana",
+  "district": "Sonipat",
+  "website": "www.wud.ac.in",
+  "year_established": "2018",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:27:35.569027Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mus",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/school-of-performing-arts.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Omni",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/school-of-performing-arts.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Tri",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/school-of-fashion.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/school-of-communication.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "urb",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/school-of-arch.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "His",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/school-of-visual-art.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Mar",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/school-of-fashion.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Omn",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/school-of-fashion.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pri",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/phd.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/international-admissions.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/phd.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "foc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/school-of-arch.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/phd.php"
+    },
+    {
+      "degree_name": "Phd",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.wud.ac.in/phd.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "from",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.wud.ac.in/school-of-arch.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Des",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.wud.ac.in/programmes-PG.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Int",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.wud.ac.in/school-of-arch.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "She",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Wor",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.wud.ac.in/school-of-business.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.wud.ac.in/school-of-business.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "gra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.wud.ac.in/programmes-PG.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "teg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.wud.ac.in/programmes-PG.php"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "from",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "mSc",
+      "course_name": "kMƠ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.wud.ac.in/assets/WUD-UGC Proforma Final.pdf"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Arc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/school-of-arch.php"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Ani",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Fas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Film &",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Tex",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "The",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/school-of-communication.php"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Tra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Des",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/school-of-business.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Des",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/school-of-business.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Fas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/school-of-business.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/school-of-business.php"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "Giv",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "MDes",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "Mob",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "This",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Adv",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.wud.ac.in/school-of-performing-arts.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cre",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.wud.ac.in/school-of-performing-arts.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fas",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.wud.ac.in/school-of-fashion.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Per",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.wud.ac.in/school-of-performing-arts.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Urb",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.wud.ac.in/school-of-arch.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.wud.ac.in/school-of-visual-art.php"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "art",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.wud.ac.in/school-of-visual-art.php"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "tic",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.wud.ac.in/school-of-communication.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Doc",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.wud.ac.in/international-admissions.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "aft",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.wud.ac.in/international-admissions.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s of",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Civ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/school-of-arch.php"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Read",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/school-of-visual-art.php"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Arts &",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/school-of-fashion.php"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Fas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/school-of-fashion.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ia\nM",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/programmes-PG.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/international-admissions.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/school-of-visual-art.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/admission-procedure.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/international-admissions.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "att",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/phd.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/phd.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "clu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/admission-procedure.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/phd.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/phd.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/phd.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/programmes.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/phd.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/international-admissions.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/international-admissions.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "scr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/phd.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/admission-procedure.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sho",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/phd.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ste",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/programmes-PG.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/international-admissions.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tau",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/school-of-communication.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "val",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/admission-procedure.php"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "goi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "open",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ali",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/school-of-arch.php"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iums",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wud.ac.in/school-of-design.php"
+    }
+  ],
+  "total_courses": 98,
+  "pages_scraped": 14,
+  "errors": []
+}

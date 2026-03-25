@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0363",
+  "university_name": "Siksha 'O' Anusandhan",
+  "state": "Odisha",
+  "district": "Khordha",
+  "website": "www.soa.ac.in",
+  "year_established": "1996",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:31.571020Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

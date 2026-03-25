@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0753",
+  "university_name": "SHRI RAMSWAROOP MEMORIAL UNIVERSITY",
+  "state": "Uttar Pradesh",
+  "district": "Bara Banki",
+  "website": "www.srmu.ac.in",
+  "year_established": "2012",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:49.315566Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

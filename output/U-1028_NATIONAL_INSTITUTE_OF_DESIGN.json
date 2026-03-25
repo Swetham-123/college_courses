@@ -1,0 +1,235 @@
+{
+  "aishe_code": "U-1028",
+  "university_name": "NATIONAL INSTITUTE OF DESIGN",
+  "state": "Gujarat",
+  "district": "Ahmedabad",
+  "website": "www.nid.edu",
+  "year_established": "1961",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:26:02.567279Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nid.edu/academics/programmes"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nid.edu/academics/academic-notifications/detail"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "Tui",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nid.edu/getNewsevents/one-time-window-for-completion-of-diplomadegree"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nid.edu/getNewsevents/one-time-window-for-completion-of-diplomadegree"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nid.edu/academics/international-programmes"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "for",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nid.edu/academics/kmc"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "icl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/studyofnid/life"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/studyofnid/life"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ado",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/academics/curriculum-objectives/detail"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "amp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/academics/curriculum-objectives/detail"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://nid.edu/getNewsevents/one-time-window-for-completion-of-diplomadegree"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://nid.edu/getNewsevents/one-time-window-for-completion-of-diplomadegree"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/studyofnid/life"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/services/continuing-education-programme/detail"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "col",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/studyofnid/life"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/studyofnid/life"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://nid.edu/getNewsevents/one-time-window-for-completion-of-diplomadegree"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/studyofnid/life"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gro",
+      "level_of_education": "Unknown",
+      "source_url": "https://nid.edu/getNewsevents/one-time-window-for-completion-of-diplomadegree"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/getNewsevents/the-45th-convocation-national-institute-of-design-ahmedabad-22-january-2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "joi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/academics/international-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/studyofnid/life"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mul",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/academics/international-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://nid.edu/getNewsevents/one-time-window-for-completion-of-diplomadegree"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/academics/kmc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/academics/kmc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rep",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/academics/international-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/studyofnid/life"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/academics/kmc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sch",
+      "level_of_education": "Unknown",
+      "source_url": "https://nid.edu/getNewsevents/one-time-window-for-completion-of-diplomadegree"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "set",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/getNewsevents/the-45th-convocation-national-institute-of-design-ahmedabad-22-january-2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/academics/kmc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vie",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/getNewsevents/the-45th-convocation-national-institute-of-design-ahmedabad-22-january-2026"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nid.edu/studyofnid/life"
+    }
+  ],
+  "total_courses": 36,
+  "pages_scraped": 18,
+  "errors": []
+}

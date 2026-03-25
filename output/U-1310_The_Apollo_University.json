@@ -1,0 +1,955 @@
+{
+  "aishe_code": "U-1310",
+  "university_name": "The Apollo University",
+  "state": "Andhra Pradesh",
+  "district": "Chittoor",
+  "website": "https://apollouniversity.edu.in/",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:00:42.879834Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://apollouniversity.edu.in/schools/apollo-institute-of-pharmaceutical-sciences/"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://apollouniversity.edu.in/course/m-tech-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://apollouniversity.edu.in/course/m-tech-vlsi-design-and-embedded-systems/"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://apollouniversity.edu.in/course/pg-diploma-in-biostatistics"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "or R&D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://apollouniversity.edu.in/course/m-tech-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://apollouniversity.edu.in/course/certificate-course-on-systematic-review-methods/"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "rel",
+      "level_of_education": "Doctoral",
+      "source_url": "https://apollouniversity.edu.in/course/mtech-electronic-embedded-systems/"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Hea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/m-tech-vlsi-design-and-embedded-systems/"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "rel",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/m-tech-vlsi-design-and-embedded-systems/"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/m-tech-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/m-tech-data-science/"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mtech-electronic-embedded-systems/"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Emb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mtech-electronic-embedded-systems/"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "VLSI",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/btech-in-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "good",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/m-tech-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/m-tech-vlsi-design-and-embedded-systems/"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/m-tech-vlsi-design-and-embedded-systems/"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMI6501",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMI6502",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMI7501",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMI7502",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT6401",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT6402",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT6403",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT6404",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT6405",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT6406",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT6407",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT6408",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT6409",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT6410",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT6411",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT6412",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT6413",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT6414",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT7401",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT7402",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT7501",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT7502",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT7503",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT7504",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT7505",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT7506",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT7507",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT7508",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT7509",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT7510",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT7601",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHMT7602",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Syl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/ebook/mba-syllabus/"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "gra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "or M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/m-tech-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/mtech-electronic-embedded-systems/"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "VLSI",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in/course/m-tech-vlsi-design-and-embedded-systems/"
+    },
+    {
+      "degree_name": "Mtech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Adv",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://apollouniversity.edu.in/ebook/pg-diploma-advance-counselling/"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://apollouniversity.edu.in/course/pg-diploma-in-biostatistics"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Gui",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://apollouniversity.edu.in/course/pg-diploma-in-advanced-guidance-and-counseling"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "fers",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://apollouniversity.edu.in/course/pg-diploma-in-advanced-guidance-and-counseling"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "acy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ana",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cyb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-cyber-security/"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Eme",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Engg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/m-tech-vlsi-design-and-embedded-systems/"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Gen",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hea",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ima",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/bsc-anesthesiology-operation-theatre-technology/"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ope",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/bsc-anesthesiology-operation-theatre-technology/"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ren",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Res",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-cloud-computing/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE- (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE. I",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/btech-in-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Clo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-cloud-computing/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cyb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-cyber-security/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "IT, B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/btech-in-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Inf",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/btech-in-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "bet",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/btech-in-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/btech-in-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "is a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/btech-in-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/btech-in-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/uol/pathway-programmes"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-artificial-intelligence-and-machine-learning/"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://apollouniversity.edu.in/course/btech-in-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Adv",
+      "level_of_education": "Diploma",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bio",
+      "level_of_education": "Diploma",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Spo",
+      "level_of_education": "Diploma",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "hol",
+      "level_of_education": "Diploma",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-cloud-computing/"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "ANY",
+      "level_of_education": "Diploma",
+      "source_url": "https://apollouniversity.edu.in/course/btech-in-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-ai-health-care-technology/"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "Sho",
+      "level_of_education": "Diploma",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-cloud-computing/"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "Who",
+      "level_of_education": "Diploma",
+      "source_url": "https://apollouniversity.edu.in/course/pg-diploma-in-biostatistics"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "bui",
+      "level_of_education": "Diploma",
+      "source_url": "https://apollouniversity.edu.in/course/pg-diploma-in-biostatistics"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-cloud-computing/"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-cloud-computing/"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "foc",
+      "level_of_education": "Diploma",
+      "source_url": "https://apollouniversity.edu.in/course/pg-diploma-in-advanced-guidance-and-counseling"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "gui",
+      "level_of_education": "Diploma",
+      "source_url": "https://apollouniversity.edu.in/course/pg-diploma-in-advanced-guidance-and-counseling"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-ai-health-care-technology/"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Eva",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-ai-health-care-technology/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/certificate-course-on-systematic-review-methods/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "amo",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-artificial-intelligence-and-machine-learning/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/mtech-electronic-embedded-systems/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/mba-with-specialisations-in-hospital-healthcare-management"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/bsc-clinical-psychology/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bet",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-cloud-computing/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-in-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/pg-diploma-in-advanced-guidance-and-counseling"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/bsc-clinical-psychology/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/mtech-electronic-embedded-systems/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/schools/apollo-institute-of-pharmaceutical-sciences/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-in-computer-science-and-engineering/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "high",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-artificial-intelligence-and-machine-learning/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/pg-diploma-in-advanced-guidance-and-counseling"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/bachelor-of-physiotherapy/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/schools/apollo-institute-of-pharmaceutical-sciences/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sel",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/b-tech-cse-cloud-computing/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "suc",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "uti",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Vek",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "ach",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bet",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "enh",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sin",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "to a",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "tow",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/btech-cse-artificial-intelligence-data-science/"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/bsc-anesthesiology-operation-theatre-technology/"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://apollouniversity.edu.in/course/bachelor-of-physiotherapy/"
+    }
+  ],
+  "total_courses": 156,
+  "pages_scraped": 28,
+  "errors": []
+}

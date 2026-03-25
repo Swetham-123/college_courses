@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1245",
+  "university_name": "Puducherry Technological University, Puducherry",
+  "state": "Puducherry",
+  "district": "Puducherry",
+  "website": "www.ptuniv.edu.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:14.459009Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

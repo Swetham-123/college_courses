@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0791",
+  "university_name": "SUN RISE UNIVERSITY",
+  "state": "Rajasthan",
+  "district": "Alwar",
+  "website": "www.sunriseuniversity.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:48.122790Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

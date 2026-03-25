@@ -1,0 +1,247 @@
+{
+  "aishe_code": "U-0881",
+  "university_name": "MANIPUR TECHNICAL UNIVERSITY",
+  "state": "Manipur",
+  "district": "Imphal West",
+  "website": "mtu.ac.in",
+  "year_established": "2016",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:01:39.472560Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "MBA",
+      "course_name": "& Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mtu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mtu.ac.in/management-department"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mtu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mtu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mtu.ac.in/management-department"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fees 2024-2025",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mtu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "News",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mtu.ac.in/management-department"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mtu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "duc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mtu.ac.in/management-department"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mtu.ac.in/b-tech-programme-lateral-2025-26"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mtu.ac.in/b-tech-programme-2025-26"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mtu.ac.in/b-tech-programme-2025-26"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mtu.ac.in/undergraduate"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mtu.ac.in/b-tech-programme-2025-26"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mtu.ac.in/b-tech-programme-2025-26"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Odd",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mtu.ac.in/electrical-engineering-department"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mtu.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "exa",
+      "level_of_education": "Diploma",
+      "source_url": "https://mtu.ac.in/b-tech-programme-lateral-2025-26"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "will",
+      "level_of_education": "Certificate",
+      "source_url": "https://mtu.ac.in/b-tech-programme-2025-26"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Mat",
+      "level_of_education": "Unknown",
+      "source_url": "https://mtu.ac.in/b-tech-programme-2025-26"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://mtu.ac.in/electrical-engineering-department"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cla",
+      "level_of_education": "Unknown",
+      "source_url": "https://mtu.ac.in/b-tech-programme-2025-26"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://mtu.ac.in/b-tech-programme-2025-26"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://mtu.ac.in/mba-programme-2025-26"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "emp",
+      "level_of_education": "Unknown",
+      "source_url": "https://mtu.ac.in/electrical-engineering-department"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://mtu.ac.in/mba-programme-2025-26"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://mtu.ac.in/mba-programme-2025-26"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://mtu.ac.in/b-tech-programme-2025-26"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obj",
+      "level_of_education": "Unknown",
+      "source_url": "https://mtu.ac.in/b-tech-programme-2025-26"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://mtu.ac.in/b-tech-programme-lateral-2025-26"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "seen",
+      "level_of_education": "Unknown",
+      "source_url": "https://mtu.ac.in/b-tech-programme-2025-26"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://mtu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://mtu.ac.in/academic-calendar"
+    }
+  ],
+  "total_courses": 38,
+  "pages_scraped": 13,
+  "errors": []
+}

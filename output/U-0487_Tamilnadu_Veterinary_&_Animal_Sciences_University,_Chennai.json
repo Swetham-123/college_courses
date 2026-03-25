@@ -1,0 +1,259 @@
+{
+  "aishe_code": "U-0487",
+  "university_name": "Tamilnadu Veterinary & Animal Sciences University, Chennai",
+  "state": "Tamil Nadu",
+  "district": "Thiruvallur",
+  "website": "www.tanuvas.ac.in",
+  "year_established": "1903",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:56.273197Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://tanuvas.ac.in/ce_pgad.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Food",
+      "level_of_education": "Doctoral",
+      "source_url": "https://adm.tanuvas.ac.in/pga/Entries/frmIndex.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Dean",
+      "level_of_education": "Doctoral",
+      "source_url": "https://tanuvas.ac.in/auth_academic.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://tanuvas.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Vac",
+      "level_of_education": "Doctoral",
+      "source_url": "https://adm.tanuvas.ac.in/pga/Entries/frmIndex.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://tanuvas.ac.in/fbs_intro.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "(Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tanuvas.ac.in/ce_pgad.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tanuvas.ac.in/ce_pgad.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tanuvas.ac.in/ce_pg.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tanuvas.ac.in/ce_pg.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tanuvas.ac.in/ce_pgad.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tanuvas.ac.in/ce_pgad.php"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://adm.tanuvas.ac.in/pga/Entries/frmIndex.aspx"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://adm.tanuvas.ac.in/pga/Entries/frmIndex.aspx"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://tanuvas.ac.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Sma",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://adm.tanuvas.ac.in/pga/Entries/frmIndex.aspx"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Can",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tanuvas.ac.in/ce_ugad.php"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "(FPT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tanuvas.ac.in/ce_pgad.php"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "app",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tanuvas.ac.in/ce_ugad.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://tanuvas.ac.in/ce_pgad.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dai",
+      "level_of_education": "Diploma",
+      "source_url": "https://tanuvas.ac.in/ce_pgad.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mol",
+      "level_of_education": "Diploma",
+      "source_url": "https://tanuvas.ac.in/ce_pgad.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Sma",
+      "level_of_education": "Diploma",
+      "source_url": "https://adm.tanuvas.ac.in/pga/Entries/frmIndex.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://tanuvas.ac.in/fbs_intro.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "For",
+      "level_of_education": "Certificate",
+      "source_url": "https://adm.tanuvas.ac.in/pga/Entries/frmIndex.aspx"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://tanuvas.ac.in/admin/uploads/news/1750231450.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://adm.tanuvas.ac.in/pga/Entries/frmIndex.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://tanuvas.ac.in/ce_ugad.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://tanuvas.ac.in/ce_pgad.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://tanuvas.ac.in/ce_ugad.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://tanuvas.ac.in/ce_pg.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://tanuvas.ac.in/ce_pgad.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://tanuvas.ac.in/ce_pgad.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fol",
+      "level_of_education": "Unknown",
+      "source_url": "https://tanuvas.ac.in/ce_ugad.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://tanuvas.ac.in/ce_ugad.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://tanuvas.ac.in/ce_ugad.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://tanuvas.ac.in/ce_ugad.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nom",
+      "level_of_education": "Unknown",
+      "source_url": "https://tanuvas.ac.in/auth_academic.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sel",
+      "level_of_education": "Unknown",
+      "source_url": "https://tanuvas.ac.in/ce_ugad.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://tanuvas.ac.in/ce_pgad.php"
+    }
+  ],
+  "total_courses": 40,
+  "pages_scraped": 18,
+  "errors": []
+}

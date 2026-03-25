@@ -1,0 +1,883 @@
+{
+  "aishe_code": "U-0144",
+  "university_name": "Navrachana University",
+  "state": "Gujarat",
+  "district": "Vadodara",
+  "website": "www.nuv.ac.in",
+  "year_established": "2009",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:41:55.232955Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "BEd",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ele",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "EXE",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Full",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/schools/liberal-studies-and-education"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "KNOW",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/schools/engineering-and-technology"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "also",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "col",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "fees",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "mak",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "opp",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pre",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "with",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nuv.ac.in/schools/science"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "MSc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "Integrated BSc",
+      "course_name": "MSc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nuv.ac.in/schools/science"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Full",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "TOP",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fle",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Full",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "KNOW",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nuv.ac.in/programs/executive-programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "LLM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "STU",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Sch",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Ana",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Life",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Org",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Full",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nuv.ac.in/schools/engineering-and-technology"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Rob",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Str",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "ign (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "ign)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Full",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "STU",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "can",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nuv.ac.in/minor-disciplines"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "mig",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nuv.ac.in/choice-based_curriculum"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BSc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "KNOW",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nuv.ac.in/schools/engineering-and-technology"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "ign",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "ign (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "BPB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nuv.ac.in/schools/science"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Bot",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Chem",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nuv.ac.in/schools/science"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "ZPB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nuv.ac.in/schools/science"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Zoo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nuv.ac.in/choice-based_curriculum"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "(CSE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nuv.ac.in/schools/engineering-and-technology"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nuv.ac.in/schools/engineering-and-technology"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "EEE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nuv.ac.in/schools/engineering-and-technology"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Full",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nuv.ac.in/schools/engineering-and-technology"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://nuv.ac.in/programs/executive-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://nuv.ac.in/programs/executive-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "for",
+      "level_of_education": "Certificate",
+      "source_url": "https://nuv.ac.in/minor-disciplines"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "app",
+      "level_of_education": "Certificate",
+      "source_url": "https://nuv.ac.in/schools/environmental-design-and-architecture"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Hum",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BArch",
+      "course_name": "Lea",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/environmental-design-and-architecture"
+    },
+    {
+      "degree_name": "BArch",
+      "course_name": "MPl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "BArch",
+      "course_name": "hou",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/environmental-design-and-architecture"
+    },
+    {
+      "degree_name": "BEd",
+      "course_name": "BEd",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/liberal-studies-and-education"
+    },
+    {
+      "degree_name": "BEd",
+      "course_name": "Full",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/liberal-studies-and-education"
+    },
+    {
+      "degree_name": "BEd",
+      "course_name": "for 1",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/liberal-studies-and-education"
+    },
+    {
+      "degree_name": "BEd",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/liberal-studies-and-education"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/foundation_program"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/wp-content/uploads/pdf/seda/Niti_Aayogs_Expert_Committee.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/wp-content/uploads/pdf/seda/Niti_Aayogs_Expert_Committee.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Heta",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acq",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/minor-disciplines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "add",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/minor-disciplines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/choice-based_curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ale",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/choice-based_curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/minor-disciplines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cho",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/minor-disciplines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cov",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/minor-disciplines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "des",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/minor-disciplines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/choice-based_curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "emb",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/choice-based_curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "emp",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/choice-based_curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enc",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/foundation_program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/choice-based_curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/choice-based_curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for a",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fou",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/students-corner"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gen",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/foundation_program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/choice-based_curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "imp",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/students-corner"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "left",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ope",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/engineering-and-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "phy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/choice-based_curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rei",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sha",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/e-brochure/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "suc",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tau",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/choice-based_curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/choice-based_curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tho",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/environmental-design-and-architecture"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/choice-based_curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/environmental-design-and-architecture"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/foundation_program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "what",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "grow",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/environmental-design-and-architecture"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "nur",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/business-and-law"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sta",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/environmental-design-and-architecture"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/environmental-design-and-architecture"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://nuv.ac.in/schools/liberal-studies-and-education"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuv.ac.in"
+    }
+  ],
+  "total_courses": 144,
+  "pages_scraped": 17,
+  "errors": []
+}

@@ -1,0 +1,685 @@
+{
+  "aishe_code": "U-0341",
+  "university_name": "North Eastern Hill University, Shillong",
+  "state": "Meghalaya",
+  "district": "East Khasi Hills",
+  "website": "www.nehu.ac.in",
+  "year_established": "1973",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:50:48.760710Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "MCA",
+      "course_name": ")\nPh.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/General-Courses"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Agr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ant",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bot",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eco",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ele",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ene",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Env",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Food",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "For",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Garo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Geo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Hin",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "His",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Jou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Kha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Lib",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Lin",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Nan",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Orr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/public/assets/files/announcements/20250630031322_Bei-Viva-voce.PDF"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/Professional-Courses"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Rur",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Soc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sta",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Tou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Viva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nehu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Zoo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ope",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/public/assets/files/announcements/20250625013223_PhD-Viva-voce-Mr-Shankupar-Rynjah.PDF"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "open",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/public/assets/files/announcements/20250630031322_Bei-Viva-voce.PDF"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Viva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nehu.ac.in"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Rur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Sta",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Nan",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "for",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "L.L.B (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Arc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nehu.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ene",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Inf",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "for",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nehu.ac.in/admission/announcement"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "(Geo",
+      "level_of_education": "Diploma",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Geo",
+      "level_of_education": "Diploma",
+      "source_url": "https://nehu.ac.in/General-Courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mus",
+      "level_of_education": "Diploma",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pai",
+      "level_of_education": "Diploma",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "Tho",
+      "level_of_education": "Diploma",
+      "source_url": "https://nehu.ac.in/National-Academic-Depository"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Add",
+      "level_of_education": "Certificate",
+      "source_url": "https://nehu.ac.in/article/359/Six-Day-Basic-Training-Programme-on-Integration-of-Indian-Knowledge-System-IKS-into-Curriculum-organized-at-MMTTC-NEHU"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Agr",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Tou",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Adu",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Garo",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Kha",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Lin",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/courses-offered"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/public/assets/files/announcements/20250630031322_Bei-Viva-voce.PDF"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/The-Academic-Council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/National-Academic-Depository"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "add",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/public/assets/files/advertisements/20260319021437_NOTICE-INVITING-QUOTATION-18032026.PDF"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bin",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/public/assets/files/advertisements/20260319021437_NOTICE-INVITING-QUOTATION-18032026.PDF"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "clu",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/public/assets/files/advertisements/20260319021437_NOTICE-INVITING-QUOTATION-18032026.PDF"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/public/assets/files/advertisements/20260319021437_NOTICE-INVITING-QUOTATION-18032026.PDF"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/Academic-Calender"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "del",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/public/assets/files/advertisements/20260319021437_NOTICE-INVITING-QUOTATION-18032026.PDF"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ele",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/The-Academic-Council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/public/assets/files/advertisements/20260319021437_NOTICE-INVITING-QUOTATION-18032026.PDF"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fou",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/National-Academic-Depository"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/public/assets/files/announcements/20250630031322_Bei-Viva-voce.PDF"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ign",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/public/assets/files/advertisements/20260319021437_NOTICE-INVITING-QUOTATION-18032026.PDF"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "imp",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/National-Academic-Depository"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nom",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/The-Academic-Council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obs",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nehu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/public/assets/files/advertisements/20260319021437_NOTICE-INVITING-QUOTATION-18032026.PDF"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "quo",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/public/assets/files/advertisements/20260319021437_NOTICE-INVITING-QUOTATION-18032026.PDF"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/public/assets/files/advertisements/20260319021437_NOTICE-INVITING-QUOTATION-18032026.PDF"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "val",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/public/assets/files/advertisements/20260319021437_NOTICE-INVITING-QUOTATION-18032026.PDF"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nehu.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://nehu.ac.in/article/359/Six-Day-Basic-Training-Programme-on-Integration-of-Indian-Knowledge-System-IKS-into-Curriculum-organized-at-MMTTC-NEHU"
+    }
+  ],
+  "total_courses": 111,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0974",
+  "university_name": "PATLIPUTRA UNIVERSITY, PATNA",
+  "state": "Bihar",
+  "district": "Patna",
+  "website": "ppup.ac.in",
+  "year_established": "2018",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:03.224829Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

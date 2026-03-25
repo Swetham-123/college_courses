@@ -1,0 +1,523 @@
+{
+  "aishe_code": "U-1284",
+  "university_name": "MOHAN BABU UNIVERSITY",
+  "state": "Andhra Pradesh",
+  "district": "Tirupati",
+  "website": "https://www.mbu.asia/",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:21:41.720103Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mbu.asia/school-of-pharmaceutical-sciences"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mbu.asia/school-of-pharmaceutical-sciences"
+    },
+    {
+      "degree_name": "pHD",
+      "course_name": "LDl",
+      "level_of_education": "Doctoral",
+      "source_url": "https://media.mbu.asia/wp-content/uploads/2024/06/UGC-Approval-Letter.pdf"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-pharmaceutical-sciences"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "acy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-pharmaceutical-sciences"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "acy I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-pharmaceutical-sciences"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Org",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-computing"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE(",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-computing"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CTM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "EPS",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mac",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "VLSI &",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-computing"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-commerce-and-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Cur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-commerce-and-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "III",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-commerce-and-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "SHE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/phd-scholars"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "SUR",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/phd-scholars"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "TAA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/phd-scholars"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Wel",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-commerce-and-management"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Cur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-computing"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "III",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-computing"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-computing"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-computing"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Org",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "III",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-pharmaceutical-sciences"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Post",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-pharmaceutical-sciences"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "acy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-pharmaceutical-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ana",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-paramedical-allied-healthcare-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ane",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-paramedical-allied-healthcare-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Car",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-paramedical-allied-healthcare-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Dia",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-paramedical-allied-healthcare-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Eme",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-paramedical-allied-healthcare-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-paramedical-allied-healthcare-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Opt",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-paramedical-allied-healthcare-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Rad",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-paramedical-allied-healthcare-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Res",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-paramedical-allied-healthcare-sciences"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-computing"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-computing"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ECE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ECE (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "EEE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "EEE (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "EIE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-computing"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-commerce-and-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Know",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-commerce-and-management"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-computing"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-computing"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "III",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-computing"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-computing"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbu.asia/school-of-liberal-arts-and-sciences"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s to",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mbu.asia/event/celebrating-science-day-with-enthusiasm-at-physics-department"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbu.asia"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbu.asia/school-of-agriculture"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "del",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbu.asia/school-of-agriculture"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbu.asia/school-of-agriculture"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "saf",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbu.asia/school-of-pharmaceutical-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbu.asia/school-of-pharmaceutical-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbu.asia/school-of-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbu.asia/school-of-agriculture"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "als",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbu.asia/news/mohan-babu-university-annual-day-2026-a-night-of-celebration-and-inspiration/"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbu.asia/school-of-pharmaceutical-sciences"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbu.asia/school-of-pharmaceutical-sciences"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbu.asia/school-of-pharmaceutical-sciences"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbu.asia/school-of-pharmaceutical-sciences"
+    }
+  ],
+  "total_courses": 84,
+  "pages_scraped": 21,
+  "errors": []
+}

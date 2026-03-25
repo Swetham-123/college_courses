@@ -1,0 +1,79 @@
+{
+  "aishe_code": "U-1187",
+  "university_name": "National Forensic Sciences University",
+  "state": "Delhi",
+  "district": "North West",
+  "website": "nfsu.ac.in",
+  "year_established": "1972",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:25:15.593571Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PHD",
+      "course_name": "Awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nfsu.ac.in/phdawardlist"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Seat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nfsu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nfsu.ac.in/phdawardlist"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "till",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nfsu.ac.in/phdawardlist"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nfsu.ac.in/admission"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nfsu.ac.in/admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Can",
+      "level_of_education": "Diploma",
+      "source_url": "https://nfsu.ac.in/admission"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://beta.nfsu.ac.in/Uploads/news/1000882388.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ico",
+      "level_of_education": "Unknown",
+      "source_url": "https://nfsu.ac.in/academic_council"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://nfsu.ac.in/academic"
+    }
+  ],
+  "total_courses": 10,
+  "pages_scraped": 17,
+  "errors": []
+}

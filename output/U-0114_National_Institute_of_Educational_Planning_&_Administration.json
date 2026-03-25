@@ -1,0 +1,121 @@
+{
+  "aishe_code": "U-0114",
+  "university_name": "National Institute of Educational Planning & Administration",
+  "state": "Delhi",
+  "district": "South",
+  "website": "www.niepa.ac.in",
+  "year_established": "1962",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:26:36.163152Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/download/UGC/Advisory_regarding_Sexual_Harassment.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "jee",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/KGBV/dashboard.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/KGBV/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "att",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/KGBV/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "both",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/KGBV/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/KGBV/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "clu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/KGBV/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/KGBV/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/KGBV/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/download/UGC/Advisory_regarding_Sexual_Harassment.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ens",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/download/UGC/Advisory_regarding_Sexual_Harassment.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fac",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/KGBV/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/KGBV/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rem",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/KGBV/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sum",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/KGBV/index.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/KGBV/index.html"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "this",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niepa.ac.in/KGBV/index.html"
+    }
+  ],
+  "total_courses": 17,
+  "pages_scraped": 21,
+  "errors": []
+}

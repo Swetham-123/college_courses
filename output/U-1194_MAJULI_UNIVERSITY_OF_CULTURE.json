@@ -1,0 +1,67 @@
+{
+  "aishe_code": "U-1194",
+  "university_name": "MAJULI UNIVERSITY OF CULTURE",
+  "state": "Assam",
+  "district": "Majuli",
+  "website": "https://muoc.ac.in/",
+  "year_established": "2018",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:55:04.563009Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://muoc.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://muoc.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://muoc.ac.in/syllabus/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://muoc.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "(PGD) &",
+      "level_of_education": "Diploma",
+      "source_url": "https://muoc.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://muoc.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://muoc.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Held",
+      "level_of_education": "Unknown",
+      "source_url": "https://muoc.ac.in"
+    }
+  ],
+  "total_courses": 8,
+  "pages_scraped": 15,
+  "errors": []
+}

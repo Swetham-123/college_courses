@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0361",
+  "university_name": "Ravenshaw University, Cuttak",
+  "state": "Odisha",
+  "district": "Cuttack",
+  "website": "www.ravenshawunivesity .ac.in",
+  "year_established": "1868",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:29.124708Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

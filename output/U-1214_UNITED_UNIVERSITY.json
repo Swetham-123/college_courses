@@ -1,0 +1,691 @@
+{
+  "aishe_code": "U-1214",
+  "university_name": "UNITED UNIVERSITY",
+  "state": "Uttar Pradesh",
+  "district": "Prayagraj",
+  "website": "WWW.UNITEDUNIVERSITY.EDU.IN",
+  "year_established": "2021",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:08:01.298584Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PH.D",
+      "course_name": "ADM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "PH.D",
+      "course_name": "ENT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Engg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Med",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mic",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd-med-sciences.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "exp",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ana",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd-med-sciences.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ind",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Med",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd-med-sciences.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Why",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-nursing-gnm.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "is a",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "will",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "Phd",
+      "course_name": "Col",
+      "level_of_education": "Doctoral",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "LLM(",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-law.aspx"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "MSc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Moot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-law.aspx"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "read",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd-med-sciences.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "The",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "IBM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Ana",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Eva",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-hospitality-bhmct.aspx"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "App",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-pharmacy-dpharma.aspx"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-pharmacy-bpharma.aspx"
+    },
+    {
+      "degree_name": "B.SC",
+      "course_name": "NUR",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-post-nursing.aspx"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Pas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-post-nursing.aspx"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "ope",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-post-nursing.aspx"
+    },
+    {
+      "degree_name": "B.pharm",
+      "course_name": "from",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-pharmacy-bpharma.aspx"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "IBM (2025)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "IBM)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-law.aspx"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "read",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-science-bsc.aspx"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-science-bsc.aspx"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-science-bsc.aspx"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-science-bsc.aspx"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-science-bsc.aspx"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-science-bsc.aspx"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-science-bsc.aspx"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "BTe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-law.aspx"
+    },
+    {
+      "degree_name": "integrated LLB",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-law.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-pharmacy-bpharma.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fas",
+      "level_of_education": "Diploma",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "GNM",
+      "level_of_education": "Diploma",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hot",
+      "level_of_education": "Diploma",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-pharmacy-dpharma.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "t of",
+      "level_of_education": "Diploma",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd-med-sciences.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "tic",
+      "level_of_education": "Diploma",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd-med-sciences.aspx"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-pharmacy-bpharma.aspx"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "hol",
+      "level_of_education": "Diploma",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-post-nursing.aspx"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "lev",
+      "level_of_education": "Diploma",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-nursing-gnm.aspx"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Gen",
+      "level_of_education": "Certificate",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-post-nursing.aspx"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "JMC)",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-arts.aspx"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-arts-ba.aspx"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "col",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-arts-ba.aspx"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-arts-ba.aspx"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "Ana",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd-med-sciences.aspx"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "Mic",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd-med-sciences.aspx"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/Uploads/UGC_Mandate/audit.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-law.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-nursing-bsc.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd-med-sciences.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "div",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "emp",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-pharmacy-dpharma.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-post-nursing.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-hospitality-bhmct.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd-med-sciences.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-post-nursing.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "its",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-hospitality.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "med",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-nursing-bsc.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-arts-ba.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "per",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pur",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-science-bsc.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-post-nursing.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "same",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd-med-sciences.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sho",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-law.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-post-nursing.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "told",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-law.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-arts.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-post-nursing.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-phd-med-sciences.aspx"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "eve",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "kno",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "val",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with a",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://WWW.UNITEDUNIVERSITY.EDU.IN/course-law.aspx"
+    }
+  ],
+  "total_courses": 112,
+  "pages_scraped": 25,
+  "errors": []
+}

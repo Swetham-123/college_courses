@@ -1,0 +1,523 @@
+{
+  "aishe_code": "U-0682",
+  "university_name": "THE ASSAM KAZIRANGA UNIVERSITY",
+  "state": "Assam",
+  "district": "Jorhat",
+  "website": "https://www.kzu.ac.in/",
+  "year_established": "2012",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:00:43.066491Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sem",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Vac",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Viva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pre",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "(NRI",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://admission.kzu.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sea",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kzu.ac.in/course/bba-accounting-and-finance"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kzu.ac.in/course/mtechcse"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kzu.ac.in/course/mtechcse"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Wat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kzu.ac.in/course/mtechce"
+    },
+    {
+      "degree_name": "M.tech",
+      "course_name": "eng",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kzu.ac.in/course/mtechme"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MBA (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kzu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and B",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kzu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.kzu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "equ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kzu.ac.in/course/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kzu.ac.in/school/sob"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kzu.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "MSW",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kzu.ac.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.kzu.ac.in"
+    },
+    {
+      "degree_name": "Mtech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.kzu.ac.in/course/mtechme"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "B.Sc. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in/course/btechcel"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ass",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in/school/set"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in/course/btechcse"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in/course/btechce"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in/course/btechcse"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in/course/btechece"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in/course/btechme"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in/school/set"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in/course/btechce"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Acc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in/course/bba-accounting-and-finance"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in/school/sob"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in/course/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in/course/bba-accounting-and-finance"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in/course/bba"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.kzu.ac.in/school/set"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "ECE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admission.kzu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Exa",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.kzu.ac.in/course/btechcel"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pla",
+      "level_of_education": "Diploma",
+      "source_url": "https://admission.kzu.ac.in"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.kzu.ac.in/course/btechecel"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ski",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.kzu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "alo",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.kzu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/mtechcse"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/btechece"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/mba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "emp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/btechecel"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/btechece"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.kzu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rem",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/academics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/academics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "val",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/course/phd-shs"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.kzu.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/academics"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.kzu.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.kzu.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.kzu.ac.in/academics"
+    }
+  ],
+  "total_courses": 84,
+  "pages_scraped": 28,
+  "errors": []
+}

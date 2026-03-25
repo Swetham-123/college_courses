@@ -1,0 +1,1117 @@
+{
+  "aishe_code": "U-0250",
+  "university_name": "Yenepoya (deemed to be University), Mangalore",
+  "state": "Karnataka",
+  "district": "Dakshina Kannada",
+  "website": "www.yenepoya.edu.in",
+  "year_established": "1992",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:30:02.410272Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Aca",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in/academic-cal-22-23.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "All",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fel",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Full",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pre",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "bat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Are",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in/public-health-department-Masters-of-Public-Health-best-college-in-india-eciph.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Fel",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Hea",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in/hospital-administration.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Num",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in/phd.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in/phd.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Rec",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in/phd.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "YEN",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.yenepoya.edu.in/phd.php"
+    },
+    {
+      "degree_name": "Integrated B.Sc",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "ter",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "MPT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ana",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "B.ed",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/public-health-department-Masters-of-Public-Health-best-college-in-india-eciph.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Car",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Clo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cyb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ech",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "MLT(",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/public-health-department-Masters-of-Public-Health-best-college-in-india-eciph.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Neu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Occ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ysahs.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Per",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ysahs.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.ysahs.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ren",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Res",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Tra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Dig",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Inn",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Log",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mar",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Sto",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ter",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Clo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Cyb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "MPT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "(TQM)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/hospital-administration.php"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Ana",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Car",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Chi",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Ech",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/public-health-department-Masters-of-Public-Health-best-college-in-india-eciph.php"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Hos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "MED",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Neu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Obs",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Occ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Org",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Ren",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Res",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Tra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "PG DIPLOMA",
+      "course_name": "FOR",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Mul",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Bus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Log",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Pha",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "acy, B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/hospital-administration.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ana",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Car",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cri",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Den",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Eme",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Neu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ysahs.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nuc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Occ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ysahs.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Per",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ysahs.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ysahs.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Rad",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ren",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Res",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Sta",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Tra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.ysahs.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "With",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/public-health-department-Masters-of-Public-Health-best-college-in-india-eciph.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "or B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ent",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Log",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ret",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Any",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Clo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Cyb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BCOM",
+      "course_name": "BSC",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "also",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Ana",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "BCA/B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Car",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Cli",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "DEN",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Food",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/public-health-department-Masters-of-Public-Health-best-college-in-india-eciph.php"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "MLT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Neu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Per",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Rad",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Ren",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Res",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Tra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Food",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "from a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "BAS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/hospital-administration.php"
+    },
+    {
+      "degree_name": "integrated med",
+      "course_name": "ici",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.yenepoya.edu.in/hospital-administration.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Adv",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bus",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.yenepoya.edu.in/hospital-administration.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.yset.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Den",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dis",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pub",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.yenepoya.edu.in/public-health-department-Masters-of-Public-Health-best-college-in-india-eciph.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "View",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dir",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "ahe",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.ysahs.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "Uti",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in/hospital-administration.php"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "ICL",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in/hospital-administration.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "Dent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in/hospital-administration.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in/hospital-administration.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in/hospital-administration.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ico",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in/hospital-administration.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in/admissions.php?p=UG"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fam",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in/hospital-administration.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in/public-health-department-Masters-of-Public-Health-best-college-in-india-eciph.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in/hospital-administration.php"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sho",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in/public-health-department-Masters-of-Public-Health-best-college-in-india-eciph.php"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.yenepoya.edu.in/phd.php"
+    }
+  ],
+  "total_courses": 183,
+  "pages_scraped": 25,
+  "errors": []
+}

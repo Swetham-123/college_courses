@@ -1,0 +1,91 @@
+{
+  "aishe_code": "U-0077",
+  "university_name": "Veer Kunwar Singh University, Arrah",
+  "state": "Bihar",
+  "district": "Bhojpur",
+  "website": "www.vksu.ac.in",
+  "year_established": "1992",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:20:38.248070Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(PAT) 2025",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vksu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Prof",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vksu.ac.in/home/geography"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vksu.ac.in"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vksu.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "(UGC",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vksu.ac.in/home/geography"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vksu.ac.in"
+    },
+    {
+      "degree_name": "B.com",
+      "course_name": "Acc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vksu.ac.in/home/bachelors-degree-syllabus"
+    },
+    {
+      "degree_name": "B.com",
+      "course_name": "Hum",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vksu.ac.in/home/bachelors-degree-syllabus"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "(NET)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vksu.ac.in/home/geography"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ali",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vksu.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://admin.vksu.ac.in/uploads/639066813842984998_notificationFile_M.Ed.AdmissionTestResult2025-1.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vksu.ac.in/home/degreecertificate"
+    }
+  ],
+  "total_courses": 12,
+  "pages_scraped": 17,
+  "errors": []
+}

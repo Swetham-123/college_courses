@@ -1,0 +1,85 @@
+{
+  "aishe_code": "U-0280",
+  "university_name": "Maharishi  Mahesh Yogi Vedic Vishwavidyalaya",
+  "state": "Madhya Pradesh",
+  "district": "Katni",
+  "website": "www.mmyvv.com",
+  "year_established": "1995",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:49:36.877288Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmyvv.com"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmyvv.com"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ved",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mmyvv.com/academic-programmes"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mmyvv.com"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Dis",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmyvv.com/academic-programmes"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": ")\nB.A.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmyvv.com"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": ")\nB.A.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mmyvv.com/academic-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mmyvv.com"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mmyvv.com"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmyvv.com/academic-programmes"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mmyvv.com"
+    }
+  ],
+  "total_courses": 11,
+  "pages_scraped": 2,
+  "errors": []
+}

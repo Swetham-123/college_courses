@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0421",
+  "university_name": "Rajasthan University of Veterinary and Animal Sciences, Bikaner",
+  "state": "Rajasthan",
+  "district": "Bikaner",
+  "website": "www.rajuvas.org",
+  "year_established": "2010",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:21.460967Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

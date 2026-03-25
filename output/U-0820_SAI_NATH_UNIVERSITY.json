@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0820",
+  "university_name": "SAI NATH UNIVERSITY",
+  "state": "Jharkhand",
+  "district": "Ranchi",
+  "website": "sainathuniversity.com",
+  "year_established": "2012",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:33.356046Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

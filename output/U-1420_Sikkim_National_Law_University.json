@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1420",
+  "university_name": "Sikkim National Law University",
+  "state": "Sikkim",
+  "district": "Pakyong",
+  "website": null,
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:30.439811Z",
+  "status": "no_url",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "No website URL available"
+  ]
+}

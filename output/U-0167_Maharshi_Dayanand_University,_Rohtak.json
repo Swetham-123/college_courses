@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0167",
+  "university_name": "Maharshi Dayanand University, Rohtak",
+  "state": "Haryana",
+  "district": "Rohtak",
+  "website": "www.mdurohtak.ac.in",
+  "year_established": "1976",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:50:02.620422Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

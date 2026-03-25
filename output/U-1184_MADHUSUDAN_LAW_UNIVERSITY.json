@@ -1,0 +1,79 @@
+{
+  "aishe_code": "U-1184",
+  "university_name": "MADHUSUDAN LAW UNIVERSITY",
+  "state": "Odisha",
+  "district": "Cuttack",
+  "website": "www.mlu.ac.in",
+  "year_established": "2021",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:41:01.864534Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "mat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mlu.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB(H)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mlu.ac.in/admission-notice"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "for",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mlu.ac.in/admission-notice"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B(H)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlu.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B(H) (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlu.ac.in/5-yr-ballbh-course"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B(H)(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlu.ac.in/5-yr-ballbh-course"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B.(H)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlu.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B(H) (5",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlu.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlu.ac.in/academic-council-members"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "aff",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlu.ac.in"
+    }
+  ],
+  "total_courses": 10,
+  "pages_scraped": 13,
+  "errors": []
+}

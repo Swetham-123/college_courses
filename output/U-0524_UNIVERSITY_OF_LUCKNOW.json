@@ -1,0 +1,313 @@
+{
+  "aishe_code": "U-0524",
+  "university_name": "UNIVERSITY OF LUCKNOW",
+  "state": "Uttar Pradesh",
+  "district": "Lucknow",
+  "website": "www.lkouniv.ac.in",
+  "year_established": "1867",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:13:39.081413Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "D.Sc",
+      "course_name": "LL.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lkouniv.ac.in/en/page/undergraduate-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lkouniv.ac.in/en/page/undergraduate-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lkouniv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lkouniv.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Jou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.lkouniv.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "MCA B",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/engineering-programmes"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/undergraduate-program"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/undergraduate-program"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Not",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lkouniv.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lkouniv.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/undergraduate-program"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/undergraduate-program"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/engineering-programmes"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/faculty-of-engineering-pages"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Dir",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lkouniv.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "fir",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/engineering-programmes"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "mer",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.lkouniv.ac.in"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/engineering-programmes"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Cli",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lkouniv.ac.in"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Lat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/engineering-programmes"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Sec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/engineering-programmes"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "fir",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/engineering-programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(All",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/engineering-programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Fir",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/engineering-programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Lat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/engineering-programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/engineering-programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/faculty-of-engineering-pages"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/undergraduate-program"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Sem",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.lkouniv.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cri",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.lkouniv.ac.in/en/page/faculty-of-law"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.lkouniv.ac.in/en/page/undergraduate-program"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.lkouniv.ac.in/en/page/undergraduate-program"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/undergraduate-program"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Yoga 2021-22",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/undergraduate-program"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.lkouniv.ac.in/en/page/undergraduate-program"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lkouniv.ac.in/site/writereaddata/UploadNews/pdf/C_202603161646015357.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lkouniv.ac.in/en/page/undergraduate-program"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lkouniv.ac.in/article/en/course"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lkouniv.ac.in/en/page/ph-d-"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "col",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lkouniv.ac.in/en/page/engineering-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lkouniv.ac.in/en/page/faculty-of-engineering-pages"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lkouniv.ac.in/en/page/engineering-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "http://udrc.lkouniv.ac.in/Department/DepartmentDetail/History?dept=71&cd=MQAzADcANgAxAA%3D%3D"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lkouniv.ac.in/en/page/engineering-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "glo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lkouniv.ac.in/en/page/faculty-of-engineering-pages"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mon",
+      "level_of_education": "Unknown",
+      "source_url": "http://udrc.lkouniv.ac.in/Department/DepartmentDetail/History?dept=71&cd=MQAzADcANgAxAA%3D%3D"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "http://udrc.lkouniv.ac.in/Department/DepartmentDetail/History?dept=71&cd=MQAzADcANgAxAA%3D%3D"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lkouniv.ac.in/en/page/faculty-of-yoga-and-alternative-medicine"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.lkouniv.ac.in/en/page/faculty-of-yoga-and-alternative-medicine"
+    }
+  ],
+  "total_courses": 49,
+  "pages_scraped": 25,
+  "errors": []
+}

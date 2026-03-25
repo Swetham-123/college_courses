@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0332",
+  "university_name": "Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur",
+  "state": "Maharashtra",
+  "district": "Nagpur",
+  "website": "www.nagpuruniversity.ac.in",
+  "year_established": "1923",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:28.277425Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

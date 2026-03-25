@@ -1,0 +1,175 @@
+{
+  "aishe_code": "U-0283",
+  "university_name": "Makhanlal Chaturvedi National University of Journalism and Communication, Bhopal",
+  "state": "Madhya Pradesh",
+  "district": "Bhopal",
+  "website": "www.mcu.ac.in",
+  "year_established": "1990",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:55:05.944688Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mcu.ac.in/admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mcu.ac.in/departments"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Lib",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mcu.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mass",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mcu.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Med",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mcu.ac.in/departments"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "New",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mcu.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Post",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mcu.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mcu.ac.in/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mcu.ac.in/phd"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mcu.ac.in/department-of-evening-courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mcu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cyb",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mcu.ac.in/department-of-evening-courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dig",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mcu.ac.in/department-of-evening-courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dra",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mcu.ac.in/department-of-evening-courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Env",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mcu.ac.in/department-of-evening-courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eve",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mcu.ac.in/department-of-evening-courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Film",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mcu.ac.in/department-of-evening-courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ind",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mcu.ac.in/department-of-evening-courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mob",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mcu.ac.in/department-of-evening-courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Rur",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mcu.ac.in/department-of-evening-courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Soc",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mcu.ac.in/department-of-evening-courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Vid",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mcu.ac.in/department-of-evening-courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Web",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mcu.ac.in/department-of-evening-courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Yog",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mcu.ac.in/department-of-evening-courses"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mcu.ac.in/wp-content/uploads/2026/02/academic-council-16022026.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mcu.ac.in"
+    }
+  ],
+  "total_courses": 26,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0463",
+  "university_name": "Madurai Kamaraj University, Madurai",
+  "state": "Tamil Nadu",
+  "district": "Madurai",
+  "website": "www.mkuniversity.ac.in",
+  "year_established": "1965",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:43:02.671447Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

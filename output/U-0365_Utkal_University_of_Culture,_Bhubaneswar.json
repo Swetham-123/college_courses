@@ -1,0 +1,163 @@
+{
+  "aishe_code": "U-0365",
+  "university_name": "Utkal University of Culture, Bhubaneswar",
+  "state": "Odisha",
+  "district": "Khordha",
+  "website": "www.uuc.ac.in",
+  "year_established": "1999",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:17:02.614459Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uuc.ac.in/admission/ph-d-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uuc.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uuc.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "JPEG",
+      "level_of_education": "Certificate",
+      "source_url": "https://uuc.ac.in/admission/online-application-procedure-for-admission-into-different-p-g-and-m-phil-programmes-under-utkal-university-of-culture-for-the-academic-session-2022-23"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "cum",
+      "level_of_education": "Certificate",
+      "source_url": "https://uuc.ac.in/academics/p-g-council/non-negotiable-academic-calendar-2021-22"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "NSS",
+      "level_of_education": "Certificate",
+      "source_url": "https://uuc.ac.in/admission/online-application-procedure-for-admission-into-different-p-g-and-m-phil-programmes-under-utkal-university-of-culture-for-the-academic-session-2022-23"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "for",
+      "level_of_education": "Certificate",
+      "source_url": "https://uuc.ac.in/admission/online-application-procedure-for-admission-into-different-p-g-and-m-phil-programmes-under-utkal-university-of-culture-for-the-academic-session-2022-23"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "will",
+      "level_of_education": "Certificate",
+      "source_url": "https://uuc.ac.in/academics/faculties/certificate-courses-jaina-tamil"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "(JMC) 1",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uuc.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "(JMC) 2025-26",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uuc.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "(JMC) 3",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uuc.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Cul",
+      "level_of_education": "Unknown",
+      "source_url": "https://uuc.ac.in/admission/post-graduate-departments"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://uuc.ac.in/admission/post-graduate-departments"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Lin",
+      "level_of_education": "Unknown",
+      "source_url": "https://uuc.ac.in/admission/post-graduate-departments"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Odia",
+      "level_of_education": "Unknown",
+      "source_url": "https://uuc.ac.in/admission/post-graduate-departments"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://uuc.ac.in/wp-content/uploads/2026/03/191.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "aca",
+      "level_of_education": "Unknown",
+      "source_url": "https://uuc.ac.in/academics/faculties/faculty-of-visual-arts"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cho",
+      "level_of_education": "Unknown",
+      "source_url": "https://uuc.ac.in/admission/online-application-procedure-for-admission-into-different-p-g-and-m-phil-programmes-under-utkal-university-of-culture-for-the-academic-session-2022-23"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gen",
+      "level_of_education": "Unknown",
+      "source_url": "https://uuc.ac.in/admission/online-application-procedure-for-admission-into-different-p-g-and-m-phil-programmes-under-utkal-university-of-culture-for-the-academic-session-2022-23"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://uuc.ac.in/admission/online-application-procedure-for-admission-into-different-p-g-and-m-phil-programmes-under-utkal-university-of-culture-for-the-academic-session-2022-23"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "over",
+      "level_of_education": "Unknown",
+      "source_url": "https://uuc.ac.in/students-facilities/personality-development-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://uuc.ac.in/admission/online-application-procedure-for-admission-into-different-p-g-and-m-phil-programmes-under-utkal-university-of-culture-for-the-academic-session-2022-23"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://uuc.ac.in/admission/post-graduate-departments"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://uuc.ac.in/admission/online-application-procedure-for-admission-into-different-p-g-and-m-phil-programmes-under-utkal-university-of-culture-for-the-academic-session-2022-23"
+    }
+  ],
+  "total_courses": 24,
+  "pages_scraped": 25,
+  "errors": []
+}

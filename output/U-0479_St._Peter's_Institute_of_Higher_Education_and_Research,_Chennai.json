@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0479",
+  "university_name": "St. Peter's Institute of Higher Education and Research, Chennai",
+  "state": "Tamil Nadu",
+  "district": "Thiruvallur",
+  "website": "www.spiher.ac.in",
+  "year_established": "1993",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:46.629946Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

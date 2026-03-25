@@ -1,0 +1,25 @@
+{
+  "aishe_code": "U-0314",
+  "university_name": "Mahatama Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha",
+  "state": "Maharashtra",
+  "district": "Wardha",
+  "website": "www.hindivishwa.org",
+  "year_established": "1997",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:50:22.856401Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://hindivishwa.org/pdf/gen2026/Refresher_Course_Brochure_09_March_250.pdf"
+    }
+  ],
+  "total_courses": 1,
+  "pages_scraped": 10,
+  "errors": []
+}

@@ -1,0 +1,1135 @@
+{
+  "aishe_code": "U-0337",
+  "university_name": "Manipur University, Imphal",
+  "state": "Manipur",
+  "district": "Imphal West",
+  "website": "www.manipuruniv.ac.in",
+  "year_established": "1980",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:00:43.723517Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PHD",
+      "course_name": "ADM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "QET",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ANT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "BIO",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Bot",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "CHE",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "DAN",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "EAR",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ENG",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ENV",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "For",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "GEO",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "HIN",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "LAW",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "LAW 2023",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "LIN",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "LIS",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "LOCF",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Lib",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "MAN",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "MAT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "NSS",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "NSS(",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "PESS",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "PHI",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "QET",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "QET 2023",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "SOC",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sta",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Uni",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ZOO",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pre",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ter",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "Phd",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "(LAW)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "MSC 2",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "MSc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "MSc 1",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fir",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Gro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "MFA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "BIO",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "BOT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "CHE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "EAR",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Life",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "PHY",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "STA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "YOGA 1",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Yoga 2024-25",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Yoga I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Yoga, 2024-25",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "ZOO",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MTECH",
+      "course_name": "Civ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "MTECH",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "MTECH",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "(Non",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "Msc",
+      "course_name": "Yoga",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "Msc",
+      "course_name": "Yoga,2024",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Mus",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Mya",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "and",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "BIO",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "BOT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "CHE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Food",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "BSc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "BTT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "BIO",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "BOT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Env",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Geo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "ZOO",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "Integrated M.A",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "Integrated MA",
+      "course_name": "Dan",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "Integrated MA",
+      "course_name": "Jap",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "Integrated MA",
+      "course_name": "Kor",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "GUI",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ban",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ent",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hum",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Inf",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mus",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mya",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "San",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "(JEE",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "ADM",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Dan",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "EDU",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "ENG",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Home",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Kor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Lin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "MIL",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Mus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Phi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "(Non",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Civ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Ele",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Mec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "fir",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "BEd",
+      "course_name": "aga",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "BEd",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "ADU",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Anc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Dan",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "ECO",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "EDU",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Ele",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Fine",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "HIS",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Kor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Lib",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Lin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "MAN",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "MASS",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "NSS (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "NSS 1",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "NSS(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Nat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/pg-programmes-syllabus"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "PHI",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "POL",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "SEAS (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "SEAS(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "SOC",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "SOU",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/upload/admnNOweightforCUET21july2025.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/ug-programmes-syllabus"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dir",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/pre-phd-admission-2023"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/upload/MUregulationPG7Jan2026.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held w.e.f. 29/7/2024 - 2/8/2024",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mai",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ope",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "out",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sta",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-2024-25"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manipuruniv.ac.in/p/admission-cuet-2023-24"
+    }
+  ],
+  "total_courses": 186,
+  "pages_scraped": 25,
+  "errors": []
+}

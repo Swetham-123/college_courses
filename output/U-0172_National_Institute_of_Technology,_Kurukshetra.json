@@ -1,0 +1,247 @@
+{
+  "aishe_code": "U-0172",
+  "university_name": "National Institute of Technology, Kurukshetra",
+  "state": "Haryana",
+  "district": "Kurukshetra",
+  "website": "www.nitkkr.ac.in",
+  "year_established": "1963",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:34:22.279050Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitkkr.ac.in/pg-phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ong",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitkkr.ac.in/pg-phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitkkr.ac.in/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitkkr.ac.in/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Both",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitkkr.ac.in/pg-phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Even",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Nat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitkkr.ac.in/pg-phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitkkr.ac.in/doctoral-2"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Eco",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Odd",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitkkr.ac.in/academic-programs-robotics-and-industrial-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Sep",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Add",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitkkr.ac.in/doctoral-2"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Full",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitkkr.ac.in/pg-phd"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Part",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitkkr.ac.in/pg-phd"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "III",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitkkr.ac.in/academic-programs-robotics-and-industrial-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Rob",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitkkr.ac.in/academic-programs-robotics-and-industrial-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "The",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitkkr.ac.in/programmes"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "at a",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitkkr.ac.in/programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitkkr.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitkkr.ac.in"
+    }
+  ],
+  "total_courses": 38,
+  "pages_scraped": 25,
+  "errors": []
+}

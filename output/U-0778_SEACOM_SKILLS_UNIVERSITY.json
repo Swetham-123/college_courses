@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0778",
+  "university_name": "SEACOM SKILLS UNIVERSITY",
+  "state": "West Bengal",
+  "district": "Birbhum",
+  "website": "www.seacomskillsuniversity.org",
+  "year_established": "2014",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:44.962692Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

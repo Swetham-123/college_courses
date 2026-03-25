@@ -1,0 +1,1555 @@
+{
+  "aishe_code": "U-0490",
+  "university_name": "Vellore Institute of Technology, Vellore",
+  "state": "Tamil Nadu",
+  "district": "Vellore",
+  "website": "www.vit.ac.in",
+  "year_established": "1984",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:21:20.597935Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Integrated Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "Integrated Ph.D",
+      "course_name": "ter",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deep",
+      "level_of_education": "Doctoral",
+      "source_url": "https://admissions.vit.ac.in/phdapplication/login?utm_source=V3R7F4P8&utm_campaign=phdjuly2026"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Des",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ext",
+      "level_of_education": "Doctoral",
+      "source_url": "https://admissions.vit.ac.in/phdapplication/login?utm_source=V3R7F4P8&utm_campaign=phdjuly2026"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fas",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "For",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vit.ac.in/admissions/research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Lan",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Non",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D. (",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sci",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sel",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vit.ac.in/admissions/research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://admissions.vit.ac.in/phdapplication/login?utm_source=V3R7F4P8&utm_campaign=phdjuly2026"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "fer",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ter",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vit.ac.in/admissions/research"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://admissions.vit.ac.in/phdapplication/login?utm_source=V3R7F4P8&utm_campaign=phdjuly2026"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "Integrated\r\n\t\t\t\t\t\t\t\t\t\tM.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/integrated-msc-2026-applications/?utm_source=V6G6N0R4&utm_campaign=integratedmsc2026"
+    },
+    {
+      "degree_name": "Integrated\r\n\t\t\t\t\t\t\t\t\t\tM.Sc",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/integrated-msc-2026-applications/?utm_source=V6G6N0R4&utm_campaign=integratedmsc2026"
+    },
+    {
+      "degree_name": "Integrated\r\n\t\t\t\t\t\t\t\tM.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/integrated-msc-2026-applications/?utm_source=V6G6N0R4&utm_campaign=integratedmsc2026"
+    },
+    {
+      "degree_name": "Integrated\r\n\t\t\t\t\t\t\t\tM.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/integrated-msc-2026-applications/?utm_source=V6G6N0R4&utm_campaign=integratedmsc2026"
+    },
+    {
+      "degree_name": "Integrated\r\n\t\t\t\t\t\t\t\tM.Sc",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/integrated-msc-2026-applications/?utm_source=V6G6N0R4&utm_campaign=integratedmsc2026"
+    },
+    {
+      "degree_name": "Integrated\r\n\t\t\t\t\t\t\t\tM.Sc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/integrated-msc-2026-applications/?utm_source=V6G6N0R4&utm_campaign=integratedmsc2026"
+    },
+    {
+      "degree_name": "Integrated\r\n\t\t\t\t\t\t\t\tM.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/integrated-msc-2026-applications/?utm_source=V6G6N0R4&utm_campaign=integratedmsc2026"
+    },
+    {
+      "degree_name": "Integrated\r\n\t\t\t\t\t\t\t\tM.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/integrated-msc-2026-applications/?utm_source=V6G6N0R4&utm_campaign=integratedmsc2026"
+    },
+    {
+      "degree_name": "Integrated M.Sc",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/integrated-msc-2026-applications/?utm_source=V6G6N0R4&utm_campaign=integratedmsc2026"
+    },
+    {
+      "degree_name": "Integrated M.Sc",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "Integrated M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "Integrated M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "Integrated M.Sc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "Integrated M.Sc",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/integrated-msc-2026-applications/?utm_source=V6G6N0R4&utm_campaign=integratedmsc2026"
+    },
+    {
+      "degree_name": "Integrated M.Sc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "Integrated M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "Integrated M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "Integrated M.Sc",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/all-courses/pg"
+    },
+    {
+      "degree_name": "Integrated M.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/integrated-mtech-2026-applications/?utm_source=V5D9J7Z1&utm_campaign=integratedmtech2026"
+    },
+    {
+      "degree_name": "Integrated M.Tech",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "Integrated M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "Integrated M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/all-courses/pg"
+    },
+    {
+      "degree_name": "Integrated M.Tech",
+      "course_name": "Sof",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Arch",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/m-arch-2026-applications/login?utm_source=V1P4S7Q1&utm_campaign=march2026"
+    },
+    {
+      "degree_name": "M.Arch",
+      "course_name": "Dur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/all-courses/pg"
+    },
+    {
+      "degree_name": "M.Arch",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/m-arch-2026-applications/login?utm_source=V1P4S7Q1&utm_campaign=march2026"
+    },
+    {
+      "degree_name": "M.Arch",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "M.Arch",
+      "course_name": "fer",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ene",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Seat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/msc-vitmee-2026-applications/login?utm_source=V1TQ3HR5&utm_campaign=mscentrance2026"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/msc-vitmee-2026-applications/login?utm_source=V1TQ3HR5&utm_campaign=mscentrance2026"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/vitmee-m-tech-2026-applications/login?utm_source=V9J6VC6E&utm_campaign=mtech2026"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Aut",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CAD",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/integrated-mtech-2026-applications/?utm_source=V5D9J7Z1&utm_campaign=integratedmtech2026"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Emb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "IoT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "M.E. / M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Man",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pow",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Sma",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Str",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "VLSI",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/integrated-mtech-2026-applications/?utm_source=V5D9J7Z1&utm_campaign=integratedmtech2026"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/vitmee-m-tech-2026-applications/login?utm_source=V9J6VC6E&utm_campaign=mtech2026"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "dus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/vitmee-m-tech-2026-applications/login?utm_source=V9J6VC6E&utm_campaign=mtech2026"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Dur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/all-courses/pg"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Cur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/vitmee-mca-2026-applications/login?utm_source=V15RU99N&utm_campaign=mca2026"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Onl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pla",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/vitmee-mca-2026-applications/login?utm_source=V15RU99N&utm_campaign=mca2026"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Syl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/vitmee-mca-2026-applications/login?utm_source=V15RU99N&utm_campaign=mca2026"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Test",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/vitmee-mca-2026-applications/login?utm_source=V15RU99N&utm_campaign=mca2026"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Vel",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/vitmee-mca-2026-applications/login?utm_source=V15RU99N&utm_campaign=mca2026"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/vitmee-mca-2026-applications/login?utm_source=V15RU99N&utm_campaign=mca2026"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/vitmee-mca-2026-applications/login?utm_source=V15RU99N&utm_campaign=mca2026"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "for",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/vitmee-mca-2026-applications/login?utm_source=V15RU99N&utm_campaign=mca2026"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "seat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/vitmee-mca-2026-applications/login?utm_source=V15RU99N&utm_campaign=mca2026"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "will",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/vitmee-mca-2026-applications/login?utm_source=V15RU99N&utm_campaign=mca2026"
+    },
+    {
+      "degree_name": "msc",
+      "course_name": "adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/msc-vitmee-2026-applications/login?utm_source=V1TQ3HR5&utm_campaign=mscentrance2026"
+    },
+    {
+      "degree_name": "mtech",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/integrated-mtech-2026-applications/?utm_source=V5D9J7Z1&utm_campaign=integratedmtech2026"
+    },
+    {
+      "degree_name": "mtech",
+      "course_name": "adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.vit.ac.in/vitmee-m-tech-2026-applications/login?utm_source=V9J6VC6E&utm_campaign=mtech2026"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "B.Sc. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Dur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/all-courses/ug"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "fer",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Ban",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Bus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Tui",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.vit.ac.in/bsc-bcom-bba-2026-applications/login?utm_source=C0E8F7N8&utm_campaign=ug2026"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Dur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/all-courses/ug"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "dus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "fer",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(CS) / B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(IST)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(IT) / B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/international/integrated"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Fas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mul",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Sta",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.vit.ac.in/msc-vitmee-2026-applications/login?utm_source=V1TQ3HR5&utm_campaign=mscentrance2026"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Vis",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aer",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Fas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Hea",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/all-courses/ug"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.vit.ac.in/integrated-mtech-2026-applications/?utm_source=V5D9J7Z1&utm_campaign=integratedmtech2026"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/international/btech-eligibilityandprocedure"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "for",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "AND B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "B.Sc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.vit.ac.in/bsc-bcom-bba-2026-applications/login?utm_source=C0E8F7N8&utm_campaign=ug2026"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "and B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.vit.ac.in/bsc-bcom-bba-2026-applications/login?utm_source=C0E8F7N8&utm_campaign=ug2026"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Will",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.vit.ac.in/mba-2026-application/login?utm_source=V71TI1557&utm_campaign=mba2026"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hir",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "can",
+      "level_of_education": "Diploma",
+      "source_url": "https://vit.ac.in/admissions/international/btech-eligibilityandprocedure"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "the",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.vit.ac.in/bsc-bcom-bba-2026-applications/login?utm_source=C0E8F7N8&utm_campaign=ug2026"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "(For",
+      "level_of_education": "Certificate",
+      "source_url": "https://admissions.vit.ac.in/bsc-bcom-bba-2026-applications/login?utm_source=C0E8F7N8&utm_campaign=ug2026"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "(NOC)",
+      "level_of_education": "Certificate",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "App",
+      "level_of_education": "Certificate",
+      "source_url": "https://admissions.vit.ac.in/msw-2026-applications/?utm_source=V4T8V5F5&utm_campaign=msw2026"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Edu",
+      "level_of_education": "Certificate",
+      "source_url": "https://admissions.vit.ac.in/bsc-bcom-bba-2026-applications/login?utm_source=C0E8F7N8&utm_campaign=ug2026"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Exa",
+      "level_of_education": "Certificate",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Fee",
+      "level_of_education": "Certificate",
+      "source_url": "https://admissions.vit.ac.in/integrated-mtech-2026-applications/?utm_source=V5D9J7Z1&utm_campaign=integratedmtech2026"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "HSC",
+      "level_of_education": "Certificate",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Phy",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.vit.ac.in/admissions/research"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Spo",
+      "level_of_education": "Certificate",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Tra",
+      "level_of_education": "Certificate",
+      "source_url": "https://admissions.vit.ac.in/vitmee-m-tech-2026-applications/login?utm_source=V9J6VC6E&utm_campaign=mtech2026"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ver",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "giv",
+      "level_of_education": "Certificate",
+      "source_url": "https://admissions.vit.ac.in/integrated-msc-2026-applications/?utm_source=V6G6N0R4&utm_campaign=integratedmsc2026"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "obt",
+      "level_of_education": "Certificate",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "the",
+      "level_of_education": "Certificate",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://vit.ac.in/admissions/international/btech-eligibilityandprocedure"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "for",
+      "level_of_education": "Certificate",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "iss",
+      "level_of_education": "Certificate",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hon",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B (",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "or B",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/phdapplication/login?utm_source=V3R7F4P8&utm_campaign=phdjuly2026"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "(CSE)",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Aut",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/programmes-offered"
+    },
+    {
+      "degree_name": "Me",
+      "course_name": "Upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Che",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/btech-eligibilityandprocedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/phdapplication/login?utm_source=V3R7F4P8&utm_campaign=phdjuly2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Mul",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/phdapplication/login?utm_source=V3R7F4P8&utm_campaign=phdjuly2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Res",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/msc-vitmee-2026-applications/login?utm_source=V1TQ3HR5&utm_campaign=mscentrance2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/bsc-bcom-bba-2026-applications/login?utm_source=C0E8F7N8&utm_campaign=ug2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Wid",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/bsc-bcom-bba-2026-applications/login?utm_source=C0E8F7N8&utm_campaign=ug2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/integrated-mtech-2026-applications/?utm_source=V5D9J7Z1&utm_campaign=integratedmtech2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/bsc-bcom-bba-2026-applications/login?utm_source=C0E8F7N8&utm_campaign=ug2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bet",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/msc-vitmee-2026-applications/login?utm_source=V1TQ3HR5&utm_campaign=mscentrance2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cho",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/phdapplication/login?utm_source=V3R7F4P8&utm_campaign=phdjuly2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "col",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/bsc-bcom-bba-2026-applications/login?utm_source=C0E8F7N8&utm_campaign=ug2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/bsc-bcom-bba-2026-applications/login?utm_source=C0E8F7N8&utm_campaign=ug2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/phdapplication/login?utm_source=V3R7F4P8&utm_campaign=phdjuly2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eff",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/phdapplication/login?utm_source=V3R7F4P8&utm_campaign=phdjuly2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/phdapplication/login?utm_source=V3R7F4P8&utm_campaign=phdjuly2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exa",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/mba-2026-application/login?utm_source=V71TI1557&utm_campaign=mba2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/academics-more/semester-abroad-program-sap"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fol",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/vitmee-mca-2026-applications/login?utm_source=V15RU99N&utm_campaign=mca2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/integrated-mtech-2026-applications/?utm_source=V5D9J7Z1&utm_campaign=integratedmtech2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/vitmee-m-tech-2026-applications/login?utm_source=V9J6VC6E&utm_campaign=mtech2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gen",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/btech-eligibilityandprocedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/bsc-bcom-bba-2026-applications/login?utm_source=C0E8F7N8&utm_campaign=ug2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "men",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/mba-2026-application/login?utm_source=V71TI1557&utm_campaign=mba2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "only",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/bsc-bcom-bba-2026-applications/login?utm_source=C0E8F7N8&utm_campaign=ug2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "per",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vit.ac.in/admissions/research"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/m-arch-2026-applications/login?utm_source=V1P4S7Q1&utm_campaign=march2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/vitmee-m-des-2026-applications/?utm_source=V9M7DUTI&utm_campaign=mdes2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pun",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/btech-eligibilityandprocedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rev",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/btech-eligibilityandprocedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rus",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/btech-eligibilityandprocedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sho",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/vitmee-mca-2026-applications/login?utm_source=V15RU99N&utm_campaign=mca2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/pg"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sum",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/bsc-bcom-bba-2026-applications/login?utm_source=C0E8F7N8&utm_campaign=ug2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tim",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "too",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/bsc-bcom-bba-2026-applications/login?utm_source=C0E8F7N8&utm_campaign=ug2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tre",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/research"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upl",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wit",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/otherugprogrammes"
+    },
+    {
+      "degree_name": "march",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.vit.ac.in/m-arch-2026-applications/login?utm_source=V1P4S7Q1&utm_campaign=march2026"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Dur",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/academics-more/semester-abroad-program-sap"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/academics-more/semester-abroad-program-sap"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sec",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/academics-more/semester-abroad-program-sap"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/academics-more/semester-abroad-program-sap"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/academics-more/semester-abroad-program-sap"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/academics-more/semester-abroad-program-sap"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://vit.ac.in/admissions/international/btech-eligibilityandprocedure"
+    }
+  ],
+  "total_courses": 256,
+  "pages_scraped": 25,
+  "errors": []
+}

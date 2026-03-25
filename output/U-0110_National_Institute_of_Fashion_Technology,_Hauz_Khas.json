@@ -1,0 +1,181 @@
+{
+  "aishe_code": "U-0110",
+  "university_name": "National Institute of Fashion Technology, Hauz Khas",
+  "state": "Delhi",
+  "district": "South",
+  "website": "www.nift.ac.in",
+  "year_established": "1986",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:26:38.723768Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nift.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nift.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nift.ac.in/doctoralstudies"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sup",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nift.ac.in/doctoralstudies"
+    },
+    {
+      "degree_name": "bba",
+      "course_name": "6-d97d1599c2d3",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nift.ac.in/sites/default/files/inline-files/Admission-Prospectus-2026.pdf"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nift.ac.in/cep"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Prog.)",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nift.ac.in/acbog"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "case",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nift.ac.in/cep"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nift.ac.in/cep"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "will",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nift.ac.in/cep"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Fas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in/sites/default/files/inline-files/Admission-Prospectus-2026.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in/sites/default/files/inline-files/Notification-02-Clarification%20for%20OCI%20Candidates.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in/cep"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in/cep"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in/sites/default/files/inline-files/Notification-1.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in/cep"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in/doctoralstudies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in/doctoralstudies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in/cep"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in/sites/default/files/inline-files/Addendum%20-%20Ph.D-2026.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in/cep"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "men",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "noa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in/sites/default/files/inline-files/Addendum%20-%20Ph.D-2026.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in/cep"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in/cep"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nift.ac.in/cep"
+    }
+  ],
+  "total_courses": 27,
+  "pages_scraped": 14,
+  "errors": []
+}

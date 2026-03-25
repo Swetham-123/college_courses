@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0692",
+  "university_name": "MAULANA AZAD UNIVERSITY, JODHPUR",
+  "state": "Rajasthan",
+  "district": "Jodhpur",
+  "website": "www.mauj.ac.in",
+  "year_established": "2013",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:08:09.244914Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

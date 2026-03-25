@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1314",
+  "university_name": "Sona Devi University",
+  "state": "Jharkhand",
+  "district": "East Singhbum",
+  "website": "www.sonadeviuniversity.ac.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:34.189928Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

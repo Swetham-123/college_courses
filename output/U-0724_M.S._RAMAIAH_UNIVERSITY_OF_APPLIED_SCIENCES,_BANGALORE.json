@@ -1,0 +1,349 @@
+{
+  "aishe_code": "U-0724",
+  "university_name": "M.S. RAMAIAH UNIVERSITY OF APPLIED SCIENCES, BANGALORE",
+  "state": "Karnataka",
+  "district": "Bengaluru Urban",
+  "website": "www.msruas.ac.in",
+  "year_established": "2013",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:23:33.191596Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ana",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "MIT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mol",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Org",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "dus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Aer",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Man",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Rob",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "VLSI",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Ana",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Fas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Eli",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in/admissions/lateral-entry"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LL.B.(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aut",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Eli",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in/admissions/lateral-entry"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Inf",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Rob",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in/admissions/lateral-entry"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Sec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cer",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.msruas.ac.in/programme/diploma-certificate"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.msruas.ac.in/admissions/lateral-entry"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.msruas.ac.in/admissions/lateral-entry"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "hol",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.msruas.ac.in/admissions/lateral-entry"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "exa",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.msruas.ac.in/admissions/lateral-entry"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "NIRF",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "NIRF 2023",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "QS-I",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B.(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Apr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msruas.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msruas.ac.in/admissions/lateral-entry"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msruas.ac.in/admissions/lateral-entry"
+    }
+  ],
+  "total_courses": 55,
+  "pages_scraped": 25,
+  "errors": []
+}

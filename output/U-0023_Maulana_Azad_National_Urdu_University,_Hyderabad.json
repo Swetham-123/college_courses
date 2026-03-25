@@ -1,0 +1,541 @@
+{
+  "aishe_code": "U-0023",
+  "university_name": "Maulana Azad National Urdu University, Hyderabad",
+  "state": "Telangana",
+  "district": "Ranga Reddy",
+  "website": "www.manuu.edu.in",
+  "year_established": "1998",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:07:29.873570Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "All",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bot",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Dec",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eco",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Hin",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "His",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Last",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pre",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pub",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Self",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Soc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Spo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Syl",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus?NameContains=&page=2"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Viva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Zoo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Ph.d",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Mat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus?NameContains=&page=2"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus?NameContains=&page=2"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Self",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Time",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Syl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus?NameContains=&page=1"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Time",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Syl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus?NameContains=&page=2"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "& M.C.A",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manuu.edu.in/University/SCSIT/CSIT/Profile"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Syl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus?NameContains=&page=1"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Time",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "(two",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manuu.edu.in/University/SCSIT/CSIT/Profile"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "The",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manuu.edu.in/University/School/SCBM/Profile"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "ITEP",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Syl",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Time",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manuu.edu.in/University/School/SET/Profile"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(MPC",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus?NameContains=&page=1"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Thr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manuu.edu.in/University/SLLI/Arabic/Profile"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manuu.edu.in/University/School/SOS/Profile"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Syl",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Time",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ara",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manuu.edu.in/University/SLLI/Arabic/Profile"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Aut",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "CSE",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Civ",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manuu.edu.in/University/SLLI/English/Profile"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "ECE",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus?NameContains=&page=1"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manuu.edu.in/University/SET/DET/Profile"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus?NameContains=&page=2"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manuu.edu.in/University/SLLI/Arabic/Profile"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tea",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.manuu.edu.in/University/SLLI/Arabic/Profile"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "M.A, B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in/Program/Syllabus"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Time",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in/University/SLLI/English/Profile"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Ara",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Isl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "J.M.C",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Per",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Urdu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Wom",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in/University/SLLI/Arabic/Profile"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in/sites/default/files/Notification/2026-03/Circular-ConductEarlyGoalSettingDreamBigProgramme17326.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manuu.edu.in/media/PressRelease/13867"
+    }
+  ],
+  "total_courses": 87,
+  "pages_scraped": 25,
+  "errors": []
+}

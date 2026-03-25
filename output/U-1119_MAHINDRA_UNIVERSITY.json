@@ -1,0 +1,655 @@
+{
+  "aishe_code": "U-1119",
+  "university_name": "MAHINDRA UNIVERSITY",
+  "state": "Telangana",
+  "district": "MEDCHAL MALKAJGIRI",
+  "website": "www.mahindrauniversity.edu.in",
+  "year_established": "2020",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:54:56.712715Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "MBA",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-management"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/ph-d-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fin",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Home",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mar",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "bus",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/ph-d-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "cen",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/ph-d-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "dec",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "des",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/ph-d-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "eco",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/ph-d-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/ph-d-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/ph-d-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "hum",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/ph-d-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "inf",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/ph-d-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "med",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/ph-d-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/ph-d-programs"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "All",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "app",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-design-innovation"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/indira-mahindra-school-of-education"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/ph-d-programs"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-law"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/indira-mahindra-school-of-education"
+    },
+    {
+      "degree_name": "Integrated M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/post-graduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "teg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Adv",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Aut",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Rob",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Sma",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Str",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Sus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Sys",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Tra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "VLSI",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/post-graduate-programs"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "hig",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Man",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-management/?faculty-school=school-of-management&faculty-department=all&faculty-page=2"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Muk",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-management/?faculty-school=school-of-management&faculty-department=all&faculty-page=2"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-management"
+    },
+    {
+      "degree_name": "integrated M.Tech",
+      "course_name": "bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/post-graduate-programs"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-design-innovation"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-design-innovation"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "des",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "All",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Car",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cri",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/under-graduate-programs"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ECE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "LL.B (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "LL.B. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/under-graduate-programs"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Nan",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "VLSI",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "aer",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "goes",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "App",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Dig",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/under-graduate-programs"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "ent",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/under-graduate-programs"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-hospitality-management"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mahindrauniversity.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/under-graduate-programs"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/post-graduate-programs"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/post-graduate-programs"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/indira-mahindra-school-of-education"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ia\nB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ia\nM.A",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-digital-media-and-communication"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/events/mahindra-university-and-apollo-healthcare-academy-have-signed-an-mou-to-launch-bachelors-programmes-in-allied-health-sciences"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ury",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/events/mahindra-university-and-apollo-healthcare-academy-have-signed-an-mou-to-launch-bachelors-programmes-in-allied-health-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/calendar"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-law"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-management"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lau",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/research/sponsored-research-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "men",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-design-innovation"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mul",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/indira-mahindra-school-of-education"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-design-innovation"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-design-innovation"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/schools/school-of-law"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mahindrauniversity.edu.in/study-at-mahindra"
+    }
+  ],
+  "total_courses": 106,
+  "pages_scraped": 25,
+  "errors": []
+}

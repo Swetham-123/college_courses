@@ -1,0 +1,277 @@
+{
+  "aishe_code": "U-0622",
+  "university_name": "National Institute of Technology Delhi",
+  "state": "Delhi",
+  "district": "North West",
+  "website": "www.nitdelhi.ac.in",
+  "year_established": "2010",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:30:13.185266Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "MCA",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdelhi.ac.in/b-tech"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Post",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitdelhi.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdelhi.ac.in/academic-calender"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdelhi.ac.in/downloads-for-pg-phd-students"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdelhi.ac.in/downloads-for-pg-phd-students"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Form",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdelhi.ac.in/downloads-for-pg-phd-students"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Form I-A (",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdelhi.ac.in/downloads-for-pg-phd-students"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Form V-A",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdelhi.ac.in/downloads-for-pg-phd-students"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Form V-F",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdelhi.ac.in/downloads-for-pg-phd-students"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Form V-G",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdelhi.ac.in/downloads-for-pg-phd-students"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ord",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdelhi.ac.in/ordinance-of-doctor-of-philosophy-phd-programme"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pre",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdelhi.ac.in/downloads-for-pg-phd-students"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitdelhi.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Spr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitdelhi.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdelhi.ac.in/downloads-for-pg-phd-students"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitdelhi.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdelhi.ac.in/downloads-for-pg-phd-students"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitdelhi.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdelhi.ac.in/downloads-for-pg-phd-students"
+    },
+    {
+      "degree_name": "M.Plan",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdelhi.ac.in/admissions-registration"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(SFS)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdelhi.ac.in/b-tech"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdelhi.ac.in/b-tech"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdelhi.ac.in/m-tech-curriculum"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "PED (2024-25",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdelhi.ac.in/m-tech-curriculum"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "PEs (2024-25",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdelhi.ac.in/m-tech-curriculum"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "SFS (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdelhi.ac.in/b-tech"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "SFS 2025-26)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdelhi.ac.in/b-tech"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitdelhi.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdelhi.ac.in/b-tech"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Doc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitdelhi.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Sch",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdelhi.ac.in/m-tech-curriculum"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Govt",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitdelhi.ac.in/b-tech"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Post",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitdelhi.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitdelhi.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Sub",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitdelhi.ac.in/admissions-registration"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "ADM",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitdelhi.ac.in/admissions-registration"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitdelhi.ac.in/wp-content/uploads/2025/10/Result_PDF-Programme.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitdelhi.ac.in/wp-content/uploads/2026/03/Summer-Internship-2026-2.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitdelhi.ac.in/wp-content/uploads/2026/03/Summer-Internship-2026-2.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cur",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitdelhi.ac.in/wp-content/uploads/2026/03/Summer-Internship-2026-2.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitdelhi.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitdelhi.ac.in/b-tech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rev",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitdelhi.ac.in/wp-content/uploads/2026/03/Summer-Internship-2026-2.pdf"
+    }
+  ],
+  "total_courses": 43,
+  "pages_scraped": 25,
+  "errors": []
+}

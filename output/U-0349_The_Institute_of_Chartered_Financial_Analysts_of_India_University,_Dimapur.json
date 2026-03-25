@@ -1,0 +1,745 @@
+{
+  "aishe_code": "U-0349",
+  "university_name": "The Institute of Chartered Financial Analysts of India University, Dimapur",
+  "state": "Nagaland",
+  "district": "Dimapur",
+  "website": "www.iunagaland.edu.in",
+  "year_established": "2007",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:04:09.919231Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Hum",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iunagaland.edu.in/academics/faculty-profiles/department-political-science-profiles"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Par",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-political-science"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sem",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iunagaland.edu.in/admission-semester-fee"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "View",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iunagaland.edu.in/academics/faculty-profiles/department-english-profiles"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/ma-political-science"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "imm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "View",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iunagaland.edu.in/academics/faculty-profiles/department-commerce-profiles"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "app",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/mcom"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/mcom"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/mcom"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "imm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/mca"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/mca"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/mca"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/mca"
+    },
+    {
+      "degree_name": "MCom",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/mcom"
+    },
+    {
+      "degree_name": "MCom",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bcom-major-hons"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bcom-major-hons"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/academics/department/faculty-of-management-studies"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "imm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/ma-economics"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Alu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "imm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bcom-major-hons"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bcom-major-hons"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bcom-major-hons"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "from",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bcom-major-hons"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "his",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/ba-major-hons"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "(for",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cla",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Com",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "PAN",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "his",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/ba-major-hons"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "est",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "sho",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "(any",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/ma-education"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "(any",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/ma-political-science"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/ba-major-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/ba-major-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/ba-major-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/ba-major-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Hon",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/academics/department/faculty-of-humanities-social-sciences"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Lin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/ba-major-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/ba-major-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/ba-major-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/mca"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "(Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/academics/faculty-profiles/department-political-science-profiles"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/ma-economics"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/ma-education"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/academics/department/faculty-of-humanities-social-sciences"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/ma-education"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "(Eco)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/academics/faculty-profiles/department-economics-profiles"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "(Eng)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/academics/faculty-profiles/department-english-profiles"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "(Eng.)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/academics/faculty-profiles/department-english-profiles"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "(Eng.), M",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/academics/faculty-profiles/department-english-profiles"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "(Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/ma-political-science"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Can",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/ma-political-science"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/ma-education"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/ma-political-science"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/academics/department/faculty-of-humanities-social-sciences"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/ba-major-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adj",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/ma-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "less",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mot",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/academics/department/faculty-of-humanities-social-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obt",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/pgprograms/ma-economics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "som",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tau",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/academics/department/faculty-of-humanities-social-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/academics/department/faculty-of-humanities-social-sciences"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "The",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bui",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "even",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gain",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "mem",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "to a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iunagaland.edu.in/programs/doctoralprograms/phd-english"
+    }
+  ],
+  "total_courses": 121,
+  "pages_scraped": 25,
+  "errors": []
+}

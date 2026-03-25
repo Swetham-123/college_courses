@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1133",
+  "university_name": "Sardar Beant Singh State University Gurdaspur",
+  "state": "Punjab",
+  "district": "Gurdaspur",
+  "website": "http://www.sbssugsp.ac.in/",
+  "year_established": "2021",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:39.560304Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "aishe_code": "U-1094",
+  "university_name": "NATIONAL INSTITUTE OF DESIGN (NID) MADHYA PRADESH",
+  "state": "Madhya Pradesh",
+  "district": "Bhopal",
+  "website": "https://nidmp.ac.in",
+  "year_established": "2019",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:26:31.675022Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "B.Des",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nidmp.ac.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nidmp.ac.in/admission-details"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidmp.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidmp.ac.in/admission-details"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidmp.ac.in/admission-details"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidmp.ac.in/program/communication-design"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iums",
+      "level_of_education": "Unknown",
+      "source_url": "https://nidmp.ac.in/program/communication-design"
+    }
+  ],
+  "total_courses": 7,
+  "pages_scraped": 9,
+  "errors": []
+}

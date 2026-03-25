@@ -1,0 +1,133 @@
+{
+  "aishe_code": "U-0681",
+  "university_name": "UTTARAKHAND AYURVED UNIVERSITY",
+  "state": "Uttarakhand",
+  "district": "Dehradun",
+  "website": "www.uau.ac.in",
+  "year_established": "2009",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:17:40.245640Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PH.D",
+      "course_name": "PH.D(",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uau.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uau.ac.in/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uau.ac.in/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uau.ac.in/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uau.ac.in/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uau.ac.in/phd.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uau.ac.in/phd.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dip",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uau.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uau.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uau.ac.in/downloads/Information_brochure_Diploma_certificate_courses.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uau.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uau.ac.in/academic_council.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uau.ac.in/pgc_md_ms.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "est",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uau.ac.in/r_and_d_department.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uau.ac.in/phd.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "one",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uau.ac.in/r_and_d_department.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uau.ac.in/phd.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uau.ac.in/phd.php"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iums",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uau.ac.in"
+    }
+  ],
+  "total_courses": 19,
+  "pages_scraped": 12,
+  "errors": []
+}

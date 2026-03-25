@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0045",
+  "university_name": "Yogi Vemana University, Kadapa",
+  "state": "Andhra Pradesh",
+  "district": "Y.S.R. Kadapa",
+  "website": "www.yogivemanauniversity.ac.in",
+  "year_established": "2006",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:30:05.960407Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

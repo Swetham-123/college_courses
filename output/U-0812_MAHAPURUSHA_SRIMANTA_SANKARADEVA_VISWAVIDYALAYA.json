@@ -1,0 +1,499 @@
+{
+  "aishe_code": "U-0812",
+  "university_name": "MAHAPURUSHA SRIMANTA SANKARADEVA VISWAVIDYALAYA",
+  "state": "Assam",
+  "district": "Nagaon",
+  "website": "www.mssv.ac.in",
+  "year_established": "2014",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:44:03.272285Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Integrated M.Sc",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ori",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Viva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and M",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "for",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sem",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "thr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Nov",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sem",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "thr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mssv.ac.in/frontendpages/notice/16"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Can",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mssv.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB (H) 2026-27",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mssv.ac.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "B.C.A./B.S.W. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mssv.ac.in/frontendpages/notice/12"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Fit",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/undegree"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Inf",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/undegree"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dep",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mssv.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Des",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/pgdiploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pal",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/pgdiploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Post",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/pgdiploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Rem",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Stu",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Yog",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/pgdiploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mssv.ac.in/frontendpages/notice/12"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dis",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Fol",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mssv.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/undegree"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "BPA",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Exa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Exam, 2023",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "CON",
+      "level_of_education": "Unknown",
+      "source_url": "https://webadmin.mssv.ac.in/mssv/student/register"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Mass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Per",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Phi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "San",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/masterdegree"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Per",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/noticedetails/765"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "auto",
+      "level_of_education": "Unknown",
+      "source_url": "https://webadmin.mssv.ac.in/mssv/student/register"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "met",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rej",
+      "level_of_education": "Unknown",
+      "source_url": "https://webadmin.mssv.ac.in/mssv/student/register"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://webadmin.mssv.ac.in/mssv/student/register"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "str",
+      "level_of_education": "Unknown",
+      "source_url": "https://webadmin.mssv.ac.in/mssv/student/register"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mssv.ac.in/frontendpages/index/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://webadmin.mssv.ac.in/mssv/student/register"
+    }
+  ],
+  "total_courses": 80,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,535 @@
+{
+  "aishe_code": "U-0317",
+  "university_name": "MGM Institute of Health Sciences, Navi  Mumbai",
+  "state": "Maharashtra",
+  "district": "Raigad",
+  "website": "www.mgmuhs.com",
+  "year_established": "1989",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:09:13.848317Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": ")\nPh.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": ")MGM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": ")Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/admission-AY-25-26.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "CET 2025-(",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "DNP",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/admission-AY-25-26.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Def",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Opt",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/admission-AY-25-26.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "VIVA",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "for",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/admission-AY-25-26.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "till 2017-18",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "with",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ana",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "CET",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Def",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Der",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ENT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Gen",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ger",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Hea",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Hos",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Med",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Mol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Nep",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Obs",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Oph",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ort",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ped",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pla",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Psy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Rad",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sur",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Uro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Hea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(IIT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "urr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "The",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(A.H.S)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(A.H.S) (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(AHS)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(AHS)D",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "AHS)-2025)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "All",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "MED",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com/pdfs/Notifications/notification-117.pdf"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Apr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Dec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Dip",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Exa",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "NmR",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "POs",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Part",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Part-I",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Uni",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ane",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Chi",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cli",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Der",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Obs",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Oph",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ort",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://mgmuhs.com/pdfs/Tentative%20University%20Examinations%20Schedule%20as%20per%20the%20MGMIHS%20Academic%20Calender%20&%20NMC%20Calender%20for%20Various%20Programmes.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical )",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgmuhs.com/pdfs/Notifications/notification-117.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgmuhs.com/curriculum.html"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgmuhs.com/Academic.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgmuhs.com"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgmuhs.com/admission-AY-25-26.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgmuhs.com/admission-AY-25-26.html"
+    }
+  ],
+  "total_courses": 86,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0419",
+  "university_name": "Rajasthan Technical University, Kota",
+  "state": "Rajasthan",
+  "district": "Kota",
+  "website": "www.rtu.ac.in",
+  "year_established": "1981",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:20.811192Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

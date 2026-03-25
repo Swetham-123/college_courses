@@ -1,0 +1,253 @@
+{
+  "aishe_code": "U-0073",
+  "university_name": "Nava Nalanda Mahavihara, Nalanda",
+  "state": "Bihar",
+  "district": "Nalanda",
+  "website": "www.nnm.ac.in",
+  "year_established": "1951",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:41:47.626174Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "And",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nnm.ac.in/admission/about-admission-in-nnm"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nnm.ac.in/academics/courses"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nnm.ac.in/admission/ordinances"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nnm.ac.in/academics/syllabus"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nnm.ac.in/admission/student-guide-help-documents"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nnm.ac.in/department/ancient-history-culture-archaeology/about-ancient-history-culture-archaeology"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nnm.ac.in/admission/student-guide-help-documents"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hons., M.A",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nnm.ac.in/admission/about-admission-in-nnm"
+    },
+    {
+      "degree_name": "Llm",
+      "course_name": "jnj",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nnm.ac.in/wp-content/uploads/2026/02/Admission-Prospects-26.pdf"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "PRO",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nnm.ac.in/academics/courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bud",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nnm.ac.in/department/buddhist-tourism-management/about-buddhist-tourism-management"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nnm.ac.in/academics/courses"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "AND",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nnm.ac.in/academics/courses"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nnm.ac.in/academics/courses"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s of",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nnm.ac.in/admission/foreign-students"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "the",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nnm.ac.in/admission/foreign-students"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "AHCA",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/academics/syllabus"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "NEP 2020)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/academics/syllabus"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/department/buddhist-tourism-management/about-buddhist-tourism-management"
+    },
+    {
+      "degree_name": "Ba",
+      "course_name": "&ΚRp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/wp-content/uploads/2026/02/Admission-Prospects-26.pdf"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Bud",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/academics/syllabus"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "CBCS",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/academics/syllabus"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Apr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/admission/about-admission-in-nnm"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/wp-content/uploads/2026/03/Result-of-Ph.D.-Course-Work-Exam.-2025.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/academics/ugc-guidelines-r-d-cell"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dee",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/academics/ugc-guidelines-r-d-cell"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/admission/foreign-students"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/admission/foreign-students"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "kno",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/admission/foreign-students"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obt",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/admission/about-admission-in-nnm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/admission/foreign-students"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/admission/foreign-students"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/admission/foreign-students"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tau",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/department/chinese-and-japanese/about-chinese-and-japanese"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/academics/ugc-guidelines-r-d-cell"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/academics/academic-calendar"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nnm.ac.in/department/english/about-english"
+    }
+  ],
+  "total_courses": 39,
+  "pages_scraped": 25,
+  "errors": []
+}

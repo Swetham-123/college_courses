@@ -1,0 +1,403 @@
+{
+  "aishe_code": "U-1327",
+  "university_name": "Mahaveer University",
+  "state": "Uttar Pradesh",
+  "district": "Meerut",
+  "website": "www.mvu.edu.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:53:19.292340Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PH.D",
+      "course_name": "ADM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mvu.edu.in/phd-at-mvu"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "DEC",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mvu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "DEC. 2025",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mvu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Doc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-education"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-education"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fac",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-legal-studies"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mvu.edu.in/phd-at-mvu"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mvu.edu.in/phd-at-mvu"
+    },
+    {
+      "degree_name": "phd",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mvu.edu.in/phd-at-mvu"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-education"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-education"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "REG",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-education"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-pharmacy"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-pharmacy"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "REG",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-pharmacy"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-sciences"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-sciences"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-agricultural-sciences"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-education"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "L.L.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/admission-process/scholarship"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "L.L.B./B.A. L.L.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/admission-process/scholarship"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-legal-studies"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "LL.B. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-legal-studies"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "B.A. B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mvu.edu.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-education"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-education"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "REG",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-education"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-pharmacy"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-pharmacy"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Lat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-pharmacy"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "REG",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-pharmacy"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-agricultural-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-nursing"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "REG",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Rel",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-sciences"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-engineering"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/admission-process/scholarship"
+    },
+    {
+      "degree_name": "Integrated B.A",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-education"
+    },
+    {
+      "degree_name": "Integrated BA",
+      "course_name": "BEd",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-education"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "App",
+      "level_of_education": "Diploma",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-pharmacy"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ava",
+      "level_of_education": "Diploma",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-education"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-education"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Liv",
+      "level_of_education": "Diploma",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-veterinary-science-and-cow-research-centre"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-pharmacy"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Sel",
+      "level_of_education": "Diploma",
+      "source_url": "https://mvu.edu.in/admission-process/scholarship"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Vet",
+      "level_of_education": "Diploma",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-veterinary-science-and-cow-research-centre"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-pharmacy"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-legal-studies"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-legal-studies"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. / B",
+      "level_of_education": "Unknown",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-legal-studies"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Min",
+      "level_of_education": "Unknown",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-computer-application"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Mec",
+      "level_of_education": "Unknown",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://mvu.edu.in/admission-process/scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://mvu.edu.in/admission-process/admission-faqs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://mvu.edu.in/phd-at-mvu"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cle",
+      "level_of_education": "Unknown",
+      "source_url": "https://mvu.edu.in/phd-at-mvu"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://mvu.edu.in/phd-at-mvu"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "suc",
+      "level_of_education": "Unknown",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-education"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://mvu.edu.in/faculties/faculty-of-nursing"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mvu.edu.in"
+    }
+  ],
+  "total_courses": 64,
+  "pages_scraped": 23,
+  "errors": []
+}

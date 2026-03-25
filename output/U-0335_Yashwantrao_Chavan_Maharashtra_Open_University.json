@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0335",
+  "university_name": "Yashwantrao Chavan Maharashtra Open University",
+  "state": "Maharashtra",
+  "district": "Nashik",
+  "website": "http://ycmou..ac.in, http://ycmou.digitaluniversity.ac",
+  "year_established": "1989",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:29:52.089879Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

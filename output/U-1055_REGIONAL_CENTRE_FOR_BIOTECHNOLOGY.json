@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1055",
+  "university_name": "REGIONAL CENTRE FOR BIOTECHNOLOGY",
+  "state": "Haryana",
+  "district": "Faridabad",
+  "website": "www.rcb.res.in",
+  "year_established": "2009",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:30.298569Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

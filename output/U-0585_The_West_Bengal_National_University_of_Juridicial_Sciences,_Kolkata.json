@@ -1,0 +1,673 @@
+{
+  "aishe_code": "U-0585",
+  "university_name": "The West Bengal National University of Juridicial Sciences, Kolkata",
+  "state": "West Bengal",
+  "district": "Kolkata",
+  "website": "www.nujs.edu",
+  "year_established": "1999",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:06:13.201918Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "LLM",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2025"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2026"
+    },
+    {
+      "degree_name": "PH.D",
+      "course_name": "ADM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2024"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ll-d-programme"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eco",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ph-d-programme"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eco.)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ph-d-programme"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "F.Sc.)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ph-d-programme"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "His",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ph-d-programme"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ph-d-programme"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ph-d-programme"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2024"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ph-d-programme"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ph-d-programme"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ll-d-programme"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2025"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ph-d-programme"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "(Law)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/academics/list-of-offered-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "How",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/admissions/admissions-faq"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2024"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nujs.edu/home/academics/list-of-offered-programmes"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "(Law",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nujs.edu/home/academics/list-of-offered-programmes"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2024"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Sam",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2024"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "WBN",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admissions-faq"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "MSc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2025"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nujs.edu/home/academics/post-graduate-programme1-year-ll-m"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nujs.edu/home/academics/post-graduate-programme1-year-ll-m"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Cer",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2025"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2024"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2025"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2025"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Sc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/academics/undergraduate-programme5-year-b-a-ll-bhons"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/academics/undergraduate-programme5-year-b-a-ll-bhons"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/academics/undergraduate-programme5-year-b-a-ll-bhons"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LL.B (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/academics/undergraduate-programme5-year-b-a-ll-bhons"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LL.B. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2025"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LL.B.(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2026"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/academics/undergraduate-programme5-year-b-a-ll-bhons"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2025"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "LLB. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2025"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/academics/list-of-offered-programmes"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admissions-faq"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB.(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admissions-faq"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "LL.B. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2025"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "LLB(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2024"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "LLB.(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2026"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "(BSc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/academics/list-of-offered-programmes"
+    },
+    {
+      "degree_name": "integrated B.A",
+      "course_name": "LL.B (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nujs.edu/home/academics/undergraduate-programme5-year-b-a-ll-bhons"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nujs.edu/home/admissions/wbnujs-certificate-course"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nujs.edu"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "For",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2026"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Form",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2025"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2026"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "This",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nujs.edu/home/academics/certificates-issuance"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "etc. (",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nujs.edu/home/admissions/admissions-faq"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s of",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nujs.edu/wp-content/uploads/2026/02/Revised-7-DAYS-CRIMINAL-LAW-COURSE.pdf"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "suc",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ph-d-programme"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s to",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nujs.edu/home/academics/certificates-issuance"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/undergraduate-programme5-year-b-a-ll-bhons"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/undergraduate-programme5-year-b-a-ll-bhons"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2025"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B.(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2026"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2026"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Cri",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/wp-content/uploads/2026/03/Updated-Brochure-05-03-2026.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "als",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/wp-content/uploads/2026/02/Corrigendum-Admission_Notice-2026.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/undergraduate-programme5-year-b-a-ll-bhons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "add",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2024"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/wp-content/uploads/2026/03/Updated-Brochure-05-03-2026.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/wp-content/uploads/2026/03/Updated-Brochure-05-03-2026.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/wp-content/uploads/2026/02/Revised-7-DAYS-CRIMINAL-LAW-COURSE.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2024"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/certificates-issuance"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "clo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/wp-content/uploads/2026/02/Revised-7-DAYS-CRIMINAL-LAW-COURSE.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/post-graduate-programme1-year-ll-m"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/post-graduate-programme1-year-ll-m"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/post-graduate-programme1-year-ll-m"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/admissions/admissions-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dow",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2024"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ph-d-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2024"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/wp-content/uploads/2026/03/Updated-Brochure-05-03-2026.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gen",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ll-d-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/certificates-issuance"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "hel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/undergraduate-programme5-year-b-a-ll-bhons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/wp-content/uploads/2026/03/Updated-Brochure-05-03-2026.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ph-d-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lia",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2024"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/wp-content/uploads/2026/03/Updated-Brochure-05-03-2026.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "one",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/research-programme/ph-d-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/admissions/admission-2024"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/post-graduate-programme1-year-ll-m"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/admissions/admissions-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/admissions/admissions-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/post-graduate-programme1-year-ll-m"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "seen",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/undergraduate-programme5-year-b-a-ll-bhons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "send",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/certificates-issuance"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/wp-content/uploads/2026/03/Updated-Brochure-05-03-2026.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/wp-content/uploads/2026/03/Updated-Brochure-05-03-2026.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/admissions/admissions-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tau",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/post-graduate-programme1-year-ll-m"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/admissions/admissions-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/wp-content/uploads/2026/03/Updated-Brochure-05-03-2026.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ver",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/admissions/admissions-faq"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nujs.edu/home/academics/undergraduate-programme5-year-b-a-ll-bhons"
+    }
+  ],
+  "total_courses": 109,
+  "pages_scraped": 25,
+  "errors": []
+}

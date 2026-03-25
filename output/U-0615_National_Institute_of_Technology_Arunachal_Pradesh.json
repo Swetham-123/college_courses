@@ -1,0 +1,241 @@
+{
+  "aishe_code": "U-0615",
+  "university_name": "National Institute of Technology Arunachal Pradesh",
+  "state": "Arunachal Pradesh",
+  "district": "Papum Pare",
+  "website": "www.nitap.ac.in",
+  "year_established": "2010",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:29:39.260100Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Tech",
+      "course_name": ")\nPh.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitap.ac.in/academic/section-page-details?page=021f49d2a5&section=b6f6648087&name=Fee-Struct"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "0\nPh.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitap.ac.in/academic/home?section=b6f6648087"
+    },
+    {
+      "degree_name": "PHD",
+      "course_name": "fees",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitap.ac.in/academic/section-page-details?page=021f49d2a5&section=b6f6648087&name=Fee-Struct"
+    },
+    {
+      "degree_name": "PHD",
+      "course_name": "pos",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitap.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph. D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitap.ac.in/academic/section-page-details?page=876db4da49&section=b6f6648087&name=Rules-and-"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and M",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitap.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Computer-Science-&-Engineering&dept=1dbf504017"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "wri",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitap.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Basic-&-Applied-Science&dept=381c47c0a0"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitap.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitap.ac.in/academic/section-page-details?page=876db4da49&section=b6f6648087&name=Rules-and-"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "app",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Management-&-Humanities&dept=07005b74de"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Bio-Technology&dept=c51b84944f"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "from 2013-14",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Electronics-and-Communication-Engineering&dept=cad3da575a"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ord",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitap.ac.in/academic/section-page-details?page=876db4da49&section=b6f6648087&name=Rules-and-"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitap.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ter",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Bio-Technology&dept=c51b84944f"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "wri",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Electronics-and-Communication-Engineering&dept=cad3da575a"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Fee",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitap.ac.in/academic/section-page-details?page=021f49d2a5&section=b6f6648087&name=Fee-Struct"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Cla",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Civil-Engineering&dept=8345cde791"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "For M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitap.ac.in/academic/section-page-details?page=876db4da49&section=b6f6648087&name=Rules-and-"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pow",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Electrical-Engineering&dept=66badff20c"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "REEM 2022-23",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Electrical-Engineering&dept=66badff20c"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Electronics-and-Communication-Engineering&dept=cad3da575a"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Computer-Science-&-Engineering&dept=1dbf504017"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "wri",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Electronics-and-Communication-Engineering&dept=cad3da575a"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitap.ac.in/news-details.php?slno=OEE2NThxNXRoY29Gem9hUk90dnJsUT09&notice=Advertisement-for-Ph.D-and-M.Tech-admission under-QIP-scheme-2026-is-now-open-and-will-be active-till -30.04.2026."
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Bio-Technology&dept=c51b84944f"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Electrical-Engineering&dept=66badff20c"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "For B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitap.ac.in/academic/section-page-details?page=876db4da49&section=b6f6648087&name=Rules-and-"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Mechanical-Engineering&dept=89f0915482"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Chemical-Engineering&dept=33b1f5929e"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaT",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitap.ac.in/storage/pdf/310243512.jpg"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitap.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitap.ac.in/department/department?name=Mechanical-Engineering&dept=89f0915482"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "act",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitap.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitap.ac.in/academic/section-page-details.php?page=5c3ef705bd&section=b6f6648087&name=Education-verification"
+    }
+  ],
+  "total_courses": 37,
+  "pages_scraped": 25,
+  "errors": []
+}

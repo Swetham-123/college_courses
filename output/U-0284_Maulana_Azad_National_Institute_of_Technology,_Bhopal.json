@@ -1,0 +1,235 @@
+{
+  "aishe_code": "U-0284",
+  "university_name": "Maulana Azad National Institute of Technology, Bhopal",
+  "state": "Madhya Pradesh",
+  "district": "Bhopal",
+  "website": "www.manit.ac.in",
+  "year_established": "1960",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:04:56.736649Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Desk",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fee",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manit.ac.in/fee-structure-ug-pg-and-phd-new-admission-2024-25"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ses",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "for",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Gir",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "M\rOO",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manit.ac.in/sites/default/files/news_and_events/Brochure%20IRINS.pdf"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Dual",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Open",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "bba",
+      "course_name": "bbd",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manit.ac.in/sites/default/files/news_and_events/Brochure%20IRINS.pdf"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "lev",
+      "level_of_education": "Diploma",
+      "source_url": "https://conf.manit.ac.in/assets/pdf/AICTE_Brochure_2026.pdf"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "FOR",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "PRO",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "BDB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manit.ac.in/sites/default/files/news_and_events/Brochure%20IRINS.pdf"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "CBF",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manit.ac.in/sites/default/files/news_and_events/Brochure%20IRINS.pdf"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "CFFI",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manit.ac.in/sites/default/files/news_and_events/Brochure%20IRINS.pdf"
+    },
+    {
+      "degree_name": "BED",
+      "course_name": "CBC",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manit.ac.in/sites/default/files/news_and_events/Brochure%20IRINS.pdf"
+    },
+    {
+      "degree_name": "BED",
+      "course_name": "GHH",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manit.ac.in/sites/default/files/news_and_events/Brochure%20IRINS.pdf"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "N.I.T",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Mon",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://conf.manit.ac.in/assets/pdf/AICTE_Brochure_2026.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manit.ac.in/sites/default/files/news_and_events/Brochure%20IRINS.pdf"
+    },
+    {
+      "degree_name": "bED",
+      "course_name": "afP",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manit.ac.in/sites/default/files/news_and_events/Brochure%20IRINS.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bor",
+      "level_of_education": "Unknown",
+      "source_url": "https://conf.manit.ac.in/assets/pdf/AICTE_Brochure_2026.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "open",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.manit.ac.in"
+    }
+  ],
+  "total_courses": 36,
+  "pages_scraped": 25,
+  "errors": []
+}

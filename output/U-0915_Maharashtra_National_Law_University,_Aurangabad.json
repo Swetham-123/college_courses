@@ -1,0 +1,43 @@
+{
+  "aishe_code": "U-0915",
+  "university_name": "Maharashtra National Law University, Aurangabad",
+  "state": "Maharashtra",
+  "district": "Chhatrapati Sambhajinagar",
+  "website": "mnlua.ac.in",
+  "year_established": "2014",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:48:01.540588Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B (",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnlua.ac.in/course-ballb-hons"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnlua.ac.in/course-ballb-hons"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnlua.ac.in/sites/default/files/2025-01/Academic%20Calendar%202024.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iev",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnlua.ac.in/course-ballb-hons"
+    }
+  ],
+  "total_courses": 4,
+  "pages_scraped": 6,
+  "errors": []
+}

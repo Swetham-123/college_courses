@@ -1,0 +1,559 @@
+{
+  "aishe_code": "U-1450",
+  "university_name": "Xavier university",
+  "state": "Bihar",
+  "district": "Patna",
+  "website": "xup.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:27:55.715859Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "BCom",
+      "course_name": "MCom",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xup.ac.in/school-of-commerce-programs"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xup.ac.in/peos-pos-psos-2/"
+    },
+    {
+      "degree_name": "MCom",
+      "course_name": "Full",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xup.ac.in/school-of-commerce-programs"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Alu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/alumni-testmonial/"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/school-of-commerce-programs"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Alu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN1A01T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN1C01T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN1E01T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN1E02T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN1M01T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN1S01P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN1S01T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN1V01T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN2A02T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN2C02T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN2C03T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN2E03T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN2M02T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN2S02P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN2S02T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "GN2V02T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "dus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/school-of-management/"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "have",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/message-of-dean/"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AI1007T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/syllabus-bca-ai-ml/"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AI1A01",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/syllabus-bca-ai-ml/"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AI1C01T/P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/syllabus-bca-ai-ml/"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AI1C02T/P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/syllabus-bca-ai-ml/"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AI1C03T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/syllabus-bca-ai-ml/"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AI2A02",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/syllabus-bca-ai-ml/"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AI2C01T/P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/syllabus-bca-ai-ml/"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AI2C02T/P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/syllabus-bca-ai-ml/"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AI2C03T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/syllabus-bca-ai-ml/"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AI2C04T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/syllabus-bca-ai-ml/"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AI2C05T/P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/syllabus-bca-ai-ml/"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AI2C06T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/syllabus-bca-ai-ml/"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "AI2O02P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/syllabus-bca-ai-ml/"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "GN1007T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "GN1A01",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "GN1C01T/P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "GN1C02T/P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "GN1C03T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "GN2A02",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "GN2C01T/P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "GN2C02T/P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "GN2C03T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "GN2C04T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "GN2C05T/P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "GN2C06T",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "GN2O02P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xup.ac.in/school-of-commerce-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://xup.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://xup.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "(JMC)-2024",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/program-overview"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Mass",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/curriculum-credit-framework"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/peos-pos-psos-2/"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/wp-content/uploads/2025/10/BBA-Syllabus-Final-Vol-1st-Year.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni-testmonial/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tha",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni-testmonial/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bec",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni-testmonial/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bui",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni-testmonial/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni-testmonial/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "enh",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni-testmonial/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "eve",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni-testmonial/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "grab",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "grow",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni-testmonial/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "hap",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni-testmonial/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/message-from-hod/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "on a",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sec",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "self",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sha",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni-testmonial/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "this",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni-testmonial/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "to a",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "whe",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni-testmonial/"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni/"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://xup.ac.in/alumni/"
+    }
+  ],
+  "total_courses": 90,
+  "pages_scraped": 30,
+  "errors": []
+}

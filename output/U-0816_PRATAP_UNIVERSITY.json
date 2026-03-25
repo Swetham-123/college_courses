@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0816",
+  "university_name": "PRATAP UNIVERSITY",
+  "state": "Rajasthan",
+  "district": "Jaipur",
+  "website": "www.pratapuniversity.in",
+  "year_established": "2011",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:10.947937Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

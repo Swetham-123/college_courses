@@ -1,0 +1,1159 @@
+{
+  "aishe_code": "U-1421",
+  "university_name": "Madanapalle Institute of Technology and Science MITS",
+  "state": "Andhra Pradesh",
+  "district": "Annamayya",
+  "website": "https://mits.ac.in/university",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:35:45.514239Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mits.ac.in/department/11"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(B.I.T",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mits.ac.in/department/11"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(IIT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mits.ac.in/department/6"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(NIT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mits.ac.in/department/6"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(SRM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mits.ac.in/department/6"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(VIT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mits.ac.in/department/26"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mits.ac.in/department/9"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://admission.mits.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "app",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mits.ac.in/positionsoffered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "exp",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mits.ac.in/positionsoffered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "from a",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mits.ac.in/positionsoffered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "New",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mits.ac.in/department/8"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mits.ac.in/department/8"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(AMS) I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(C.S.E)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/department/9"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/academic-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(CSE) I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(SE) I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Aut",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/pgprogrammes"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CIV",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/pgprogrammes"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "ECE (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "EEE (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/pgprogrammes"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ema",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/department/9"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Fir",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/department/9"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "I-I (R18)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "I-I (R24)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "I-II (R18)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "I-II (R24)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "III",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "M.C.A. / M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/positionsoffered"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "MECH (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Men",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/department/9"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Not",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/academic-regulations"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Qua",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/positionsoffered"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Que",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Reg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Two",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/department/9"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "VLSI &",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/pgprogrammes"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and B",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/department/6"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "app",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/positionsoffered"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "exp",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/positionsoffered"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "End",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fre",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "I-I (R18)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "I-I (R20)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "I-I (R22)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "I-I (R24)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "I-I(R20)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "I-I(R22)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "I-I, I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "I-II",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "I-II (R18)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "I-II (R20)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "I-II (R22)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "I-II (R24)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "I-II(R20)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "I-II(R22)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "II-I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "II-I (R16)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "II-I (R18)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "II-I (R20)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "II-I (R22)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "II-I(R20)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "III",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA &",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/pgprogrammes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Que",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Sup",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "view",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "(2Y) (R14, R16 & R18)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "(2Y) I-I (R18)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "(2Y) I-I, I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "(2Y) I-I,I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Dep",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "I-I (R18) &",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "I-I (R20)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "I-I (R22 )",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "I-I (R22)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "I-I (R24)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "I-I (R24), M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "I-I(R20)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "I-II",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "I-II (20)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "I-II (R18)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "I-II (R20)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "I-II (R20,R18,R16)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "I-II (R22)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "I-II (R22) &",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "I-II (R24)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "II-I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "II-I (R20)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "II-I (R22)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "III",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "III-I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "III-I (R16)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "III-I (R18)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/pgprogrammes"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Moo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Que",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Reg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/department/9"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "view",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(CSE) &",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/department/9"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(EEE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/department/11"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aud",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aut",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CIV",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE -2008-12",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/department/9"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugprogrammes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ECE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "EEE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugprogrammes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "End",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Four",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/department/9"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "I,II",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/academic-syllabus"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "I-I, I",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "II-I",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "II-I (R18)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "III",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "III-I &",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "III-I (18)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "IV-I",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ME-A, 60",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/department/8"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ME-C, 60",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/department/8"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "MECH",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "MOO",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugprogrammes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Men",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/department/9"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/academic-syllabus"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Rem",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/department/9"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Sup",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Tim",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/department/11"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "view",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "view",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Exa",
+      "level_of_education": "Certificate",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s\nAn",
+      "level_of_education": "Certificate",
+      "source_url": "https://mits.ac.in/department/11"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s AY 2022-23",
+      "level_of_education": "Certificate",
+      "source_url": "https://mits.ac.in/department/11"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s AY 2023-24",
+      "level_of_education": "Certificate",
+      "source_url": "https://mits.ac.in/department/11"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s AY 2024-25",
+      "level_of_education": "Certificate",
+      "source_url": "https://mits.ac.in/department/11"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s AY 2025-26",
+      "level_of_education": "Certificate",
+      "source_url": "https://mits.ac.in/department/11"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Ann",
+      "level_of_education": "Certificate",
+      "source_url": "https://mits.ac.in/ugcaffairs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Deg",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/academic-syllabus"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "II-I &",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Man",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/ugprogrammes"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Ema",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/department/9"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "2\nDr. B",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/department/8"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "A, B, C, 190",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/department/8"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "A, B, C, D, 120",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/department/8"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Exa",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "ICE",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "JNT",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/department/8"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Mod",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Reg",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Sup",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "ter",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/department/8"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Apr",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "May 2023",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/department/9"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/university"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/department/8"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.mits.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "act",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/department/11"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "alo",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.mits.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "att",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/department/8"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/department/6"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "def",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/ugc-autonomous-exam-portal"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/academic-syllabus"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.mits.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/ugcaffairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://mits.ac.in/department/26"
+    }
+  ],
+  "total_courses": 190,
+  "pages_scraped": 25,
+  "errors": []
+}

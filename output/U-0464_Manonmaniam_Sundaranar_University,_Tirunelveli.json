@@ -1,0 +1,109 @@
+{
+  "aishe_code": "U-0464",
+  "university_name": "Manonmaniam Sundaranar University, Tirunelveli",
+  "state": "Tamil Nadu",
+  "district": "Tirunelveli",
+  "website": "www.msuniv.ac.in",
+  "year_established": "1990",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:03:20.639918Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "B.A",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.msuniv.ac.in/msuniv_artsdepartment.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.msuniv.ac.in/msuniv_artsdepartment.php"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.msuniv.ac.in/msuniv_sciencedepartment.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.msuniv.ac.in/msuniv_sciencedepartment.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.msuniv.ac.in/msuniv_artsdepartment.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msuniv.ac.in/msuniv_pg_extension_centre.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msuniv.ac.in/msuniv_pg_extension_centre.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.msuniv.ac.in/admissions.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.msuniv.ac.in/admissions.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.msuniv.ac.in/admissions.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.msuniv.ac.in/admissions.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "SSR 3",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.msuniv.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.msuniv.ac.in/admissions.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msuniv.ac.in/admissions.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Tam",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.msuniv.ac.in/admissions.php"
+    }
+  ],
+  "total_courses": 15,
+  "pages_scraped": 15,
+  "errors": []
+}

@@ -1,0 +1,427 @@
+{
+  "aishe_code": "U-1046",
+  "university_name": "NETAJI SUBHAS UNIVERSITY",
+  "state": "Jharkhand",
+  "district": "East Singhbum",
+  "website": "www.nsuniv.ac.in",
+  "year_established": "2018",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:43:29.449044Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eco",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Hin",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "His",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Inf",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Life",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Math",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Doc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsuniv.ac.in/schools/school-of-commerce"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Met",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Min",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pow",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Doc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsuniv.ac.in/schools/school-of-management"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Doc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsuniv.ac.in/schools/school-of-it"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Bui",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nsuniv.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nsuniv.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Post",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsuniv.ac.in/schools/school-of-education"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Met",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Min",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "ICI",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nsuniv.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "May 15, 202",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nsuniv.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Read",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsuniv.ac.in/schools/school-of-management"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsuniv.ac.in/schools/school-of-medical-science"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "ANM (",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsuniv.ac.in/schools/school-of-nursing"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Civ",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dip",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsuniv.ac.in/schools/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Gra",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsuniv.ac.in/schools/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mec",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nsuniv.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsuniv.ac.in/schools/school-of-arts-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Geo",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsuniv.ac.in/schools/school-of-arts-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Mass",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsuniv.ac.in/schools/school-of-arts-humanities"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsuniv.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsuniv.ac.in/course"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsuniv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsuniv.ac.in/schools/school-of-education"
+    }
+  ],
+  "total_courses": 68,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,763 @@
+{
+  "aishe_code": "U-0410",
+  "university_name": "Malviya National Institute of Technology, Jaipur",
+  "state": "Rajasthan",
+  "district": "Jaipur",
+  "website": "www.mnit.ac.in",
+  "year_established": "1963",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:57:04.297967Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/format.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/format.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/format.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "For",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/format.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mnit.ac.in/students/admissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/Notice.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "dual",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/office_order.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mnit.ac.in/students/admissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/format.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Aff",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/format.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "All",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/Notice.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/convocation"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Even",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/academic_calendar.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sup",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/PG.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Syn",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/format.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/UG.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/office_order.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "for",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/PG.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "phd",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/PG.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mnit.ac.in/academics/PG.php"
+    },
+    {
+      "degree_name": "phd",
+      "course_name": "Oth",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mnit.ac.in/students/admissions"
+    },
+    {
+      "degree_name": "M.Plan",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Even",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/academics/timetable.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/academics/format.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ord",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/academics/UG.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mnit.ac.in/students/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mnit.ac.in/students/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/academics/Notice.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "COM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "DUS",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "EMB",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "ENV",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "PET",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "POW",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "PRO",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Part",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mnit.ac.in/students/admissions"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "STE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "STR",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "THE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "TRA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "VLSI",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "WAT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "WIR",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mnit.ac.in/news/news?newsid=Q62L3w=="
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mnit.ac.in/news/news?newsid=Q62L3w=="
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/academics/convocation"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "exa",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mnit.ac.in/academics/Notice.php"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "sti",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mnit.ac.in/students/admissions"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "CHE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "New",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mnit.ac.in/academics/Notice.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aca",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CIV",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "COM",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ELE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "MEC",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "MET",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mnit.ac.in/students/academics.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mnit.ac.in/academics/Notice.php"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "S TO",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Fee",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/Notice.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "How",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ori",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Req",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Your",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/Notice.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "with",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Acc",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Aff",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Med",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Tra",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "any",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "bey",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "for",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/format.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s by",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s in",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s is",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "the",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "thr",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "whi",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnit.ac.in/students/admissions"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "htt",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnit.ac.in/students/admissions"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ali",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/convocation"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/convocation"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/students/sii.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/convocation"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/fee_structure.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnit.ac.in/students/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/students/mac.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "deb",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnit.ac.in/students/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/Notice.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "imp",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnit.ac.in/students/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lab",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnit.ac.in/students/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "men",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ope",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnit.ac.in/news/news?newsid=RKWJ3g=="
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnit.ac.in/students/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/students/sii.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pos",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnit.ac.in/students/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "run",
+      "level_of_education": "Unknown",
+      "source_url": "https://mnit.ac.in/news/news?newsid=R6WK0A=="
+    },
+    {
+      "degree_name": "be",
+      "course_name": "send",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/document.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/PG.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vie",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/students/sii.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "web",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics/convocation"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "als",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mnit.ac.in/academics"
+    }
+  ],
+  "total_courses": 124,
+  "pages_scraped": 25,
+  "errors": []
+}

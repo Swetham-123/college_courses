@@ -1,0 +1,661 @@
+{
+  "aishe_code": "U-0579",
+  "university_name": "North Bengal University, Darjeeling",
+  "state": "West Bengal",
+  "district": "Darjeeling",
+  "website": "www.nbu.ac.in",
+  "year_established": "1962",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:49:53.638421Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Diploma",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ant",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ben",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bot",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Dip",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eco",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Food",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Geo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Him",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Hin",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "His",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Lib",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mass",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mic",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Nep",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Phi",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Post",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/academic_calendar.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Rur",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "San",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Soc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Tea",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Zoo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "view",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/academic_calendar.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/adm/admissionNotifications.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Oth",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nbu.ac.in/adm/admissionNotifications.aspx"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "LLM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Pub",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/academic_calendar.aspx"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "LL.M., M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "and B",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/academic_calendar.aspx"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(CST)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/gov/pgScience.aspx"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Sem",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://trove.nbu.ac.in/ipForward.aspx?APP_ID=25/doc/notifications_files/GC/CB/202603160001.pdf"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Dep",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pub",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/academic_calendar.aspx"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "syl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/gov/pgArts.aspx"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Bri",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/academic_calendar.aspx"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Dep",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pub",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/academic_calendar.aspx"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "syl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/gov/pgScience.aspx"
+    },
+    {
+      "degree_name": "MPharm",
+      "course_name": "Dep",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MPharm",
+      "course_name": "MPh",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MPharm",
+      "course_name": "syl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/gov/pgScience.aspx"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "MSc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Tea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Tea",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "B.B.A./B.C.A./B.S.W./B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nbu.ac.in/acr/academic_calendar.aspx"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "FYU",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Pure",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ben",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Tou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Tea",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "integrated B.A",
+      "course_name": "LL.B (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nbu.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "FYU",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL. B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Sup",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/gov/pgArts.aspx"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://trove.nbu.ac.in/ipForward.aspx?APP_ID=25/doc/notifications_files/GF/FA/202601130005.pdf"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "(ODL)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Ben",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Mass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Nep",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Phi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Rur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "San",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Str",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Wom",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/acr/programmes.aspx"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "MRM",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/doc/adm/ForeignStudent/AdmissionPolicyForeignStudents.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://trove.nbu.ac.in/ipForward.aspx?APP_ID=25/doc/notifications_files/GC/CC/202603110002.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/cus/Directory.aspx"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://trove.nbu.ac.in/ipForward.aspx?APP_ID=25/doc/notifications_files/GF/FA/202601130005.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://trove.nbu.ac.in/ipForward.aspx?APP_ID=25/doc/notifications_files/GF/FA/202601130005.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://trove.nbu.ac.in/ipForward.aspx?APP_ID=25/doc/notifications_files/GC/CB/202603160001.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nbu.ac.in/gov/pgScience.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://trove.nbu.ac.in/ipForward.aspx?APP_ID=25/doc/notifications_files/GF/FA/202601130005.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://trove.nbu.ac.in/ipForward.aspx?APP_ID=25/doc/notifications_files/GF/FA/202601130005.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://trove.nbu.ac.in/ipForward.aspx?APP_ID=25/doc/notifications_files/GF/FA/202601130005.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://trove.nbu.ac.in/ipForward.aspx?APP_ID=25/doc/notifications_files/GC/CB/202603160001.pdf"
+    },
+    {
+      "degree_name": "m.A",
+      "course_name": "copy",
+      "level_of_education": "Unknown",
+      "source_url": "https://trove.nbu.ac.in/ipForward.aspx?APP_ID=25/doc/notifications_files/GC/CB/202603160001.pdf"
+    }
+  ],
+  "total_courses": 107,
+  "pages_scraped": 19,
+  "errors": []
+}

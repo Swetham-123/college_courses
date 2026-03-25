@@ -1,0 +1,235 @@
+{
+  "aishe_code": "U-0565",
+  "university_name": "Uttarakhand Sanskrit University, Hardwar",
+  "state": "Uttarakhand",
+  "district": "Haridwar",
+  "website": "www.usvv.ac.in",
+  "year_established": "2005",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:18:02.252736Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.usvv.ac.in/research-syllabus.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Dow",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.usvv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.usvv.ac.in/research-admission.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "San",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.usvv.ac.in/faculty-sahitya.php"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Jou",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Jyo",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Kar",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Vas",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "cer",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.usvv.ac.in/nad-cell.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Com",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dip",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.usvv.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Env",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "San",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Syl",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.usvv.ac.in/coursesnep.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Yoga",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Yoga 6",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Yoga6",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.usvv.ac.in/faculty-sahitya.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Jyo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Phi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Ved (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Yoga",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Yoga (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.usvv.ac.in/courses.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.usvv.ac.in/downloads/PhD_Registered_Scholars_list.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.usvv.ac.in/nad-cell.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.usvv.ac.in/nad-cell.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.usvv.ac.in/nad-cell.php"
+    }
+  ],
+  "total_courses": 36,
+  "pages_scraped": 13,
+  "errors": []
+}

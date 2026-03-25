@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0717",
+  "university_name": "SRI DEV SUMAN UTTARAKHAND UNIVERSITY, BADSHAHITHOL, TEHRI",
+  "state": "Uttarakhand",
+  "district": "Tehri Garhwal",
+  "website": "www.sdsuv.ac.in",
+  "year_established": "2011",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:37.512685Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

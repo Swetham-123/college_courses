@@ -1,0 +1,565 @@
+{
+  "aishe_code": "U-0331",
+  "university_name": "Tata Institute of Social Sciences, Mumbai",
+  "state": "Maharashtra",
+  "district": "Mumbai",
+  "website": "www.tiss.ac.in",
+  "year_established": "1936",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:56.775201Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://admissions.tiss.ac.in/admissions/mphilphd/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pub",
+      "level_of_education": "Doctoral",
+      "source_url": "https://admissions.tiss.ac.in/admissions/mphilphd/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Rur",
+      "level_of_education": "Doctoral",
+      "source_url": "https://admissions.tiss.ac.in/admissions/mphilphd/programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://admissions.tiss.ac.in/admissions/mphilphd/notifications"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://admissions.tiss.ac.in/admissions/mphilphd/programmes"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "M.Ed",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tiss.ac.in/academics/teaching-programmes"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Law",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tiss.ac.in/academics/teaching-programmes"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Mum",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://tiss.ac.in/academics/teaching-programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "MSc)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Dia",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Pat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/international-students/forms-and%20announcement"
+    },
+    {
+      "degree_name": "Dual degree",
+      "course_name": "Mas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiss.ac.in/academics/teaching-programmes"
+    },
+    {
+      "degree_name": "Integrated MA",
+      "course_name": "Pub",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://tiss.ac.in/academics/teaching-programmes"
+    },
+    {
+      "degree_name": "dual degree",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/international-students/forms-and%20announcement"
+    },
+    {
+      "degree_name": "dual degree",
+      "course_name": "app",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/international-students/forms-and%20announcement"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Agr",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ana",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ban",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cit",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cyb",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dan",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Data",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dia",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dig",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dis",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dro",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eme",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Food",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ger",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hea",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hos",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hum",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hyd",
+      "level_of_education": "Diploma",
+      "source_url": "https://tiss.ac.in/academics/teaching-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mum",
+      "level_of_education": "Diploma",
+      "source_url": "https://tiss.ac.in/academics/teaching-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "ODL",
+      "level_of_education": "Diploma",
+      "source_url": "https://tiss.ac.in/academics/teaching-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ope",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Org",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Psy",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Sup",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tra",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Wat",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "You",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "lev",
+      "level_of_education": "Diploma",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Con",
+      "level_of_education": "Certificate",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://tiss.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Eme",
+      "level_of_education": "Certificate",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Lev",
+      "level_of_education": "Certificate",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mum",
+      "level_of_education": "Certificate",
+      "source_url": "https://tiss.ac.in/academics/teaching-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ref",
+      "level_of_education": "Certificate",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Sem",
+      "level_of_education": "Certificate",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "par",
+      "level_of_education": "Certificate",
+      "source_url": "https://tiss.ac.in/view/5/projects/prayas/online-certificate-course-on-socio-legal-practice-"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://admissions.tiss.ac.in/admissions/stp/programmes"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "ODL",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiss.ac.in/academics/teaching-programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiss.ac.in/view/5/mumbai-campus/school-of-education/scholarships-for-education-pg-programmes-2025-26"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiss.ac.in/academics/teaching-programmes"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/sve-admissions/sve-programmes"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iev",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiss.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ma-admissions/pagect-6"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/international-students/forms-and%20announcement"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiss.ac.in/view/5/projects/prayas/online-certificate-course-on-socio-legal-practice-"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "onl",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ma-admissions/pagect-6"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiss.ac.in/academics/resource-centres"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiss.ac.in/academics/resource-centres"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ste",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiss.ac.in/view/7/tiss-announces-major-academic-overhaul-aims-to-lea"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiss.ac.in/view/5/mumbai-campus/school-of-education/scholarships-for-education-pg-programmes-2025-26"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://admissions.tiss.ac.in/view/6/admissions/ba-ma-admissions/about-ba-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "use",
+      "level_of_education": "Unknown",
+      "source_url": "https://tiss.ac.in/view/5/projects/prayas/online-certificate-course-on-socio-legal-practice-"
+    }
+  ],
+  "total_courses": 91,
+  "pages_scraped": 21,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0416",
+  "university_name": "Pacific Academy of Higher Education Research University, Udaipur",
+  "state": "Rajasthan",
+  "district": "Udaipur",
+  "website": "www.pacific-university.ac.in",
+  "year_established": "2010",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:54:42.094580Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "aishe_code": "U-0546",
+  "university_name": "U.P. Rajarshi Tandon Open University, Allahabad",
+  "state": "Uttar Pradesh",
+  "district": "Prayagraj",
+  "website": "www.uprtou.ac.in",
+  "year_established": "1999",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:16:13.146107Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Enr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=8&contid=127"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uprtou.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Post",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=2"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Viva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uprtou.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=4&contid=40"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "(Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uprtou.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uprtou.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Rec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=2"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": ")\nDr. C K",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": ") Dr. C K",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": ")Dr. C K",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "MCS",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uprtou.ac.in"
+    },
+    {
+      "degree_name": "PGDM",
+      "course_name": "M\nDr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=2"
+    },
+    {
+      "degree_name": "PGDM",
+      "course_name": "M Dr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=2"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=2"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "(ODL)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=8&contid=127"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "ODL",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=8&contid=127"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Dr. C K",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Gro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Home",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "App",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bio",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fin",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=2"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Goo",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=2"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hum",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=2"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Int",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=2"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mar",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=2"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=4&contid=40"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ved",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Web",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "App",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Com",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "For",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Goo",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=2"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Lab",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Lin",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pra",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uprtou.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=4&contid=40"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ved",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Web",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=9&contid=146"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "jRQ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/upload_pdf/17012025_phd_viva_voce.pdf"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "YOGA",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/upload_pdf/07_03_2026_news_MLIS_MBA_MCA_MA-YOGA_PGDYO_DYO_CCY_UGYO_Practical__006.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "E1c9t8",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ben",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "emp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ful",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "work",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wtZ1",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=1"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uprtou.ac.in/vc_school_main_page.php?slm=9&contid=146"
+    }
+  ],
+  "total_courses": 70,
+  "pages_scraped": 25,
+  "errors": []
+}

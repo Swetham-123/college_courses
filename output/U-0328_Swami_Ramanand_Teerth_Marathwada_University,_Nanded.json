@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0328",
+  "university_name": "Swami Ramanand Teerth Marathwada University, Nanded",
+  "state": "Maharashtra",
+  "district": "Nanded",
+  "website": "www.srtmun.ac.in",
+  "year_established": "1994",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:50.838388Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

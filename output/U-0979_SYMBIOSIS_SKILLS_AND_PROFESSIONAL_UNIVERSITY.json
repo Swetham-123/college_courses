@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0979",
+  "university_name": "SYMBIOSIS SKILLS AND PROFESSIONAL UNIVERSITY",
+  "state": "Maharashtra",
+  "district": "Pune",
+  "website": "www.sspu.ac.in",
+  "year_established": "2017",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:52.976533Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

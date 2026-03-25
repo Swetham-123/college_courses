@@ -1,0 +1,1075 @@
+{
+  "aishe_code": "U-0749",
+  "university_name": "MANIPAL UNIVERSITY, JAIPUR",
+  "state": "Rajasthan",
+  "district": "Jaipur",
+  "website": "www.jaipur.manipal.edu",
+  "year_established": "2011",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:00:20.150993Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Integrated M.Sc",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "Integrated Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/phd.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/phd.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "for",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/phd.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "with",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/phd.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/phd.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Bat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/phd.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "MET",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/phd.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/phd.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/phd.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "for",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/phd.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "gui",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/phd.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/phd.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mit/program-list/btech/btech-computer-science-engineering.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "teg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/streams-programs.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ter",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/phd.html"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Int",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "(Aud.)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/online-entrance-exam-overview/overview.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "(SLP)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/online-entrance-exam-overview/overview.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Aud",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipal.edu/admissions.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Car",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Die",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Dig",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ech",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Gen",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/new-programs.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "HIM)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/online-entrance-exam-overview/overview.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Hea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mol",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nan",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nuc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Pho",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ren",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Rep",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipal.edu/admissions.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Spe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipal.edu/admissions.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Stem",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Sys",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Tis",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Yoga",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/news-events/mahe-promotes-health-and-harmony-through-yoga.html"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/new-programs.html"
+    },
+    {
+      "degree_name": "MCom",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "MPharm",
+      "course_name": "Mar",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "MPharm",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/scholarships.html"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Aud",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipal.edu/admissions.html"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipal.edu/admissions.html"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Gen",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Life",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipal.edu/admissions.html"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipal.edu/admissions.html"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Spe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.manipal.edu/admissions.html"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Cer",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/streams-programs.html"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Dig",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Log",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Stem",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/scholarships.html"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ana",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ani",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/online-entrance-exam-overview/overview.html"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "App",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/online-entrance-exam-overview/overview.html"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Eme",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/online-entrance-exam-overview/overview.html"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Res",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aer",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mit/program-list/btech/btech-aeronautical-engineering.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aut",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mit/program-list/btech/btech-automobile-engineering.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/new-programs.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/new-programs.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mit/program-list/btech/btech-computer-science-engineering.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/new-programs.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/new-programs.html"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/online-entrance-exam-overview/overview.html"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "DGHS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/neet.html"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "Ref",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "BDes",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "BPharm",
+      "course_name": "Mar",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipal.edu/admissions.html"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "AIC",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.manipal.edu/admissions.html"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Aer",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mit/program-list/btech/btech-aeronautical-engineering.html"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Aut",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mit/program-list/btech/btech-automobile-engineering.html"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mit/program-list/btech/btech-computer-science-engineering.html"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mit/program-list/btech/btech-aeronautical-engineering.html"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/scholarships.html"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/new-programs.html"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "BDS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/phd.html"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "DGHS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/neet.html"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "JCE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/neet.html"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "KEA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/neet.html"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Ref",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "(PGD)",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Adv",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/streams-programs.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cel",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Con",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cor",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/programs-list.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Exe",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/programs-list.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fel",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/streams-programs.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hol",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Lat",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/programs-list.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pos",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/programs-list.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Post",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/streams-programs.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ref",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Sho",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/programs-list.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "can",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "from",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "(PGC)",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Can",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/programs-list.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Exe",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/streams-programs.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Fas",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Post",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Sec",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Sup",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/programs-list.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "the",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "iss",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Cul",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/online-entrance-exam-overview/overview.html"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Med",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "Ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pai",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/phd.html"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Dig",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Fas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Film",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Med",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Mul",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "dian",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/dates-to-remember.html"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/content/dam/manipal/mu/documents/mahe/w20/UGC%2022_05_2023.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical &",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/helpguide.html"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/streams-programs.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/academics/convocation.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mit/program-list/btech/btech-aeronautical-engineering.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/international-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mit/program-list/btech/btech-computer-science-engineering.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/online-entrance-exam-overview/overview.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/international-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "est",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/international-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/neet.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "on a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/indian-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "reg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/international-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ren",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/international-students/who-can-apply.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sup",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/news-events/mahe-and-tenvic-sports-sign-landmark-mou-to-build-india-s-next-g.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu/mu/admission/eligibility_mahe.html"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jaipur.manipal.edu"
+    }
+  ],
+  "total_courses": 176,
+  "pages_scraped": 25,
+  "errors": []
+}

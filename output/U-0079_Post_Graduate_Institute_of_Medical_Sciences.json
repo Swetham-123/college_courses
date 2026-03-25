@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0079",
+  "university_name": "Post Graduate Institute of Medical Sciences",
+  "state": "Chandigarh",
+  "district": "Chandigarh",
+  "website": "pgimer.edu.in",
+  "year_established": "1962",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:09.595730Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "aishe_code": "U-0529",
+  "university_name": "Mohammad Ali Jauhar University, Rampur",
+  "state": "Uttar Pradesh",
+  "district": "Rampur",
+  "website": "www.jauharuniversity.edu.in",
+  "year_established": "2005",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:21:24.909933Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Dep",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jauharuniversity.edu.in/commerce.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jauharuniversity.edu.in/phd-entrance-syllabus-final.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Form 2026-27",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jauharuniversity.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "etc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jauharuniversity.edu.in/management.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jauharuniversity.edu.in/management.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "lev",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jauharuniversity.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jauharuniversity.edu.in/commerce.html"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "M.C.A",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/register.aspx"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "MCA/M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Gra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "MTTM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/details-of-academic-programs.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jauharuniversity.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/register.aspx"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/details-of-academic-programs.html"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Time",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/management.html"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/details-of-academic-programs.html"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Lab",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Time",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/commerce.html"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "B.B.A",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/register.aspx"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Fac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/details-of-academic-programs.html"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Reg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/education.html"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/education.html"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/pharmacy.html"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(PCM)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/agriculture_science.html"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hons",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Pas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Dip",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/register.aspx"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "or M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Time",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/management.html"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/details-of-academic-programs.html"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "AGR",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in"
+    },
+    {
+      "degree_name": "Integrated B.A",
+      "course_name": "LL.B.(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jauharuniversity.edu.in/register.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "ANM",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jauharuniversity.edu.in/register.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dig",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jauharuniversity.edu.in/register.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Engg",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fac",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jauharuniversity.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "I.P.R",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jauharuniversity.edu.in/register.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Nur",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ope",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Opt",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Para",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jauharuniversity.edu.in/register.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Phy",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tax",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Bus",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B (0",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Time",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/humanities.html"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/details-of-academic-programs.html"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/assets/pdf/list-of-qualified-candidates-in-phd-entrance-examination-for-the-admission-in-session-2025-26.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/agriculture_science.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/commerce.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/admission_procedure.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/pharmacy.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ide",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/agriculture_science.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lar",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/agriculture_science.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/commerce.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/education.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/courses_offered.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/law.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/admission_procedure.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/commerce.html"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jauharuniversity.edu.in/pharmacy.html"
+    }
+  ],
+  "total_courses": 70,
+  "pages_scraped": 25,
+  "errors": []
+}

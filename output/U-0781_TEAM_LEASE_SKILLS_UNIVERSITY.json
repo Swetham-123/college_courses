@@ -1,0 +1,133 @@
+{
+  "aishe_code": "U-0781",
+  "university_name": "TEAM LEASE SKILLS UNIVERSITY",
+  "state": "Gujarat",
+  "district": "Vadodara",
+  "website": "www.teamleaseuniversity.ac.in",
+  "year_established": "2013",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:57.185030Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PhD",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.teamleaseuniversity.ac.in/commerce-management.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "rev",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.teamleaseuniversity.ac.in/commerce-management.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.teamleaseuniversity.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "CCw",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.teamleaseuniversity.ac.in/pdf/TLSU UGC 2f.pdf"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "MED",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.teamleaseuniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "FAC",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.teamleaseuniversity.ac.in/commerce-management.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "STU",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.teamleaseuniversity.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.teamleaseuniversity.ac.in/enterprise-learning-services.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.teamleaseuniversity.ac.in/pdf/NRPP.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.teamleaseuniversity.ac.in"
+    },
+    {
+      "degree_name": "bA",
+      "course_name": ")NNNÇ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.teamleaseuniversity.ac.in/pdf/TLSU UGC 2f.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "aro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.teamleaseuniversity.ac.in/enterprise-learning-services.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "set",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.teamleaseuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.teamleaseuniversity.ac.in/commerce-management.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "suc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.teamleaseuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.teamleaseuniversity.ac.in/enterprise-learning-services.php"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "cur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.teamleaseuniversity.ac.in/commerce-management.php"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.teamleaseuniversity.ac.in/commerce-management.php"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ali",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.teamleaseuniversity.ac.in/commerce-management.php"
+    }
+  ],
+  "total_courses": 19,
+  "pages_scraped": 15,
+  "errors": []
+}

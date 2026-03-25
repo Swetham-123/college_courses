@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1230",
+  "university_name": "MAGANBHAI ADENWALA MAHAGUJARAT UNIVERSITY",
+  "state": "Gujarat",
+  "district": "Kheda",
+  "website": "WWW.MAMUNI.EDU.IN",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:43:41.613805Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

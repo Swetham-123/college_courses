@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0483",
+  "university_name": "Tamil Nadu Teachers Education University, Chennai",
+  "state": "Tamil Nadu",
+  "district": "Chennai",
+  "website": "www.tnteu.ac.in",
+  "year_established": "2008",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:55.090980Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

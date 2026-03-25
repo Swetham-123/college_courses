@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0590",
+  "university_name": "WEST BENGAL STATE UNIVERSITY ( BARASAT, NORTH 24 PARGANAS)",
+  "state": "West Bengal",
+  "district": "North 24 Parganas",
+  "website": "www.wbsu.ac.in",
+  "year_established": "2008",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:27:26.269562Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

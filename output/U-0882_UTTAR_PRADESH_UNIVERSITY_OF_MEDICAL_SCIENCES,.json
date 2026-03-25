@@ -1,0 +1,253 @@
+{
+  "aishe_code": "U-0882",
+  "university_name": "UTTAR PRADESH UNIVERSITY OF MEDICAL SCIENCES,",
+  "state": "Uttar Pradesh",
+  "district": "Etawah",
+  "website": "www.upums.ac.in",
+  "year_established": "2005",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:18:35.816174Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PhD",
+      "course_name": "Cell",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "call",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upums.ac.in/PhDCell"
+    },
+    {
+      "degree_name": "msc",
+      "course_name": "Þ&kˁ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.upums.ac.in/assets/pdf/Recruitment/Advt.%2038%20Computer%20Based%20Examination%20Through%20Online%20Medium%202024-25.pdf"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.upums.ac.in/curriculum"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Rad",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.upums.ac.in/undergraduate"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "View",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.upums.ac.in/curriculum"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Blo",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.upums.ac.in/diplomacourseseats"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Car",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.upums.ac.in/diplomacourseseats"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dia",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.upums.ac.in/diplomacourseseats"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eme",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.upums.ac.in/diplomacourseseats"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Gen",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.upums.ac.in/diplomacourseseats"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hea",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.upums.ac.in/diplomacourseseats"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Lab",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.upums.ac.in/diplomacourseseats"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "MRI",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.upums.ac.in/diplomacourseseats"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Opt",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.upums.ac.in/diplomacourseseats"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Phy",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.upums.ac.in/diplomacourseseats"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.upums.ac.in/postgracourseseats"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Amb",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "App",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Doz",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "GLP",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Hain",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "MDMC",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mer",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Read",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Sub",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Vid",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Dry",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Eco",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Xpe",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "for",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upums.ac.in/assets/pdf/seedocument2.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical X",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium 2024-25)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "tro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upums.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upums.ac.in"
+    }
+  ],
+  "total_courses": 39,
+  "pages_scraped": 25,
+  "errors": []
+}

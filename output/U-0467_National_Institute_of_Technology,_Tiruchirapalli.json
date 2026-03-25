@@ -1,0 +1,481 @@
+{
+  "aishe_code": "U-0467",
+  "university_name": "National Institute of Technology, Tiruchirapalli",
+  "state": "Tamil Nadu",
+  "district": "Tiruchirappalli",
+  "website": "http://www.nitt.edu",
+  "year_established": "1964",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:37:43.976768Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Can",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/home/admissions/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cor",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/academics/departments/cecase"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/academics/departments/cecase"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/home/admissions/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sec",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/home/academics/notices"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/home/academics/notices"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/academics/departments/ece"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and 1",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/academics/departments/physics"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and M.S. (",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/academics/departments/ice"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "awa",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/academics/departments/ice"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "com",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/academics/departments/prod"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/academics/departments/ece"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sti",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/home/admissions/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/academics/departments/meta"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/home/admissions/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/academics/departments/architecture"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "s in",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/home/admissions/phd"
+    },
+    {
+      "degree_name": "phd",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/home/admissions/phd"
+    },
+    {
+      "degree_name": "phd",
+      "course_name": "dic",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitt.edu/home/admissions/phd"
+    },
+    {
+      "degree_name": "M.Arch",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/architecture"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(Non",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/physics"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Cla",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/civil"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/ca"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ind",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/ice"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pow",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/eee"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/civil"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/meta"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Sup",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu/home/academics/notices"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu/home/admissions/phd"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/ca"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/ca"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/ca"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/architecture"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitt.edu"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(EEE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/eee"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cla",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/civil"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "E E E",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/eee"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "E E E 1964",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/eee"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ICE",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/ice"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/civil"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitt.edu"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/ece"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/prod"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/prod"
+    },
+    {
+      "degree_name": "Btech",
+      "course_name": "MME",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nitt.edu/academics/departments/meta"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "(PDF)",
+      "level_of_education": "Certificate",
+      "source_url": "http://www.nitt.edu/home/academics/notices"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "App",
+      "level_of_education": "Certificate",
+      "source_url": "http://www.nitt.edu"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Deg",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/ece"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/ece"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/meta"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "to a 4",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/ece"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "cou",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/ece"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/ece"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Adm",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/humanities"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/humanities"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/home/students/events/covid19/MOOCs.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/chemistry"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/civil"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/eee"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/home/admissions/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/prod"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/home/admissions/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/home/admissions/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eff",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/cse"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "emp",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/cse"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eng",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/cse"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "est",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/mech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/civil"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/chemistry"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/cse"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "suc",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/cse"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nitt.edu/academics/departments/cecase"
+    }
+  ],
+  "total_courses": 77,
+  "pages_scraped": 25,
+  "errors": []
+}

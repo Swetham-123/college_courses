@@ -1,0 +1,181 @@
+{
+  "aishe_code": "U-1348",
+  "university_name": "Varun Arjun University",
+  "state": "Uttar Pradesh",
+  "district": "Shahjahanpur",
+  "website": "www.vau.edu.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:19:23.005672Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vau.edu.in/admission-guidelines"
+    },
+    {
+      "degree_name": "B.PHARM",
+      "course_name": "Var",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vau.edu.in"
+    },
+    {
+      "degree_name": "B.SC",
+      "course_name": "NUR",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vau.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vau.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BCA, B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vau.edu.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "FEE 2024-25",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vau.edu.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "FEE 2025-26",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vau.edu.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Fee",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vau.edu.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "MBBS (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vau.edu.in/programmes"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Var",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vau.edu.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "exa",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vau.edu.in/admission-guidelines"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vau.edu.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "with a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vau.edu.in/programmes"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "PHA",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vau.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "ANM",
+      "level_of_education": "Diploma",
+      "source_url": "https://vau.edu.in/admission-guidelines"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vau.edu.in"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://vau.edu.in/programmes"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://vau.edu.in/wp-content/uploads/2025/03/vau-college-of-pharmacy.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vau.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vau.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vau.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://vau.edu.in/programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://vau.edu.in/admission-guidelines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "med",
+      "level_of_education": "Unknown",
+      "source_url": "https://vau.edu.in/admission-guidelines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://vau.edu.in/admission-guidelines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://vau.edu.in/admission-guidelines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "very",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vau.edu.in"
+    }
+  ],
+  "total_courses": 27,
+  "pages_scraped": 25,
+  "errors": []
+}

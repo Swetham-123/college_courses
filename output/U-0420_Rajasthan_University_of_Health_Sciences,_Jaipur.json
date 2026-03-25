@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0420",
+  "university_name": "Rajasthan University of Health Sciences, Jaipur",
+  "state": "Rajasthan",
+  "district": "Jaipur",
+  "website": "www.ruhsraj.org",
+  "year_established": "2005",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:20.815075Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

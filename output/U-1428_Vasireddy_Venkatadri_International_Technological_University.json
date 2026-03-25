@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1428",
+  "university_name": "Vasireddy Venkatadri International Technological University",
+  "state": "Andhra Pradesh",
+  "district": "Guntur",
+  "website": "www.vvitu.com",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:20:29.684062Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

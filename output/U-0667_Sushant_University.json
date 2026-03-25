@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0667",
+  "university_name": "Sushant University",
+  "state": "Haryana",
+  "district": "Gurugram",
+  "website": "www.sushantuniversity.edu.in",
+  "year_established": "2012",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:49.806836Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

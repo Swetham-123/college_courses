@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0082",
+  "university_name": "Shaheed Mahendra Karma Vishwavidyalaya, Jagdalpur",
+  "state": "Chhattisgarh",
+  "district": "Bastar",
+  "website": "www.bvvjdp.ac.in",
+  "year_established": "2008",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:45.541691Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

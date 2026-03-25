@@ -1,0 +1,1489 @@
+{
+  "aishe_code": "U-1267",
+  "university_name": "VIKRANT UNIVERSITY",
+  "state": "Madhya Pradesh",
+  "district": "Gwalior",
+  "website": "https://vikrantuniversity.ac.in/",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:24:17.296983Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Diploma",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-computer-application"
+    },
+    {
+      "degree_name": "PHD",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sta",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-applied-science"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-computer-application"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/phd-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-applied-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cer",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Dip",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-legal-studies"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/phd-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/phd-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Und",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-education"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ava",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "rul",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/phd-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "uni",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vikrantuniversity.ac.in/pg-programmes"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-computer-application"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-agriculture-science"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Gen",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-agriculture-science"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Hor",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-agriculture-science"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Soil",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-agriculture-science"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Yoga",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/pg-programmes"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Fire",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Hig",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Inf",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Min",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ope",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Sal",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Spe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Tou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/pg-programmes"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/pg-programmes"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Gat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/pg-programmes"
+    },
+    {
+      "degree_name": "integrated MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "L.L.B.)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-legal-studies"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "ign",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(PCB)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-applied-science"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(PCM)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-applied-science"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-agriculture-science"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Env",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hea",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ind",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Yoga",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cyb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Fire",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Inf",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Min",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "B.sc",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-agriculture-science"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": ") is a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ope",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "are",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-computer-application"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "fol",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-computer-application"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-agriculture-science"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Dip",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ban",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bus",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Che",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Civ",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/pg-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cyb",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dia",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dro",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Env",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/pg-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fas",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fire",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hea",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ind",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/pg-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Inf",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Int",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Lab",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Lib",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mec",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Min",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "OSH (",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/vocational-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Post",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-computer-application"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pra",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/our-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ret",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tax",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Und",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-legal-studies"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "agr",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "from a",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "gra",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "pla",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "this",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-arts"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "Dip",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "all",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-agriculture-science"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "des",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "edu",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "hol",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "stu",
+      "level_of_education": "Diploma",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Agr",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/certificate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ban",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/certificate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Che",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/certificate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Civ",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/certificate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cli",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-applied-science"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Com",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/certificate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dip",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ele",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/certificate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Fas",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/certificate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Fire",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/certificate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Fre",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/certificate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Int",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/certificate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mec",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/certificate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Min",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/certificate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ret",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/certificate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Sci",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/certificate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Tel",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-applied-science"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Und",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Yoga",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/certificate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "case",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/international"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/pg-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "for",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/international"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "sha",
+      "level_of_education": "Certificate",
+      "source_url": "https://vikrantuniversity.ac.in/international"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Dra",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Geo",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/integrated-programmes"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B.)",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Mul",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Mus",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "San",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Yoga",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Home",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "San",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Yoga",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-agriculture-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ade",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/pg-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ben",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-applied-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "clu",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/international"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dif",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dow",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eff",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "emp",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-applied-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-agriculture-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/international"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fol",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fou",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-legal-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fre",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-yoga"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "met",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mor",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-legal-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/international"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pas",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-legal-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-legal-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-management-commerce"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/pg-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/international"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sca",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/international"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sel",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/graduate-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sev",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-computer-application"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/international"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "suc",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tau",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-legal-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upl",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/international"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/diploma-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "usi",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-humanities"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-agriculture-science"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "have",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "pla",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with a",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/pg-programmes"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-yoga"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://vikrantuniversity.ac.in/school-of-yoga"
+    }
+  ],
+  "total_courses": 245,
+  "pages_scraped": 25,
+  "errors": []
+}

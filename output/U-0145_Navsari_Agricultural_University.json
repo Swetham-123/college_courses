@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0145",
+  "university_name": "Navsari Agricultural University",
+  "state": "Gujarat",
+  "district": "Navsari",
+  "website": "www.nau.in",
+  "year_established": "2004",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:41:56.247389Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

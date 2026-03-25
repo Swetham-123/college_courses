@@ -1,0 +1,637 @@
+{
+  "aishe_code": "U-0923",
+  "university_name": "VIT Bhopal University, Sehore",
+  "state": "Madhya Pradesh",
+  "district": "Sehore",
+  "website": "www.vitbhopal.ac.in",
+  "year_established": "2017",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:26:16.340839Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "BBA",
+      "course_name": "PHD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deep",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ext",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D. (",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ter",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "Integrated M.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "Integrated M.Tech",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "Integrated M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "Integrated M.Tech",
+      "course_name": "Sof",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "Integrated M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "VLSI",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/mba-admissions-vitbee-2026-apply-nownew"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "teg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "CSE (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Rec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "will",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "mtech",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Oth",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "VIT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Ver",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "fer",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aer",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Hea",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "App",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "(CSE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Will",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/mba-admissions-vitbee-2026-apply-nownew"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Can",
+      "level_of_education": "Diploma",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "the",
+      "level_of_education": "Diploma",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Edu",
+      "level_of_education": "Certificate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Exa",
+      "level_of_education": "Certificate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Fee",
+      "level_of_education": "Certificate",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "will",
+      "level_of_education": "Certificate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "ori",
+      "level_of_education": "Certificate",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "or B",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Mul",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cho",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/mba-admissions-vitbee-2026-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dow",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eff",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/mba-admissions-vitbee-2026-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fol",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "its",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "left",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/student-ambassador-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "men",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/mba-admissions-vitbee-2026-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "qua",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/application-for-the-5-year-integrated-m-tech-programmesnew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sho",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/student-ambassador-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upl",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "val",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wit",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in/ticker_news/vitree-2026-ph-d-programme-july-session-apply-nownew"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://vitbhopal.ac.in"
+    }
+  ],
+  "total_courses": 103,
+  "pages_scraped": 8,
+  "errors": []
+}

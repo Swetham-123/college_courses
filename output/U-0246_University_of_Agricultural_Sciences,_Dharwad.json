@@ -1,0 +1,25 @@
+{
+  "aishe_code": "U-0246",
+  "university_name": "University  of Agricultural Sciences, Dharwad",
+  "state": "Karnataka",
+  "district": "Dharwad",
+  "website": "www.uasd.edu",
+  "year_established": "1947",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:08:06.827205Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://uasd.edu/wp-content/uploads/PG_courses_offered.pdf"
+    }
+  ],
+  "total_courses": 1,
+  "pages_scraped": 6,
+  "errors": []
+}

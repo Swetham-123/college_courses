@@ -1,0 +1,61 @@
+{
+  "aishe_code": "U-1239",
+  "university_name": "ODISHA UNIVERSITY OF TECHNOLOGY AND RESEARCH",
+  "state": "Odisha",
+  "district": "Khordha",
+  "website": "www.outr.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:50:58.501458Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://outr.ac.in/school-of-computer-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Syl",
+      "level_of_education": "Doctoral",
+      "source_url": "https://outr.ac.in/school-of-computer-sciences"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "alo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://outr.ac.in/school-of-computer-sciences"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://outr.ac.in/public/uploads/Academic%20Regulation_PG%20Programme_2023-24.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://outr.ac.in/school-of-computer-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.outr.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.outr.ac.in"
+    }
+  ],
+  "total_courses": 7,
+  "pages_scraped": 25,
+  "errors": []
+}

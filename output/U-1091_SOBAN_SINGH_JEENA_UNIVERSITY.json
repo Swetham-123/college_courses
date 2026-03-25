@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1091",
+  "university_name": "SOBAN SINGH JEENA UNIVERSITY",
+  "state": "Uttarakhand",
+  "district": "Almora",
+  "website": "WWW.SSJU.AC.IN",
+  "year_established": "2020",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:33.957863Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

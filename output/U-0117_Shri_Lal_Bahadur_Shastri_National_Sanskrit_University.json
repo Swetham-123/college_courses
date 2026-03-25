@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0117",
+  "university_name": "Shri Lal Bahadur Shastri National Sanskrit University",
+  "state": "Delhi",
+  "district": "South",
+  "website": "https://www.slbsrsv.ac.in",
+  "year_established": "1962",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:45.324334Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

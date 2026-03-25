@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0566",
+  "university_name": "Uttrakhand Technical University, Dehradun",
+  "state": "Uttarakhand",
+  "district": "Dehradun",
+  "website": "www.uktech.ac.in",
+  "year_established": "2005",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:18:53.037276Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

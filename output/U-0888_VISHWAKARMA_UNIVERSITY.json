@@ -1,0 +1,1117 @@
+{
+  "aishe_code": "U-0888",
+  "university_name": "VISHWAKARMA UNIVERSITY",
+  "state": "Maharashtra",
+  "district": "Pune",
+  "website": "www.vupune.ac.in",
+  "year_established": "2017",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:25:15.426105Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(Law)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Des",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eli",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Enq",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fee",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fees",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Form",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mec",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Psy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sta",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sub",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Tra",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ter",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": ") is a",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academics/llm-criminal-business-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Grid_2018",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academics/llm-criminal-business-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Ove",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academics/llb-3-years-course-after-graduation-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Rel",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academics/llm-criminal-business-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "View",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academics/llb-3-years-course-after-graduation-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academics/llm-criminal-business-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academics/llm-criminal-business-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Sta",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "BBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/programme-brochure"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "BBA(",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academics/btech-cse-aiml-course-ibm-pune-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Lea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "from",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Hon",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Ove",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "The",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Psy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": ") is a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/b-arch-bachelor-of-architecture-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/b-arch-bachelor-of-architecture-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/b-pharm-pharmacy-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/b-pharm-pharmacy-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "syl",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/b-pharm-pharmacy-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "won",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/b-pharm-pharmacy-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "won 1",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/b-pharm-pharmacy-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Eco",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/b-sc-economics-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/btech-computer-course-ibm-pune-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "CET",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Edu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Kri",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-bachelor-of-business-administration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Mar",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-bachelor-of-business-administration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-bachelor-of-business-administration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-bachelor-of-business-administration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-bachelor-of-business-administration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-bachelor-of-business-administration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "nov",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "sti",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-bachelor-of-business-administration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-bachelor-of-business-administration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "Eco",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/b-sc-economics-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "CSE (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/btech-cse-aiml-course-ibm-pune-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Grid_2019",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/llb-3-years-course-after-graduation-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/llb-3-years-course-after-graduation-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/llb-3-years-course-after-graduation-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "was",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vupune.ac.in/academics/llb-3-years-course-after-graduation-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Air",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Data",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Gui",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vupune.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mark",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "from",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "exa",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vupune.ac.in/academics/b-arch-bachelor-of-architecture-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.vupune.ac.in/academics/b-pharm-pharmacy-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Gra",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.vupune.ac.in/academicss/hbs-online-courses"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hon",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-a-music-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hons",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-a-music-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hons, M.A &",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Ani",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/ba-animation-multimedia-design-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Hons (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/programme-brochure"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "JMC",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-a-journalism-mass-communication-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Mus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-a-music-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/programme-brochure"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "as I",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-sc-economics-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "ter",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/ba-interior-design-decoration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Ani",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/ma-animation-and-multimedia-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "JMC",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/m-a-journalism-mass-communication-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/m-a-journalism-mass-communication-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/m-a-journalism-mass-communication-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "ter",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/d-pharm-pharmacy-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Leg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/llb-3-years-course-after-graduation-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ade",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/d-pharm-pharmacy-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-arch-bachelor-of-architecture-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/ba-interior-design-decoration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ded",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ess",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-a-music-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fam",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-a-journalism-mass-communication-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/ba-interior-design-decoration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "jud",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss/phd-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-sc-economics-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obt",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/llb-3-years-course-after-graduation-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-a-music-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "run",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-sc-economics-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/ba-interior-design-decoration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-a-journalism-mass-communication-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "suc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/d-pharm-pharmacy-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/m-a-journalism-mass-communication-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tau",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/ba-interior-design-decoration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "use",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-a-music-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-arch-bachelor-of-architecture-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-a-music-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "you",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bdes-product-graphic-user-experience-design-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Hen",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-a-journalism-mass-communication-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bdes-product-graphic-user-experience-design-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bba-bachelor-of-business-administration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/ba-interior-design-decoration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-pharm-pharmacy-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "good",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-a-journalism-mass-communication-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-pharm-pharmacy-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bba-bachelor-of-business-administration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "life",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "mem",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bba-bachelor-of-business-administration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/ba-interior-design-decoration-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-pharm-pharmacy-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bdes-product-graphic-user-experience-design-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "than a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/b-sc-economics-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/ba-animation-multimedia-design-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "thi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "too",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bba-ib-bachelors-degree-course-in-business-administration-college-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/ba-animation-multimedia-design-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/llb-3-years-course-after-graduation-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academicss"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/ba-animation-multimedia-design-course-college-institute-admission-pune"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iums",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vupune.ac.in/academics/bba-bachelor-of-business-administration-course-college-institute-admission-pune"
+    }
+  ],
+  "total_courses": 183,
+  "pages_scraped": 25,
+  "errors": []
+}

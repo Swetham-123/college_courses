@@ -1,0 +1,193 @@
+{
+  "aishe_code": "U-1210",
+  "university_name": "MBM UNIVERSITY",
+  "state": "Rajasthan",
+  "district": "Jodhpur",
+  "website": "www.mbm.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:08:49.280393Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PHD",
+      "course_name": "ADM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mbm.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mbm.ac.in/ug-pg-admissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Min",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mbm.ac.in/newsroom/all"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Civ",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ele",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mbm.ac.in/ug-pg-admissions"
+    },
+    {
+      "degree_name": "B.Plan",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mbm.ac.in/ug-pg-admissions"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Chi",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mbm.ac.in/ug-pg-admissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mbm.ac.in/ug-pg-admissions"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Bui",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Che",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Civ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Ele",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Fir",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Inf",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Min",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Pet",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Ele",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Env",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Ind",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Min",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in/programme-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mbm.ac.in/ug-pg-admissions"
+    }
+  ],
+  "total_courses": 29,
+  "pages_scraped": 5,
+  "errors": []
+}

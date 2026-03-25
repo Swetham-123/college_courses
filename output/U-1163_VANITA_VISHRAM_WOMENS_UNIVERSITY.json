@@ -1,0 +1,547 @@
+{
+  "aishe_code": "U-1163",
+  "university_name": "VANITA VISHRAM WOMENS UNIVERSITY",
+  "state": "Gujarat",
+  "district": "Surat",
+  "website": "vvwusurat.ac.in",
+  "year_established": "2021",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:18:58.142413Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vvwusurat.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vvwusurat.ac.in/admission/faqs-3"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Fee",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/jyoti-dalal-school-of-commerce-and-management/m-com"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/jyoti-dalal-school-of-commerce-and-management/m-com"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/p-g-diploma-in-dietetics"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/p-g-diploma-in-dietetics"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nut",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/p-g-diploma-in-dietetics"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "for",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/p-g-diploma-in-dietetics"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Aca",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/academic-calendar"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fee",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/jyoti-dalal-school-of-commerce-and-management/master-of-business-administration"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/jyoti-dalal-school-of-commerce-and-management/master-of-business-administration"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Sem-I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vvwusurat.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/jyoti-dalal-school-of-commerce-and-management/master-of-business-administration"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "(MLT)",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://vvwusurat.ac.in/admission/faqs-3"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Die",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/p-g-diploma-in-dietetics"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/p-g-diploma-in-dietetics"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Rif",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Woo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/p-g-diploma-in-dietetics"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/p-g-diploma-in-dietetics"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cla",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Fir",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Food &",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/p-g-diploma-in-dietetics"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/p-g-diploma-in-dietetics"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Cla",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Fee",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/jyoti-dalal-school-of-commerce-and-management/b-b-a-in-h-r-finance-marketing"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/jyoti-dalal-school-of-commerce-and-management/b-b-a-in-h-r-finance-marketing"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Syl",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/jyoti-dalal-school-of-commerce-and-management/b-b-a-in-h-r-finance-marketing"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Cla",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Fir",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "bat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "teg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vvwusurat.ac.in/admission/academic-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "(MLT)",
+      "level_of_education": "Diploma",
+      "source_url": "https://vvwusurat.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Die",
+      "level_of_education": "Diploma",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/p-g-diploma-in-dietetics"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://vvwusurat.ac.in/admission/faqs-3"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dis",
+      "level_of_education": "Certificate",
+      "source_url": "https://vvwusurat.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Aad",
+      "level_of_education": "Certificate",
+      "source_url": "https://vvwusurat.ac.in/admission/academic-programs"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "only",
+      "level_of_education": "Certificate",
+      "source_url": "https://vvwusurat.ac.in/admission/academic-programs"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s of",
+      "level_of_education": "Certificate",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "(Eng)",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "(Guj)",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "ATKT",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-humanities-and-social-sciences/b-a-in-english"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Fir",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Guj",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-humanities-and-social-sciences/b-a-in-english"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-humanities-and-social-sciences/b-a-in-english"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-humanities-and-social-sciences/b-a-in-english"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Kar",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-humanities-and-social-sciences/b-a-in-english"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Vis",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Vol",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Wre",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "cur",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/jyoti-dalal-school-of-commerce-and-management/b-b-a-in-h-r-finance-marketing"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "is a",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/jyoti-dalal-school-of-commerce-and-management/b-b-a-in-h-r-finance-marketing"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Cla",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Cli",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-humanities-and-social-sciences/b-a-in-english"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-humanities-and-social-sciences/m-a-in-english"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-humanities-and-social-sciences/b-a-in-psychology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/p-g-diploma-in-dietetics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bet",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/admission/academic-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/admission/academic-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enr",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/p-g-diploma-in-dietetics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fin",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obs",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-humanities-and-social-sciences/b-a-in-english"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "put",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/admission/academic-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "scr",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "self",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/p-g-diploma-in-dietetics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/department-of-physical-education-and-sports"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/about-us/academic-council"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/p-g-diploma-in-dietetics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vit",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/about-us/academic-council"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "feel",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "grow",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "was",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://vvwusurat.ac.in/academics-2/school-of-science-and-technology/b-sc-in-biotechnology"
+    }
+  ],
+  "total_courses": 88,
+  "pages_scraped": 25,
+  "errors": []
+}

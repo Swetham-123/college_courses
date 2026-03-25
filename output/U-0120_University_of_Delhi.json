@@ -1,0 +1,487 @@
+{
+  "aishe_code": "U-0120",
+  "university_name": "University of Delhi",
+  "state": "Delhi",
+  "district": "North",
+  "website": "www.du.ac.in",
+  "year_established": "1922",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:11:31.487961Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "D.M. / M",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.du.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Oth",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.du.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ext",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.du.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.du.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "viva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.du.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.du.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "M.A., M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.du.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "(HRD) 2023-25",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "cur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Dep",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Hin",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Int",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "the",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Hons",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Spe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "App",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Sem-V",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BMS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Ana",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Hons",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Adm",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bio",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Chi",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.du.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cyb",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Gar",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Int",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Jap",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mod",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Por",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pun",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Rus",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "etc",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.du.ac.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Dep",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mod",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pali",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pun",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Rom",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.du.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "(Sem",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eco)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Hons",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Per",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Prog",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Prog/B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Chi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Kor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Rus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?page=department-of-slavonic-finno-ugrian-studies"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "dip",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "(Sem-I &",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Dip",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?page=study-at-du"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Tam",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "aca",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?page=department-of-slavonic-finno-ugrian-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ach",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "add",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=6588&cntnt01returnid=219"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.du.ac.in/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=13640&cntnt01returnid=219"
+    }
+  ],
+  "total_courses": 78,
+  "pages_scraped": 25,
+  "errors": []
+}

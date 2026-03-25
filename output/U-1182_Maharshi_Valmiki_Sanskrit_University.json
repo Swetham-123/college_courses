@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1182",
+  "university_name": "Maharshi Valmiki Sanskrit University",
+  "state": "Haryana",
+  "district": "Kaithal",
+  "website": "www.mvsu.ac.in",
+  "year_established": "2018",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:50:16.459701Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

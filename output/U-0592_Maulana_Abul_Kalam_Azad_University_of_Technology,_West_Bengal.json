@@ -1,0 +1,817 @@
+{
+  "aishe_code": "U-0592",
+  "university_name": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+  "state": "West Bengal",
+  "district": "Nadia",
+  "website": "http://makautwb.ac.in",
+  "year_established": "2000",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:04:47.410888Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PHD",
+      "course_name": "ADM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://phd.makautwb.ac.in"
+    },
+    {
+      "degree_name": "PHD",
+      "course_name": "ONL",
+      "level_of_education": "Doctoral",
+      "source_url": "https://phd.makautwb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "http://makautwb.ac.in/plug.php?e=contactus"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Con",
+      "level_of_education": "Doctoral",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Hap",
+      "level_of_education": "Doctoral",
+      "source_url": "http://makautwb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Hou",
+      "level_of_education": "Doctoral",
+      "source_url": "http://makautwb.ac.in/page.php?id=362"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ple",
+      "level_of_education": "Doctoral",
+      "source_url": "https://phd.makautwb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://phd.makautwb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "http://makautwb.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "rul",
+      "level_of_education": "Doctoral",
+      "source_url": "http://makautwb.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "http://makautwb.ac.in/list.php?c=Academics"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "http://makautwb.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "fer",
+      "level_of_education": "Doctoral",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "from",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "(CSE)",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Film",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Gen",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Inf",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mol",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Uni",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "and B",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(CSE &",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Aut",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "C.S.E",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE &",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "ECE",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "IEM",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ind",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Inf",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Int",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ren",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Sof",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "for",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "(old)",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Cur",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Rev",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Syl",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "can",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "MPharm",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "MTECH",
+      "course_name": "Mec",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "ECE (",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "Mtech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "PG DIPLOMA",
+      "course_name": "18\nM.B.A",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=201"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Lev",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "(For",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "(old)",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "from",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ani",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bus",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cyb",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Dig",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Eco",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Env",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Fas",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Food",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Gam",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Gen",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hos",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mol",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mul",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nau",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Rob",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Sta",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Sus",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "VFX",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ECE",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Fir",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Les",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Syl",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "(old)",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bus",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Dig",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hos",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Real",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Tou",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Syl",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "COM",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "INF",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "http://makautwb.ac.in/page.php?id=200"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Syl",
+      "level_of_education": "Diploma",
+      "source_url": "http://makautwb.ac.in/page.php?id=195"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dip",
+      "level_of_education": "Certificate",
+      "source_url": "http://makautwb.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "http://makautwb.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "http://makautwb.ac.in/page.php?id=229"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "http://makautwb.ac.in/page.php?id=229"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "http://makautwb.ac.in/page.php?id=229"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "http://makautwb.ac.in/page.php?id=229"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "http://makautwb.ac.in/page.php?id=229"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obj",
+      "level_of_education": "Unknown",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "http://makautwb.ac.in/page.php?id=313"
+    }
+  ],
+  "total_courses": 133,
+  "pages_scraped": 17,
+  "errors": []
+}

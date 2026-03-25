@@ -1,0 +1,601 @@
+{
+  "aishe_code": "U-0119",
+  "university_name": "TERI School of Advanced Studies, New Delhi",
+  "state": "Delhi",
+  "district": "New Delhi",
+  "website": "www.terisas.ac.in",
+  "year_established": "1998",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:58:14.744683Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.terisas.ac.in/phd-bioresources-and-biotechnology.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Del",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.terisas.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.terisas.ac.in/department-of-policy-and-management-studies.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.terisas.ac.in/phd-bioresources-and-biotechnology.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.terisas.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.terisas.ac.in/phd-bioresources-and-biotechnology.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Hyd",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.terisas.ac.in/department-of-natural-and-applied-sciences.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Nat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.terisas.ac.in/department-of-natural-and-applied-sciences.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.terisas.ac.in/phd-bioresources-and-biotechnology.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.terisas.ac.in/department-of-biotechnology.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.terisas.ac.in/phd-bioresources-and-biotechnology.php"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Edi",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in/llm-programme-with-specialisation-in-environment-and-natural-resources-law-and-infrastructure-and-business-law.php"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in/llm-programme-with-specialisation-in-environment-and-natural-resources-law-and-infrastructure-and-business-law.php"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "fra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in/llm-programme-with-specialisation-in-environment-and-natural-resources-law-and-infrastructure-and-business-law.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in/data-science.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in/economics.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "ESRM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in/department-of-natural-and-applied-sciences.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Eco",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ene",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Pla",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in/phd-bioresources-and-biotechnology.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "its",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in/environmental-studies.php"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in/department-of-biotechnology.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ren",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.terisas.ac.in/department-of-natural-and-applied-sciences.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.B.A (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/bba-programme.php"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B., B.B.A",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/llm-programme-with-specialisation-in-environment-and-natural-resources-law-and-infrastructure-and-business-law.php"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "LL.B., B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/llm-programme-with-specialisation-in-environment-and-natural-resources-law-and-infrastructure-and-business-law.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/data-science-ug.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Eco",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/bsc-economics.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Env",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/environmental-studies-ug.php"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ped",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/data-science-ug.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/llm-programme-with-specialisation-in-environment-and-natural-resources-law-and-infrastructure-and-business-law.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/bba-programme.php"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hons",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/bba-programme.php"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/environmental-studies-ug.php"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/environmental-studies-ug.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "BBA 2",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/bba-programme.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "BBA 3",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/bba-programme.php"
+    },
+    {
+      "degree_name": "dual degree",
+      "course_name": "five",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/environmental-studies.php"
+    },
+    {
+      "degree_name": "dual degree",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.terisas.ac.in/environmental-studies.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Data",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.terisas.ac.in/data-science-ug.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eco",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.terisas.ac.in/bsc-economics.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Env",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.terisas.ac.in/environmental-studies-ug.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Maj",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.terisas.ac.in/bsc-msc-energy-computer-applications-ug.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Thi",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.terisas.ac.in/bsc-economics.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Voc",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.terisas.ac.in/bsc-msc-energy-computer-applications-ug.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.terisas.ac.in/centre-for-postgraduate-legal-studies.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Data",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.terisas.ac.in/data-science-ug.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Eco",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.terisas.ac.in/bsc-economics.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Env",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.terisas.ac.in/environmental-studies-ug.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Exa",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.terisas.ac.in/bsc-msc-energy-computer-applications-ug.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Sec",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.terisas.ac.in/bsc-economics.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Voc",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.terisas.ac.in/environmental-studies-ug.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "obt",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.terisas.ac.in/bsc-economics.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "sci",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.terisas.ac.in/biotechnology-ug.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Maj",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.terisas.ac.in/bsc-msc-energy-computer-applications-ug.php"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "any",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.terisas.ac.in/environmental-studies-ug.php"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Sus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/pdf/Antiragging.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/llm-programme-with-specialisation-in-environment-and-natural-resources-law-and-infrastructure-and-business-law.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/department-of-regional-water-studies.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/llm-programme-with-specialisation-in-environment-and-natural-resources-law-and-infrastructure-and-business-law.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "add",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/biotechnology-ug.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "amo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/data-science-ug.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/environmental-studies.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/environmental-studies-ug.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/bsc-msc-energy-computer-applications-ug.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bui",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/department-of-policy-and-management-studies.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/bba-programme.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/phd-bioresources-and-biotechnology.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/biotechnology-ug.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dep",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/phd-bioresources-and-biotechnology.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/centre-for-postgraduate-legal-studies.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/llm-programme-with-specialisation-in-environment-and-natural-resources-law-and-infrastructure-and-business-law.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/biotechnology-ug.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/department-of-policy-and-management-studies.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iti",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/bsc-economics.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/bsc-msc-energy-computer-applications-ug.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lif",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/biotechnology-ug.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/phd-bioresources-and-biotechnology.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mar",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/deanacademic.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "met",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/centre-for-postgraduate-legal-studies.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/data-science-ug.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/department-of-natural-and-applied-sciences.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/bba-programme.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "teg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/centre-for-postgraduate-legal-studies.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/department-of-policy-and-management-studies.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "uti",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/data-science-ug.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/phd-bioresources-and-biotechnology.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/biotechnology-ug.php"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.terisas.ac.in/biotechnology-ug.php"
+    }
+  ],
+  "total_courses": 97,
+  "pages_scraped": 25,
+  "errors": []
+}

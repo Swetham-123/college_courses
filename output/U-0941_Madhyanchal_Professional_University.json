@@ -1,0 +1,733 @@
+{
+  "aishe_code": "U-0941",
+  "university_name": "Madhyanchal Professional University",
+  "state": "Madhya Pradesh",
+  "district": "Bhopal",
+  "website": "www.mpu.ac.in",
+  "year_established": "2018",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:41:14.854834Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PH.D",
+      "course_name": "ENT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpu.ac.in"
+    },
+    {
+      "degree_name": "PHD",
+      "course_name": "ENT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "CAN",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "COU",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpu.ac.in/phd-course-work"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpu.ac.in/phd-course-work"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpu.ac.in/phd-course-work"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "RDC",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "RDC (",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "int",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpu.ac.in/phd-course-work"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "B.Ed",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpu.ac.in/education"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Bac",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpu.ac.in/agriculture-science-and-technology-new"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Dip",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "NEWS &",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpu.ac.in/phd-course-work"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "MBA (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/CoursesOffered"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "lea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/faculty-of-commerce-and-management"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/agriculture-science-and-technology-new"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Sta",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/admission-eligibility"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "(NGO",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/CoursesOffered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/faculty-of-commerce-and-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ban",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/faculty-of-commerce-and-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ent",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/faculty-of-commerce-and-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/faculty-of-commerce-and-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "NGO",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/faculty-of-commerce-and-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pla",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/faculty-of-commerce-and-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ret",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/faculty-of-commerce-and-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Rur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/faculty-of-commerce-and-management"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Dig",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Str",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "The",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "(Hon.)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/admission-eligibility"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "(Hon.)B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/admission-eligibility"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Hons",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/faculty-of-commerce-and-management"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "lea",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/faculty-of-commerce-and-management"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "BED",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/education"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/education"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "lea",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/education"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(Hon)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/admission-eligibility"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/agriculture-science-and-technology-new"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "lea",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/agriculture-science-and-technology-new"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE, 3",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/admission-eligibility"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Min",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Rur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "lea",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "lea",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/faculty-of-commerce-and-management"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "lea",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "Btech",
+      "course_name": "CSE, 3",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "Btech",
+      "course_name": "CSE,3",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "COU",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mpu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Agr",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mpu.ac.in/CoursesOffered"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "CSE",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mpu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Civ",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mpu.ac.in/CoursesOffered"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mpu.ac.in/engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mpu.ac.in/CoursesOffered"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mec",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mpu.ac.in/CoursesOffered"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "alo",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mpu.ac.in/education"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "M.\nB.G.D",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/CoursesOffered"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "lea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/arts"
+    },
+    {
+      "degree_name": "BED",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/education"
+    },
+    {
+      "degree_name": "BEd",
+      "course_name": "Cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/education"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "boo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/education"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/CoursesOffered"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/arts"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/arts"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/arts"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Geo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/arts"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/arts"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/arts"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Mass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/arts"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/arts"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/arts"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "San",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/arts"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/arts"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/uploads/2025/exam-form-notification/EXAM%20FORM%20FILLING%20NOTIFICATION%20VIII,%20VII,VI%20&%20V%20SEMESTER.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/phd-course-work"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eve",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/education"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/phd-course-work"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/admission-eligibility"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pio",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/pharmacy-new"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/phd-course-work"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/admission-procedure"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/pharmacy-new"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "flo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/pharmacy-new"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gain",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "get a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/pharmacy-new"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/science-and-it"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "turn",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/education"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpu.ac.in/pharmacy-new"
+    }
+  ],
+  "total_courses": 119,
+  "pages_scraped": 25,
+  "errors": []
+}

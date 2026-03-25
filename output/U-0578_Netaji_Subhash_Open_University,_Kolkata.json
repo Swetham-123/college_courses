@@ -1,0 +1,25 @@
+{
+  "aishe_code": "U-0578",
+  "university_name": "Netaji Subhash Open University, Kolkata",
+  "state": "West Bengal",
+  "district": "Kolkata",
+  "website": "www.wbnsou.ac.in",
+  "year_established": "1997",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:43:24.409605Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.wbnsou.ac.in/about_us/CIQA/12B/20241028_12B_Status_Certificate.pdf"
+    }
+  ],
+  "total_courses": 1,
+  "pages_scraped": 2,
+  "errors": []
+}

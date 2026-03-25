@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1086",
+  "university_name": "SWAMI VIVEKANANDA UNIVERSITY",
+  "state": "West Bengal",
+  "district": "North 24 Parganas",
+  "website": "www.swamivivekanandauniversity.ac.in",
+  "year_established": "2019",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:50.878343Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1167",
+  "university_name": "SRI AUROBINDO UNIVERSITY",
+  "state": "Madhya Pradesh",
+  "district": "Indore",
+  "website": "www.sriaurobindounivesity.com",
+  "year_established": "2020",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:36.009239Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

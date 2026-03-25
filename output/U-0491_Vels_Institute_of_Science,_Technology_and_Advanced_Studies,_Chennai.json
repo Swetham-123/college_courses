@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0491",
+  "university_name": "Vels Institute of Science, Technology and Advanced Studies, Chennai",
+  "state": "Tamil Nadu",
+  "district": "Chengalpattu",
+  "website": "www.vistas.ac.in",
+  "year_established": "1992",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:21:22.532895Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

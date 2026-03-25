@@ -1,0 +1,301 @@
+{
+  "aishe_code": "U-0195",
+  "university_name": "University of Jammu, Jammu Tawi",
+  "state": "Jammu and Kashmir",
+  "district": "Jammu",
+  "website": "www.jammuuniversity.ac.in",
+  "year_established": "1969",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:12:14.814274Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ph.D (",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jammuuniversity.ac.in/index.php/computer-science-it/programmes"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Ph.D. (",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jammuuniversity.ac.in/index.php/computer-science-it/programmes"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Ph.D.(",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jammuuniversity.ac.in/index.php/computer-science-it/programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "List",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jammuuniversity.ac.in/PhD_EC"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jammuuniversity.ac.in/statutes-governing-mphil-phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jammuuniversity.ac.in/statutes-governing-mphil-phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sta",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jammuuniversity.ac.in/statutes-governing-mphil-phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jammuuniversity.ac.in/research/PhD-Admission1"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.jammuuniversity.ac.in/research/PhD-Admission1"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Thr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jammuuniversity.ac.in/index.php/computer-science-it/programmes"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "(ODL",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jammuuniversity.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "(IB), M.A",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jammuuniversity.ac.in/PG/2026-27"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.jammuuniversity.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "ADM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jammuuniversity.ac.in/index.php/computer-science-it/programmes"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jammuuniversity.ac.in/index.php/computer-science-it/programmes"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jammuuniversity.ac.in/index.php/computer-science-it/programmes"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.jammuuniversity.ac.in/PG/2026-27"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.jammuuniversity.ac.in/PG/2026-27"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Mus",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.jammuuniversity.ac.in/PG/2026-27"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.jammuuniversity.ac.in/PG/2026-27"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jammuuniversity.ac.in/UG/Introduction"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jammuuniversity.ac.in/academics/affiliated-colleges"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jammuuniversity.ac.in/PG/2025-26"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jammuuniversity.ac.in/PG/2025-26"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jammuuniversity.ac.in/academics/affiliated-colleges"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jammuuniversity.ac.in/UG/Introduction"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "M B.A (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.jammuuniversity.ac.in/UG/Introduction"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Acc",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jammuuniversity.ac.in/student/programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ban",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jammuuniversity.ac.in/student/programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bio",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jammuuniversity.ac.in/student/programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bus",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jammuuniversity.ac.in/student/programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hum",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jammuuniversity.ac.in/student/programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mar",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jammuuniversity.ac.in/student/programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jammuuniversity.ac.in/PG/2026-27"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Col",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jammuuniversity.ac.in/academics/affiliated-colleges"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jammuuniversity.ac.in/PG/2026-27"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jammuuniversity.ac.in/PG/2026-27"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jammuuniversity.ac.in/student/programs"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jammuuniversity.ac.in/student/programs"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "MADE",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jammuuniversity.ac.in/PG/2026-27"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://jammuuniversity.ac.in/index.php/computer-science-it/programmes"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jammuuniversity.ac.in/academics/faculties"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "clu",
+      "level_of_education": "Unknown",
+      "source_url": "https://jammuuniversity.ac.in/index.php/computer-science-it/programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://jammuuniversity.ac.in/index.php/computer-science-it/programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://jammuuniversity.ac.in/index.php/computer-science-it/programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "qua",
+      "level_of_education": "Unknown",
+      "source_url": "https://jammuuniversity.ac.in/index.php/computer-science-it/programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "two",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jammuuniversity.ac.in/PG/2026-27"
+    }
+  ],
+  "total_courses": 47,
+  "pages_scraped": 25,
+  "errors": []
+}

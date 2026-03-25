@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0324",
+  "university_name": "Sant Gadge Baba Amravati University, Amravati",
+  "state": "Maharashtra",
+  "district": "Amravati",
+  "website": "www.sgbau.ac.in",
+  "year_established": "1983",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:38.560535Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

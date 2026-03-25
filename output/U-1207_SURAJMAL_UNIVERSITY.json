@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1207",
+  "university_name": "SURAJMAL UNIVERSITY",
+  "state": "Uttarakhand",
+  "district": "Udham Singh Nagar",
+  "website": "SMU.ac.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:48.252622Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

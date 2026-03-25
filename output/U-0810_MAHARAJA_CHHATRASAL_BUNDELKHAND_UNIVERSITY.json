@@ -1,0 +1,109 @@
+{
+  "aishe_code": "U-0810",
+  "university_name": "MAHARAJA CHHATRASAL BUNDELKHAND UNIVERSITY",
+  "state": "Madhya Pradesh",
+  "district": "Chhatarpur",
+  "website": "https://mcbu.ac.in/",
+  "year_established": "2014",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:44:50.051141Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PH.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mcbu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "PH.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mcbu.ac.in/courses-offered-phd?id=Mw=="
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mcbu.ac.in/courses-offered-phd?id=Mw=="
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "will",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mcbu.ac.in/courses-offered-phd?id=Mw=="
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Tou",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mcbu.ac.in/diploma-courses?id=NA=="
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "B.B.A/B.C.A 1",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mcbu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://mcbu.ac.in/diploma-courses?id=NA=="
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://mcbu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Int",
+      "level_of_education": "Diploma",
+      "source_url": "https://mcbu.ac.in/diploma-courses?id=NA=="
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Web",
+      "level_of_education": "Diploma",
+      "source_url": "https://mcbu.ac.in/diploma-courses?id=NA=="
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://mcbu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://mcbu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "good",
+      "level_of_education": "Unknown",
+      "source_url": "https://mcbu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rek",
+      "level_of_education": "Unknown",
+      "source_url": "https://mcbu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sta",
+      "level_of_education": "Unknown",
+      "source_url": "https://mcbu.ac.in/courses-offered-phd?id=Mw=="
+    }
+  ],
+  "total_courses": 15,
+  "pages_scraped": 11,
+  "errors": []
+}

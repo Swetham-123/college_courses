@@ -1,0 +1,541 @@
+{
+  "aishe_code": "U-1138",
+  "university_name": "NORTH EAST ADVENTIST UNIVERSITY",
+  "state": "Meghalaya",
+  "district": "West Jaintia Hills",
+  "website": "www.neauniversity.in",
+  "year_established": "2020",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:49:59.242252Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Sociology"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "aft",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/B.Com."
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "also",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/B.Com."
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Home",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/B.Com."
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Loo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/B.Com."
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "cho",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/B.Com."
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/B.Com."
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-English"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Life",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BSc-Chemistry-Botany-Zoology"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "MLT & B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BSc-Chemistry-Botany-Zoology"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BSc-Physics--Maths-Computer-Science"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BBA"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Home",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BBA"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Mas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BBA"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "One",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BBA"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Sin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BBA"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Tho",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BBA"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BBA"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BBA"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BBA"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BBA"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "spe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BBA"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BCA"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Home",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BCA"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "The",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "is a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BCA"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/B.Com."
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BSc-Chemistry-Botany-Zoology"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "MLT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/DMLT"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BSc-Physics--Maths-Computer-Science"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.neauniversity.in"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "DMLT",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/DMLT"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.neauniversity.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Med",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BPT"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BA-Education"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BA-English"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BA-Political-Science"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BA-Education"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BA-English"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BA-History"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BA-Political-Science"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BA-Sociology"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Education"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-History"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "deg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Education"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-History"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Sociology"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Sociology"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BMLT"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-History"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BPT"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Sociology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "high",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-English"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "med",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-English"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mem",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/hr-department"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "met",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "one",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BBA"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-History"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rej",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BBA"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BBA"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "teg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BSc-Nursing"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "that",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/B.Com."
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/BBA"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-English"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.neauniversity.in/Admission-Detail/MA-Political-Science"
+    }
+  ],
+  "total_courses": 87,
+  "pages_scraped": 25,
+  "errors": []
+}

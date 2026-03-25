@@ -1,0 +1,1087 @@
+{
+  "aishe_code": "U-0533",
+  "university_name": "Noida International University",
+  "state": "Uttar Pradesh",
+  "district": "Gautam Buddha Nagar",
+  "website": "https://niu.edu.in",
+  "year_established": "2010",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:48:57.654824Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PH.D",
+      "course_name": "CAN",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in/phd-admissions"
+    },
+    {
+      "degree_name": "PHD",
+      "course_name": "MJMC",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in/phd-admissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adv",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Are",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in/phd-admissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Doc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "New",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in/school-of-journalism-mass-communication"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in/school-of-journalism-mass-communication"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in/phd-admissions"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Read",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "pdf",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "AGRI",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "DUAL",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Dual 2",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Dual 2025-27 - I",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Eli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "GLO",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHM 3&",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HHM-1&",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "LSCM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCom",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ori",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "dep",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "from",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "MSc (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "MTE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "MCOM",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "BBA(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "VFX",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "The",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-nursing"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "B.com",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Avi",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BCom (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB 8",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ret",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BSc (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "BCOM",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "NUR",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-nursing"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-allied-health-sciences"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": ") is a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "Bcom",
+      "course_name": "Hons",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "Dual Degree",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "This",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "pdf",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Bat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "MBBS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Thi",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://niu.edu.in/program"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "PRO",
+      "level_of_education": "Diploma",
+      "source_url": "https://niu.edu.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eme",
+      "level_of_education": "Diploma",
+      "source_url": "https://niu.edu.in/school-of-allied-health-sciences"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://niu.edu.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://niu.edu.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "hol",
+      "level_of_education": "Certificate",
+      "source_url": "https://niu.edu.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B (",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B.(",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "ter",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "JMC",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-journalism-mass-communication"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "THE",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Geo",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Int",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pyc",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "ter",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iev",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-journalism-mass-communication"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Noi",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-nursing"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ach",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/phd-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/phd-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bri",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/phd-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cul",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "deg",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eas",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/phd-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/phd-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fair",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for a",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/phd-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/phd-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "hig",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/world-cancer-day-awareness-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "imp",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "leg",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-journalism-mass-communication"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "met",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mon",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-journalism-mass-communication"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "one",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-nursing"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-nursing"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/phd-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pur",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "qua",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/phd-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rej",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/phd-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sho",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/phd-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "suc",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sup",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tau",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tho",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "voi",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "ded",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "I am",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "get",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-nursing"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gre",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-nursing"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "many",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-business-management-old"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "opp",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "per",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-nursing"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "pla",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sec",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-allied-health-sciences"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-allied-health-sciences"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-nursing"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with a",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-law-legal-affairs"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iate",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-pharmacy"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-allied-health-sciences"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iums",
+      "level_of_education": "Unknown",
+      "source_url": "https://niu.edu.in/school-of-journalism-mass-communication"
+    }
+  ],
+  "total_courses": 178,
+  "pages_scraped": 25,
+  "errors": []
+}

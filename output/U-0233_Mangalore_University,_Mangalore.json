@@ -1,0 +1,145 @@
+{
+  "aishe_code": "U-0233",
+  "university_name": "Mangalore University, Mangalore",
+  "state": "Karnataka",
+  "district": "Dakshina Kannada",
+  "website": "www.mangaloreuniversity.ac.in",
+  "year_established": "1980",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:00:20.535470Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Thr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangaloreuniversity.ac.in/centre-study-social-exclusion-inclusive-policy-cseip.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangaloreuniversity.ac.in/economics.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangaloreuniversity.ac.in/department-of-geography.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "gra",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangaloreuniversity.ac.in/department-of-geography.html"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangaloreuniversity.ac.in/mba.html"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangaloreuniversity.ac.in/economics.html"
+    },
+    {
+      "degree_name": "phD",
+      "course_name": "DDF",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mangaloreuniversity.ac.in/upload/2025/News & Notification/694a61bd43e61_UG Examination Final Time Table Dec-2025 January 2026.pdf"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "M.B.A",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangaloreuniversity.ac.in/mba.html"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": ") is a",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangaloreuniversity.ac.in/about-department-education.html"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangaloreuniversity.ac.in/about-department-education.html"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangaloreuniversity.ac.in/department-of-geography.html"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Gui",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mangaloreuniversity.ac.in/pgadmission-procedure.html"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Rev",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mangaloreuniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mangaloreuniversity.ac.in/pgadmission-procedure.html"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangaloreuniversity.ac.in/upload/2024/ACC/REVISED MU RECOGNISED PU BOARDS(1) (Autosaved).pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangaloreuniversity.ac.in/department-of-geography.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangaloreuniversity.ac.in/about-department-education.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "good",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangaloreuniversity.ac.in/about-department-education.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangaloreuniversity.ac.in/about-department-education.html"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "unl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangaloreuniversity.ac.in/mba.html"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mangaloreuniversity.ac.in/dr-p-dayananda-pai-sri-p-sathish-pai-yakshagana-adhyayana-kendra.html"
+    }
+  ],
+  "total_courses": 21,
+  "pages_scraped": 25,
+  "errors": []
+}

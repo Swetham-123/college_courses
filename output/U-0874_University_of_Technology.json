@@ -1,0 +1,115 @@
+{
+  "aishe_code": "U-0874",
+  "university_name": "University of Technology",
+  "state": "Rajasthan",
+  "district": "Jaipur",
+  "website": "www.uot.edu.in",
+  "year_established": "2017",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:15:22.603206Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "MCA",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uot.edu.in"
+    },
+    {
+      "degree_name": "PH.D",
+      "course_name": "Agr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uot.edu.in/UOT-Admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fur",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uot.edu.in/admission/scholarship"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "LLM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uot.edu.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "MBA (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uot.edu.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pol",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uot.edu.in/UOT-Admission"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ARTS",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uot.edu.in/UOT-Admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "BBA (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uot.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uot.edu.in/UOT-Admission"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Cap",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uot.edu.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Cer",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uot.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uot.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Engg",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uot.edu.in/UOT-Admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Lib",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uot.edu.in/UOT-Admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.uot.edu.in/UOT-Admission"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Lib",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uot.edu.in/UOT-Admission"
+    }
+  ],
+  "total_courses": 16,
+  "pages_scraped": 4,
+  "errors": []
+}

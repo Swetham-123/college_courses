@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0814",
+  "university_name": "RAJ RISHI BHARTRIHARI MATSYA UNIVERSITY",
+  "state": "Rajasthan",
+  "district": "Alwar",
+  "website": "www.rrbmuniv.ac.in",
+  "year_established": "2012",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:24.946626Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

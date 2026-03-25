@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1041",
+  "university_name": "SANDIP UNIVERSITY",
+  "state": "Bihar",
+  "district": "Madhubani",
+  "website": "https://www.sandipuniversity.edu.in/sijoul",
+  "year_established": "2017",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:36.109863Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

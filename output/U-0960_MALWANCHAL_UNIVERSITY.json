@@ -1,0 +1,97 @@
+{
+  "aishe_code": "U-0960",
+  "university_name": "MALWANCHAL UNIVERSITY",
+  "state": "Madhya Pradesh",
+  "district": "Indore",
+  "website": "www.malwanchaluniversity.com",
+  "year_established": "2015",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:58:13.199054Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Oth",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.malwanchaluniversity.com"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "http://malwanchaluniversity.com/paramedical"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "http://malwanchaluniversity.com/paramedical"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "lab",
+      "level_of_education": "Diploma",
+      "source_url": "http://malwanchaluniversity.com/paramedical"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "http://malwanchaluniversity.com/paramedical"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "http://malwanchaluniversity.com/paramedical"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.malwanchaluniversity.com/pdf/phd2023.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.malwanchaluniversity.com"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "ded",
+      "level_of_education": "Unknown",
+      "source_url": "http://malwanchaluniversity.com/paramedical"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "http://malwanchaluniversity.com/paramedical"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "grow",
+      "level_of_education": "Unknown",
+      "source_url": "http://malwanchaluniversity.com/paramedical"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "to a",
+      "level_of_education": "Unknown",
+      "source_url": "http://malwanchaluniversity.com/paramedical"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "http://malwanchaluniversity.com/paramedical"
+    }
+  ],
+  "total_courses": 13,
+  "pages_scraped": 6,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1443",
+  "university_name": "Nayanta University",
+  "state": "Maharashtra",
+  "district": "Pune",
+  "website": null,
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:42:48.843578Z",
+  "status": "no_url",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "No website URL available"
+  ]
+}

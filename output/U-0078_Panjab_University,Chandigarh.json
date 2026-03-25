@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0078",
+  "university_name": "Panjab University,Chandigarh",
+  "state": "Chandigarh",
+  "district": "Chandigarh",
+  "website": "www.puchd.ac.in",
+  "year_established": "1882",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:01.625839Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

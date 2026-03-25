@@ -1,0 +1,511 @@
+{
+  "aishe_code": "U-0975",
+  "university_name": "MUNGER UNIVERSITY",
+  "state": "Bihar",
+  "district": "Munger",
+  "website": "www.mungeruniversity.ac.in",
+  "year_established": "2018",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:23:37.955825Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Dow",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "NOT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sec",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Vac",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "may",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Sem",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Ses",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Sem",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ses",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Part",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Part - I 2021-24",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Res",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Exam",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Pra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Reg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "SCR",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Ses",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "exam 2024",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Part",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BCA &",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Exam",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "NOT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "New",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Part",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Part-I 2023-26",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Upd",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BBA 2",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Exa",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Exam",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "RES",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Sem",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Sem - I",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Sem I",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Sem-I 2024-27",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Sem-V 2022-25",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "and B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Dow",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "EXAM",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Part",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Part - I",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Part I (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Res",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "SCR",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "SEM - I 1",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "SEM-1 1",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Sem",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "AND",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "Dow",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "Not",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Stu",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "app",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Part - I (2024-2027)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "BAC",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "PART",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Sem",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Ses",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://mungeruniversity.ac.in/images/document/Degree_3_(2020_23)_Examinatiion_Programme.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "11rr r",
+      "level_of_education": "Unknown",
+      "source_url": "https://mungeruniversity.ac.in/images/document/PG_Sem_IV_Exam_Programme.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Exa",
+      "level_of_education": "Unknown",
+      "source_url": "https://mungeruniversity.ac.in/images/document/PG_Sem_IV_Exam_Programme.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://mungeruniversity.ac.in/images/document/EX-171-2025.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "send",
+      "level_of_education": "Unknown",
+      "source_url": "https://mungeruniversity.ac.in/images/document/EX-171-2025.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tre",
+      "level_of_education": "Unknown",
+      "source_url": "https://mungeruniversity.ac.in/images/document/EX-171-2025.pdf"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ali",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mungeruniversity.ac.in"
+    }
+  ],
+  "total_courses": 82,
+  "pages_scraped": 25,
+  "errors": []
+}

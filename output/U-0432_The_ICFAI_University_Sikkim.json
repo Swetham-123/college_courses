@@ -1,0 +1,817 @@
+{
+  "aishe_code": "U-0432",
+  "university_name": "The ICFAI University Sikkim",
+  "state": "Sikkim",
+  "district": "Gangtok",
+  "website": "www.iusikkim.edu.in",
+  "year_established": "2004",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:03:18.946793Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Lib",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "only",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/pgprograms/mcom"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/pgprograms/mcom"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Gan",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "for",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "jou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "MCom",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/pgprograms/mcom"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "may",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "B.com",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL. B (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/academics/departments/school-of-legal-studies"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba-llb-hons"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Gan",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "Integrated BA",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in"
+    },
+    {
+      "degree_name": "integrated BA",
+      "course_name": "LL.B (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iusikkim.edu.in/academics/departments/school-of-legal-studies"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Acc",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iusikkim.edu.in/programs/pgprograms/mcom"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Man",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Stu",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "the",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Com",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Man",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mar",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Stu",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "the",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s at",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iusikkim.edu.in/programs/pgprograms/llm"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "sho",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL. B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/ba-llb-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL. B (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/ba-llb-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/ba-llb-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/ba-llb-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "lib",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/academics/departments/school-of-liberal-arts"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba-llb-hons"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/pgprograms/mba-working-professionals"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/llb"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ade",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "also",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "att",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ben",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eva",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "imp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "key",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "less",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mot",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obt",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "qui",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rem",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ret",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sto",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "val",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/program-outcomes-objectives/program-outcomes-objectives"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "feel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "take",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "vast",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iusikkim.edu.in/programs/ugprograms/bba"
+    }
+  ],
+  "total_courses": 133,
+  "pages_scraped": 25,
+  "errors": []
+}

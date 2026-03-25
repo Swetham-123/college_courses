@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0209",
+  "university_name": "Ranchi University, Ranchi",
+  "state": "Jharkhand",
+  "district": "Ranchi",
+  "website": "http://www.ranchiuniversity.ac.in",
+  "year_established": "1960",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:26.694732Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "aishe_code": "U-1332",
+  "university_name": "National Institute of Technical Teacher Training & Research Chandigarh",
+  "state": "Chandigarh",
+  "district": "Chandigarh",
+  "website": "www.nitttrchd.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:28:51.861822Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "NIT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Rul",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "app",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sea",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/phd.php"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ter",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "und",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/phd.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/phd.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Bro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/activities/edu_trg.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "on a",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "rul",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sea",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "und",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitttrchd.ac.in/core/phd.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and M.E",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitttrchd.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitttrchd.ac.in/core/pgadmission.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mod",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitttrchd.ac.in/core/pgadmission.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitttrchd.ac.in/core/pgadmission.php"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "mar",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nitttrchd.ac.in/core/pg_diplomaadmission.php"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nitttrchd.ac.in/core/pg_diplomaadmission.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitttrchd.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitttrchd.ac.in/core/ugadmission.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitttrchd.ac.in/core/ugadmission.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nitttrchd.ac.in/core/pg_diplomaadmission.php"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nitttrchd.ac.in/cdc/index.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "(NOC)",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitttrchd.ac.in/core/certificate.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitttrchd.ac.in"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/activities/edu_trg.php"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Exa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "and B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "MD--A",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/pdf/2025/Certificate Programme on Digital Pedagogy.pdf"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/pdf/2025/Certificate Programme on Digital Pedagogy.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://fdp.nitttrchd.ac.in/fdp2025/latestcourses.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/core/phd.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "act",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/core/pgadmission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/core/phd.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "clo",
+      "level_of_education": "Unknown",
+      "source_url": "https://fdp.nitttrchd.ac.in/fdp2025/latestcourses.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/core/ugadmission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "onl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/core/adm_query.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitttrchd.ac.in/core/ugadmission.php"
+    }
+  ],
+  "total_courses": 61,
+  "pages_scraped": 25,
+  "errors": []
+}

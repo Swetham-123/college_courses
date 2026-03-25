@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0427",
+  "university_name": "Suresh Gyan Vihar Univeristy, Jaipur",
+  "state": "Rajasthan",
+  "district": "Jaipur",
+  "website": "www.gyanvihar.org",
+  "year_established": "2000",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:49.721464Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

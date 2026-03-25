@@ -1,0 +1,937 @@
+{
+  "aishe_code": "U-0251",
+  "university_name": "UNIVERSITY OF CALICUT, MALAPPURAM",
+  "state": "Kerala",
+  "district": "Malappuram",
+  "website": "www.uoc.ac.in",
+  "year_established": "1968",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:11:10.069194Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pos",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Vac",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pos",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "vac",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "Integrated MSc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "Integrated MSc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "Integrated MSc",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "Integrated MSc",
+      "course_name": "Psy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ENG",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Spot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Aqu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Fas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "For",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Gen",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Hea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Home",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Pol",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Pri",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Psy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Rad",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Sta",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "AUD",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/student-life/private-registration/ugaudit-course"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://sde.uoc.ac.in/?q=content/ug-audit-course-examination"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Pri",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://sde.uoc.ac.in/?q=content/ug-audit-course-examination"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pri",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "for",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "BSc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/student-life/private-registration/ugaudit-course"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "AUD",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/student-life/private-registration/ugaudit-course"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/student-life/private-registration/ugaudit-course"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "BBA (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/student-life/private-registration/ugaudit-course"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "App",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Aqu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Bot",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Cos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Env",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Fam",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Food",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Gen",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Geo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Home",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Hot",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Pla",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Pol",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Pri",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Psy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Sta",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Zoo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "dus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "str",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "Bcom",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "Integrated M.A",
+      "course_name": "Mal",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "Integrated M.A",
+      "course_name": "Pol",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "Integrated M.A",
+      "course_name": "Soc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "Integrated MA",
+      "course_name": "Dev",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "Integrated MA",
+      "course_name": "Eng",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "App",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Con",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Equ",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mig",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ver",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.uoc.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Afz",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Ara",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Film",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Fun",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Isl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Mal",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Mri",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Mul",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Mus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Phi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "San",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Tam",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Urdu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Vee",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Vio",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Vis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "West",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Adv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "HRM)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Hum",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Ara",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Bus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Fin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Fol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Fun",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Isl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "MUS",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Mal",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Mul",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Phi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Post",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "San",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Tam",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Urdu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Wom",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/2016-04-29-10-02-43"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Oom",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/2016-04-27-10-19-11/schools-departments-centres/off-campus-centers-academics/dr-john-mathai-centre-academic"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://docs.uoc.ac.in/website/news/2025-10-13%2015:09:25_new2155.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in/index.php/student-life/private-registration/ugaudit-course"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.uoc.ac.in"
+    }
+  ],
+  "total_courses": 153,
+  "pages_scraped": 25,
+  "errors": []
+}

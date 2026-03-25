@@ -1,0 +1,6315 @@
+{
+  "generated_at": "2026-03-23T20:33:19.724160Z",
+  "total_universities": 700,
+  "scraped_successfully": 304,
+  "no_url": 23,
+  "no_courses_found": 42,
+  "errors_unreachable": 331,
+  "total_courses_extracted": 19303,
+  "courses_by_level": {
+    "Doctoral": 2995,
+    "Postgraduate": 3240,
+    "Undergraduate": 3845,
+    "Diploma": 1401,
+    "Certificate": 941,
+    "Unknown": 6704,
+    "Postgraduate Diploma": 177
+  },
+  "patterns_triggered": {
+    "P1-static": 346
+  },
+  "universities": [
+    {
+      "aishe_code": "U-1407",
+      "name": "Maa Pateswari University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1413",
+      "name": "Maa Vindhyavasini University",
+      "status": "success",
+      "courses_found": 32,
+      "pages_scraped": 8,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1213",
+      "name": "MAA SHAKUMBHARI UNIVERSITY",
+      "status": "success",
+      "courses_found": 20,
+      "pages_scraped": 16,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1031",
+      "name": "LORDS UNIVERSITY",
+      "status": "success",
+      "courses_found": 34,
+      "pages_scraped": 7,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0405",
+      "name": "LNM Institute of Information Technology, Jaipur",
+      "status": "success",
+      "courses_found": 113,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0379",
+      "name": "Lovely Professional University",
+      "status": "success",
+      "courses_found": 150,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1102",
+      "name": "LOK JAGRUTI KENDRA UNIVERSITY",
+      "status": "success",
+      "courses_found": 88,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1184",
+      "name": "MADHUSUDAN LAW UNIVERSITY",
+      "status": "success",
+      "courses_found": 10,
+      "pages_scraped": 13,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1068",
+      "name": "Madhabdev University",
+      "status": "success",
+      "courses_found": 8,
+      "pages_scraped": 15,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0698",
+      "name": "MADHAV UNIVERSITY",
+      "status": "success",
+      "courses_found": 47,
+      "pages_scraped": 24,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1329",
+      "name": "Madhav Institute of Technology and Science",
+      "status": "success",
+      "courses_found": 30,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0463",
+      "name": "Madurai Kamaraj University, Madurai",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0278",
+      "name": "Madhya Pradesh Bhoj Open University, Bhopal",
+      "status": "success",
+      "courses_found": 63,
+      "pages_scraped": 16,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0069",
+      "name": "Magadh University, Bodh Gaya",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1230",
+      "name": "MAGANBHAI ADENWALA MAHAGUJARAT UNIVERSITY",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0996",
+      "name": "MADHYA PRADESH AYURVIGYAN VISHWAVIDHLAYA, JABALPUR",
+      "status": "success",
+      "courses_found": 18,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0813",
+      "name": "LNCT UNIVERSITY",
+      "status": "success",
+      "courses_found": 192,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0462",
+      "name": "Madras University, Chennai",
+      "status": "success",
+      "courses_found": 28,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0810",
+      "name": "MAHARAJA CHHATRASAL BUNDELKHAND UNIVERSITY",
+      "status": "success",
+      "courses_found": 15,
+      "pages_scraped": 11,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0812",
+      "name": "MAHAPURUSHA SRIMANTA SANKARADEVA VISWAVIDYALAYA",
+      "status": "success",
+      "courses_found": 80,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1212",
+      "name": "LOKBHARTI UNIVERSITY FOR RURAL INNOVATION",
+      "status": "success",
+      "courses_found": 42,
+      "pages_scraped": 19,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0671",
+      "name": "MAHARAJA AGRASEN UNIVERSITY",
+      "status": "success",
+      "courses_found": 75,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0124",
+      "name": "Maharaja Krishnakumarsinhji Bhavnagar University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0739",
+      "name": "MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY,",
+      "status": "success",
+      "courses_found": 142,
+      "pages_scraped": 21,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1265",
+      "name": "Maharaja Suhel Dev State University",
+      "status": "success",
+      "courses_found": 5,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1236",
+      "name": "LNCT VIDHYAPEETH UNIVERSITY",
+      "status": "success",
+      "courses_found": 32,
+      "pages_scraped": 23,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0359",
+      "name": "Maharaja Sriram Chandra Bhanja Deo University",
+      "status": "success",
+      "courses_found": 20,
+      "pages_scraped": 11,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0406",
+      "name": "Maharaja Ganga Singh University, Bikaner",
+      "status": "success",
+      "courses_found": 41,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0407",
+      "name": "Maharana Pratap University of Agriculture & Technology, Udaipur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1421",
+      "name": "Madanapalle Institute of Technology and Science MITS",
+      "status": "success",
+      "courses_found": 190,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0187",
+      "name": "Maharashi Markandeshwar University, Solan",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0312",
+      "name": "Maharashtra Animal & Fishery Sciences University, Nagpur",
+      "status": "success",
+      "courses_found": 15,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1047",
+      "name": "MAHARANI CLUSTER UNIVERSITY",
+      "status": "success",
+      "courses_found": 9,
+      "pages_scraped": 7,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1148",
+      "name": "MAHARANA PRATAP HORTICULTURAL UNIVERSITY",
+      "status": "success",
+      "courses_found": 1,
+      "pages_scraped": 10,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0143",
+      "name": "Maharaja Sayajirao University of Baroda, Vadodara",
+      "status": "success",
+      "courses_found": 46,
+      "pages_scraped": 28,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0886",
+      "name": "Maharashtra National Law University Mumbai",
+      "status": "success",
+      "courses_found": 52,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0915",
+      "name": "Maharashtra National Law University, Aurangabad",
+      "status": "success",
+      "courses_found": 4,
+      "pages_scraped": 6,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0313",
+      "name": "Maharashtra University of Health Sciences, Nashik",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0811",
+      "name": "MAHARAJA RANJIT SINGH PUNJAB TECHNICAL UNIVERSITY, BATHINDA",
+      "status": "success",
+      "courses_found": 57,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0408",
+      "name": "Maharishi Dayanand Saraswati University, Ajmer",
+      "status": "success",
+      "courses_found": 2,
+      "pages_scraped": 10,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0280",
+      "name": "Maharishi  Mahesh Yogi Vedic Vishwavidyalaya",
+      "status": "success",
+      "courses_found": 11,
+      "pages_scraped": 2,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0168",
+      "name": "Maharishi Markandeshwar University, Mullana-Ambala",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0641",
+      "name": "MAHARISHI MARKANDESHWAR UNIVERSITY, SADOPUR-AMBALA",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0952",
+      "name": "MAHARISHI UNIVERSITY OF INFORMATION TECHNOLOGY",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0880",
+      "name": "Maharashtra National Law University,Nagpur",
+      "status": "success",
+      "courses_found": 22,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0842",
+      "name": "MAHARISHI ARVIND UNIVERSITY",
+      "status": "success",
+      "courses_found": 20,
+      "pages_scraped": 24,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0167",
+      "name": "Maharshi Dayanand University, Rohtak",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1182",
+      "name": "Maharshi Valmiki Sanskrit University",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1238",
+      "name": "MAHARASHTRA STATE SKILLS UNIVERSITY",
+      "status": "success",
+      "courses_found": 73,
+      "pages_scraped": 17,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0941",
+      "name": "Madhyanchal Professional University",
+      "status": "success",
+      "courses_found": 119,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0525",
+      "name": "Mahatama Jyotiba Phule Rohikhand University, Bareilly",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0965",
+      "name": "MAHARAJ VINAYAK GLOBAL UNIVERSITY, JAIPUR",
+      "status": "success",
+      "courses_found": 44,
+      "pages_scraped": 20,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0282",
+      "name": "Mahatama Gandhi Gramodaya Vishwavidyalaya, Chitrakoot, Satna",
+      "status": "success",
+      "courses_found": 85,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0314",
+      "name": "Mahatama Gandhi Antarrashtriya Hindi Vishwavidyalaya, Wardha",
+      "status": "success",
+      "courses_found": 1,
+      "pages_scraped": 10,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1434",
+      "name": "Mahatma Gandhi University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1103",
+      "name": "MAHARISHI UNIVERSITY OF MANAGEMENT AND TECHNOLOGY",
+      "status": "success",
+      "courses_found": 29,
+      "pages_scraped": 11,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1150",
+      "name": "MAHATMA GANDHI UNIVERSITY",
+      "status": "success",
+      "courses_found": 2,
+      "pages_scraped": 12,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0281",
+      "name": "Maharshi Panini Sanskrit Evam Vedic Vishwavidyalaya, Ujjain",
+      "status": "success",
+      "courses_found": 47,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0022",
+      "name": "Mahatma Gandhi University, Nalgonda",
+      "status": "success",
+      "courses_found": 28,
+      "pages_scraped": 10,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0839",
+      "name": "MAHARAJA BIR BIKRAM UNIVERSITY, AGARTALA",
+      "status": "success",
+      "courses_found": 19,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1131",
+      "name": "MAHAKAUSHAL UNIVERSITY",
+      "status": "success",
+      "courses_found": 27,
+      "pages_scraped": 15,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0262",
+      "name": "Mahatma Gandhi University, Kottayam",
+      "status": "success",
+      "courses_found": 5,
+      "pages_scraped": 4,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0732",
+      "name": "MAHATMA GANDHI UNIVERSITY OF MEDICAL SCIENCES AND TECHNOLOGY, JAIPUR",
+      "status": "success",
+      "courses_found": 74,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1196",
+      "name": "MAHAYOGI GORAKHNATH UNIVERSITY GORAKHPUR",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1270",
+      "name": "MAHAYOGI GURU GORAKHNATH AYUSH UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1292",
+      "name": "MAHATMA GANDHI UDHYANIKEE EVAM VANIKEE VISHWAVIDYALAYA, DURG, C.G",
+      "status": "success",
+      "courses_found": 11,
+      "pages_scraped": 9,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1398",
+      "name": "Major Dhyan Chand Sports University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0527",
+      "name": "Mahatma Gandhi Kashi Vidyapeeth, Varanasi",
+      "status": "success",
+      "courses_found": 38,
+      "pages_scraped": 26,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0793",
+      "name": "MAHARAJA SURAJMAL BRIJ UNIVERSITY",
+      "status": "success",
+      "courses_found": 109,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0605",
+      "name": "Maharashtra Institute of Technology University, of Meghalaya",
+      "status": "success",
+      "courses_found": 97,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1410",
+      "name": "Malla Reddy MR University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1194",
+      "name": "MAJULI UNIVERSITY OF CULTURE",
+      "status": "success",
+      "courses_found": 8,
+      "pages_scraped": 15,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1119",
+      "name": "MAHINDRA UNIVERSITY",
+      "status": "success",
+      "courses_found": 106,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0315",
+      "name": "Mahatma Phule Krishi Vidyapeeth, Rahuri",
+      "status": "success",
+      "courses_found": 11,
+      "pages_scraped": 12,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0410",
+      "name": "Malviya National Institute of Technology, Jaipur",
+      "status": "success",
+      "courses_found": 124,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1440",
+      "name": "Management and Information Technology University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0339",
+      "name": "Mahatma Gandhi University, Tura, West Garo Hills",
+      "status": "success",
+      "courses_found": 101,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0960",
+      "name": "MALWANCHAL UNIVERSITY",
+      "status": "success",
+      "courses_found": 13,
+      "pages_scraped": 6,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0169",
+      "name": "Manav Rachna International Institute of Research & Studies",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1050",
+      "name": "MANDYA UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0818",
+      "name": "Manav Rachna University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0409",
+      "name": "Mahatma Jyoti Rao Phoole University, Jaipur",
+      "status": "success",
+      "courses_found": 95,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1124",
+      "name": "MALLA REDDY UNIVERSITY",
+      "status": "success",
+      "courses_found": 29,
+      "pages_scraped": 5,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0528",
+      "name": "Mangalayatan University, Aligarh",
+      "status": "success",
+      "courses_found": 229,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1105",
+      "name": "MANGALAYATAN UNIVERSITY",
+      "status": "success",
+      "courses_found": 118,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0835",
+      "name": "Mahatma Gandhi Central University, Motihari",
+      "status": "success",
+      "courses_found": 3,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1327",
+      "name": "Mahaveer University",
+      "status": "success",
+      "courses_found": 42,
+      "pages_scraped": 23,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0283",
+      "name": "Makhanlal Chaturvedi National University of Journalism and Communication, Bhopal",
+      "status": "success",
+      "courses_found": 26,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0881",
+      "name": "MANIPUR TECHNICAL UNIVERSITY",
+      "status": "success",
+      "courses_found": 38,
+      "pages_scraped": 13,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0749",
+      "name": "MANIPAL UNIVERSITY, JAIPUR",
+      "status": "success",
+      "courses_found": 176,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1023",
+      "name": "MANSAROVAR GLOBAL UNIVERSITY",
+      "status": "success",
+      "courses_found": 50,
+      "pages_scraped": 10,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0337",
+      "name": "Manipur University, Imphal",
+      "status": "success",
+      "courses_found": 186,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0464",
+      "name": "Manonmaniam Sundaranar University, Tirunelveli",
+      "status": "success",
+      "courses_found": 15,
+      "pages_scraped": 15,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1429",
+      "name": "Marwar Medical University",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0234",
+      "name": "Manipal Academy of Higher Education, Manipal",
+      "status": "success",
+      "courses_found": 176,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1366",
+      "name": "Malla Reddy Vishwavidyapeeth",
+      "status": "success",
+      "courses_found": 8,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0340",
+      "name": "Martin Luther Christian University, Shillong",
+      "status": "success",
+      "courses_found": 90,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1217",
+      "name": "MANIPUR INTERNATIONAL UNIVERSITY",
+      "status": "success",
+      "courses_found": 38,
+      "pages_scraped": 14,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0825",
+      "name": "Marwadi University",
+      "status": "success",
+      "courses_found": 109,
+      "pages_scraped": 15,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1386",
+      "name": "Mata Tripura Sundari Open University",
+      "status": "success",
+      "courses_found": 127,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0692",
+      "name": "MAULANA AZAD UNIVERSITY, JODHPUR",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0091",
+      "name": "MATS University, Raipur",
+      "status": "success",
+      "courses_found": 80,
+      "pages_scraped": 17,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1349",
+      "name": "Maya Devi University",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0592",
+      "name": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+      "status": "success",
+      "courses_found": 133,
+      "pages_scraped": 17,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1210",
+      "name": "MBM UNIVERSITY",
+      "status": "success",
+      "courses_found": 29,
+      "pages_scraped": 5,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0023",
+      "name": "Maulana Azad National Urdu University, Hyderabad",
+      "status": "success",
+      "courses_found": 87,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1208",
+      "name": "MEDHAVI SKILLS UNIVERSITY",
+      "status": "success",
+      "courses_found": 68,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0411",
+      "name": "Mewar University, Chittorgarh",
+      "status": "success",
+      "courses_found": 30,
+      "pages_scraped": 19,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0284",
+      "name": "Maulana Azad National Institute of Technology, Bhopal",
+      "status": "success",
+      "courses_found": 36,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1101",
+      "name": "MGM UNIVERSITY",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0465",
+      "name": "Meenakshi Academy of Higher Education and Research, Chennai",
+      "status": "success",
+      "courses_found": 88,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0233",
+      "name": "Mangalore University, Mangalore",
+      "status": "success",
+      "courses_found": 21,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1342",
+      "name": "Major S D Singh University",
+      "status": "success",
+      "courses_found": 99,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1125",
+      "name": "MATA GUJRI UNIVERSITY",
+      "status": "success",
+      "courses_found": 23,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1361",
+      "name": "Mind Power University",
+      "status": "success",
+      "courses_found": 104,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1369",
+      "name": "M K University",
+      "status": "success",
+      "courses_found": 77,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1307",
+      "name": "MIT VISHWAPRAYAG UNIVERSITY",
+      "status": "success",
+      "courses_found": 61,
+      "pages_scraped": 18,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0412",
+      "name": "Mody University of Science and Technology",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0985",
+      "name": "MANIPUR UNIVERSITY OF CULTURE",
+      "status": "success",
+      "courses_found": 27,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1373",
+      "name": "MNR University",
+      "status": "success",
+      "courses_found": 9,
+      "pages_scraped": 14,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0413",
+      "name": "Mohan Lal Sukhadia University, Uaipur",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0317",
+      "name": "MGM Institute of Health Sciences, Navi  Mumbai",
+      "status": "success",
+      "courses_found": 86,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1129",
+      "name": "MONARK UNIVERSITY",
+      "status": "success",
+      "courses_found": 6,
+      "pages_scraped": 3,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0529",
+      "name": "Mohammad Ali Jauhar University, Rampur",
+      "status": "success",
+      "courses_found": 70,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0834",
+      "name": "MEDI-CAPS UNIVERSITY",
+      "status": "success",
+      "courses_found": 146,
+      "pages_scraped": 23,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0780",
+      "name": "MOTHERHOOD UNIVERSITY",
+      "status": "success",
+      "courses_found": 42,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0891",
+      "name": "MIT Art, Design and Technology University, Pune",
+      "status": "success",
+      "courses_found": 286,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0070",
+      "name": "Maulana Mazharul Haque Arabic & Persian University, Patna",
+      "status": "success",
+      "courses_found": 34,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0461",
+      "name": "M.G.R. Educational and Research Institute, Chennai",
+      "status": "success",
+      "courses_found": 254,
+      "pages_scraped": 24,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0742",
+      "name": "M V N University, Palwal",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0347",
+      "name": "Nagaland University",
+      "status": "success",
+      "courses_found": 1,
+      "pages_scraped": 3,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1419",
+      "name": "Nagaon University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0071",
+      "name": "Nalanda Open University, Patna",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0466",
+      "name": "Mother Teresa Women's University, Kodaikanal",
+      "status": "success",
+      "courses_found": 5,
+      "pages_scraped": 19,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0724",
+      "name": "M.S. RAMAIAH UNIVERSITY OF APPLIED SCIENCES, BANGALORE",
+      "status": "success",
+      "courses_found": 55,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0644",
+      "name": "MONAD UNIVERSITY",
+      "status": "success",
+      "courses_found": 2,
+      "pages_scraped": 24,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0279",
+      "name": "Nanaji Deshmukh Pashu Chikitsa Vigyan Vishwavidalaya, Jabalpur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0710",
+      "name": "Nalanda University",
+      "status": "success",
+      "courses_found": 58,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0170",
+      "name": "National Brain Research Centre, Gurgaon",
+      "status": "success",
+      "courses_found": 9,
+      "pages_scraped": 8,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0024",
+      "name": "National Academy of Legal Studies & Research (NALSR) University Hyderabad",
+      "status": "success",
+      "courses_found": 62,
+      "pages_scraped": 19,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0530",
+      "name": "Motilal Nehru National Institute of Technology, Allahabad",
+      "status": "success",
+      "courses_found": 70,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0171",
+      "name": "National Dairy  Research Institute, Karnal",
+      "status": "success",
+      "courses_found": 163,
+      "pages_scraped": 22,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1339",
+      "name": "National Institute of Advanced Manufacturing Technology",
+      "status": "success",
+      "courses_found": 5,
+      "pages_scraped": 6,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1187",
+      "name": "National Forensic Sciences University",
+      "status": "success",
+      "courses_found": 10,
+      "pages_scraped": 17,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0593",
+      "name": "NATIONAL FORENSIC SCIENCES UNIVERSITY",
+      "status": "success",
+      "courses_found": 10,
+      "pages_scraped": 18,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1028",
+      "name": "NATIONAL INSTITUTE OF DESIGN",
+      "status": "success",
+      "courses_found": 36,
+      "pages_scraped": 18,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0345",
+      "name": "Mizoram University, Aizwal",
+      "status": "success",
+      "courses_found": 53,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1045",
+      "name": "NATIONAL INSTITUTE OF DESIGN, ASSAM",
+      "status": "success",
+      "courses_found": 16,
+      "pages_scraped": 8,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1073",
+      "name": "National Institute of Design Haryana",
+      "status": "success",
+      "courses_found": 2,
+      "pages_scraped": 7,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1394",
+      "name": "National  Institute of Electronics and Information Technology NIELIT",
+      "status": "success",
+      "courses_found": 2,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1094",
+      "name": "NATIONAL INSTITUTE OF DESIGN (NID) MADHYA PRADESH",
+      "status": "success",
+      "courses_found": 7,
+      "pages_scraped": 9,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1192",
+      "name": "NATIONAL INSTITUTE OF DESIGN ANDHRA PRADESH",
+      "status": "success",
+      "courses_found": 15,
+      "pages_scraped": 15,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1317",
+      "name": "NATIONAL INSTITUTE OF FOOD TECHNOLOGY, ENTREPRENEURSHIP AND MANAGEMENT -THANJAVUR",
+      "status": "success",
+      "courses_found": 6,
+      "pages_scraped": 8,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0236",
+      "name": "National Institute of Mental Health & Neuro Sciences, Bangalore",
+      "status": "success",
+      "courses_found": 2,
+      "pages_scraped": 8,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1316",
+      "name": "NATIONAL INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH GUWAHATI",
+      "status": "success",
+      "courses_found": 28,
+      "pages_scraped": 5,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0114",
+      "name": "National Institute of Educational Planning & Administration",
+      "status": "success",
+      "courses_found": 17,
+      "pages_scraped": 21,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1118",
+      "name": "NATIONAL INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH (NIPER) HYDERABAD",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1331",
+      "name": "NATIONAL INSTITUTE OF TECHNICAL TEACHERS TRAINING AND RESEARCH, CHENNAI",
+      "status": "success",
+      "courses_found": 2,
+      "pages_scraped": 3,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1284",
+      "name": "MOHAN BABU UNIVERSITY",
+      "status": "success",
+      "courses_found": 84,
+      "pages_scraped": 21,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1333",
+      "name": "NATIONAL INSTITUTE OF TECHNICAL TEACHERS' TRAINING & RESEARCH, BHOPAL",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1116",
+      "name": "NATIONAL INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH HAJIPUR",
+      "status": "success",
+      "courses_found": 36,
+      "pages_scraped": 11,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0380",
+      "name": "National Institute of Pharmaceutical, Educational and Research, Mohali",
+      "status": "success",
+      "courses_found": 29,
+      "pages_scraped": 22,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0989",
+      "name": "NATIONAL INSTITUTE OF FOOD TECHNOLOGY ENTREPRENEURSHIP AND MANAGEMENT",
+      "status": "success",
+      "courses_found": 6,
+      "pages_scraped": 22,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0855",
+      "name": "National Institute of Technology, Andhra Pradesh",
+      "status": "success",
+      "courses_found": 6,
+      "pages_scraped": 11,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0493",
+      "name": "National Institute of Technology, Agartala",
+      "status": "success",
+      "courses_found": 46,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0615",
+      "name": "National Institute of Technology Arunachal Pradesh",
+      "status": "success",
+      "courses_found": 37,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0263",
+      "name": "National Institute of Technology, Calicut",
+      "status": "success",
+      "courses_found": 37,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1332",
+      "name": "National Institute of Technical Teacher Training & Research Chandigarh",
+      "status": "success",
+      "courses_found": 61,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0110",
+      "name": "National Institute of Fashion Technology, Hauz Khas",
+      "status": "success",
+      "courses_found": 27,
+      "pages_scraped": 14,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0207",
+      "name": "National Institute of Technology, Jamshedpur",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0622",
+      "name": "National Institute of Technology Delhi",
+      "status": "success",
+      "courses_found": 43,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0883",
+      "name": "MANDSAUR UNIVERSITY",
+      "status": "success",
+      "courses_found": 134,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0237",
+      "name": "National Institute of Technology, Karnataka",
+      "status": "success",
+      "courses_found": 109,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0577",
+      "name": "National Institute of Technology, Durgapur",
+      "status": "success",
+      "courses_found": 25,
+      "pages_scraped": 24,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0617",
+      "name": "National Institute of Technology Mizoram",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0618",
+      "name": "National Institute of Technology Nagaland",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0072",
+      "name": "National Institute of Technology, Patna",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0621",
+      "name": "National Institute of Technology Puducherry",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0092",
+      "name": "National Institute of Technology, Raipur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0357",
+      "name": "National Institute of Technology, Rourkela",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0614",
+      "name": "National Institute of Technology Sikkim",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0613",
+      "name": "National Institute of Technology Manipur",
+      "status": "success",
+      "courses_found": 26,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0619",
+      "name": "National Institute of Technology Meghalaya",
+      "status": "success",
+      "courses_found": 22,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0055",
+      "name": "National Institute of Technology, Silchar",
+      "status": "success",
+      "courses_found": 49,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0172",
+      "name": "National Institute of Technology, Kurukshetra",
+      "status": "success",
+      "courses_found": 26,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0025",
+      "name": "National Institute of Technology, Warangal",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0467",
+      "name": "National Institute of Technology, Tiruchirapalli",
+      "status": "success",
+      "courses_found": 77,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0197",
+      "name": "National Institute of Technology, Srinagar",
+      "status": "success",
+      "courses_found": 86,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0238",
+      "name": "National Law School of India University, Bangalore",
+      "status": "success",
+      "courses_found": 188,
+      "pages_scraped": 14,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0616",
+      "name": "National Institute of Technology Uttarakhand",
+      "status": "success",
+      "courses_found": 26,
+      "pages_scraped": 17,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1359",
+      "name": "National Institute of Ayurveda, Rajasthan",
+      "status": "success",
+      "courses_found": 51,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0975",
+      "name": "MUNGER UNIVERSITY",
+      "status": "success",
+      "courses_found": 82,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0285",
+      "name": "National Law Institute University, Bhopal",
+      "status": "success",
+      "courses_found": 61,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0358",
+      "name": "National Law University, Cuttuck",
+      "status": "success",
+      "courses_found": 73,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1293",
+      "name": "NATIONAL LAW UNIVERSITY",
+      "status": "success",
+      "courses_found": 27,
+      "pages_scraped": 18,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0677",
+      "name": "NATIONAL LAW UNIVERSITY AND JUDICIAL ACADEMY",
+      "status": "success",
+      "courses_found": 39,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1305",
+      "name": "NATIONAL LAW UNIVERSITY OF MEGHALAYA",
+      "status": "success",
+      "courses_found": 8,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0112",
+      "name": "National Museum Institute of History of Art Conservation and Museology",
+      "status": "success",
+      "courses_found": 5,
+      "pages_scraped": 14,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1330",
+      "name": "National Institute of Technical Teachers Training and Research Kolkata",
+      "status": "success",
+      "courses_found": 29,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0264",
+      "name": "National University of Advanced Legal Studies, Kochi",
+      "status": "success",
+      "courses_found": 20,
+      "pages_scraped": 13,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0414",
+      "name": "National Law University, Jodhpur",
+      "status": "success",
+      "courses_found": 20,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0145",
+      "name": "Navsari Agricultural University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1443",
+      "name": "Nayanta University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0189",
+      "name": "National Institute of Technology, Hamirpur",
+      "status": "success",
+      "courses_found": 17,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0144",
+      "name": "Navrachana University",
+      "status": "success",
+      "courses_found": 144,
+      "pages_scraped": 17,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0578",
+      "name": "Netaji Subhash Open University, Kolkata",
+      "status": "success",
+      "courses_found": 1,
+      "pages_scraped": 2,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0532",
+      "name": "Nehru Gram Bharati (Deemed to be University), Prayagraj",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1026",
+      "name": "National Sports University",
+      "status": "success",
+      "courses_found": 49,
+      "pages_scraped": 20,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1056",
+      "name": "NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY",
+      "status": "success",
+      "courses_found": 35,
+      "pages_scraped": 12,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0073",
+      "name": "Nava Nalanda Mahavihara, Nalanda",
+      "status": "success",
+      "courses_found": 39,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0600",
+      "name": "National University of Study & Research in Law, Ranchi",
+      "status": "success",
+      "courses_found": 18,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1046",
+      "name": "NETAJI SUBHAS UNIVERSITY",
+      "status": "success",
+      "courses_found": 68,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0030",
+      "name": "National Sanskrit University , Tirupati",
+      "status": "success",
+      "courses_found": 48,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0208",
+      "name": "Nilamber-Pitamber University, Palamu",
+      "status": "success",
+      "courses_found": 20,
+      "pages_scraped": 14,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1165",
+      "name": "MURSHIDABAD UNIVERSITY",
+      "status": "success",
+      "courses_found": 5,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0833",
+      "name": "NIIT UNIVERSITY",
+      "status": "success",
+      "courses_found": 140,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1425",
+      "name": "Netaji Subhash Chandra Bose Institute of Higher Learning",
+      "status": "success",
+      "courses_found": 14,
+      "pages_scraped": 8,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0415",
+      "name": "Nims University Rajasthan, Jaipur",
+      "status": "success",
+      "courses_found": 2,
+      "pages_scraped": 17,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1374",
+      "name": "NICMAR University of Construction Studies, Hyderabad Telangana",
+      "status": "success",
+      "courses_found": 111,
+      "pages_scraped": 15,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1442",
+      "name": "NMV University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0026",
+      "name": "Nizam Institute of Medical Sciences,  Hyderabad",
+      "status": "success",
+      "courses_found": 1,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0646",
+      "name": "NIILM UNIVERSITY",
+      "status": "success",
+      "courses_found": 34,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1396",
+      "name": "NIST University",
+      "status": "success",
+      "courses_found": 98,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0239",
+      "name": "NITTE Unversity, Mangalore",
+      "status": "success",
+      "courses_found": 187,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0468",
+      "name": "Noorul Islam Centre for Higher Education, Kanyakumari",
+      "status": "success",
+      "courses_found": 3,
+      "pages_scraped": 18,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1215",
+      "name": "NOBLE UNIVERSITY",
+      "status": "success",
+      "courses_found": 178,
+      "pages_scraped": 26,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0111",
+      "name": "National Law University, Delhi",
+      "status": "success",
+      "courses_found": 59,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0046",
+      "name": "North Eastern Regional Institute of Science & Technology, Papum Pare, Itanagar",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0146",
+      "name": "Nirma University, Ahmedabad",
+      "status": "success",
+      "courses_found": 38,
+      "pages_scraped": 20,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1195",
+      "name": "NORTH EAST CHRISTIAN UNIVERSITY",
+      "status": "success",
+      "courses_found": 79,
+      "pages_scraped": 20,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0620",
+      "name": "National Institute of Technology Goa",
+      "status": "success",
+      "courses_found": 27,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1279",
+      "name": "ODIA UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1079",
+      "name": "NIRWAN UNIVERSITY",
+      "status": "success",
+      "courses_found": 96,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1427",
+      "name": "North Lakhimpur University",
+      "status": "success",
+      "courses_found": 13,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0932",
+      "name": "Odisha State Open University",
+      "status": "success",
+      "courses_found": 56,
+      "pages_scraped": 17,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0579",
+      "name": "North Bengal University, Darjeeling",
+      "status": "success",
+      "courses_found": 107,
+      "pages_scraped": 19,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1138",
+      "name": "NORTH EAST ADVENTIST UNIVERSITY",
+      "status": "success",
+      "courses_found": 87,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0341",
+      "name": "North Eastern Hill University, Shillong",
+      "status": "success",
+      "courses_found": 111,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0662",
+      "name": "ORIENTAL UNIVERSITY,INDORE",
+      "status": "success",
+      "courses_found": 21,
+      "pages_scraped": 10,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0360",
+      "name": "Orissa University of Agriculture &  Technology, Bhubaneswar",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0173",
+      "name": "O. P. Jindal Global University, Sonipat",
+      "status": "success",
+      "courses_found": 75,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0416",
+      "name": "Pacific Academy of Higher Education Research University, Udaipur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1123",
+      "name": "NRUPATHUNGA UNIVERSITY",
+      "status": "success",
+      "courses_found": 21,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0533",
+      "name": "Noida International University",
+      "status": "success",
+      "courses_found": 178,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0028",
+      "name": "Palamuru University,  Mahabubnagar",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0286",
+      "name": "Pandhi Dwarka Prasad Mishra Indian Institute of Information Technology & Manufacturing , Jabalpur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0321",
+      "name": "Padmashree Dr. D. Y. Patil Vidyapeeth, , Mumbai",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1053",
+      "name": "OM STERLING GLOBAL UNIVERSITY",
+      "status": "success",
+      "courses_found": 135,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0147",
+      "name": "PANDIT DEENDAYAL ENERGY UNIVERSITY, GANDHI NAGAR",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0785",
+      "name": "PANDIT DEENDAYAL UPADHYAYA SHEKHAWATI UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1446",
+      "name": "Pannadhay University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0928",
+      "name": "Pandit S.N. Shukla University, Shahdol",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0777",
+      "name": "NORTH EAST FRONTIER TECHNICAL UNIVERSITY",
+      "status": "success",
+      "courses_found": 67,
+      "pages_scraped": 18,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0078",
+      "name": "Panjab University,Chandigarh",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0763",
+      "name": "PARUL UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0974",
+      "name": "PATLIPUTRA UNIVERSITY, PATNA",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0074",
+      "name": "Patna University, Patna",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0910",
+      "name": "PDM University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0655",
+      "name": "PEOPLES UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1417",
+      "name": "Phonics University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0469",
+      "name": "Periyar Maniammai Institute of Science & Technology, Thanjavur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0470",
+      "name": "Periyar University, Salem",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0733",
+      "name": "PES UNIVERSITY, BANGLORE",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1239",
+      "name": "ODISHA UNIVERSITY OF TECHNOLOGY AND RESEARCH",
+      "status": "success",
+      "courses_found": 19,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1275",
+      "name": "PIMPRI CHINCHWAD UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0858",
+      "name": "P.K. UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1299",
+      "name": "ODISHA UNIVERSITY OF HEALTH SCIENCES",
+      "status": "success",
+      "courses_found": 13,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1170",
+      "name": "PLAKSHA UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0843",
+      "name": "PLASTINDIA INTERNATIONAL UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0369",
+      "name": "Pondicherry Univeristy, Puducherry",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0471",
+      "name": "Ponnaiyah Ramajayam Institute of Science & Technology, Thanjavur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0752",
+      "name": "POORNIMA UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0079",
+      "name": "Post Graduate Institute of Medical Sciences",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0873",
+      "name": "P.P. Savani University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1313",
+      "name": "Pragjyotishpur University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0816",
+      "name": "PRATAP UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0580",
+      "name": "Presidency University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0322",
+      "name": "Pravara Institute of Medical Sciences, Ahmednagar",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0876",
+      "name": "PRESIDENCY UNIVERSITY , BENGALURU",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1303",
+      "name": "PRESTIGE UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0784",
+      "name": "PROFESSOR JAYASHANKAR TELANGANA AGRICULTURAL UNIVERSITY (PJTAU)",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0832",
+      "name": "OP JINDAL UNIVERSITY",
+      "status": "success",
+      "courses_found": 92,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0849",
+      "name": "Professor Rajendra Singh (Rajju Bhaiya) University, Prayagraj, Uttar Pradesh",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0174",
+      "name": "Pt. Bhagwat Dayal Sharma University of Health Sciences",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0081",
+      "name": "Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University of Chhattisgarh",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0093",
+      "name": "Pt. Ravishankar Shukla University, Raipur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0094",
+      "name": "Pt. Sundarlal Sharma (Open) University, Bilaspur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1245",
+      "name": "Puducherry Technological University, Puducherry",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0381",
+      "name": "Punjab Agricultural University, Ludhiana",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0080",
+      "name": "Punjab Engineering College , Chandigarh",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0383",
+      "name": "Punjabi University, Patiala",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0327",
+      "name": "Punyashlok Ahilyadevi Holkar Solapur University, Solapur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0999",
+      "name": "PURNEA UNIVERSITY, PURNIA",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0950",
+      "name": "Quantum University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0868",
+      "name": "P.V. NARSIMHA RAO TELANGANA VETERINARY UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0581",
+      "name": "Rabindra Bharati University, Kolkata",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1147",
+      "name": "Rabindranath Tagore University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1075",
+      "name": "RADHA GOVIND UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0656",
+      "name": "RABINDRANATH TAGORE UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0640",
+      "name": "RAFFLES UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0901",
+      "name": "RAIGANJ UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1164",
+      "name": "RAICHUR UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1190",
+      "name": "RAJASTHAN AYURVEDIC NURSING COUNCIL",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0726",
+      "name": "RAI TECHNOLOGY UNIVERSITY, BANGALORE",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0790",
+      "name": "RAI UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1084",
+      "name": "Raja Shankar Shah University,Chhindwara",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1220",
+      "name": "RAJA MAHENDRA PRATAP SINGH UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0629",
+      "name": "Raja Mansingh  Tomar Music & Arts University, Gwalior",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0419",
+      "name": "Rajasthan Technical University, Kota",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0420",
+      "name": "Rajasthan University of Health Sciences, Jaipur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0421",
+      "name": "Rajasthan University of Veterinary and Animal Sciences, Bikaner",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1176",
+      "name": "RAJENDRA UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0472",
+      "name": "Rajiv Gandhi National Instiute of Youth Development, Sriperumbudur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0535",
+      "name": "Rajiv Gandhi Institute of Petroleum Technology, Amethi",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1117",
+      "name": "Rajiv Gandhi National Aviation University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0027",
+      "name": "Osmania University, Hyderabad",
+      "status": "success",
+      "courses_found": 12,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0287",
+      "name": "Rajiv Gandhi Prodoyogiki Vishwavidyalaya, Bhopal",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0386",
+      "name": "Rajiv Gandhi National University of Law, Punjab",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0047",
+      "name": "Rajiv Gandhi University, Itanagar",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0240",
+      "name": "Rajiv Gandhi University of Health Sciences, Bangalore",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0869",
+      "name": "RAJIV GANDHI UNIVERSITY OF KNOWLEDGE TECHNOLOGIES, BASAR",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0632",
+      "name": "RAJIV GANDHI UNIVERSITY OF KNOWLEDGE TECHNOLOGIES",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1268",
+      "name": "RAJJU SHROFF ROFEL UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0288",
+      "name": "Rajmata Vijayaraje Scindia Krishi Vishwa Vidyalaya, Gwalior",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0814",
+      "name": "RAJ RISHI BHARTRIHARI MATSYA UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0838",
+      "name": "RAMA DEVI WOMEN'S UNIVERSITY, BHUBANESWAR",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0582",
+      "name": "Ramakrishna Mission Vivekananda Educational  and Research Institute, Howrah",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0808",
+      "name": "RAMA UNIVERSITY UTTAR PRADESH",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1336",
+      "name": "Ramdeobaba University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1072",
+      "name": "RAMCHANDRA CHANDRAVANSI UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1063",
+      "name": "RAM KRISHNA DHARMARTH FOUNDATION (RKDF) UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0209",
+      "name": "Ranchi University, Ranchi",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0602",
+      "name": "Rani Channamma University, Belagavi",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1383",
+      "name": "Rani Awantibai Lodhi Vishwavidyalaya Sagar",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0289",
+      "name": "Rani Durgavati Vishwavidyalaya, Jabalpur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1431",
+      "name": "Rayat Bahra Professional University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1095",
+      "name": "RANI RASHMONI GREEN UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0908",
+      "name": "Ras Bihari Bose Subharti University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0332",
+      "name": "Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0595",
+      "name": "Rashtriya Raksha University, Gujarat",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0758",
+      "name": "PACIFIC MEDICAL UNIVERSITY",
+      "status": "success",
+      "courses_found": 13,
+      "pages_scraped": 20,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0031",
+      "name": "Rayalaseema, University Kurnool",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0361",
+      "name": "Ravenshaw University, Cuttak",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0769",
+      "name": "RAYAT BAHRA UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1055",
+      "name": "REGIONAL CENTRE FOR BIOTECHNOLOGY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0725",
+      "name": "REVA UNIVERSITY, BANGALORE",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0940",
+      "name": "Renaissance University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0822",
+      "name": "RIMT UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1109",
+      "name": "RISHIHOOD UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0647",
+      "name": "R K University, Rajkot",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0652",
+      "name": "RKDF UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0847",
+      "name": "RNB GLOBAL UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1405",
+      "name": "Rungta International Skills University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1156",
+      "name": "RV UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0125",
+      "name": "Sabarmati University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1144",
+      "name": "SADHU RAM CHAND MURMU UNIVERSITY OF JHARGRAM",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0916",
+      "name": "SAGE UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0820",
+      "name": "SAI NATH UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0870",
+      "name": "SAI TIRUPATI UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1128",
+      "name": "SAI UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0362",
+      "name": "Sambalpur University, Sambalpur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1121",
+      "name": "SAM GLOBAL UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0536",
+      "name": "Sam Higginbottom Institute of Agriculture, Technology & Sciences, Allahabad",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1198",
+      "name": "Rani Lakshmi Bai Central Agricultural University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1402",
+      "name": "Sammakka Sarakka Central Tribal University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0537",
+      "name": "Sampurnanand Sanskrit Vishwavidyalaya,  Varanasi",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0969",
+      "name": "SANCHI UNIVERSITY OF BUDDHIST-INDIC STUDIES",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0877",
+      "name": "Sandip University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1041",
+      "name": "SANDIP UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0693",
+      "name": "SANGAM UNIVERSITY, BHILWARA",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0538",
+      "name": "Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0973",
+      "name": "SANJAY GHODAWAT UNIVERSITY, KOLHAPUR",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1098",
+      "name": "SANJEEV AGARWAL GLOBAL EDUCATIONAL UNIVERSITY BHOPAL",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1355",
+      "name": "Sanjivani University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0821",
+      "name": "Sankalchand Patel University, Visnagar",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1341",
+      "name": "Sanskaram University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0824",
+      "name": "Sanskriti University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0900",
+      "name": "SANT BABA BHAG SINGH UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0324",
+      "name": "Sant Gadge Baba Amravati University, Amravati",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0095",
+      "name": "Sant Gahira Guru Vishwavidyalaya, Sarguja, Ambikapur, Chattisgarh",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0384",
+      "name": "Sant Longowal Institute of Engg. & Tech., Longowal",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0539",
+      "name": "Santosh University, Ghaziabad",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0986",
+      "name": "SARALA BIRLA UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1315",
+      "name": "SAPTHAGIRI NPS UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1133",
+      "name": "Sardar Beant Singh State University Gurdaspur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0993",
+      "name": "SARDAR BHAGWAN SINGH UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0150",
+      "name": "Sardarkrushinagar Dantiwada Agricultural University, Banaskantha",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1106",
+      "name": "Sardar Patel University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1093",
+      "name": "SARDAR PATEL UNIVERSITY, BALAGHAT",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0679",
+      "name": "SARDAR PATEL UNIVERSITY OF POLICE, SECURITY AND CRIMINAL JUSTICE",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0148",
+      "name": "Sardar Patel University, Vallabh Vidyanagar",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0149",
+      "name": "Sardar Vallabhbhai National Institute of Technology, Surat",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1248",
+      "name": "SARDAR VALLABHBHAI GLOBAL UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0540",
+      "name": "Sardar Vallabh Bhai Patel University of Agriculture & Technology, Meerut",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1378",
+      "name": "Saroj International University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1126",
+      "name": "SARVAJANIK UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0755",
+      "name": "SARVEPALLI RADHAKRISHNAN UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0032",
+      "name": "Satavahana University, Karimnagar",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0474",
+      "name": "Sathyabama Institute of Science & Technology, Chennai",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0151",
+      "name": "Saurashtra University, Rajkot",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0323",
+      "name": "Savitribai Phule Pune University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0475",
+      "name": "SAVEETHA INSTITUTE OF MEDICAL AND TECHNICAL SCIENCES (DEEMED TO BE UNIVERSITY)",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0116",
+      "name": "School of Planning & Architecture, New Delhi",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0626",
+      "name": "School of Planning & Architecture, Bhopal",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0627",
+      "name": "School of Planning & Architecture Vijaywada",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1242",
+      "name": "SCOPE GLOBAL SKILLS UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1272",
+      "name": "SDGI GLOBAL UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0778",
+      "name": "SEACOM SKILLS UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1139",
+      "name": "Shaheed Bhagat Singh State University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1160",
+      "name": "SHAHEED NANDKUMAR PATEL VISHWAVIDYALAYA",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0082",
+      "name": "Shaheed Mahendra Karma Vishwavidyalaya, Jagdalpur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1379",
+      "name": "Sharda University Agra",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0476",
+      "name": "Shanmugha Arts, Science, Technology & Reserch Academy (SASTRA), Thanjavur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0541",
+      "name": "Sharda University, Gautam Budh Nagar",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0927",
+      "name": "Sharnbasva University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0198",
+      "name": "Sher-e-Kashmir Institute of Medical Sciences, Srinagar",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0199",
+      "name": "Sher-e-Kashmir University of Agricultural Science & Technology of Jammu, Jammu",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0200",
+      "name": "Sher-e-Kashmir University of Agricultural Science & Technology of Kashmir, Srinagar",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0642",
+      "name": "Shiv Nadar (Institution of Eminence Deemed to be University)",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0325",
+      "name": "Shivaji University, Kolhapur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1153",
+      "name": "SHIV NADAR UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0542",
+      "name": "Shobhit Institute of Engineering & Technology, Meerut",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0731",
+      "name": "SHOBHIT UNIVERSITY, GANGOH",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0190",
+      "name": "Shoolini University of Bio Technology and Management Sciences, Oachghat, Solan",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0702",
+      "name": "SHREE GURU GOBIND SINGH TRICENTENARY UNIVERSITY, GURGAON",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0152",
+      "name": "Shree Somnath Sanskrit University, Junagarh",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1134",
+      "name": "SHREYARTH UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1034",
+      "name": "SHRI DHARMASTHALA MANJUNATHESHWARA UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1353",
+      "name": "Shri Davara University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0424",
+      "name": "Shridhar University,  Pilani",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0782",
+      "name": "SHRI GOVIND GURU UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0904",
+      "name": "Shri Guru Ram Rai University, Dehradun",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0364",
+      "name": "Shri Jagannath Sanskrit Vishwavidyalaya, Puri",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1115",
+      "name": "SHRI KALLAJI VEDIC VISHVAVIDYALAYA",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0423",
+      "name": "Shri Jagdish Prasad Jhabarmal Tibrewala University, Jhunjhunu",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1039",
+      "name": "SHRI KHUSHAL DAS UNIVERSITY, PILIBANAGA",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1022",
+      "name": "SHRI KRISHNA AYUSH UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1024",
+      "name": "SHRI KRISHNA UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0117",
+      "name": "Shri Lal Bahadur Shastri National Sanskrit University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0201",
+      "name": "Shri Mata Vaishno Devi University, Jammu",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0764",
+      "name": "SHRI RAMASAMY MEMORIAL UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0753",
+      "name": "SHRI RAMSWAROOP MEMORIAL UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1142",
+      "name": "SHRI SHANKARACHARYA PROFESSIONAL UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0981",
+      "name": "SHRI RAWATPURA  SARKAR UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0905",
+      "name": "Shri Vaishnav Vidyapeeth Vishwavidyalaya",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0319",
+      "name": "SHRI VILE PARLE KELAVANI MANDALS NARSEE MONJEE INSTITUTE OF MANAGEMENT STUDIES (DEEMED UNIVERSITY), MUMBAI (SVKMs NMIMS)",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0611",
+      "name": "Shri Venkateshwara University, Gajraula, J.P Nagar",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1048",
+      "name": "SHRI VISHWAKARMA SKILL UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1301",
+      "name": "SHUBHAM UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1029",
+      "name": "SHYAM UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1377",
+      "name": "Sibsagar University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1420",
+      "name": "Sikkim National Law University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1437",
+      "name": "Sikkim Organic Agriculture University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0848",
+      "name": "SIDDHARTH UNIVERSITY, KAPILVASTU",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1415",
+      "name": "Sikkim Sardar Patel University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1360",
+      "name": "SIDDHARTHA ACADEMY OF HIGHER EDUCATION",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0583",
+      "name": "Sidho-Kanho Birsa University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1243",
+      "name": "SIGMA UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0210",
+      "name": "Sido Kanhu Murmu University, Dumka",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1350",
+      "name": "Sikkim Global Technical University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1225",
+      "name": "SIKKIM ALPINE UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1445",
+      "name": "Sir J J School of Art Architecture and Design",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0431",
+      "name": "Sikkim Manipal University, Gangtok",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0433",
+      "name": "Sikkim Professional University, Tadong",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1234",
+      "name": "SIKKIM SKILL UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0363",
+      "name": "Siksha 'O' Anusandhan",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0430",
+      "name": "Sikkim  University, Gangtok",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1338",
+      "name": "Silicon University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1078",
+      "name": "SILVER OAK UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0425",
+      "name": "Singhania University, Jhunjhunu",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0426",
+      "name": "Sir Padampat Singhania University, Udaipur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0939",
+      "name": "SISTER NIVEDITA UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1370",
+      "name": "SKIPS University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0705",
+      "name": "SKN AGRICULTURE UNIVERSITY, JOBNER",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1375",
+      "name": "SKS International University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1356",
+      "name": "Smt Manjira Devi University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0326",
+      "name": "SMT. NATHIBAI DAMODAR THACKERSEY WOMEN'S UNIVERSITY, MUMBAI",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1091",
+      "name": "SOBAN SINGH JEENA UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1085",
+      "name": "SOMAIYA VIDYAVIHAR UNIVERSITY, MUMBAI",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1314",
+      "name": "Sona Devi University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0118",
+      "name": "South Asian University, New Delhi",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0992",
+      "name": "SPICER ADVENTIST UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1365",
+      "name": "Sports University of Haryana",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0266",
+      "name": "Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1130",
+      "name": "SREENARAYANAGURU OPEN UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1363",
+      "name": "Sreenidhi University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0265",
+      "name": "Sree Sankaracharya University of Sanskrit, Kalady",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1167",
+      "name": "SRI AUROBINDO UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1113",
+      "name": "SRI BALAJI UNIVERSITY, PUNE",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0370",
+      "name": "Sri Balaji Vidyapeeth (Deemed to be University)",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0477",
+      "name": "Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya, Kancheepuram",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0717",
+      "name": "SRI DEV SUMAN UTTARAKHAND UNIVERSITY, BADSHAHITHOL, TEHRI",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0913",
+      "name": "Sri Guru Ram Das University of Health Sciences",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0845",
+      "name": "SRI KONDA LAXMAN TELANGANA STATE HORTICULTURAL UNIVERSITY (SKLTSHU)",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0241",
+      "name": "Sri Devaraj Urs Academy of Higher Education and Research, Kolar",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0606",
+      "name": "Sri Guru Granth Sahib World University, Fatehgarh Sahib",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0033",
+      "name": "Sri Krishnadevaraya University, Anantapur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0669",
+      "name": "SRIMANTA SANKARADEVA UNIVERSITY OF HEALTH SCIENCES, GUWAHATI",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1233",
+      "name": "SRINATH UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0935",
+      "name": "SRINIVAS UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0034",
+      "name": "Sri Padmavathi Mahila Visva Vidyalayam, Tirupathi",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1418",
+      "name": "Sri Venkateshwara University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0478",
+      "name": "Sri Ramachandra Institute of Higher Education and Research (Deemed University)",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0599",
+      "name": "Sri Sai University, Palampur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0035",
+      "name": "Sri Sathya Sai Institute of Higher Learning",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1241",
+      "name": "SRI SATHYA SAI UNIVERSITY FOR HUMAN EXCELLENCE",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0728",
+      "name": "SRI SATYA SAI UNIVERSITY OF TECHNOLOGY & MEDICAL SCIENCES, SEHORE",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0649",
+      "name": "SRI SRI UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0242",
+      "name": "Sri Siddhartha Academy of Higher Education",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1403",
+      "name": "Sri Venkateswaraa University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1231",
+      "name": "SRI SRI ANIRUDDHADEVA SPORTS UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0036",
+      "name": "Sri Venkateswara Institute of Medical Sciences, Tirupathi",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0037",
+      "name": "Sri Venkateswara University, Tirupathy",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0038",
+      "name": "Sri Venkateswara Vedic University, Tirpupathi",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0039",
+      "name": "Sri Venkateswara Veterinary University, Tirupathi",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0473",
+      "name": "S.R.M. Institute of Science & Technology, Chennai",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0934",
+      "name": "SRM University-AP, Amaravati",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0722",
+      "name": "SRM UNIVERSITY, SONEPAT",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1318",
+      "name": "SR University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0951",
+      "name": "STAREX UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1337",
+      "name": "St. Aloysius",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1229",
+      "name": "St. Joseph's University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0911",
+      "name": "ST. XAVIER'S UNIVERSITY, KOLKATA",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0479",
+      "name": "St. Peter's Institute of Higher Education and Research, Chennai",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0884",
+      "name": "ST. JOSEPH UNIVERSITY, DIMAPUR",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1409",
+      "name": "St Joseph University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0154",
+      "name": "Sumandeep Vidyapeeth, Vadodara",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1207",
+      "name": "SURAJMAL UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0791",
+      "name": "SUN RISE UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0029",
+      "name": "Suravaram Pratapa Reddy Telugu University, Hyderabad",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1120",
+      "name": "SURENDRANAGAR UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0427",
+      "name": "Suresh Gyan Vihar Univeristy, Jaipur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0667",
+      "name": "Sushant University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1400",
+      "name": "SVKM NMIMS Global University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0417",
+      "name": "Swami Keshwanand Rajasthan Agricultural University, Bikaner",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0737",
+      "name": "SWAMI RAMA HIMALAYAN UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0328",
+      "name": "Swami Ramanand Teerth Marathwada University, Nanded",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1211",
+      "name": "SWAMINARAYAN UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1086",
+      "name": "SWAMI VIVEKANANDA UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0243",
+      "name": "Swami Vivekananda Yoga Anusandhana Samsthan, Bangalore",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0543",
+      "name": "Swami Vivekanand Subharti University, Meerut",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1430",
+      "name": "Swami Vivekanand University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0670",
+      "name": "SWARNIM GUJARAT SPORTS UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0661",
+      "name": "SWAMI VIVEKANAND UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0893",
+      "name": "Swarrnim Startup & Innovation University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0329",
+      "name": "Symbiosis International (Deemed University), Pune",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0979",
+      "name": "SYMBIOSIS SKILLS AND PROFESSIONAL UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0921",
+      "name": "Symbiosis University of Applied Sciences, Indore",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0480",
+      "name": "Tamil Nadu Dr. Ambedkar Law University, Chennai",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0485",
+      "name": "Tamilnadu Agricultural University, Coimbatore",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1392",
+      "name": "Takshashila University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0665",
+      "name": "TAMIL NADU FISHERIES UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0481",
+      "name": "Tamil Nadu Dr. M.G.R. Medical University , Chennai",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0680",
+      "name": "TAMIL NADU NATIONAL LAW UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0482",
+      "name": "Tamil Nadu Open University, Chennai",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1448",
+      "name": "TCG CREST University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0486",
+      "name": "Tamilnadu Physical Education and Sports University, Chennai",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0483",
+      "name": "Tamil Nadu Teachers Education University, Chennai",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0709",
+      "name": "TANTIA UNIVERSITY, SRI GANGANAGAR",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0484",
+      "name": "Tamil Univesity, Thanjavur",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0330",
+      "name": "Tata Institute of Fundamental Research, Mumbai",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0544",
+      "name": "Teerthanker Mahaveer University, Moradabad",
+      "status": "success",
+      "courses_found": 87,
+      "pages_scraped": 6,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0729",
+      "name": "TECHNO GLOBAL UNIVERSITY, SIRONG",
+      "status": "success",
+      "courses_found": 14,
+      "pages_scraped": 12,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0865",
+      "name": "TECHNO INDIA UNIVERSITY, WEST BENGAL",
+      "status": "success",
+      "courses_found": 62,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1302",
+      "name": "TECHNO INDIA UNIVERSITY TRIPURA",
+      "status": "success",
+      "courses_found": 43,
+      "pages_scraped": 20,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0040",
+      "name": "Telangana University, Nizamabad",
+      "status": "success",
+      "courses_found": 60,
+      "pages_scraped": 23,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0331",
+      "name": "Tata Institute of Social Sciences, Mumbai",
+      "status": "success",
+      "courses_found": 91,
+      "pages_scraped": 21,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1221",
+      "name": "THE ALIPURDUAR UNIVERSITY",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0487",
+      "name": "Tamilnadu Veterinary & Animal Sciences University, Chennai",
+      "status": "success",
+      "courses_found": 40,
+      "pages_scraped": 18,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1310",
+      "name": "The Apollo University",
+      "status": "success",
+      "courses_found": 156,
+      "pages_scraped": 28,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0056",
+      "name": "Tezpur University, Tezpur",
+      "status": "success",
+      "courses_found": 26,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0682",
+      "name": "THE ASSAM KAZIRANGA UNIVERSITY",
+      "status": "success",
+      "courses_found": 84,
+      "pages_scraped": 28,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1308",
+      "name": "THE GLOBAL UNIVERSITY",
+      "status": "success",
+      "courses_found": 96,
+      "pages_scraped": 20,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0119",
+      "name": "TERI School of Advanced Studies, New Delhi",
+      "status": "success",
+      "courses_found": 97,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0894",
+      "name": "THE ASSAM ROYAL GLOBAL UNIVERSITY, Guwahati, District- Kamrup (Metro)",
+      "status": "success",
+      "courses_found": 262,
+      "pages_scraped": 15,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0561",
+      "name": "The ICFAI University, Dehradun",
+      "status": "success",
+      "courses_found": 172,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0871",
+      "name": "THE ICFAI UNIVERSITY, JAIPUR",
+      "status": "success",
+      "courses_found": 112,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1082",
+      "name": "THE CHARUTAR VIDYA MANDAL (CVM) UNIVERSITY",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 13,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0346",
+      "name": "The Institute of Chartered Financial Analysts of India University, Aizawl",
+      "status": "success",
+      "courses_found": 112,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0349",
+      "name": "The Institute of Chartered Financial Analysts of India University, Dimapur",
+      "status": "success",
+      "courses_found": 121,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0432",
+      "name": "The ICFAI University Sikkim",
+      "status": "success",
+      "courses_found": 133,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0494",
+      "name": "The Institute of Chartered Financial Analysts of India University, Agartala",
+      "status": "success",
+      "courses_found": 132,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0859",
+      "name": "THE SANSKRIT COLLEGE AND UNIVERSITY",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0983",
+      "name": "THE TAMILNADU DR. J JAYALALITHAA MUSIC AND FINE ARTS UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0041",
+      "name": "The English and Foreign Languages University, Hyderabad",
+      "status": "success",
+      "courses_found": 28,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0745",
+      "name": "THE UNIVERSITY OF TRANS-DISCIPLINARY HEALTH SCIENCES AND TECHNOLOGY",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0211",
+      "name": "The Institute of Chartered Financial Analysts of India University, Jharkhand",
+      "status": "success",
+      "courses_found": 117,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0569",
+      "name": "The University of Burdwan",
+      "status": "success",
+      "courses_found": 12,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0488",
+      "name": "Thiruvalluvar Univeristy, Vellore",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0716",
+      "name": "THUNCHATH EZHUTHACHAN MALAYALAM UNIVERSITY, TIRUR",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1100",
+      "name": "THE MAHARAJA BHUPINDER SINGH PUNJAB SPORTS UNIVERSITY",
+      "status": "success",
+      "courses_found": 36,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0781",
+      "name": "TEAM LEASE SKILLS UNIVERSITY",
+      "status": "success",
+      "courses_found": 19,
+      "pages_scraped": 15,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0076",
+      "name": "T.M. Bhagalpur University, Bhagalpur",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1441",
+      "name": "Tribhuvan Sahkari University",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1422",
+      "name": "Trident University of Applied Sciences",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0495",
+      "name": "Tripura University, Agartala",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1222",
+      "name": "TransStadia University",
+      "status": "success",
+      "courses_found": 17,
+      "pages_scraped": 4,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0244",
+      "name": "Tumkur University, Tumkur",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0163",
+      "name": "The Northcap University, Gurgaon",
+      "status": "success",
+      "courses_found": 182,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0586",
+      "name": "The West Bengal University of Health Sciences, Kolkata",
+      "status": "success",
+      "courses_found": 46,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1319",
+      "name": "T S Mishra University",
+      "status": "success",
+      "courses_found": 126,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1404",
+      "name": "Universal SkillTech University",
+      "status": "success",
+      "courses_found": 31,
+      "pages_scraped": 8,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0866",
+      "name": "THE NEOTIA UNIVERSITY",
+      "status": "success",
+      "courses_found": 157,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0637",
+      "name": "UNIVERSITY OF AGRICULTURAL AND HORTICULTURAL SCIENCES, SHIMOGA",
+      "status": "success",
+      "courses_found": 41,
+      "pages_scraped": 9,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0668",
+      "name": "UKA TARSADIA UNIVERSITY",
+      "status": "success",
+      "courses_found": 44,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1433",
+      "name": "University of Agricultural Sciences Mandya",
+      "status": "no_url",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0247",
+      "name": "University  of Agricultural Sciences, Raichur",
+      "status": "success",
+      "courses_found": 2,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0248",
+      "name": "University of Agricultural Sciences, Bangalore",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0570",
+      "name": "UNIVERSITY OF CALCUTTA",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1214",
+      "name": "UNITED UNIVERSITY",
+      "status": "success",
+      "courses_found": 112,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0246",
+      "name": "University  of Agricultural Sciences, Dharwad",
+      "status": "success",
+      "courses_found": 1,
+      "pages_scraped": 6,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0756",
+      "name": "UNIVERSITY OF ENGINEERING AND MANAGEMENT",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0348",
+      "name": "The Global Open University Nagaland, Dimapur",
+      "status": "success",
+      "courses_found": 54,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0823",
+      "name": "UNIVERSITY OF ENGINEERING AND MANAGEMENT, KOLKATA",
+      "status": "success",
+      "courses_found": 11,
+      "pages_scraped": 21,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0385",
+      "name": "Thapar Institute of Engineering and Technology, Patiala",
+      "status": "success",
+      "courses_found": 58,
+      "pages_scraped": 24,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0548",
+      "name": "University of Allahabad, Allahabad",
+      "status": "success",
+      "courses_found": 104,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0251",
+      "name": "UNIVERSITY OF CALICUT, MALAPPURAM",
+      "status": "success",
+      "courses_found": 153,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0245",
+      "name": "University  of Horticultural Sciences, Bagalkot",
+      "status": "success",
+      "courses_found": 17,
+      "pages_scraped": 14,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0195",
+      "name": "University of Jammu, Jammu Tawi",
+      "status": "success",
+      "courses_found": 47,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0120",
+      "name": "University of Delhi",
+      "status": "success",
+      "courses_found": 78,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0042",
+      "name": "University of Hyderabad, Hyderabad",
+      "status": "success",
+      "courses_found": 60,
+      "pages_scraped": 21,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0260",
+      "name": "University of Kerala, Thiruvananthapuram",
+      "status": "success",
+      "courses_found": 26,
+      "pages_scraped": 21,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0196",
+      "name": "University of Kashmir, Srinagar",
+      "status": "success",
+      "courses_found": 54,
+      "pages_scraped": 19,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1097",
+      "name": "UNIVERSITY OF LADAKH",
+      "status": "success",
+      "courses_found": 39,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0571",
+      "name": "University of Gour Banga, Malda",
+      "status": "success",
+      "courses_found": 27,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0524",
+      "name": "UNIVERSITY OF LUCKNOW",
+      "status": "success",
+      "courses_found": 49,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0318",
+      "name": "University of Mumbai",
+      "status": "success",
+      "courses_found": 325,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0564",
+      "name": "University of Petroleum and Energy Studies, Dehradun",
+      "status": "success",
+      "courses_found": 79,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0874",
+      "name": "University of Technology",
+      "status": "success",
+      "courses_found": 16,
+      "pages_scraped": 4,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1288",
+      "name": "UNIVERSITY OF VISVESVARAYA COLLEGE OF ENGINEERING",
+      "status": "success",
+      "courses_found": 11,
+      "pages_scraped": 4,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0563",
+      "name": "University of Patanjali, Patanjali Yogpeeth, Haridwar",
+      "status": "success",
+      "courses_found": 3,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1157",
+      "name": "UPL University of Sustainable Technology",
+      "status": "success",
+      "courses_found": 76,
+      "pages_scraped": 21,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0333",
+      "name": "Tilak Maharashtra Vidyapeeth, Pune",
+      "status": "success",
+      "courses_found": 25,
+      "pages_scraped": 20,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0366",
+      "name": "Utkal University, Bhubaneswar",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0534",
+      "name": "UP Pandit Deen Dayal Upadhyaya Veterinary University & Gau-Anusandhan Sansthan, Mathura",
+      "status": "success",
+      "courses_found": 22,
+      "pages_scraped": 19,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0546",
+      "name": "U.P. Rajarshi Tandon Open University, Allahabad",
+      "status": "success",
+      "courses_found": 70,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0639",
+      "name": "UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+      "status": "success",
+      "courses_found": 153,
+      "pages_scraped": 16,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0902",
+      "name": "Usha Martin University",
+      "status": "success",
+      "courses_found": 265,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0365",
+      "name": "Utkal University of Culture, Bhubaneswar",
+      "status": "success",
+      "courses_found": 24,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0681",
+      "name": "UTTARAKHAND AYURVED UNIVERSITY",
+      "status": "success",
+      "courses_found": 19,
+      "pages_scraped": 12,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0565",
+      "name": "Uttarakhand Sanskrit University, Hardwar",
+      "status": "success",
+      "courses_found": 36,
+      "pages_scraped": 13,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0654",
+      "name": "UTTARAKHAND UNIVERSITY OF HORTICULTURE AND FORESTRY, BHARSAR",
+      "status": "success",
+      "courses_found": 34,
+      "pages_scraped": 13,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0566",
+      "name": "Uttrakhand Technical University, Dehradun",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0585",
+      "name": "The West Bengal National University of Juridicial Sciences, Kolkata",
+      "status": "success",
+      "courses_found": 109,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0623",
+      "name": "Uttarakhand Open University",
+      "status": "success",
+      "courses_found": 76,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0750",
+      "name": "UTTARANCHAL UNIVERSITY, DEHRADUN",
+      "status": "success",
+      "courses_found": 145,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0428",
+      "name": "Vardhman Mahaveer Open University, Kota",
+      "status": "success",
+      "courses_found": 28,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1428",
+      "name": "Vasireddy Venkatadri International Technological University",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1438",
+      "name": "Veeranari Chakali Ilamma Womens University",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0550",
+      "name": "Veer Bahadur Singh Purvanchal University, Jaunpur",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1348",
+      "name": "Varun Arjun University",
+      "status": "success",
+      "courses_found": 27,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0153",
+      "name": "Veer Narmad South Gujarat University, Surat",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1278",
+      "name": "UNIVERSAL Ai UNIVERSITY",
+      "status": "success",
+      "courses_found": 105,
+      "pages_scraped": 17,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1163",
+      "name": "VANITA VISHRAM WOMENS UNIVERSITY",
+      "status": "success",
+      "courses_found": 88,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1296",
+      "name": "VEER SURENDRA SAI INSTITUTE OF MEDICAL SCIENCES  AND RESEARCH",
+      "status": "success",
+      "courses_found": 7,
+      "pages_scraped": 7,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0945",
+      "name": "Vellore Institute of Technology - Andhra Pradesh",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0491",
+      "name": "Vels Institute of Science, Technology and Advanced Studies, Chennai",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0077",
+      "name": "Veer Kunwar Singh University, Arrah",
+      "status": "success",
+      "courses_found": 12,
+      "pages_scraped": 17,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0489",
+      "name": "Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science & Technology, Chennai",
+      "status": "success",
+      "courses_found": 196,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0235",
+      "name": "University of Mysore, Mysore",
+      "status": "success",
+      "courses_found": 3,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0367",
+      "name": "Veer Surendra Sai University of Technology, Sambalpur",
+      "status": "success",
+      "courses_found": 43,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0767",
+      "name": "VENKATESHWARA OPEN UNIVERSITY",
+      "status": "success",
+      "courses_found": 31,
+      "pages_scraped": 24,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0316",
+      "name": "Vasantrao Naik Marathwada Krishi Vidyapeeth, Parbhani",
+      "status": "success",
+      "courses_found": 22,
+      "pages_scraped": 12,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0043",
+      "name": "Vignan's Foundation of Science, Technology & Research, Guntur",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0422",
+      "name": "University of Rajasthan",
+      "status": "success",
+      "courses_found": 32,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0587",
+      "name": "Uttar Banga Krishi Vishwavidyalaya, Cooch Behar",
+      "status": "success",
+      "courses_found": 37,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1280",
+      "name": "VIKRAM DEV UNIVERSITY",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0490",
+      "name": "Vellore Institute of Technology, Vellore",
+      "status": "success",
+      "courses_found": 256,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0291",
+      "name": "Vikram University, Ujjain",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1197",
+      "name": "Vidyashilp University",
+      "status": "success",
+      "courses_found": 35,
+      "pages_scraped": 13,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0588",
+      "name": "Vidyasagar University, Midnapore",
+      "status": "success",
+      "courses_found": 36,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0212",
+      "name": "Vinoba Bhave University, Hazaribagh",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1385",
+      "name": "Vidya University",
+      "status": "success",
+      "courses_found": 123,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1228",
+      "name": "NICMAR UNIVERSITY, PUNE",
+      "status": "success",
+      "courses_found": 146,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0589",
+      "name": "Visva Bharati, Shantiniketan",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1087",
+      "name": "VIJAYBHOOMI UNIVERSITY",
+      "status": "success",
+      "courses_found": 42,
+      "pages_scraped": 13,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0882",
+      "name": "UTTAR PRADESH UNIVERSITY OF MEDICAL SCIENCES,",
+      "status": "success",
+      "courses_found": 39,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0044",
+      "name": "Vikram Simhapuri University, Nellore",
+      "status": "success",
+      "courses_found": 1,
+      "pages_scraped": 18,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0923",
+      "name": "VIT Bhopal University, Sehore",
+      "status": "success",
+      "courses_found": 103,
+      "pages_scraped": 8,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0748",
+      "name": "VIVEKANANDA GLOBAL UNIVERSITY",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0603",
+      "name": "Vijayanagara Sri Krishnadevaraya University, Bellary",
+      "status": "success",
+      "courses_found": 40,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0590",
+      "name": "WEST BENGAL STATE UNIVERSITY ( BARASAT, NORTH 24 PARGANAS)",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0628",
+      "name": "William Carey University, Shillong",
+      "status": "no_courses_found",
+      "courses_found": 0,
+      "pages_scraped": 1,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0888",
+      "name": "VISHWAKARMA UNIVERSITY",
+      "status": "success",
+      "courses_found": 183,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0591",
+      "name": "West Bengal University of Animal and Fishery Sciences, Kolkata",
+      "status": "success",
+      "courses_found": 9,
+      "pages_scraped": 7,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0334",
+      "name": "Visvesvaraya National Institute of Technology, Nagpur",
+      "status": "success",
+      "courses_found": 63,
+      "pages_scraped": 19,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1390",
+      "name": "Vivek University",
+      "status": "success",
+      "courses_found": 103,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0335",
+      "name": "Yashwantrao Chavan Maharashtra Open University",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-0492",
+      "name": "VINAYAKA MISSIONs RESEARCH FOUNDATION, SALEM",
+      "status": "success",
+      "courses_found": 10,
+      "pages_scraped": 18,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1450",
+      "name": "Xavier university",
+      "status": "success",
+      "courses_found": 90,
+      "pages_scraped": 30,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1137",
+      "name": "WOXSEN UNIVERSITY",
+      "status": "success",
+      "courses_found": 122,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0045",
+      "name": "Yogi Vemana University, Kadapa",
+      "status": "unreachable",
+      "courses_found": 0,
+      "pages_scraped": 0,
+      "patterns": []
+    },
+    {
+      "aishe_code": "U-1030",
+      "name": "VISHWAKARMA SKILLS UNIVERSITY, JAIPUR",
+      "status": "success",
+      "courses_found": 2,
+      "pages_scraped": 17,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1267",
+      "name": "VIKRANT UNIVERSITY",
+      "status": "success",
+      "courses_found": 245,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-1216",
+      "name": "VIDHYADEEP UNIVERSITY",
+      "status": "success",
+      "courses_found": 71,
+      "pages_scraped": 12,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0715",
+      "name": "XIM UNIVERSITY, BHUBANESWAR",
+      "status": "success",
+      "courses_found": 191,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0250",
+      "name": "Yenepoya (deemed to be University), Mangalore",
+      "status": "success",
+      "courses_found": 183,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0948",
+      "name": "World University of Design",
+      "status": "success",
+      "courses_found": 98,
+      "pages_scraped": 14,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0930",
+      "name": "YBN University",
+      "status": "success",
+      "courses_found": 97,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    },
+    {
+      "aishe_code": "U-0249",
+      "name": "Visvesvaraya Technological University, Belagavi",
+      "status": "success",
+      "courses_found": 150,
+      "pages_scraped": 25,
+      "patterns": [
+        "P1-static"
+      ]
+    }
+  ]
+}

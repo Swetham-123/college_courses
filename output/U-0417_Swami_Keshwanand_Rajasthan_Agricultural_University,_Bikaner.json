@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0417",
+  "university_name": "Swami Keshwanand Rajasthan Agricultural University, Bikaner",
+  "state": "Rajasthan",
+  "district": "Bikaner",
+  "website": "www.raubikaner.org",
+  "year_established": "1987",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:49.825331Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

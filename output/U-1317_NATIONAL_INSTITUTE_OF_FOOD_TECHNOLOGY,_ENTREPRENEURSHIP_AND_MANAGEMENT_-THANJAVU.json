@@ -1,0 +1,55 @@
+{
+  "aishe_code": "U-1317",
+  "university_name": "NATIONAL INSTITUTE OF FOOD TECHNOLOGY, ENTREPRENEURSHIP AND MANAGEMENT -THANJAVUR",
+  "state": "Tamil Nadu",
+  "district": "Thanjavur",
+  "website": "https://niftem-t.ac.in/",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:26:57.482522Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niftem-t.ac.in/academic_programs.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niftem-t.ac.in/pg.php"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "NIF",
+      "level_of_education": "Doctoral",
+      "source_url": "https://niftem-t.ac.in/pg.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niftem-t.ac.in/ug.php"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Spo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://niftem-t.ac.in/sq-admission.php"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://niftem-t.ac.in"
+    }
+  ],
+  "total_courses": 6,
+  "pages_scraped": 8,
+  "errors": []
+}

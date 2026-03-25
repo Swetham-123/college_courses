@@ -1,0 +1,535 @@
+{
+  "aishe_code": "U-0197",
+  "university_name": "National Institute of Technology, Srinagar",
+  "state": "Jammu and Kashmir",
+  "district": "Srinagar",
+  "website": "www.nitsri.ac.in",
+  "year_established": "1960",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:37:42.474954Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PH.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=eo&nDeptID=o"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ea&nDeptID=g"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "POs",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=cs&nDeptID=cs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=is&nDeptID=cq"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sta",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=s&nDeptID=i"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ei&nDeptID=q"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "dur",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=eo&nDeptID=o"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=eo&nDeptID=o"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ci&nDeptID=ea"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=eo&nDeptID=o"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=gacse&ItemID=eacic&nDeptID=ec"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cur",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ee&nDeptID=e"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Enr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Exa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Fee",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Phd",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ee&nDeptID=e"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pre",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ei&nDeptID=q"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=cs&nDeptID=cs"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sel",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=em&nDeptID=eg"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sub",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ee&nDeptID=e"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Und",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=caegm&nDeptID=es"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ee&nDeptID=e"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=em&nDeptID=eg"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ea&nDeptID=g"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ea&nDeptID=g"
+    },
+    {
+      "degree_name": "Phd",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ei&nDeptID=q"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ek&nDeptID=s"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=eo&nDeptID=o"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ei&nDeptID=q"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Syl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ek&nDeptID=s"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(CIT)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=gacse&ItemID=eacic&nDeptID=ec"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Cer",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ea&nDeptID=g"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ee&nDeptID=e"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=gacse&ItemID=eacic&nDeptID=ec"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "New",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ea&nDeptID=g"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "str",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ee&nDeptID=e"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=em&nDeptID=eg"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ENT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Reg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=em&nDeptID=eg"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=em&nDeptID=eg"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ses",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "BAT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ek&nDeptID=s"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Aut 2025",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ek&nDeptID=s"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "MAT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=eo&nDeptID=o"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Spr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ek&nDeptID=s"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Time",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ek&nDeptID=s"
+    },
+    {
+      "degree_name": "MTECH",
+      "course_name": "NEW",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ea&nDeptID=g"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "MSc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "Msc",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "Mtech",
+      "course_name": "Pow",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ea&nDeptID=g"
+    },
+    {
+      "degree_name": "Mtech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=gacse&ItemID=eacic&nDeptID=ec"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ee&nDeptID=e"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=gacse&ItemID=eacic&nDeptID=ec"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "EED",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ea&nDeptID=g"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Labs",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ci&nDeptID=ea"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ci&nDeptID=ea"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=q&nDeptID=c"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ci&nDeptID=ea"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "lev",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=eg&nDeptID=ee"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Aut 2025",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ek&nDeptID=s"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Bat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitsri.ac.in/Pages/DisplayPages.aspx?page=caeaq"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Spr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ek&nDeptID=s"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "w.e.f",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=eo&nDeptID=o"
+    },
+    {
+      "degree_name": "Btech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ee&nDeptID=e"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=q&nDeptID=c"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "com",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=is&nDeptID=cq"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Mir",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitsri.ac.in/Pages/AcademicsAffairs.aspx"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "onw",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=caegm&nDeptID=es"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitsri.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "act",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitsri.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=is&nDeptID=cq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ea&nDeptID=g"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "del",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=eo&nDeptID=o"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=caegm&nDeptID=es"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ea&nDeptID=g"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitsri.ac.in/Department/Deptindex.aspx?page=a&ItemID=ee&nDeptID=e"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitsri.ac.in/Department/DisplayDeptPage.aspx?page=eacci&ItemID=eaccs&nDeptID=cm"
+    }
+  ],
+  "total_courses": 86,
+  "pages_scraped": 25,
+  "errors": []
+}

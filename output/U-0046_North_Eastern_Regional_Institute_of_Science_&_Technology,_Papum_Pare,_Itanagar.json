@@ -1,0 +1,337 @@
+{
+  "aishe_code": "U-0046",
+  "university_name": "North Eastern Regional Institute of Science & Technology, Papum Pare, Itanagar",
+  "state": "Arunachal Pradesh",
+  "district": "Papum Pare",
+  "website": "www.nerist.ac.in",
+  "year_established": "1983",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:48:49.442891Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "PH.D",
+      "course_name": "FULL",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "PH.D",
+      "course_name": "SPO",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Meet",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nerist.ac.in/agricultural-engineering-department"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "SEM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in/wp-content/uploads/2026/02/National-Conference-on-FRUM-and-NFPG-PHD-Alumni-Meet-2026_Final.pdf"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The B",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nerist.ac.in/agricultural-engineering-department"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in/wp-content/uploads/2026/02/National-Conference-on-FRUM-and-NFPG-PHD-Alumni-Meet-2026_Final.pdf"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nerist.ac.in/computer-science-and-engineering-department"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ter",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "(Jan",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Alu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "def",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nerist.ac.in/agricultural-engineering-department"
+    },
+    {
+      "degree_name": "M.TECH",
+      "course_name": "AND",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nerist.ac.in/computer-science-and-engineering-department"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Rev",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ph. D",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pdf",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "B.TECH",
+      "course_name": "ALL",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(ECE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ECE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mech",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nerist.ac.in/result-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nerist.ac.in/agricultural-engineering-department"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://nerist.ac.in/computer-science-and-engineering-department"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dip",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Acc",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nerist.ac.in/wp-content/uploads/2026/02/National-Conference-on-FRUM-and-NFPG-PHD-Alumni-Meet-2026_Final.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ali",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://nerist.ac.in/wp-content/uploads/2025/01/Academic-Bye_Laws_-U-G-_updated.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nerist.ac.in/wp-content/uploads/2026/02/National-Conference-on-FRUM-and-NFPG-PHD-Alumni-Meet-2026_Final.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://nerist.ac.in/wp-content/uploads/2025/01/Academic-Bye_Laws_-U-G-_updated.pdf"
+    },
+    {
+      "degree_name": "bE",
+      "course_name": "qkd",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nerist.ac.in/wp-content/uploads/2026/02/National-Conference-on-FRUM-and-NFPG-PHD-Alumni-Meet-2026_Final.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nerist.ac.in/wp-content/uploads/2026/02/National-Conference-on-FRUM-and-NFPG-PHD-Alumni-Meet-2026_Final.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nerist.ac.in/wp-content/uploads/2026/02/National-Conference-on-FRUM-and-NFPG-PHD-Alumni-Meet-2026_Final.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nerist.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nerist.ac.in/wp-content/uploads/2026/02/National-Conference-on-FRUM-and-NFPG-PHD-Alumni-Meet-2026_Final.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nerist.ac.in/wp-content/uploads/2026/02/National-Conference-on-FRUM-and-NFPG-PHD-Alumni-Meet-2026_Final.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nerist.ac.in"
+    }
+  ],
+  "total_courses": 53,
+  "pages_scraped": 21,
+  "errors": []
+}

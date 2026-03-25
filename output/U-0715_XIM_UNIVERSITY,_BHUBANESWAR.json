@@ -1,0 +1,1165 @@
+{
+  "aishe_code": "U-0715",
+  "university_name": "XIM UNIVERSITY, BHUBANESWAR",
+  "state": "Odisha",
+  "district": "Puri",
+  "website": "www.xim.edu.in",
+  "year_established": "1987",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:28:12.279109Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ACT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "FAQ",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "FAQ 2026",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fee",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Full",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Part",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission/phd-part-time"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pla",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Urb",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "XRAT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "app",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ter",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Rur",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "EPG",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/programs"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "FER",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/masters-program-in-llm"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Home",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/masters-program-in-llm"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/masters-program-in-llm"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Sch",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "is a",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "whi",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Eco",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/fee-structure-master-programs"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE , M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.xim.edu.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE, M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "BM\nM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "BM M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HRM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.xim.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HRM M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HRM)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MMS",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "PPM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.xim.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "PPM)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pub",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "RM\nM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "RM M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Rur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Sus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "UMG",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.xim.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "UMG)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Urb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "coa",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/fee-structure-ug-programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "will",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "with B",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "with",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Eco",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/fee-structure-master-programs"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Psy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://xim.edu.in/admission/fee-structure-master-programs"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "L.L.B (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "L.L.B. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/programs"
+    },
+    {
+      "degree_name": "B.COM",
+      "course_name": "ACC",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/b-com-bbm-hons"
+    },
+    {
+      "degree_name": "B.COM",
+      "course_name": "FIN",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/b-com-bbm-hons"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "BBM",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/fee-structure-ug-programs"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "BBM (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "and B.B.M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/b-com-bbm-hons"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/b-com-bbm-hons"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Eco",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.xim.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.xim.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Pys",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Sus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/programs"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE, B.A",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.xim.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/fee-structure-ug-programs"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/fee-structure-ug-programs"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/programs"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "or B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Eco",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/fee-structure-ug-programs"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "PSY",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/fee-structure-ug-programs"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Sus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "B.B.A",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.xim.edu.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/masters-program-in-llm"
+    },
+    {
+      "degree_name": "bsc",
+      "course_name": "med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://xim.edu.in/admission/b-sc-media-studies"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Man",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "iss",
+      "level_of_education": "Certificate",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s at",
+      "level_of_education": "Certificate",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "the",
+      "level_of_education": "Certificate",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.xim.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "PAG",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.xim.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "ENG",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/fee-structure-ug-programs"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Law",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/academics/international-programs"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "PAG",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/fee-structure-ug-programs"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/academics/international-programs"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "ADD",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.xim.edu.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "MC, M",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.xim.edu.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Mass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.xim.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.xim.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adj",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "aro",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "aut",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/b-com-bbm-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bet",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bin",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/masters-program-in-llm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bor",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "che",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "col",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/fee-structure-ug-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/b-com-bbm-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dep",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/fee-structure-ug-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dif",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "div",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/b-com-bbm-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/b-com-bbm-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ema",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fin",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fur",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-part-time"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "imp",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "just",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.xim.edu.in/academics/learn-about-our-postgraduate-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/fee-structure-ug-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "men",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nov",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "only",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ope",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/b-sc-media-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pos",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/fee-structure-ug-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rai",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/fee-structure-ug-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rej",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-part-time"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rem",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ren",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rev",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sen",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.xim.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sep",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sho",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "spe",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-part-time"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/fee-structure-ug-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ter",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-full-time"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tim",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "two",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/fee-structure-ug-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "una",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/pg-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "very",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vis",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vit",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/phd-faq"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "know",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-scholarship"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://xim.edu.in/admission/ug-faq"
+    }
+  ],
+  "total_courses": 191,
+  "pages_scraped": 25,
+  "errors": []
+}

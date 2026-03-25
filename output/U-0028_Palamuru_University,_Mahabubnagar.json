@@ -1,0 +1,451 @@
+{
+  "aishe_code": "U-0028",
+  "university_name": "Palamuru University,  Mahabubnagar",
+  "state": "Telangana",
+  "district": "Mahabubnagar",
+  "website": "www.palamuruuniversity.ac.in",
+  "year_established": "2008",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:54:03.851699Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fee 2022",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "From",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Gui",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Org",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Rul",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ter",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "(IPR)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.COM",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/programme-outcomes-course-outcomes"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "MSW",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Dem",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Pal",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "acy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "dus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/programmes-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/affiliated-colleges-programmes-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/affiliated-colleges-programmes-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Comp",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/affiliated-colleges-programmes-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "M.S.W",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nut",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/affiliated-colleges-programmes-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Org",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/affiliated-colleges-programmes-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/affiliated-colleges-programmes-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Aff",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Dem",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA.,)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MSW",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/programme-outcomes-course-outcomes"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/programme-outcomes-course-outcomes"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/programme-outcomes-course-outcomes"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "Comp",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/programme-outcomes-course-outcomes"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/programme-outcomes-course-outcomes"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "(LLB) - 3",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB (3 & 5",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Aff",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Dem",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Rev",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Sem",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "acy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "acy, M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BSW",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "Integrated B.Ed",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "integrated B.Ed",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s of",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/programmes-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/affiliated-colleges-programmes-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/affiliated-colleges-programmes-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/affiliated-colleges-programmes-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/affiliated-colleges-programmes-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Tel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Tel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/programme-outcomes-course-outcomes"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "Lea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.palamuruuniversity.ac.in/p/programme-outcomes-course-outcomes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ope",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.palamuruuniversity.ac.in"
+    }
+  ],
+  "total_courses": 72,
+  "pages_scraped": 25,
+  "errors": []
+}

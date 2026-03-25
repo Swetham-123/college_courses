@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1075",
+  "university_name": "RADHA GOVIND UNIVERSITY",
+  "state": "Jharkhand",
+  "district": "Ramgarh",
+  "website": "www.rguniversity.edu.in",
+  "year_established": "2018",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:17.880559Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

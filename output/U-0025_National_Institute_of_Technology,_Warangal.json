@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0025",
+  "university_name": "National Institute of Technology, Warangal",
+  "state": "Telangana",
+  "district": "Warangal",
+  "website": "nitw.ac.in",
+  "year_established": "1959",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:38:47.450333Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0725",
+  "university_name": "REVA UNIVERSITY, BANGALORE",
+  "state": "Karnataka",
+  "district": "Bengaluru Urban",
+  "website": "www.reva.edu.in",
+  "year_established": "2013",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:30.347855Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

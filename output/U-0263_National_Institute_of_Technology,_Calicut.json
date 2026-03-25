@@ -1,0 +1,241 @@
+{
+  "aishe_code": "U-0263",
+  "university_name": "National Institute of Technology, Calicut",
+  "state": "Kerala",
+  "district": "Kozhikode",
+  "website": "http://www.nitc.ac.in/",
+  "year_established": "1961",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:30:06.593868Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitc.ac.in/department/electrical-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitc.ac.in/department/chemical-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mon",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nitc.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitc.ac.in/ug-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitc.ac.in/department/electrical-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitc.ac.in/department/chemical-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "lev",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitc.ac.in/department/electronics-amp-communication-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitc.ac.in/department/civil-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitc.ac.in/department/architecture-and-planning"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitc.ac.in/news-and-events/pg-orientation-programme-at-nit-calicut"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitc.ac.in/department/computer-science-amp-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitc.ac.in/department/computer-science-amp-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pow",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitc.ac.in/department/electrical-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitc.ac.in/department/bioscience-and-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "str",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitc.ac.in/department/electrical-engineering"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitc.ac.in/news-and-events/pg-orientation-programme-at-nit-calicut"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitc.ac.in/department/computer-science-amp-engineering"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitc.ac.in/department/civil-engineering"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitc.ac.in/department/civil-engineering"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitc.ac.in/ug-programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitc.ac.in/admissions-ug"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "BEd (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitc.ac.in/department/department-of-education"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitc.ac.in/department/department-of-education"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nitc.ac.in/department/civil-engineering"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "View",
+      "level_of_education": "Certificate",
+      "source_url": "http://www.nitc.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "The",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitc.ac.in/department/electrical-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitc.ac.in/custom-pages/summer-internship-programme-2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitc.ac.in/custom-pages/summer-internship-programme-2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitc.ac.in/custom-pages/summer-internship-programme-2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitc.ac.in/custom-pages/summer-internship-programme-2026"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fol",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitc.ac.in/admissions-ug"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "glo",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitc.ac.in/department/bioscience-and-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitc.ac.in/admissions-ug"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "open",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitc.ac.in/department/department-of-education"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitc.ac.in/ug-pg-innovative-projects"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitc.ac.in/department/bioscience-and-engineering"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitc.ac.in/department/bioscience-and-engineering"
+    }
+  ],
+  "total_courses": 37,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,397 @@
+{
+  "aishe_code": "U-0278",
+  "university_name": "Madhya Pradesh Bhoj Open University, Bhopal",
+  "state": "Madhya Pradesh",
+  "district": "Bhopal",
+  "website": "http://mpbou.edu.in",
+  "year_established": "1991",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:42:04.275071Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mpbou.edu.in/academics-coordination"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "SPE",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://mpbou.edu.in"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Spl",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://mpbou.edu.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Pas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "PG DIPLOMA",
+      "course_name": "TRI",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mpbou.edu.in/ugc-programme-2023-2024"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mpbou.edu.in/school-of-basic-science"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Cyb",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Ene",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Eve",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Man",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Reh",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Spe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BMS (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "ART",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/all-india-council-for-technical-education--program"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "DIS",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/ugc-programme-2023-2024"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "POST",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/all-india-council-for-technical-education--program"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "PRO",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "REH",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/ugc-programme-2023-2024"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bha",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bus",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cyb",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Data",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ene",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eve",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Log",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Man",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Nut",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Rur",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tra",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tri",
+      "level_of_education": "Diploma",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "POST",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/all-india-council-for-technical-education--program"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "PRO",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ayu",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Bas",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cas",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/student-admission-form-pg"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Hum",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ind",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Int",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mar",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/student-admission-form-pg"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Med",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mus",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Org",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Rur",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Soc",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Stu",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/department-of-special-education"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Wri",
+      "level_of_education": "Certificate",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "gen",
+      "level_of_education": "Unknown",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Ele",
+      "level_of_education": "Unknown",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Cli",
+      "level_of_education": "Unknown",
+      "source_url": "http://mpbou.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://mpbou.edu.in/uploads/files/Bhoj_Admission_Brochure_-_New.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "alu",
+      "level_of_education": "Unknown",
+      "source_url": "https://mpbou.edu.in/student-admission-form-pg"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cri",
+      "level_of_education": "Unknown",
+      "source_url": "https://mpbou.edu.in/academics-coordination"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://mpbou.edu.in/student-admission-form-pg"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "http://mpbou.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Dip",
+      "level_of_education": "Unknown",
+      "source_url": "https://mpbou.edu.in/jan-2026-session-"
+    }
+  ],
+  "total_courses": 63,
+  "pages_scraped": 16,
+  "errors": []
+}

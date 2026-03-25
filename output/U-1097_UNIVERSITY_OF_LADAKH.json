@@ -1,0 +1,253 @@
+{
+  "aishe_code": "U-1097",
+  "university_name": "UNIVERSITY OF LADAKH",
+  "state": "Ladakh",
+  "district": "Leh Ladakh",
+  "website": "Uol.ac.in",
+  "year_established": "2019",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:13:31.729951Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PHD",
+      "course_name": "Pog",
+      "level_of_education": "Doctoral",
+      "source_url": "https://Uol.ac.in/department/details/1124"
+    },
+    {
+      "degree_name": "PHD",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://Uol.ac.in/phd_prog_details"
+    },
+    {
+      "degree_name": "PHD",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://Uol.ac.in/phd_prog_details"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://Uol.ac.in/department/details/1124"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://Uol.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eli",
+      "level_of_education": "Doctoral",
+      "source_url": "https://Uol.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://Uol.ac.in/phd_prog_details"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://Uol.ac.in/department/details/98"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://Uol.ac.in/department/details/105"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://Uol.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://Uol.ac.in/department/details/1123"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://Uol.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://Uol.ac.in/phd_prog_details"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://Uol.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "with",
+      "level_of_education": "Doctoral",
+      "source_url": "https://Uol.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://Uol.ac.in/department/details/118"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://Uol.ac.in/department/details/118"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://Uol.ac.in/department/details/98"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://Uol.ac.in/department/details/64"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://Uol.ac.in/department/details/1120"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "PRO",
+      "level_of_education": "Certificate",
+      "source_url": "https://Uol.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://Uol.ac.in/department/details/1120"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://Uol.ac.in/department/details/1120"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "that",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in/department/details/1114"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in/department/details/76"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in/department/details/64"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in/department/details/1121"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Apr",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "act",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in/department/details/76"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in/department/details/1114"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in/department/details/1121"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "it a",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in/department/details/1120"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "kno",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in/department/details/74"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "one",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in/department/details/74"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in/department/details/99"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in/department/details/1114"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "uti",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in/department/details/1123"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://Uol.ac.in/department/details/1118"
+    }
+  ],
+  "total_courses": 39,
+  "pages_scraped": 25,
+  "errors": []
+}

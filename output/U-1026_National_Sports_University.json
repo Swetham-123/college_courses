@@ -1,0 +1,313 @@
+{
+  "aishe_code": "U-1026",
+  "university_name": "National Sports University",
+  "state": "Manipur",
+  "district": "Imphal West",
+  "website": "www.nsu.ac.in",
+  "year_established": "2018",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:41:33.979739Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Onl",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nsu.ac.in/phd-supervisors"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sub",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sup",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nsu.ac.in/phd-supervisors"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nsu.ac.in/phd-supervisors"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "for",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nsu.ac.in/phd-supervisors"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nsu.ac.in/school-sports-science-and-sports-medicine"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Log",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdLogin"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "(SC)/M.A. (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nsu.ac.in/post-graduate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dow",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nsu.ac.in/academic-forms"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dre",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nsu.ac.in/admission-process-2"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Max",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Next",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nsu.ac.in/admission-process"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Num",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Upl",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nsu.ac.in/admission-process"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "tes",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nsu.ac.in/admission-process"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Date",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Fir",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/sites/default/files/PHD%20Admission%20Notification-1.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/post-graduate-programmes"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/school-sports-science-and-sports-medicine"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "icl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/post-graduate-programmes"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/admission-process"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "JPG",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/admission-process"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ask",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/admission-process"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/admission-process-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/admission-process"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eit",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/admission-process"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/admission-process"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/admission-process-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/admission-process"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "imp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/school-sports-science-and-sports-medicine"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iti",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/admission-process-2"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "less",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/admission-process"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pos",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "reg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/admission-process"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/admission-process"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/post-graduate-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/NsuApplication/phdScholar/phdInstructions"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "ding",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nsu.ac.in/admission-process-2"
+    }
+  ],
+  "total_courses": 49,
+  "pages_scraped": 20,
+  "errors": []
+}

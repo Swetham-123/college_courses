@@ -1,0 +1,187 @@
+{
+  "aishe_code": "U-0428",
+  "university_name": "Vardhman Mahaveer Open University, Kota",
+  "state": "Rajasthan",
+  "district": "Kota",
+  "website": "http://www.vmou.ac.in/",
+  "year_established": "1987",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:19:22.355580Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.vmou.ac.in/notices-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.vmou.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.vmou.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.vmou.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.vmou.ac.in/notices-admission"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Def",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vmou.ac.in/notices-entrance"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Sec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vmou.ac.in/notices-entrance"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Thi",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vmou.ac.in/notices-entrance"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "(ODL )",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.vmou.ac.in/ugc-deb"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.vmou.ac.in/notices-admission"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Cre",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.vmou.ac.in/ugc-deb"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.vmou.ac.in/ugc-deb"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Fac",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.vmou.ac.in/ugc-deb"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Syl",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.vmou.ac.in/ugc-deb"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.vmou.ac.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.vmou.ac.in/ugc-deb"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "sec",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.vmou.ac.in/notices-admission"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "sin",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.vmou.ac.in/soe"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://online.vmou.ac.in/ProgrammeDetails.aspx"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "App",
+      "level_of_education": "Certificate",
+      "source_url": "https://online.vmou.ac.in/onlineadmission.aspx"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://online.vmou.ac.in/ProgrammeDetails.aspx"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "pdf",
+      "level_of_education": "Certificate",
+      "source_url": "http://www.vmou.ac.in/ugc-deb"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "pdf 235.02",
+      "level_of_education": "Certificate",
+      "source_url": "http://www.vmou.ac.in/ugc-deb"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "III",
+      "level_of_education": "Unknown",
+      "source_url": "https://vmou.ac.in/notices-entrance"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Phy",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.vmou.ac.in"
+    },
+    {
+      "degree_name": "Me",
+      "course_name": "Onl",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.vmou.ac.in/admission-quick-links"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "imp",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.vmou.ac.in/soe"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upl",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.vmou.ac.in/notices-admission"
+    }
+  ],
+  "total_courses": 28,
+  "pages_scraped": 25,
+  "errors": []
+}

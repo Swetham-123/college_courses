@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0472",
+  "university_name": "Rajiv Gandhi National Instiute of Youth Development, Sriperumbudur",
+  "state": "Tamil Nadu",
+  "district": "Kancheepuram",
+  "website": "www.rgniyd.gov.in",
+  "year_established": "1993",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:22.015311Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

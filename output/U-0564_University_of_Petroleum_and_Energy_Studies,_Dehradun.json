@@ -1,0 +1,493 @@
+{
+  "aishe_code": "U-0564",
+  "university_name": "University of Petroleum and Energy Studies, Dehradun",
+  "state": "Uttarakhand",
+  "district": "Dehradun",
+  "website": "www.upes.ac.in",
+  "year_established": "2003",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:14:26.328155Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(Law)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-business/phd-business"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bus",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-business/phd-business"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-advanced-engineering/phd-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Des",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-design/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-law/phd-law"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Lib",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-liberal-studies-and-media/phd-liberal-studies"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-business/phd-business"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-liberal-studies-and-media/phd-liberal-studies"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-liberal-studies-and-media/phd-liberal-studies"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-business/phd-business"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-law/phd-law"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-advanced-engineering/phd-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "gra",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-advanced-engineering/phd-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "hol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-business/phd-business"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "jou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-advanced-engineering/phd-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-advanced-engineering/phd-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "rec",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-law/phd-law"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-advanced-engineering/phd-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "spe",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-advanced-engineering/phd-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-design/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "(Law)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-law/phd-law"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Bus",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-business/phd-business"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "CSE",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-computer-science/phd-cse"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "CSE (",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-computer-science/phd-cse"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-computer-science/phd-cse"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-advanced-engineering/phd-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-advanced-engineering/phd-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Food",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-health-sciences-and-technology/phd-health-sciences"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Hea",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-health-sciences-and-technology/phd-health-sciences"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-law/phd-law"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-health-sciences-and-technology/phd-health-sciences"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-advanced-engineering/phd-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-advanced-engineering/phd-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "You",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-computer-science/phd-cse"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-computer-science/phd-cse"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "hol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-computer-science/phd-cse"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-advanced-engineering/phd-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.upes.ac.in/school-of-computer-science/phd-cse"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "M.Sc. B",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.upes.ac.in/school-of-health-sciences-and-technology"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Bat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.upes.ac.in/school-of-business"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.upes.ac.in/leadership/vice-chancellor-dr-sunil-rai"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.upes.ac.in/leadership/vice-chancellor-dr-sunil-rai"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Game",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.upes.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aer",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.upes.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "LL.B./B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.upes.ac.in/academics"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.upes.ac.in/admissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dow",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upes.ac.in/school-of-advanced-engineering/phd-engineering"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s to",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/school-of-liberal-studies-and-humanities"
+    },
+    {
+      "degree_name": "Me",
+      "course_name": "Clo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/school-of-advanced-engineering/phd-engineering"
+    },
+    {
+      "degree_name": "Me",
+      "course_name": "Hel",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/school-of-computer-science/phd-cse"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/school-of-computer-science/phd-cse"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/school-of-advanced-engineering/phd-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/school-of-health-sciences-and-technology/phd-health-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/academics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "che",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cla",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cri",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/school-of-computer-science/phd-cse"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "den",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/school-of-business/phd-business"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "job",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/start-up-university"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/school-of-health-sciences-and-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "man",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obt",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/school-of-business/phd-business"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/school-of-computer-science/phd-cse"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wit",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/international-admissions"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "tech",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.upes.ac.in/faculty/school-of-design/bhaskar-bhatt"
+    }
+  ],
+  "total_courses": 79,
+  "pages_scraped": 25,
+  "errors": []
+}

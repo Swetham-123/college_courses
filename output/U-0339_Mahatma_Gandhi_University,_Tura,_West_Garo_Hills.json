@@ -1,0 +1,625 @@
+{
+  "aishe_code": "U-0339",
+  "university_name": "Mahatma Gandhi University, Tura, West Garo Hills",
+  "state": "Meghalaya",
+  "district": "Ri Bhoi",
+  "website": "www.mgu.edu.in",
+  "year_established": "2010",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:52:55.789571Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PH.D",
+      "course_name": "Enq",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/6"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/5"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/8"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "LLM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/4"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "MLT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/2"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "(LLB)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/4"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Enq",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/7"
+    },
+    {
+      "degree_name": "B.sc",
+      "course_name": "Fire",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/8"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hot",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/5"
+    },
+    {
+      "degree_name": "Bsc",
+      "course_name": "MLT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/2"
+    },
+    {
+      "degree_name": "dual degree",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mgu.edu.in/informationcorner/admission_procedure_and_facilities_for_international_students"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fire &",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/8"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hot",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/5"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Phy",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgu.edu.in/admission/admission-guidelines"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "The",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mgu.edu.in/admission/migration-criteria"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "fin",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mgu.edu.in/informationcorner/admission_procedure_and_facilities_for_international_students"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "for",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mgu.edu.in/admission/admission-guidelines"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "his",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mgu.edu.in/admission/admission-guidelines"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s in",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s of",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mgu.edu.in/admission/admission-guidelines"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/3"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/3"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Rur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/3"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/3"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/3"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Rur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/programs/program-details/3"
+    },
+    {
+      "degree_name": "MEd",
+      "course_name": "E PE",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/assets/pdf/academic/Academic_Calender_2024_25.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/assets/pdf/academic/MGU-BVOC-presentation.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/departments"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/fee_refund_policy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ali",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/migration-criteria"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "aut",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cap",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/admission-guidelines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/admission-guidelines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/fee_refund_policy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dep",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "des",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "det",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "div",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ear",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "emp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/migration-criteria"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "est",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eva",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/admission-guidelines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "five",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "four",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gov",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/migration-criteria"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/admission-guidelines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "imp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/admission-guidelines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "laid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lia",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mai",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mon",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/migration-criteria"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nee",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "not",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "open",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/fee_refund_policy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rep",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/admission-guidelines"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "self",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sen",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/admission/admission-procedure"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sued",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "teg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "uph",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ves",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/academics/statutes_ordinances"
+    },
+    {
+      "degree_name": "mE",
+      "course_name": "Ayy",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.edu.in/assets/pdf/admission/FEES_STRUCTURE_2026.pdf"
+    }
+  ],
+  "total_courses": 101,
+  "pages_scraped": 25,
+  "errors": []
+}

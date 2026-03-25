@@ -1,0 +1,229 @@
+{
+  "aishe_code": "U-1056",
+  "university_name": "NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY",
+  "state": "Delhi",
+  "district": "South West",
+  "website": "http://www.nsut.ac.in",
+  "year_established": "1983",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:43:31.681673Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nsut.ac.in/en/phd-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ado",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nsut.ac.in/en/phd-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nsut.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nsut.ac.in/en/educational-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Rol",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nsut.ac.in/en/phd-admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and M",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nsut.ac.in/en/educational-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "w.e.f",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nsut.ac.in/en/phd-admission"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nsut.ac.in/en/phd-admission"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sem",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.nsut.ac.in/en/research/phd-seminar"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nsut.ac.in/en/pg-admission"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nsut.ac.in/en/pg-admission"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nsut.ac.in/en/pg-admission"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nsut.ac.in/en/pg-admission"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Reg",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nsut.ac.in/en/educational-programmes"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Rou",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nsut.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nsut.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Reg",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nsut.ac.in/en/educational-programmes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "IEV",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nsut.ac.in/en/educational-programmes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Reg",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.nsut.ac.in/en/educational-programmes"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Reg",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nsut.ac.in/en/educational-programmes"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nsut.ac.in/en/ug-admission"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nsut.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Lat",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nsut.ac.in/en/ug-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Reg",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nsut.ac.in/en/educational-programmes"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and B",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nsut.ac.in/en/ug-admission"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Reg",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.nsut.ac.in/en/educational-programmes"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Adm",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nsut.ac.in/en/pg-admission"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Adm",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nsut.ac.in/en/pg-admission"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "App",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nsut.ac.in/en/pg-admission"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nsut.ac.in/en/pg-admission"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Reg",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nsut.ac.in/en/educational-programmes"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Rou",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nsut.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nsut.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "est",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nsut.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.nsut.ac.in/en/ug-admission"
+    }
+  ],
+  "total_courses": 35,
+  "pages_scraped": 12,
+  "errors": []
+}

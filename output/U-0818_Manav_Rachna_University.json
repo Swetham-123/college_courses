@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0818",
+  "university_name": "Manav Rachna University",
+  "state": "Haryana",
+  "district": "Faridabad",
+  "website": "www.mru.edu.in",
+  "year_established": "2004",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:59:24.896485Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

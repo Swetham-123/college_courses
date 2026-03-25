@@ -1,0 +1,601 @@
+{
+  "aishe_code": "U-0605",
+  "university_name": "Maharashtra Institute of Technology University, of Meghalaya",
+  "state": "Meghalaya",
+  "district": "East Khasi Hills",
+  "website": "https://mituniversityindia.edu.in/",
+  "year_established": "2011",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:47:53.328008Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversityindia.edu.in/academics/doctoral-programs/school-of-science-and-technology"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversityindia.edu.in/academics/doctoral-programs/school-of-management"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mar",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversityindia.edu.in/academics/doctoral-programs/school-of-management"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversityindia.edu.in/academics/doctoral-programs/school-of-science-and-technology"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversityindia.edu.in/academics/pg-programs/school-of-social-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Hum",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversityindia.edu.in/admissions/doctoral-programs/school-of-management"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversityindia.edu.in/academics/doctoral-programs/school-of-management"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Mar",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversityindia.edu.in/admissions/doctoral-programs/school-of-management"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversityindia.edu.in/academics/doctoral-programs/school-of-management"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversityindia.edu.in/academics/doctoral-programs/school-of-science-and-technology"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "qui",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversityindia.edu.in/admissions/doctoral-programs/school-of-management"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversityindia.edu.in/academics/doctoral-programs/school-of-management"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversityindia.edu.in/academics/doctoral-programs/school-of-management"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "M.E/M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/doctoral-programs/school-of-science-and-technology"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "(MKT) 4",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ban",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/pg-programs/school-of-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/pg-programs/school-of-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Exe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/pg-programs/school-of-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/pg-programs/school-of-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mar",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Tar",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/pg-programs/school-of-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Tec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-science-and-technology"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "app",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/pg-programs/school-of-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "enh",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/pg-programs/school-of-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "help",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/pg-programs/school-of-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/pg-programs/school-of-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "whi",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/pg-programs/school-of-management"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "req",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-science-and-technology"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Core",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Ani",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Cut",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Fas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-applied-health-science"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-nursing"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Opt",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-applied-health-science"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Pub",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-applied-health-science"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "oth",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-applied-health-science"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-science-and-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-science-and-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "app",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-science-and-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Ban",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Core",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Dig",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Mar",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pet",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Spo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "What",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "and B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-management"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Gen",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-science-and-technology"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-science-and-technology"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "and B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-science-and-technology"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "or B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-science-and-technology"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Pub",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Gen",
+      "level_of_education": "Diploma",
+      "source_url": "https://mituniversityindia.edu.in/admissions/ug-programs/school-of-nursing"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Know",
+      "level_of_education": "Diploma",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-nursing"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-nursing"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Sch",
+      "level_of_education": "Diploma",
+      "source_url": "https://mituniversityindia.edu.in/admissions/ug-programs/school-of-nursing"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "qui",
+      "level_of_education": "Diploma",
+      "source_url": "https://mituniversityindia.edu.in/admissions/ug-programs/school-of-nursing"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "s in",
+      "level_of_education": "Diploma",
+      "source_url": "https://mituniversityindia.edu.in/academics/pg-programs/school-of-social-science"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Col",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-liberal-studies"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-liberal-studies"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Kha",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-liberal-studies"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Mus",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-liberal-studies"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-liberal-studies"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-liberal-studies"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "deg",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-liberal-studies"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-liberal-studies"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-liberal-studies"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "spe",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-liberal-studies"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-liberal-studies"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/pg-programs/school-of-social-science"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/pg-programs/school-of-social-science"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-applied-health-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/ug-programs/school-of-liberal-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in/academics/doctoral-programs/school-of-management"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "The",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "eve",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "feel",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "str",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversityindia.edu.in"
+    }
+  ],
+  "total_courses": 97,
+  "pages_scraped": 25,
+  "errors": []
+}

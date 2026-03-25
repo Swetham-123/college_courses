@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1409",
+  "university_name": "St Joseph University",
+  "state": "Tamil Nadu",
+  "district": "Viluppuram",
+  "website": "sju.ac.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:35.657888Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

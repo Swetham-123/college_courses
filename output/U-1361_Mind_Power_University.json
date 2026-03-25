@@ -1,0 +1,643 @@
+{
+  "aishe_code": "U-1361",
+  "university_name": "Mind Power University",
+  "state": "Uttarakhand",
+  "district": "Nainital",
+  "website": "www.mindpoweruniversity.ac.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:15:17.226384Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Diploma",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mindpoweruniversity.ac.in/applynow"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-doctoral-reseach/research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-doctoral-reseach/research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-doctoral-reseach/research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Dur",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-doctoral-reseach"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "For",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-doctoral-reseach/research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-doctoral-reseach/research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-doctoral-reseach"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-doctoral-reseach"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "opt",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "aft",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-computer-science-and-applications/mca-master-of-computer-applications"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-doctoral-reseach/research"
+    },
+    {
+      "degree_name": "Phd",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/m-com-master-of-commerce"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "for",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/programs"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "gra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/m-com-master-of-commerce"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/m-com-master-of-commerce"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/programs"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/m-tech-master-of-technology"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Dur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Fee",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/m-tech-master-of-technology"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ped",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/m-tech-master-of-technology"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/m-tech-master-of-technology"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/master-of-business-administration-mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Dep",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fee",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/master-of-business-administration-mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mar",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/integrated-bba-and-mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ped",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/master-of-business-administration-mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/integrated-bba-and-mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/master-of-business-administration-mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "edu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/master-of-business-administration-mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "teg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/integrated-bba-and-mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "tra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/master-of-business-administration-mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "with",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/integrated-bba-and-mba"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-computer-science-and-applications/mca-master-of-computer-applications"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-computer-science-and-applications/mca-master-of-computer-applications"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Fee",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-computer-science-and-applications/mca-master-of-computer-applications"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Ped",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-computer-science-and-applications/mca-master-of-computer-applications"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-computer-science-and-applications/mca-master-of-computer-applications"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "sui",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-computer-science-and-applications/mca-master-of-computer-applications"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/b-com-bachelor-of-commerce"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/b-com-bachelor-of-commerce"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "with a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hot",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Yoga &",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/b-tech-bachelor-of-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Dur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Fee",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/b-tech-bachelor-of-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/b-tech-bachelor-of-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ped",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/b-tech-bachelor-of-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Uni",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/b-tech-bachelor-of-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ens",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/b-tech-bachelor-of-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/b-tech-bachelor-of-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "var",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/programs"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/bachelor-in-business-administration-bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/programs"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/bachelor-in-business-administration-bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Uni",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/bachelor-in-business-administration-bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/bachelor-in-business-administration-bba"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/programs"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-computer-science-and-applications/bca-data-science-and-artificial-intelligence"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Dur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-computer-science-and-applications/bca-data-science-and-artificial-intelligence"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-computer-science-and-applications/bca-data-science-and-artificial-intelligence"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-computer-science-and-applications/bca-data-science-and-artificial-intelligence"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-computer-science-and-applications/bca-data-science-and-artificial-intelligence"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-computer-science-and-applications/bca-data-science-and-artificial-intelligence"
+    },
+    {
+      "degree_name": "Integrated BBA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/integrated-bba-and-mba"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Civ",
+      "level_of_education": "Diploma",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/diploma-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/diploma-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/diploma-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dur",
+      "level_of_education": "Diploma",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/diploma-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Engg",
+      "level_of_education": "Diploma",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/diploma-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Gra",
+      "level_of_education": "Diploma",
+      "source_url": "https://mindpoweruniversity.ac.in/International_registration"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hot",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mec",
+      "level_of_education": "Diploma",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/diploma-engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Rem",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/diploma-engineering"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "for",
+      "level_of_education": "Diploma",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/diploma-engineering"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "from",
+      "level_of_education": "Diploma",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/diploma-engineering"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Psy",
+      "level_of_education": "Unknown",
+      "source_url": "https://mindpoweruniversity.ac.in/programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/b-com-bachelor-of-commerce"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dus",
+      "level_of_education": "Unknown",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-hospitality-management/b-sc-in-hotel-management"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/b-tech-bachelor-of-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-doctoral-reseach/research"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://mindpoweruniversity.ac.in/International_registration"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "hid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pos",
+      "level_of_education": "Unknown",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-engineering-and-technology/diploma-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-hospitality-management/bachelor-in-hotel-management-bhm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sho",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mindpoweruniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sta",
+      "level_of_education": "Unknown",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-hospitality-management/b-sc-in-hotel-management"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tau",
+      "level_of_education": "Unknown",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-commerce-and-management-studies/integrated-bba-and-mba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tro",
+      "level_of_education": "Unknown",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-computer-science-and-applications/mca-master-of-computer-applications"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://mindpoweruniversity.ac.in/department-of-hospitality-management/dhm-diploma-in-hotel-management"
+    }
+  ],
+  "total_courses": 104,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,145 @@
+{
+  "aishe_code": "U-1123",
+  "university_name": "NRUPATHUNGA UNIVERSITY",
+  "state": "Karnataka",
+  "district": "Bengaluru Urban",
+  "website": "https://nublr.karnataka.gov.in/",
+  "year_established": "1921",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:51:18.823349Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nublr.karnataka.gov.in/71/pg/kn"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nublr.karnataka.gov.in/71/pg/kn"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nublr.karnataka.gov.in/71/pg/kn"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nublr.karnataka.gov.in/71/pg/kn"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nublr.karnataka.gov.in/71/pg/kn"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nublr.karnataka.gov.in/71/pg/kn"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nublr.karnataka.gov.in/71/pg/kn"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nublr.karnataka.gov.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Ed)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nublr.karnataka.gov.in/98/admission-notification-for-b.sc.,-b.ed-%28itep%29---2024-2025-/kn"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nublr.karnataka.gov.in/91/ug-courses-/kn"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nublr.karnataka.gov.in/91/ug-courses-/kn"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "BEd",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nublr.karnataka.gov.in"
+    },
+    {
+      "degree_name": "Integrated B.Sc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nublr.karnataka.gov.in/98/admission-notification-for-b.sc.,-b.ed-%28itep%29---2024-2025-/kn"
+    },
+    {
+      "degree_name": "Integrated BSc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nublr.karnataka.gov.in/98/admission-notification-for-b.sc.,-b.ed-%28itep%29---2024-2025-/kn"
+    },
+    {
+      "degree_name": "Integrated BSc",
+      "course_name": "BEd 2024",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nublr.karnataka.gov.in"
+    },
+    {
+      "degree_name": "Integrated          B.Sc",
+      "course_name": "B.Ed",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nublr.karnataka.gov.in/91/ug-courses-/kn"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "ORI",
+      "level_of_education": "Certificate",
+      "source_url": "https://nublr.karnataka.gov.in/105/pg-first-selection-list-21st-august-2025/kn"
+    },
+    {
+      "degree_name": "CERTIFICATE",
+      "course_name": "S IN",
+      "level_of_education": "Certificate",
+      "source_url": "https://nublr.karnataka.gov.in/105/pg-first-selection-list-21st-august-2025/kn"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "SUB",
+      "level_of_education": "Unknown",
+      "source_url": "https://nublr.karnataka.gov.in/105/pg-first-selection-list-21st-august-2025/kn"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://nublr.karnataka.gov.in/uploads/media_to_upload1701493564.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://nublr.karnataka.gov.in/98/admission-notification-for-b.sc.,-b.ed-%28itep%29---2024-2025-/kn"
+    }
+  ],
+  "total_courses": 21,
+  "pages_scraped": 25,
+  "errors": []
+}

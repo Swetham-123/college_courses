@@ -1,0 +1,61 @@
+{
+  "aishe_code": "U-1296",
+  "university_name": "VEER SURENDRA SAI INSTITUTE OF MEDICAL SCIENCES  AND RESEARCH",
+  "state": "Odisha",
+  "district": "Sambalpur",
+  "website": "vimsar.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:20:51.287520Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "MBBS",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vimsar.ac.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vimsar.ac.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "MBBS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vimsar.ac.in/pages/mbbs-courses-and-seats"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "und",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vimsar.ac.in/pages/mbbs-admission-2019"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://vimsar.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://vimsar.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://vimsar.ac.in/pages/mbbs-admission-2019"
+    }
+  ],
+  "total_courses": 7,
+  "pages_scraped": 7,
+  "errors": []
+}

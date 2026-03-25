@@ -1,0 +1,127 @@
+{
+  "aishe_code": "U-0996",
+  "university_name": "MADHYA PRADESH AYURVIGYAN VISHWAVIDHLAYA, JABALPUR",
+  "state": "Madhya Pradesh",
+  "district": "Jabalpur",
+  "website": "www.mpmsu.edu.in",
+  "year_established": "2011",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:41:54.309433Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Nur",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpmsu.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ayu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mpmsu.edu.in/phd-ayurvedic"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mpmsu.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mpmsu.edu.in/diploma-pg"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "Dow",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpmsu.edu.in/bdsug"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpmsu.edu.in/bdsug"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "Sec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpmsu.edu.in/bdsug"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpmsu.edu.in"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpmsu.edu.in/mbbsug"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpmsu.edu.in/mbbsug"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Per",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpmsu.edu.in/mbbsug"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Pha",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mpmsu.edu.in/mbbsug"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ali",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpmsu.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpmsu.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical &",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpmsu.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpmsu.edu.in/mdpg"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "imp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpmsu.edu.in/mbbsug"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mpmsu.edu.in/ug-degree-physiotherapy"
+    }
+  ],
+  "total_courses": 18,
+  "pages_scraped": 25,
+  "errors": []
+}

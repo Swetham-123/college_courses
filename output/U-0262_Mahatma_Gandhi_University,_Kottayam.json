@@ -1,0 +1,49 @@
+{
+  "aishe_code": "U-0262",
+  "university_name": "Mahatma Gandhi University, Kottayam",
+  "state": "Kerala",
+  "district": "Kottayam",
+  "website": "www.mgu.ac.in",
+  "year_established": "1983",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:52:08.230495Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "MBA",
+      "course_name": "ADM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.mgu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://admission.mgu.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mgu.ac.in"
+    },
+    {
+      "degree_name": "BEd",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.mgu.ac.in"
+    },
+    {
+      "degree_name": "MEd",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://admission.mgu.ac.in"
+    }
+  ],
+  "total_courses": 5,
+  "pages_scraped": 4,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0669",
+  "university_name": "SRIMANTA SANKARADEVA UNIVERSITY OF HEALTH SCIENCES, GUWAHATI",
+  "state": "Assam",
+  "district": "Kamrup Metro",
+  "website": "www.ssuhs.in",
+  "year_established": "2009",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:38.238198Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,637 @@
+{
+  "aishe_code": "U-1390",
+  "university_name": "Vivek University",
+  "state": "Uttar Pradesh",
+  "district": "Bijnor",
+  "website": "https://vivekuniversity.ac.in/",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:27:11.088629Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-agricultural-sciences"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/phd-programs-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Agr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bot",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Core",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/sop-for-phd-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ele",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/phd-programs-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Exp",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-legal-studies"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fee",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Food",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Home",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Inf",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/phd-programs-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mat",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mec",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/phd-programs-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mic",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Nur",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ord",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Our",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-pharmacy"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Phy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-sciences"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Soc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Str",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-teacher-education"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Vet",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Yoga",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Zoo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/phd-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "cla",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/sop-for-phd-program"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-ayurveda"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "M.S.W",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/pg-programs"
+    },
+    {
+      "degree_name": "M.Ed",
+      "course_name": "Sch",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-teacher-education"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/pg-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/pg-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/pg-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/pg-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/pg-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/pg-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/pg-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/pg-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/pg-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Zoo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/pg-programs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-vet-sci-animal-husbandry"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vivekuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "L.L.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-legal-studies"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B, B.B.A",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-legal-studies"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-teacher-education"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/ug-programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/ug-programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/ug-programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Food",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/ug-programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/ug-programs"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vivekuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "III",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vivekuniversity.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Rec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vivekuniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Agr",
+      "level_of_education": "Diploma",
+      "source_url": "https://vivekuniversity.ac.in/academics/diploma-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Aux",
+      "level_of_education": "Diploma",
+      "source_url": "https://vivekuniversity.ac.in/academics/diploma-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://vivekuniversity.ac.in/academics/diploma-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://vivekuniversity.ac.in/academics/diploma-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Gen",
+      "level_of_education": "Diploma",
+      "source_url": "https://vivekuniversity.ac.in/academics/diploma-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pha",
+      "level_of_education": "Diploma",
+      "source_url": "https://vivekuniversity.ac.in/academics/diploma-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Por",
+      "level_of_education": "Diploma",
+      "source_url": "https://vivekuniversity.ac.in/academics/diploma-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://vivekuniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Und",
+      "level_of_education": "Diploma",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-vet-sci-animal-husbandry"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Vet",
+      "level_of_education": "Diploma",
+      "source_url": "https://vivekuniversity.ac.in/academics/diploma-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "View",
+      "level_of_education": "Diploma",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-vet-sci-animal-husbandry"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cam",
+      "level_of_education": "Certificate",
+      "source_url": "https://vivekuniversity.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/ug-programs"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/PDF/UGC-Mandatory-Disclosure-V2.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/ug-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-vet-sci-animal-husbandry"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/sop-for-phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cur",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-pharmacy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/sop-for-phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-health-paramedical-sc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sol",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "Ayu",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-ayurveda"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "ded",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-nursing"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bec",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-nursing"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "cra",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-engineering-technology"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gain",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "get",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-sciences"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-health-paramedical-sc"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "ove",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-legal-studies"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-management-commerce"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "real",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-sciences"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sec",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-nursing"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "thr",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-nursing"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in/academics/school-of-health-paramedical-sc"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://vivekuniversity.ac.in"
+    }
+  ],
+  "total_courses": 103,
+  "pages_scraped": 25,
+  "errors": []
+}

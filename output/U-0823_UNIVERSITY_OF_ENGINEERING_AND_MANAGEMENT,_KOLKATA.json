@@ -1,0 +1,85 @@
+{
+  "aishe_code": "U-0823",
+  "university_name": "UNIVERSITY OF ENGINEERING AND MANAGEMENT, KOLKATA",
+  "state": "West Bengal",
+  "district": "North 24 Parganas",
+  "website": "www.uem.edu.in",
+  "year_established": "2014",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:11:36.878318Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uem.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uem.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mar",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uem.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://uem.edu.in"
+    },
+    {
+      "degree_name": "B.TECH",
+      "course_name": "CSE &",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://uem.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://uem.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB(H), B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://uem.edu.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "upon",
+      "level_of_education": "Certificate",
+      "source_url": "https://uem.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://uem.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://uem.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the 17",
+      "level_of_education": "Unknown",
+      "source_url": "https://uem.edu.in"
+    }
+  ],
+  "total_courses": 11,
+  "pages_scraped": 21,
+  "errors": []
+}

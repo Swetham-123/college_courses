@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1442",
+  "university_name": "NMV University",
+  "state": "Tamil Nadu",
+  "district": "Virudhunagar",
+  "website": null,
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:48:52.277006Z",
+  "status": "no_url",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "No website URL available"
+  ]
+}

@@ -1,0 +1,895 @@
+{
+  "aishe_code": "U-1228",
+  "university_name": "NICMAR UNIVERSITY, PUNE",
+  "state": "Maharashtra",
+  "district": "Pune",
+  "website": "https://www.nicmar.ac.in/pune",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:44:33.444633Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Civ",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/pune/program-rmc"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ove",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "SCM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/pune/program-pem"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Urb",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mplan"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/pune/program-pem"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/pune/program-reuim"
+    },
+    {
+      "degree_name": "Integrated MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "M.PLAN",
+      "course_name": "Ove",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mplan"
+    },
+    {
+      "degree_name": "M.PLAN",
+      "course_name": "The M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "M.Plan",
+      "course_name": "Hou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-reuim"
+    },
+    {
+      "degree_name": "M.Plan",
+      "course_name": "Urb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-reuim"
+    },
+    {
+      "degree_name": "M.Plan",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mplan"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CTM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mtechctm"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "IPM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mtechipm"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Inf",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Str",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-rmc"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ACM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-acm"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ACM(",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-acm"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "APM)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "APM)(",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/department/student-affairs"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Adv",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Cla",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/department/careerservices"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ENS",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mbaens"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ENS)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mbaens"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "FBE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mbafbe"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fam",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mar",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-pem"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ove",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "PEM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-pem"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "REU",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-reuim"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Real",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "SEM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mbasem"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "SEM)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mbasem"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Sou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Sus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-pem"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "fra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "gra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mbasem"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "(CTM)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mtechctm"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Ass",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Qua",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nicmar.ac.in/pune/programs"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Rea",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "that",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mbaens"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "from",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-reuim"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/programs"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-btechcivil"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "lev",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-btechcivil"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-btechcivil"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-btechcivil"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pha",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "dual degree",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ass",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nicmar.ac.in/pune/programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nicmar.ac.in/pune/program-btechcivil"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ope",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mtechipm"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Qua",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nicmar.ac.in/pune/program-qscm"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "Ind",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mbaens"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "adm",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nicmar.ac.in/pune/program-rmc"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Exa",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nicmar.ac.in/pune/program-btechcivil"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "for",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nicmar.ac.in/pune-campus/symposium2025"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "par",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nicmar.ac.in/pune-campus/symposium2025"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Civ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-afm"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "and B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-btechcivil"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "is a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-btechcivil"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "one",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://systems.nicmar.ac.in/UGC-NUP%20Proforma.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ian",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/department/careerservices"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mbaens"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune-campus/symposium2025"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-afm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ada",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mtechipm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ado",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-reuim"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-reuim"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune-campus/symposium2025"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-qscm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-btechcivil"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cap",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/department/student-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dem",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-reuim"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dep",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-acm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mbafbe"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ess",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-btechcivil"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-reuim"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fac",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-pem"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fam",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "felt",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fem",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/department/student-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-btechcivil"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mbaens"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "good",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-pem"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "hap",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mbaens"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "imp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-qscm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "less",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune-campus/symposium2025"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "loo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mbaens"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pla",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-pem"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-qscm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune-campus/symposium2025"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rei",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "self",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sen",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mbasem"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mplan"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "som",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-qscm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-afm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "team",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "told",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/department/student-affairs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-qscm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-btechcivil"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "urg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-reuim"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vit",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-qscm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-mbafbe"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gain",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-acm"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/program-imba"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/pune/department/student-affairs"
+    }
+  ],
+  "total_courses": 146,
+  "pages_scraped": 25,
+  "errors": []
+}

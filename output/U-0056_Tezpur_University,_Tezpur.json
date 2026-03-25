@@ -1,0 +1,175 @@
+{
+  "aishe_code": "U-0056",
+  "university_name": "Tezpur University, Tezpur",
+  "state": "Assam",
+  "district": "Sonitpur",
+  "website": "www.tezu.ernet.in",
+  "year_established": "1994",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:57:57.208065Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PhD",
+      "course_name": "Spr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tezu.ernet.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tezu.ernet.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Exe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tezu.ernet.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "ter",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tezu.ernet.in"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "CEM",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/at5.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "CEME",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/apr25.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "CEP",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/apr25.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "CEPE5",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/apr25.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "CSQE",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/apr25.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "CST55",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/apr25.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "KEP",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/apr252.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "MEC",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/at4.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "MECE",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/at5.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "MEP",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/apr25.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "PEP",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/apr25.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "QE T55",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/apr25.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "QEd",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/apr25.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "QPֆ",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/at5.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "fTQ",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/apr252.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "fhQ",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/at5.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "hdE",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/apr25.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "hdQ",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/apr25.jpg"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "sQE",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.tezu.ernet.in/images/at5.jpg"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tezu.ernet.in/notice/2022/August/Institutional_Grade_Sheet_4th_Cycle.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tezu.ernet.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "icl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tezu.ernet.in"
+    }
+  ],
+  "total_courses": 26,
+  "pages_scraped": 25,
+  "errors": []
+}

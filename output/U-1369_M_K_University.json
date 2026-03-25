@@ -1,0 +1,481 @@
+{
+  "aishe_code": "U-1369",
+  "university_name": "M K University",
+  "state": "Gujarat",
+  "district": "Patan",
+  "website": "https://www.mkuniversity.edu.in/",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:17:43.102362Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "CWC",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Con",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mkuniversity.edu.in/blog/ba-llb-program-course-details"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mkuniversity.edu.in/blog/ba-llb-program-course-details"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "RAC",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mkuniversity.edu.in/blog/law-admission-academic-prerequisites"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mkuniversity.edu.in/blog/ba-llb-program-course-details"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "jou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Full",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mkuniversity.edu.in/blog/ba-llb-program-course-details"
+    },
+    {
+      "degree_name": "MbA",
+      "course_name": "FDW",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mkuniversity.edu.in/view-update/uploads/updates/zLAFCfz4kvXqHkXkoB6sUgqGBYpdckeUrl0GV63x.pdf"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Fas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Pha",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mkuniversity.edu.in/blog/ba-llb-program-course-details"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "rel",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mkuniversity.edu.in/department-of-science.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mkuniversity.edu.in/blog/ba-llb-program-course-details"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "(LLB) 1",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (5",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mkuniversity.edu.in/blog/law-admission-academic-prerequisites"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mkuniversity.edu.in/blog/ba-llb-program-course-details"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "was",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Agr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Full",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mkuniversity.edu.in/blog/ba-llb-program-course-details"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "or a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mkuniversity.edu.in/blog/law-admission-academic-prerequisites"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mkuniversity.edu.in/blog/law-admission-academic-prerequisites"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "whi",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mkuniversity.edu.in/blog/ba-llb-program-course-details"
+    },
+    {
+      "degree_name": "dual degree",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mkuniversity.edu.in/blog/ba-llb-program-course-details"
+    },
+    {
+      "degree_name": "integrated BA",
+      "course_name": "LLB, a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mkuniversity.edu.in/blog/law-admission-academic-prerequisites"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dra",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mkuniversity.edu.in/department-of-arts-and-social-studies.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fine",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mkuniversity.edu.in/department-of-arts-and-social-studies.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fire &",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mkuniversity.edu.in/department-of-fire-and-safety.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hot",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mkuniversity.edu.in/department-of-hotel-management.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Lib",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mkuniversity.edu.in/department-of-library-and-information-science.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mus",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mkuniversity.edu.in/department-of-arts-and-social-studies.php"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Sel",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mkuniversity.edu.in/department-of-science.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cla",
+      "level_of_education": "Certificate",
+      "source_url": "https://mkuniversity.edu.in/blog/law-admission-academic-prerequisites"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ent",
+      "level_of_education": "Certificate",
+      "source_url": "https://mkuniversity.edu.in/blog/law-admission-academic-prerequisites"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Fire &",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mkuniversity.edu.in/department-of-fire-and-safety.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Gra",
+      "level_of_education": "Certificate",
+      "source_url": "https://mkuniversity.edu.in/blog/law-admission-academic-prerequisites"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Lib",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mkuniversity.edu.in/department-of-library-and-information-science.php"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mig",
+      "level_of_education": "Certificate",
+      "source_url": "https://mkuniversity.edu.in/blog/law-admission-academic-prerequisites"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pas",
+      "level_of_education": "Certificate",
+      "source_url": "https://mkuniversity.edu.in/blog/law-admission-academic-prerequisites"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "The",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "whi",
+      "level_of_education": "Unknown",
+      "source_url": "https://mkuniversity.edu.in/blog/ba-llb-program-course-details"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in/assets/images/admission-guidelines-for-phd-students.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ian",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in/assets/images/MKU-Pre-PhD-Course-Work-Scheme-Syllabus.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical &",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in/school-of-medical-and-health-science.php"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in/assets/images/MKU-Pre-PhD-Course-Work-Scheme-Syllabus.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in/assets/images/MKU-Pre-PhD-Course-Work-Scheme-Syllabus.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in/assets/images/MKU-PhD-Course-Work-Assigement.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in/assets/images/MKU-Pre-PhD-Course-Work-Scheme-Syllabus.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://mkuniversity.edu.in/blog/ba-llb-program-course-details"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in/assets/images/MKU-Pre-PhD-Course-Work-Scheme-Syllabus.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in/assets/images/MKU-Pre-PhD-Course-Work-Scheme-Syllabus.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ded",
+      "level_of_education": "Unknown",
+      "source_url": "https://mkuniversity.edu.in/blog/law-admission-academic-prerequisites"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "des",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in/assets/images/MKU-PhD-Course-Work-Assigement.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in/assets/images/MKU-Pre-PhD-Course-Work-Scheme-Syllabus.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enr",
+      "level_of_education": "Unknown",
+      "source_url": "https://mkuniversity.edu.in/blog/ba-llb-program-course-details"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in/assets/images/MKU-Pre-PhD-Course-Work-Scheme-Syllabus.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in/assets/images/MKU-Pre-PhD-Course-Work-Scheme-Syllabus.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "one",
+      "level_of_education": "Unknown",
+      "source_url": "https://mkuniversity.edu.in/blog/ba-llb-program-course-details"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://mkuniversity.edu.in/blog/ba-llb-program-course-details"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in/assets/images/MKU-Pre-PhD-Course-Work-Scheme-Syllabus.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in/assets/images/MKU-Pre-PhD-Course-Work-Scheme-Syllabus.pdf"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bui",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mkuniversity.edu.in"
+    }
+  ],
+  "total_courses": 77,
+  "pages_scraped": 25,
+  "errors": []
+}

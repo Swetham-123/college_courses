@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0901",
+  "university_name": "RAIGANJ UNIVERSITY",
+  "state": "West Bengal",
+  "district": "Uttar Dinajpur",
+  "website": "www.raiganjuniversity.ac.in",
+  "year_established": "2015",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:18.750820Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

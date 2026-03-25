@@ -1,0 +1,691 @@
+{
+  "aishe_code": "U-0346",
+  "university_name": "The Institute of Chartered Financial Analysts of India University, Aizawl",
+  "state": "Mizoram",
+  "district": "Aizawl",
+  "website": "www.iumizoram.edu.in",
+  "year_established": "2006",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:03:50.522666Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Doc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iumizoram.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sem",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iumizoram.edu.in/admission-semester-fee"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sub",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Ph.d",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Phd",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iumizoram.edu.in"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": ") is a",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iumizoram.edu.in/academics/departments/faculty-of-management-department"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/mcom"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/mcom"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/mcom"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "(Geo)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/msc-geography"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/msc-geography"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/msc-geography"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/msc-geography"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": ") is a",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "enh",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iumizoram.edu.in/academics/departments/faculty-of-management-department"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iumizoram.edu.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Soc",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/msw"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": ") is a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/academics/departments/faculty-of-management-department"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/mcom"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(Geo)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/msc-geography"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": ") is a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/academics/departments/faculty-of-management-department"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba-hospitality-toursim"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba-hospitality-toursim"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Miz",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba-hospitality-toursim"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Res",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/academics/departments/faculty-of-management-department"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/academics/departments/faculty-of-management-department"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "gra",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/academics/departments/faculty-of-management-department"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "ser",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/academics/departments/faculty-of-management-department"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bca"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bus",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hos",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba-hospitality-toursim"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Soc",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bsw"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Year",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bsw"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "aft",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/mcom"
+    },
+    {
+      "degree_name": "PG\r\n                                                                            Diploma",
+      "course_name": "Year",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/msw"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "but",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/ma-history"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Any",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Bus",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Com",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bcom"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iumizoram.edu.in/programs/certificateprograms/certificate-course-hospitality-tourism"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Hos",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba-hospitality-toursim"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mar",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iumizoram.edu.in/programs/certificateprograms/certificate-course-hospitality-tourism"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Soc",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bsw"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "est",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "sho",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "(Geo)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/msc-geography"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Bac",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bsw"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/ma-political-science"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Deg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/ma-sociology"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/ma-economics"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/ma-education"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/ma-english"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/ma-political-science"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/ma-sociology"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/Notifications/1912026145239_Notifications.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/ma-sociology"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/ma-history"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "One",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "The",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/academics/departments/faculty-of-information-technology-department"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "add",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adj",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dic",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/academics/departments/faculty-of-humanities-and-social-sciences-department"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obt",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ret",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/ugprograms/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "set",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/mba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/academics/departments/faculty-of-humanities-and-social-sciences-department"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "cam",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/pgprograms/mcom"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iumizoram.edu.in/programs/doctoralprograms/phd"
+    }
+  ],
+  "total_courses": 112,
+  "pages_scraped": 25,
+  "errors": []
+}

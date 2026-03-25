@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1117",
+  "university_name": "Rajiv Gandhi National Aviation University",
+  "state": "Uttar Pradesh",
+  "district": "Amethi",
+  "website": "www.rgnau.ac.in",
+  "year_established": "2013",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:22.008903Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

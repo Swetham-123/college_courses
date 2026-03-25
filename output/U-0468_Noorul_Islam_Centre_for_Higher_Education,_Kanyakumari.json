@@ -1,0 +1,37 @@
+{
+  "aishe_code": "U-0468",
+  "university_name": "Noorul Islam Centre for Higher Education, Kanyakumari",
+  "state": "Tamil Nadu",
+  "district": "Kanniyakumari",
+  "website": "www.niuniv.com",
+  "year_established": "1989",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:49:22.939730Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niuniv.com"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niuniv.com"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.niuniv.com/files/international.pdf"
+    }
+  ],
+  "total_courses": 3,
+  "pages_scraped": 18,
+  "errors": []
+}

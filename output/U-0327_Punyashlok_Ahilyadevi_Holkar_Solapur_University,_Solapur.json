@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0327",
+  "university_name": "Punyashlok Ahilyadevi Holkar Solapur University, Solapur",
+  "state": "Maharashtra",
+  "district": "Solapur",
+  "website": "www.sus.ac.in",
+  "year_established": "2004",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:15.749593Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

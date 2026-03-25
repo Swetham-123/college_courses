@@ -1,0 +1,55 @@
+{
+  "aishe_code": "U-1129",
+  "university_name": "MONARK UNIVERSITY",
+  "state": "Gujarat",
+  "district": "Ahmedabad",
+  "website": "www.monarkuni.ac.in",
+  "year_established": "2021",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:22:12.234755Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Be",
+      "course_name": "One",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.monarkuni.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.monarkuni.ac.in/swayam-courses"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.monarkuni.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.monarkuni.ac.in/swayam-courses"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.monarkuni.ac.in/swayam-courses"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wit",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.monarkuni.ac.in/swayam-courses"
+    }
+  ],
+  "total_courses": 6,
+  "pages_scraped": 3,
+  "errors": []
+}

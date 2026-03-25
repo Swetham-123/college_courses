@@ -1,0 +1,151 @@
+{
+  "aishe_code": "U-0619",
+  "university_name": "National Institute of Technology Meghalaya",
+  "state": "Meghalaya",
+  "district": "East Khasi Hills",
+  "website": "www.nitm.ac.in",
+  "year_established": "2010",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:35:40.931200Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(NIT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitm.ac.in/department.php?dept=electrical-engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitm.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pos",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitm.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitm.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitm.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "var",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitm.ac.in/department.php?dept=mechanical-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitm.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitm.ac.in/department.php?dept=computer-science-and-engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nitm.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(NIT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitm.ac.in/department.php?dept=electrical-engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitm.ac.in/department.php?dept=civil-engineering"
+    },
+    {
+      "degree_name": "Mtech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nitm.ac.in/department.php?dept=computer-science-and-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitm.ac.in/department.php?dept=electrical-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitm.ac.in/department.php?dept=mechanical-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitm.ac.in/department.php?dept=civil-engineering"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nitm.ac.in/department.php?dept=mechanical-engineering"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "(NIT",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitm.ac.in/department.php?dept=electrical-engineering"
+    },
+    {
+      "degree_name": "BED",
+      "course_name": "WITH",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitm.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitm.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitm.ac.in/department.php?dept=electronics-communication-engineering"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitm.ac.in/department.php?dept=humanities-social-sciences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nitm.ac.in/programmes.php?p=post-doctoral-fellowship-scheme"
+    }
+  ],
+  "total_courses": 22,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0849",
+  "university_name": "Professor Rajendra Singh (Rajju Bhaiya) University, Prayagraj, Uttar Pradesh",
+  "state": "Uttar Pradesh",
+  "district": "Prayagraj",
+  "website": "www.prsuniv.ac.in",
+  "year_established": "2016",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:13.012110Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

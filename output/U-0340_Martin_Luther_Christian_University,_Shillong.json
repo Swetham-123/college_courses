@@ -1,0 +1,559 @@
+{
+  "aishe_code": "U-0340",
+  "university_name": "Martin Luther Christian University, Shillong",
+  "state": "Meghalaya",
+  "district": "East Khasi Hills",
+  "website": "www.mlcuniv.in",
+  "year_established": "2005",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:03:53.147950Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PhD",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mlcuniv.in/doctoral-studies-under-the-faculty-of-theology-and-religious-studies"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "DMIN",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Fee",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Min",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Onl",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mlcuniv.in/phd-in-religious-studies"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Rel",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mlcuniv.in/programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Rul",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mlcuniv.in/phd-in-religious-studies"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sec",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mlcuniv.in/5-year-integrated-ug-programme"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mlcuniv.in/phd-in-religious-studies"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "and",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mlcuniv.in/doctoral-studies-under-the-faculty-of-theology-and-religious-studies"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Rur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mlcuniv.in/schools-centres-and-department/school-of-economics-commerce-and-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Was",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "MLT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "MMIT)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mlcuniv.in/postgraduate-programmes"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mlcuniv.in/postgraduate-programmes"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Nut",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Tou",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mlcuniv.in/programmes"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mlcuniv.in/5-year-integrated-ug-programme"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mlcuniv.in/5-year-integrated-ug-programme"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mlcuniv.in/5-year-integrated-ug-programme"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Pub",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mlcuniv.in/5-year-integrated-ug-programme"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Sur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mlcuniv.in/5-year-integrated-ug-programme"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Env",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mlcuniv.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Nut",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mlcuniv.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Psy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mlcuniv.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Sur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "Pre",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "All",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bus",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Chr",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Data",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dip",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Edit",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hea",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hos",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Med",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mus",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Nut",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ope",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in/programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pos",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Spo",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Und",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in/postgraduate-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "will",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in/academic-programmes-at-a-glance"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "Dur",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in/5-year-integrated-ug-programme"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "enc",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mlcuniv.in/academic-programmes-at-a-glance"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cer",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Edit",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mlcuniv.in/programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Menu",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mlcuniv.in/postgraduate-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Ste",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mlcuniv.in/5-year-integrated-ug-programme"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "App",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Mus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/undergraduate-programmes"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Chr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/postgraduate-programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eco)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/postgraduate-programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Mus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/postgraduate-programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/postgraduate-programmes"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/wp-content/downloads/Admissions/2023-24/2023_Single_List.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "aff",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/schools-centres-and-department/school-of-theological-and-religious-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ann",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/common-entrance-test-for-all-doctoral-studies-under-the-faculty-of-theology-and-religious-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/academic-programmes-at-a-glance"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/schools-and-departments/school-of-social-work"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/academic-programmes-at-a-glance"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dic",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/common-entrance-test-for-all-doctoral-studies-under-the-faculty-of-theology-and-religious-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/phd-in-religious-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fol",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/doctoral-studies-under-the-faculty-of-theology-and-religious-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/5-year-integrated-ug-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "onl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/academic-programmes-at-a-glance"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "open",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/academic-programmes-at-a-glance"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/doctoral-studies-under-the-faculty-of-theology-and-religious-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rej",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/doctoral-studies-under-the-faculty-of-theology-and-religious-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/doctoral-studies-under-the-faculty-of-theology-and-religious-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "roo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/schools-centres-and-department/school-of-theological-and-religious-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "self",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/schools-centres-and-department/school-of-economics-commerce-and-management"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/doctoral-studies-under-the-faculty-of-theology-and-religious-studies"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "str",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/schools-and-departments/school-of-social-work"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/academic-programmes-at-a-glance"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mlcuniv.in/schools-centres-and-department/school-of-theological-and-religious-studies"
+    }
+  ],
+  "total_courses": 90,
+  "pages_scraped": 25,
+  "errors": []
+}

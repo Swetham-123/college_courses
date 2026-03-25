@@ -1,0 +1,229 @@
+{
+  "aishe_code": "U-1197",
+  "university_name": "Vidyashilp University",
+  "state": "Karnataka",
+  "district": "Bengaluru Rural",
+  "website": "www.vidyashilp.edu.in",
+  "year_established": "2021",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:23:08.070631Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PHD",
+      "course_name": "Fee",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidyashilp.edu.in/phd-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidyashilp.edu.in/phd-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidyashilp.edu.in/phd-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vidyashilp.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidyashilp.edu.in/phd-program"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Col",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidyashilp.edu.in/phd-program"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://vidyashilp.edu.in/phd-program"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.vidyashilp.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "L.L.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidyashilp.edu.in/Law_School"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vidyashilp.edu.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "B.M.S. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vidyashilp.edu.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vidyashilp.edu.in"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Sel",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vidyashilp.edu.in/School_of_Design/program.php"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vidyashilp.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.vidyashilp.edu.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://vidyashilp.edu.in/Law_School"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "s of",
+      "level_of_education": "Certificate",
+      "source_url": "https://vidyashilp.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vidyashilp.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidyashilp.edu.in/School_of_Design"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vidyashilp.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidyashilp.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidyashilp.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bold",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vidyashilp.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidyashilp.edu.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidyashilp.edu.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidyashilp.edu.in/academic-excellence"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "det",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidyashilp.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dir",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidyashilp.edu.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidyashilp.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidyashilp.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidyashilp.edu.in/academic-excellence"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "str",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidyashilp.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vidyashilp.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.vidyashilp.edu.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://vidyashilp.edu.in/School_of_Business_and_Entrepreneurship"
+    }
+  ],
+  "total_courses": 35,
+  "pages_scraped": 13,
+  "errors": []
+}

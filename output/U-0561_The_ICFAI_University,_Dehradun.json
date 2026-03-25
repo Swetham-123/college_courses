@@ -1,0 +1,1051 @@
+{
+  "aishe_code": "U-0561",
+  "university_name": "The ICFAI University, Dehradun",
+  "state": "Uttarakhand",
+  "district": "Dehradun",
+  "website": "www.iudehradun.edu.in",
+  "year_established": "2003",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:02:19.987680Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/bsc-data-secience"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "End",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Gui",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "IUD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mig",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Name",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Only",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Qua",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sci",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sem",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sup",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "View",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Viva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "on a",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Deh",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-law-school-dehradun/law/pgprograms/llm-one-year"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/bsc-data-secience"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/pgprograms/mtech"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/pgprograms/mtech"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Dis",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/pgprograms/mtech"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/pgprograms/mtech"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/pgprograms/mtech"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/pgprograms/mtech"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/pgprograms/mtech"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/pgprograms/mtech"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "with",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/pgprograms/mtech"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Deh",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/pgprograms/mba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Sem",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": ") is a",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/pgprograms/mca"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/pgprograms/mca"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Deh",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/pgprograms/mca"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/pgprograms/mca"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/pgprograms/mtech"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bcom-hons"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-education-school-dehradun/ieds/ugprograms/bed"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Bat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Jou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "from",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "with 98",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "acy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-school-of-pharmaceutical-sciences-dehradun/isps/ugprograms/b-pharmacy"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "cur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-school-of-pharmaceutical-sciences-dehradun/isps/ugprograms/b-pharmacy"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-school-of-pharmaceutical-sciences-dehradun/isps/ugprograms/b-pharmacy"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/bsc-hons-mathematics"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(Non",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "(FIA)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba-financial-investment-analysis"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "(FIA) (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba-financial-investment-analysis"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba-financial-investment-analysis"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Deh",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "FIA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba-financial-investment-analysis"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "FIA (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba-financial-investment-analysis"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "FIA)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba-financial-investment-analysis"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba-financial-investment-analysis"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Hon",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-law-school-dehradun/law/ugprograms/bba-llb-hons"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B.(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-law-school-dehradun/law/ugprograms/bba-llb-hons"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Clo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Cyb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Dev",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Har",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Mob",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Spe",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/bca"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "Deh",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bcom-hons"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/bsc-data-secience"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "Deh",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bus",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech-lateral-entry"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fin",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba-financial-investment-analysis"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Year",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Adm",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mark",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s of",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "(for",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-school-of-pharmaceutical-sciences-dehradun/isps/ugprograms/b-pharmacy"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Bus",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "Fin",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bba-financial-investment-analysis"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "acc",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/ugprograms/bcom-hons"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "sho",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "the",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-law-school-dehradun/law/ugprograms/ba-llb-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-law-school-dehradun/law/ugprograms/ba-llb-hons"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-education-school-dehradun/ieds/pgprograms/ma-education"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-education-school-dehradun/ieds/pgprograms/ma-education"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "al, I",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-law-school-dehradun/law/ugprograms/bba-llb-hons"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adj",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-law-school-dehradun/law/ugprograms/bba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eva",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-law-school-dehradun/law/ugprograms/bba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/research/phd-program-research"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ope",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/pgprograms/mba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ret",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "scr",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-tech-school-dehradun/its/ugprograms/btech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sep",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tak",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ter",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/phd-program"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bui",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "clo",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "grow",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "nav",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "over",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.iudehradun.edu.in/icfai-business-school-dehradun/ibs/pgprograms/mba"
+    }
+  ],
+  "total_courses": 172,
+  "pages_scraped": 25,
+  "errors": []
+}

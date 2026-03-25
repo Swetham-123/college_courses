@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1118",
+  "university_name": "NATIONAL INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH (NIPER) HYDERABAD",
+  "state": "Telangana",
+  "district": "Hyderabad",
+  "website": "http://www.niperhyd.ac.in",
+  "year_established": "2007",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:28:09.381760Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

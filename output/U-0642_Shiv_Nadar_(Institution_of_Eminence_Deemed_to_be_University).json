@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0642",
+  "university_name": "Shiv Nadar (Institution of Eminence Deemed to be University)",
+  "state": "Uttar Pradesh",
+  "district": "Gautam Buddha Nagar",
+  "website": "www.snu.edu.in",
+  "year_established": "2011",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:47.610057Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

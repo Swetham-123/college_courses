@@ -1,0 +1,1543 @@
+{
+  "aishe_code": "U-0461",
+  "university_name": "M.G.R. Educational and Research Institute, Chennai",
+  "state": "Tamil Nadu",
+  "district": "Thiruvallur",
+  "website": "www.drmgrdu.ac.in",
+  "year_established": "1988",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:14:32.505133Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "PDF",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.drmgrdu.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://drmgrdu.ac.in/research/academic-research"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://drmgrdu.ac.in/research/academic-research"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Fel",
+      "level_of_education": "Doctoral",
+      "source_url": "https://drmgrdu.ac.in/research/phd-scholarship"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://drmgrdu.ac.in/research/academic-research"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://drmgrdu.ac.in/research/phd-scholarship"
+    },
+    {
+      "degree_name": "phd",
+      "course_name": "dic",
+      "level_of_education": "Doctoral",
+      "source_url": "https://drmgrdu.ac.in/research/phd-scholarship"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "B.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Eli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "M.ARCH",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "M.Arch",
+      "course_name": "ter",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "FEES",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Gen",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/online-programs"
+    },
+    {
+      "degree_name": "M.PHARM",
+      "course_name": "FOR",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ana",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ani",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Clo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cri",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cyb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/online-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Game",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "HMCT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Hot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mob",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Real",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Sta",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/online-programs"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "The",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Very",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "all",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "FEES",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Gen",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/online-programs"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Clo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "FEES",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Gen",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "MCA (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/online-programs"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "for",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "L.L.B(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.ARCH",
+      "course_name": "Pas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Post",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.COM",
+      "course_name": "LLB(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Ban",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "FEES",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Gen",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/online-programs"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "L.L.B(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://law.drmgrdu.ac.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Pass",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Str",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "ign",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Can",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Fac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.PHARM",
+      "course_name": "Pass",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "Lat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "AHS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Adv",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "All",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ani",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "App",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Asp",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Aut",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Avi",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "B.Sc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "COU",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Can",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Clo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cri",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Dig",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Emb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Env",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "FEES",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "FSND",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Fas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Film",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Fire",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Food",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "HMCT",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hons",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hot",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Inf",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Life",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mat",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mob",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nano",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Net",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Pow",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Ren",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Very",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Yoga",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Zoo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "dus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "for",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "str",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.TECH",
+      "course_name": "FEES",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aer",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Any",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aut",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "BME",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cyb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "ECE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "EEE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "EEE - E",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Rem",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Rob",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "for",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "str",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://law.drmgrdu.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/online-programs"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "FEES",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Gen",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://law.drmgrdu.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Acc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Big",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Dig",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "FEES",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Game",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Gen",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "from a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "Thr",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/medicine/home"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "The",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bak",
+      "level_of_education": "Diploma",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hot",
+      "level_of_education": "Diploma",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Post",
+      "level_of_education": "Diploma",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "exa",
+      "level_of_education": "Diploma",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "(NOC)",
+      "level_of_education": "Certificate",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Copy",
+      "level_of_education": "Certificate",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Does",
+      "level_of_education": "Certificate",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "iss",
+      "level_of_education": "Certificate",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "etc",
+      "level_of_education": "Certificate",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "whi",
+      "level_of_education": "Certificate",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Def",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Fre",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "HRM",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Pol",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Tam",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Und",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "ter",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "COU",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Cul",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "FEES",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Fac",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "or B",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "CON",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/online-programs"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "dian",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Aug",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/center-for-online-programs/home"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/center-for-online-programs/home"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "June",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/center-for-online-programs/home"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ia\nB",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/department/research-patent"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.drmgrdu.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical 2019",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/medicine/home"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical)",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/research/academic-research"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.drmgrdu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/online-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/research/academic-research"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adm",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "adv",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "can",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/research/academic-research"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/department/dr-mgr-acs-satellite-space-technology"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eas",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exc",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fou",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/center-for-online-programs/home"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gui",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lis",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nec",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "obt",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "res",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sho",
+      "level_of_education": "Unknown",
+      "source_url": "https://law.drmgrdu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "six",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/eligibility-criteria"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "str",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tim",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/student-service/academic-bank-of-credits-abc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upl",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ver",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "is a",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://drmgrdu.ac.in/admissions/international-student-cell-isc"
+    }
+  ],
+  "total_courses": 254,
+  "pages_scraped": 24,
+  "errors": []
+}

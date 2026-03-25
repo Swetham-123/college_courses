@@ -1,0 +1,91 @@
+{
+  "aishe_code": "U-0569",
+  "university_name": "The University of Burdwan",
+  "state": "West Bengal",
+  "district": "Purba Bardhaman",
+  "website": "www.buruniv.ac.in",
+  "year_established": "1960",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:05:33.475059Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.buruniv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.buruniv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.buruniv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Rel",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.buruniv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.buruniv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "viva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.buruniv.ac.in"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "DVA/B.P",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.buruniv.ac.in/ugonline"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cla",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.buruniv.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "for",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.buruniv.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Sem",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.buruniv.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.buruniv.ac.in/Notices/20260189_CE.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "icl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.buruniv.ac.in"
+    }
+  ],
+  "total_courses": 12,
+  "pages_scraped": 25,
+  "errors": []
+}

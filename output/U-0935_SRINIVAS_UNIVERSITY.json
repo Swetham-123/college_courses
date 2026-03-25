@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0935",
+  "university_name": "SRINIVAS UNIVERSITY",
+  "state": "Karnataka",
+  "district": "Dakshina Kannada",
+  "website": "www.srinivasuniversity.edu.in",
+  "year_established": "2013",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:38.792621Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

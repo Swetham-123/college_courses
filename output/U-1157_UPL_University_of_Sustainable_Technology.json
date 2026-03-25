@@ -1,0 +1,475 @@
+{
+  "aishe_code": "U-1157",
+  "university_name": "UPL University of Sustainable Technology",
+  "state": "Gujarat",
+  "district": "Bharuch",
+  "website": "https://upluniversity.ac.in/",
+  "year_established": "2021",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:15:39.647361Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://upluniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://upluniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Jan",
+      "level_of_education": "Doctoral",
+      "source_url": "https://upluniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://upluniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Rul",
+      "level_of_education": "Doctoral",
+      "source_url": "https://upluniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sup",
+      "level_of_education": "Doctoral",
+      "source_url": "https://upluniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Syl",
+      "level_of_education": "Doctoral",
+      "source_url": "https://upluniversity.ac.in/phd"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "M.Sc",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://upluniversity.ac.in/BSc-admission"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://upluniversity.ac.in/PGDAT-admission"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://upluniversity.ac.in/PGDAT-admission"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://upluniversity.ac.in/BSc-admission"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Eve",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://upluniversity.ac.in/BSc-admission"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://upluniversity.ac.in/BSc-admission"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://upluniversity.ac.in/MSc-admission"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://upluniversity.ac.in/PGDECS-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://upluniversity.ac.in/PGDAT-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://upluniversity.ac.in/PGDAT-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://upluniversity.ac.in/BE-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://upluniversity.ac.in/BSc-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Str",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://upluniversity.ac.in/BE-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://upluniversity.ac.in/recognition"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "to B.E",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://upluniversity.ac.in/BE-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "who",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://upluniversity.ac.in/PGDPS-admission"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "with",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://upluniversity.ac.in/BSc-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://upluniversity.ac.in/PGDAT-admission"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Che",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://upluniversity.ac.in/PGDAT-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ana",
+      "level_of_education": "Diploma",
+      "source_url": "https://upluniversity.ac.in/PGDAT-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Che",
+      "level_of_education": "Diploma",
+      "source_url": "https://upluniversity.ac.in/diploma-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://upluniversity.ac.in/diploma-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://upluniversity.ac.in/diploma-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Engg",
+      "level_of_education": "Diploma",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Env",
+      "level_of_education": "Diploma",
+      "source_url": "https://upluniversity.ac.in/PGDECS-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ins",
+      "level_of_education": "Diploma",
+      "source_url": "https://upluniversity.ac.in/PGDIAR-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mec",
+      "level_of_education": "Diploma",
+      "source_url": "https://upluniversity.ac.in/diploma-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://upluniversity.ac.in/PGDPS-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Voc",
+      "level_of_education": "Diploma",
+      "source_url": "https://upluniversity.ac.in/BE-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "for",
+      "level_of_education": "Diploma",
+      "source_url": "https://upluniversity.ac.in/diploma-admission"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "str",
+      "level_of_education": "Diploma",
+      "source_url": "https://upluniversity.ac.in/BE-admission"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "ope",
+      "level_of_education": "Diploma",
+      "source_url": "https://upluniversity.ac.in/PGDAT-admission"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://upluniversity.ac.in/diploma-admission"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Che",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/BE-admission"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Com",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Ele",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/BE-admission"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Env",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/BE-admission"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Mec",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/BE-admission"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/BE-admission"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Che",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Com",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Ele",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "IST",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/BE-admission"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Jan 2026",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "Mec",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "and",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/recognition"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "App",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/ME-admission"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Che",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/ME-admission"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Ele",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/ME-admission"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Env",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/ME-admission"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Mec",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/ME-admission"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/ME-admission"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Gui",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/recognition"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/UploadedFiles/134120613915326779.PDF"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/PGDPS-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/PGDECS-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/PGDECS-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in/PGDPS-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "very",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "ach",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "beg",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "push",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "sha",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "to a",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://upluniversity.ac.in"
+    }
+  ],
+  "total_courses": 76,
+  "pages_scraped": 21,
+  "errors": []
+}

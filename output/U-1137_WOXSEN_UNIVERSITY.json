@@ -1,0 +1,751 @@
+{
+  "aishe_code": "U-1137",
+  "university_name": "WOXSEN UNIVERSITY",
+  "state": "Telangana",
+  "district": "Sangareddy",
+  "website": "https://woxsen.edu.in/",
+  "year_established": "2014",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:27:44.421452Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://woxsen.edu.in/research/doctoral-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://woxsen.edu.in/academics/programs/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pur",
+      "level_of_education": "Doctoral",
+      "source_url": "https://woxsen.edu.in/short-courses"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Uni",
+      "level_of_education": "Doctoral",
+      "source_url": "https://woxsen.edu.in/academics/programs/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "col",
+      "level_of_education": "Doctoral",
+      "source_url": "https://woxsen.edu.in/academics/programs/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://woxsen.edu.in/about-us/academic-advisory-board"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "has",
+      "level_of_education": "Doctoral",
+      "source_url": "https://woxsen.edu.in/research/doctoral-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://woxsen.edu.in/research/doctoral-program"
+    },
+    {
+      "degree_name": "Phd",
+      "course_name": "Col",
+      "level_of_education": "Doctoral",
+      "source_url": "https://woxsen.edu.in/academics/programs/phd"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "M.Plan",
+      "course_name": "cur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/mplanning"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/m-tech"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "(Gen)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-general"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-business-analytics"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-general"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ear",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in/admissions"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fee",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-general"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-financial-services"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fre",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-xp"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pla",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-general"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/bba"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ran",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Uni",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-general"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "des",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-xp"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "for",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-xp"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "from",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://woxsen.edu.in/about-us/academic-advisory-board"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Asp",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-arch"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "B.Sc (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/admissions/program-fee"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Blog",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-arch"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Fee",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-arch"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Out",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-arch"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "The",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "with 14",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-arch"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hons",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-sc-hons"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Spo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/admissions/program-fee"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/admissions/program-fee"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "(ECE)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-tech"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Apa",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-c-a-"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-tech"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-tech"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-tech"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Fee",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-tech"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Fre",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-c-a-"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "JTP",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-tech"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Out",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pla",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-tech"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Sta",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Tel",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-tech"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "The",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Wox",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-tech"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "cov",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "B.tech",
+      "course_name": "Ses",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-tech"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/ba-llb-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Adm",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Blog",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Out",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Pur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/bba"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Bac",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-c-a-"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-c-a-"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Ses",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-c-a-"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Wox",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-sc-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Col",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/ba-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Deg",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/ba-hons"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Hons",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/ba-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-financial-services"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-sc-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bold",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-des-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "clo",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/mplanning"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cre",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/woxsen-summer-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dem",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/bba-llb-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "duly",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dus",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-c-a-"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-tech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "hig",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/bba"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lea",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-arch"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "man",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-tech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-c-a-"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sou",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/m-tech"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-arch"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "suc",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-des-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tai",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-sc-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tau",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-sc-hons"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-sc-hons"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "rock",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-sc-hons"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-general"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "and I",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/bba"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "att",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-general"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "bey",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/bba"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "cle",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-des-hons"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-general"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/admissions"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dur",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/bba-llb-hons"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "emp",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-general"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-sc-hons"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/woxsen-summer-program"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-xp"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "grow",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-general"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imp",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/admissions"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-arch"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "this",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-business-analytics"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "to a",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-general"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/bba-llb-hons"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/bba"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ian",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/mba-general"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://woxsen.edu.in/academics/programs/b-sc-in-sports-science"
+    }
+  ],
+  "total_courses": 122,
+  "pages_scraped": 25,
+  "errors": []
+}

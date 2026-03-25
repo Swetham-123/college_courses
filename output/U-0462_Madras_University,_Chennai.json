@@ -1,0 +1,187 @@
+{
+  "aishe_code": "U-0462",
+  "university_name": "Madras University, Chennai",
+  "state": "Tamil Nadu",
+  "district": "Chennai",
+  "website": "www.unom.ac.in",
+  "year_established": "1857",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:42:20.356349Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Exe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Reg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://exam.unom.ac.in/CBCS2425"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Hig",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "VII",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.unom.ac.in/webportal/uploads/announcements/DEPARTMENTSPROFORMA_20131023053209_3337_20250814121658_84681.doc"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "VIIP.G",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.unom.ac.in/webportal/uploads/announcements/DEPARTMENTSPROFORMA_20131023053209_3337_20250814121658_84681.doc"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "And",
+      "level_of_education": "Certificate",
+      "source_url": "https://exam.unom.ac.in/CBCS2425"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Apr",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Not",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "for",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "pos",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://exam.unom.ac.in/CBCS2425"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Full",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.unom.ac.in/webportal/uploads/announcements/DEPARTMENTSPROFORMA_20131023053209_3337_20250814121658_84681.doc"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Part",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.unom.ac.in/webportal/uploads/announcements/DEPARTMENTSPROFORMA_20131023053209_3337_20250814121658_84681.doc"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.unom.ac.in/webportal/uploads/announcements/Mphil_Circular_20240426134315_67983.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.unom.ac.in/webportal/uploads/announcements/DEPARTMENTSPROFORMA_20131023053209_3337_20250814121658_84681.doc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.unom.ac.in/webportal/uploads/announcements/STANDALONEINSTITUTIONSPROFORMA_20250814120812_99667.doc"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tee",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.unom.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.unom.ac.in"
+    }
+  ],
+  "total_courses": 28,
+  "pages_scraped": 25,
+  "errors": []
+}

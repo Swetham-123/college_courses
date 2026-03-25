@@ -1,0 +1,343 @@
+{
+  "aishe_code": "U-0348",
+  "university_name": "The Global Open University Nagaland, Dimapur",
+  "state": "Nagaland",
+  "district": "Dimapur",
+  "website": "www.nagaland.net.in",
+  "year_established": "2006",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:01:56.584154Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Ed",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Spo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "tel",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "mba",
+      "course_name": "aaa",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nagaland.net.in/wp-content/uploads/2023/11/court-judgement-2022-05-17-guwahati-court-bench-ugc-cleaned.pdf"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nagaland.net.in/bsc-in-industrial-drug-science"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Adv",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Bui",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Col",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dra",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Env",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Exh",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fire",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fur",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Home",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in/courses/post-graduate-diploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ind",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Inf",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Int",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Lan",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mas",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mod",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Nat",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Nut",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Post",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "SPA",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Sick",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Sol",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "The",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in/courses/post-graduate-diploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Vas",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Vis",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "lev",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in/advanced-diploma-in-computer-applications-and-programming-adcap"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "rel",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "s in",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "aft",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nagaland.net.in/how-to-get-admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hons",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Deg",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in/wp-content/uploads/2023/11/court-Supreme-Court-JO-2022-cleaned.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium)",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in/advanced-diploma-in-computer-applications-and-programming-adcap"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "des",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in/diploma-in-industrial-drug-science"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in/how-to-get-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eva",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in/how-to-get-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in/how-to-get-admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in/advanced-diploma-in-computer-applications-and-programming-adcap"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in/advanced-diploma-in-computer-applications-and-programming-adcap"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pri",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in/international-students-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "spe",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in/international-students-admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagaland.net.in/how-to-get-admission"
+    }
+  ],
+  "total_courses": 54,
+  "pages_scraped": 25,
+  "errors": []
+}

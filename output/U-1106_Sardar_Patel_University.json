@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1106",
+  "university_name": "Sardar Patel University",
+  "state": "Himachal Pradesh",
+  "district": "Mandi",
+  "website": "spumandi.ac.in",
+  "year_established": "2018",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:40.596496Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

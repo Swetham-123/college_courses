@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0430",
+  "university_name": "Sikkim  University, Gangtok",
+  "state": "Sikkim",
+  "district": "Gangtok",
+  "website": "www.sikkimuniversity.ac.in",
+  "year_established": "2007",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:31.414406Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

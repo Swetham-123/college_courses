@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0081",
+  "university_name": "Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University of Chhattisgarh",
+  "state": "Chhattisgarh",
+  "district": "Raipur",
+  "website": "http://www.ddumhsaucg.ac.in",
+  "year_established": "2008",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:13.708077Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

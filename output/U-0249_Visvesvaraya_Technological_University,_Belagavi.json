@@ -1,0 +1,919 @@
+{
+  "aishe_code": "U-0249",
+  "university_name": "Visvesvaraya Technological University, Belagavi",
+  "state": "Karnataka",
+  "district": "Belagavi",
+  "website": "www.vtu.ac.in",
+  "year_established": "1994",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:25:38.256727Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Integrated M.Plan",
+      "course_name": "IMP",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.ARCH",
+      "course_name": "ITE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Arch",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Arch",
+      "course_name": "Dig",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Arch",
+      "course_name": "Hab",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Arch",
+      "course_name": "Int",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Arch",
+      "course_name": "Sus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Arch",
+      "course_name": "Urb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Plan",
+      "course_name": "Sma",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Plan",
+      "course_name": "Town",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Plan",
+      "course_name": "Town &",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Plan",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "M.Plan",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.TECH",
+      "course_name": "dus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(CSE)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(EEE)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Aer",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Aut",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Avi",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Def",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Des",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Dig",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "EES",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ene",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Eng",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "FOR",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "FRA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Geo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Hig",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ind",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Inf",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "IoT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mac",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Man",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Nan",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Nano",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Net",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pow",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Rob",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Sig",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Sof",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Str",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "TEX",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "The",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Tool",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Tra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "VLSI",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Was",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Wat",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Web",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "cyb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "(HRM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "(IEV)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Dig",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Log",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MBA(",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA/M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Tec",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Upd",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "for",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ter",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "60\nU.B.D.T",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "BCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Cyb",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Onl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Rev",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Upd",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "for",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-studies-mysuru"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "ter",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "Mas",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "Sch",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "MTECH",
+      "course_name": "IND",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://vtu.ac.in/pg-scheme-syllabus"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Stu",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "PG diploma",
+      "course_name": "Big",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "pg diploma",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "pg diploma",
+      "course_name": "Sof",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "pg diploma",
+      "course_name": "ves",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "Ten",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "and B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "B.Plan",
+      "course_name": "PLAN",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/course-subject-equivalences"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "(Hon)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "and 9",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aer",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Rob",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BCA.,/B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Dig",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "and",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Onl",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/academic-calendar"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "ter",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "GIVB0",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://vtu.ac.in/pdf/affiliation/15.PGDHC.pdf"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ass",
+      "level_of_education": "Diploma",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mar",
+      "level_of_education": "Diploma",
+      "source_url": "https://onlinedegree.vtu.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Kar",
+      "level_of_education": "Certificate",
+      "source_url": "https://vtu.ac.in/eligibility-for-ug-and-pg-courses"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "VTU",
+      "level_of_education": "Certificate",
+      "source_url": "https://vtu.ac.in/course-subject-equivalences"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Art",
+      "level_of_education": "Unknown",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Com",
+      "level_of_education": "Unknown",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Cyb",
+      "level_of_education": "Unknown",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Ele",
+      "level_of_education": "Unknown",
+      "source_url": "https://vtu.ac.in/programmes-pg-centres"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Dow",
+      "level_of_education": "Unknown",
+      "source_url": "https://vtu.ac.in/course-subject-equivalences"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://vtu.ac.in/course-subject-equivalences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://vtu.ac.in/equivalence-committee-ug"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://vtu.ac.in/equivalence-committee-ug"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "iss",
+      "level_of_education": "Unknown",
+      "source_url": "https://vtu.ac.in/course-subject-equivalences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mar",
+      "level_of_education": "Unknown",
+      "source_url": "https://vtu.ac.in/course-subject-equivalences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "men",
+      "level_of_education": "Unknown",
+      "source_url": "https://vtu.ac.in/course-subject-equivalences"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://vtu.ac.in/eligibility-for-ug-and-pg-courses"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "per",
+      "level_of_education": "Unknown",
+      "source_url": "https://vtu.ac.in/equivalence-committee-ug"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://vtu.ac.in/eligibility-for-ug-and-pg-courses"
+    }
+  ],
+  "total_courses": 150,
+  "pages_scraped": 25,
+  "errors": []
+}

@@ -1,0 +1,391 @@
+{
+  "aishe_code": "U-0024",
+  "university_name": "National Academy of Legal Studies & Research (NALSR) University Hyderabad",
+  "state": "Telangana",
+  "district": "MEDCHAL MALKAJGIRI",
+  "website": "www.nalsar.ac.in",
+  "year_established": "1998",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:24:35.403720Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "MBA",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "& LL.M",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(MBA)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Dow",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nalsar.ac.in/doctoral-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "POG",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "PRO",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nalsar.ac.in/doctoral-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "MBA)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "(All",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Apa",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in/postgraduate-study-law"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Cri",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in/postgraduate-study-law"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in/postgraduate-study-law"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Reg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in/postgraduate-study-law"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in/undergraduate-study"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in/academic-programmes"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "was",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in/postgraduate-study-law"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Col",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apply.nalsar.ac.in/asm-form"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Lev",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in/undergraduate-study-in-business"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "PHA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Sel",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://apply.nalsar.ac.in/asm-form"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in/postgraduate-study-business-administration"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in/postgraduate-study-business-administration"
+    },
+    {
+      "degree_name": "llm",
+      "course_name": "ibl",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nalsar.ac.in/postgraduate-study-law"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nalsar.ac.in/undergraduate-study"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "sta",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nalsar.ac.in/undergraduate-study-in-business"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nalsar.ac.in/undergraduate-study"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nalsar.ac.in/academic-programmes"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "s to",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nalsar.ac.in/academic-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Deg",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nalsar.ac.in/asm-form"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalsar.ac.in/foreign-nationals-admission-notification-2026-ba-llb-hons-llm"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B.(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B.,(",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Int",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/admission"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nalsar.ac.in/asm-form"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "all",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/studying-here"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "alo",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nalsar.ac.in/asm-form"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/academics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "att",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/studying-here"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/undergraduate-study-in-business"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cap",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/studying-here"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/studying-here"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nalsar.ac.in/asm-form"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "han",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/undergraduate-study"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "jus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/studying-here"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nalsar.ac.in/asm-form"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "open",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalsar.ac.in/admission-notification-2-year-llm-program-insolvency-bankruptcy-laws-0"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pur",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/academic-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nalsar.ac.in/asm-form"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "und",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/studying-here"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "rock",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/undergraduate-study-in-business"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "dev",
+      "level_of_education": "Unknown",
+      "source_url": "https://apply.nalsar.ac.in/asm-form"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalsar.ac.in/studying-here"
+    }
+  ],
+  "total_courses": 62,
+  "pages_scraped": 19,
+  "errors": []
+}

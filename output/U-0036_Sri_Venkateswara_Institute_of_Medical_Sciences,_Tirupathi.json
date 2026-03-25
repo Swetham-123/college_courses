@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0036",
+  "university_name": "Sri Venkateswara Institute of Medical Sciences, Tirupathi",
+  "state": "Andhra Pradesh",
+  "district": "Chittoor",
+  "website": "https://svimstpt.ap.nic.in",
+  "year_established": "1993",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:41.570785Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

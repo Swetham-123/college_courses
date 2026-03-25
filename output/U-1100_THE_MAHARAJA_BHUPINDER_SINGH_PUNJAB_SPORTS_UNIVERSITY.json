@@ -1,0 +1,235 @@
+{
+  "aishe_code": "U-1100",
+  "university_name": "THE MAHARAJA BHUPINDER SINGH PUNJAB SPORTS UNIVERSITY",
+  "state": "Punjab",
+  "district": "Patiala",
+  "website": "mbspsu.ac.in",
+  "year_established": "2019",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:04:54.990413Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mbspsu.ac.in/custom/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mbspsu.ac.in/custom/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mbspsu.ac.in/custom/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mbspsu.ac.in/custom/phd"
+    },
+    {
+      "degree_name": "Msc",
+      "course_name": "Yoga)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mbspsu.ac.in/courses-offered/masters-two-year-degree-course"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://mbspsu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Spo",
+      "level_of_education": "Diploma",
+      "source_url": "https://mbspsu.ac.in/courses-offered/postgraduatepg-one-year-diploma-course"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cha",
+      "level_of_education": "Certificate",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cla",
+      "level_of_education": "Certificate",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Spo",
+      "level_of_education": "Certificate",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "des",
+      "level_of_education": "Certificate",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/upload/notification/1878510846.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/custom/scheme-of-study-and-course-curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "att",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bro",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/custom/scheme-of-study-and-course-curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "div",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/custom/scheme-of-study-and-course-curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "duly",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enr",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/custom/scheme-of-study-and-course-curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "laid",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/custom/scheme-of-study-and-course-curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lia",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "notiﬁ",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pas",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rej",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "spl",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/custom/scheme-of-study-and-course-curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tau",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/custom/scheme-of-study-and-course-curriculum"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ter",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "two",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://mbspsu.ac.in/student-corner/rules/admission-rules"
+    }
+  ],
+  "total_courses": 36,
+  "pages_scraped": 25,
+  "errors": []
+}

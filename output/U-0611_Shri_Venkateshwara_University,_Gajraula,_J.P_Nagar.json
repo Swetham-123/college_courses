@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0611",
+  "university_name": "Shri Venkateshwara University, Gajraula, J.P Nagar",
+  "state": "Uttar Pradesh",
+  "district": "Amroha",
+  "website": "svu.edu.in",
+  "year_established": "2010",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:57.355737Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

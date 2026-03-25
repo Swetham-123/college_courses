@@ -1,0 +1,961 @@
+{
+  "aishe_code": "U-0866",
+  "university_name": "THE NEOTIA UNIVERSITY",
+  "state": "West Bengal",
+  "district": "South 24 Parganas",
+  "website": "https://www.tnu.in",
+  "year_established": "2014",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T20:05:06.225529Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/pharmacy"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Ph.D (",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/pharmacy"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Ph.D. (",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/pharmacy"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Agr",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ani",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ant",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/humanities-management"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Aqu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "CSE (",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/engineering"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Exp",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fis",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/fisheries-science"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Gen",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Gui",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Hea",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/health-science"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Hum",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/humanities-management"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Leg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/legal-studies"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mar",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/maritime-studies"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pha",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pla",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ple",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pur",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/pharmacy"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Rob",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Soil",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Tot",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Veg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Year",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/hospitality-hotel-culinary-art"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/legal-studies"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/academics/ph-d-programmes"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "to a",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/academics/ph-d-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Aqu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/fisheries-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Det",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Exp",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Fee",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/hospitality-hotel-culinary-art"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Med",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/health-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Neu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/health-science"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sec",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Soc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/humanities-management"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Year",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/course/b-voc-degree-in-automobile-automobile-engineering-colleges-in-kolkata"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/programmes/engineering"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in/academics/ph-d-programmes"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "ter",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "from",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/legal-studies"
+    },
+    {
+      "degree_name": "M.Com",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/hospitality-hotel-culinary-art"
+    },
+    {
+      "degree_name": "M.Pharm",
+      "course_name": "Year",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/pharmacy"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agr",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Agri",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/health-science"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Mic",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/nursing"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Veg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "and P.G",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "M.TECH",
+      "course_name": "Pow",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/maritime-studies"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(IIT",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/engineering"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Exp",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Agri",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Bro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/humanities-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Exp",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/humanities-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/health-science"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hot",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/hospitality-hotel-culinary-art"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/hospitality-hotel-culinary-art"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Inf",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/course/b-tech-in-cse-cyber-security-colleges-for-cyber-security"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mar",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pub",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/health-science"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "cha",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/humanities-management"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Year",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/engineering"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/health-science"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/nursing"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Year",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/health-science"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Sof",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.tnu.in/programmes/engineering"
+    },
+    {
+      "degree_name": "B.Pharm",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cri",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hot",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mul",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nau",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Rad",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Reh",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Aut",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in/programmes/diploma-advanced-diploma-b-voc"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Cyb",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in/course/b-tech-in-cse-cyber-security-colleges-for-cyber-security"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mar",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mec",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in/programmes/humanities-management"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Rob",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in/course/b-tech-in-cse-cyber-security-colleges-for-cyber-security"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "PRO",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.tnu.in/programmes/engineering"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Agr",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "App",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Art",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ele",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tnu.in/course/b-tech-in-robotics-and-automation-best-robotics-engineering-colleges-in-india"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hot",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tnu.in/programmes/hospitality-hotel-culinary-art"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mar",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mec",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Nau",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tnu.in/course/b-voc-degree-in-electronics"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "The",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.tnu.in/course/b-voc-degree-in-automobile-automobile-engineering-colleges-in-kolkata"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Exe",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.tnu.in/programmes/humanities-management"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Year",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/programmes/diploma-advanced-diploma-b-voc"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Soc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/programmes/humanities-management"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Year",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/programmes/hospitality-hotel-culinary-art"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/programmes/hospitality-hotel-culinary-art"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Mass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/programmes/hospitality-hotel-culinary-art"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/wp-content/uploads/2025/09/Revised-final-list-of-students-admitted-in-PhD-program-2025-26-with-joining-date.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/programmes/pharmacy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/course/b-tech-in-cse-cyber-security-colleges-for-cyber-security"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/course/b-voc-degree-in-automobile-automobile-engineering-colleges-in-kolkata"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/academics/ph-d-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ass",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/course/b-voc-degree-in-automobile-automobile-engineering-colleges-in-kolkata"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/course/b-voc-degree-in-automobile-automobile-engineering-colleges-in-kolkata"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/course/b-voc-degree-in-electronics"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/academics/ph-d-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "car",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/course/b-tech-in-cse-cyber-security-colleges-for-cyber-security"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "clu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/academics/ph-d-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dee",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eva",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/academics/ph-d-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "for",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/academics/ph-d-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "from",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/academics/ph-d-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gen",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/course/b-voc-degree-in-automobile-automobile-engineering-colleges-in-kolkata"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/academics/ph-d-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "goi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/course/b-tech-in-cse-ai-ml-artificial-intelligence-engineering-colleges-in-india"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "less",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "one",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/course/b-tech-in-robotics-and-automation-best-robotics-engineering-colleges-in-india"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "opt",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/course/b-voc-degree-in-automobile-automobile-engineering-colleges-in-kolkata"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "org",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/course/b-voc-degree-in-automobile-automobile-engineering-colleges-in-kolkata"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ref",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/admissions/fee-structure/ph-d-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/programmes/agriculture"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/academics/ph-d-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ver",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.tnu.in/course/b-voc-degree-in-automobile-automobile-engineering-colleges-in-kolkata"
+    }
+  ],
+  "total_courses": 157,
+  "pages_scraped": 25,
+  "errors": []
+}

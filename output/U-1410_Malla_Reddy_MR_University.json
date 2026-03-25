@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1410",
+  "university_name": "Malla Reddy MR University",
+  "state": "Telangana",
+  "district": "MEDCHAL MALKAJGIRI",
+  "website": null,
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T18:55:27.442733Z",
+  "status": "no_url",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "No website URL available"
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "aishe_code": "U-0264",
+  "university_name": "National University of Advanced Legal Studies, Kochi",
+  "state": "Kerala",
+  "district": "Ernakulam",
+  "website": "www.nuals.ac.in",
+  "year_established": "2002",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:41:34.969865Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nuals.ac.in"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuals.ac.in"
+    },
+    {
+      "degree_name": "LLM",
+      "course_name": "Gen",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nuals.ac.in"
+    },
+    {
+      "degree_name": "PG DIPLOMA",
+      "course_name": "EDU",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nuals.ac.in/PG-Diploma.aspx"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Cer",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nuals.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nuals.ac.in"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "BAN",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nuals.ac.in/PG-Diploma.aspx"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "CYB",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nuals.ac.in/PG-Diploma.aspx"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "EXA",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nuals.ac.in"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "INS",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nuals.ac.in/PG-Diploma.aspx"
+    },
+    {
+      "degree_name": "DIPLOMA",
+      "course_name": "MED",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nuals.ac.in/PG-Diploma.aspx"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nuals.ac.in/Admission.aspx"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuals.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuals.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuals.ac.in/infocus/6Notification - Admission to Three Year (Six Semester) Executive LLM. Degree Programme -2025.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuals.ac.in/Admission.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuals.ac.in/Admission.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuals.ac.in/Admission.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuals.ac.in/Admission.aspx"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nuals.ac.in/Certificate-Courses.html"
+    }
+  ],
+  "total_courses": 20,
+  "pages_scraped": 13,
+  "errors": []
+}

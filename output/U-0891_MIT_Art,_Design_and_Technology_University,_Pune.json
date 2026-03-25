@@ -1,0 +1,1735 @@
+{
+  "aishe_code": "U-0891",
+  "university_name": "MIT Art, Design and Technology University, Pune",
+  "state": "Maharashtra",
+  "district": "Pune",
+  "website": "www.mituniversity.ac.in",
+  "year_established": "2015",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:15:43.488460Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Plan",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Arc",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Coo",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-humanities/programs-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-vedic-sciences/programs-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Des",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Prof",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design-and-architecture/mit-school-of-architecture"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Psy",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-vedic-sciences/programs-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Uni",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ved",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-vedic-sciences/programs-offered"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "edu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "(URP)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design-and-architecture/mit-school-of-architecture"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Che",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Des",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Food",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-college-of-food-technology/programs-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-college-of-food-technology/programs-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "app",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "area",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "BTech",
+      "course_name": "M.E./M.S",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "Integrated  M.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "Integrated M.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "Integrated MTech",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "M.Arch",
+      "course_name": "TIA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "M.Plan",
+      "course_name": "URP",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "M.Plan",
+      "course_name": "URP)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-vedic-sciences/programs-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-vedic-sciences/programs-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Fil",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-school-of-film-and-theatre/programs-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Film",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-school-of-film-and-theatre/programs-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ved",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-vedic-sciences/programs-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "dian",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-vedic-sciences/programs-offered"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "teg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Fire",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "MSc. (",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "teg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "M.tech",
+      "course_name": "Civ",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Agri &",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ass",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "CET",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Dig",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Eve",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Exe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "HRM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Inn",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Int",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Log",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Mar",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Port",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Shi",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "fers",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "from a",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "nov",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "rel",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ter",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Clo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "Data",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "EWS",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "MTe",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "ass",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-vedic-sciences/programs-offered"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Ved",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-vedic-sciences/programs-offered"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "qua",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "EWS",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "deg",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Aut",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Dip",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-law/MIT-School-of-Law/programs-offered"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Inn",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "cou",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "B.Arch",
+      "course_name": "from a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "B.Des",
+      "course_name": "Fas",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Gen",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Agri",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Fee",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Fil",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-school-of-film-and-theatre/programs-offered"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Film",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-school-of-film-and-theatre/programs-offered"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nau",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-school-of-film-and-theatre/programs-offered"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "any",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "col",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "B.Sc",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Dir",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Eng",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Mar",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Name",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "teg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "B.des",
+      "course_name": "and M",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "App",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BCom",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Bus",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Data",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Dig",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "EWS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Eve",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Gen",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Glo",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "Real",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "EWS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Hons",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "Pass",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "cou",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "EWS",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BCom",
+      "course_name": "Pass",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "BPharm",
+      "course_name": "from a",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Hons",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "(NRI &",
+      "level_of_education": "Diploma",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Exa",
+      "level_of_education": "Diploma",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-college-of-food-technology/programs-offered"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Food",
+      "level_of_education": "Diploma",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-college-of-food-technology/programs-offered"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Gui",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Inn",
+      "level_of_education": "Diploma",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Nau",
+      "level_of_education": "Diploma",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Real",
+      "level_of_education": "Diploma",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "col",
+      "level_of_education": "Diploma",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "rec",
+      "level_of_education": "Diploma",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "App",
+      "level_of_education": "Certificate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Bus",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Cas",
+      "level_of_education": "Certificate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Com",
+      "level_of_education": "Certificate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Date",
+      "level_of_education": "Certificate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Non",
+      "level_of_education": "Certificate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "may",
+      "level_of_education": "Certificate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "s in",
+      "level_of_education": "Certificate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "will",
+      "level_of_education": "Certificate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "AIU",
+      "level_of_education": "Certificate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "from",
+      "level_of_education": "Certificate",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Dir",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-film-and-media-studies"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Dra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hon",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-humanities/programs-offered"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Scr",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-school-of-film-and-theatre/programs-offered"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "with",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "And",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-international-school-of-broadcasting-and-journalism/programs-offered"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Dra",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-school-of-film-and-theatre/programs-offered"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-international-school-of-broadcasting-and-journalism/programs-offered"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "mus",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-vishwashanti-sangeet-kala-academy/programs-offered"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "deg",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Chi",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-school-of-fine-arts-&-applied-arts"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-humanities/programs-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-humanities/programs-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "San",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-vedic-sciences/programs-offered"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "deg",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "(Env.)",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design-and-architecture/mit-school-of-architecture"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Arc",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design-and-architecture/mit-school-of-architecture"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-humanities/programs-offered"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Jou",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-international-school-of-broadcasting-and-journalism/programs-offered"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Ele",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Rob",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Game",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Glo",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Jud",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-school-of-film-and-theatre/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "abo",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-vishwashanti-sangeet-kala-academy/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "aff",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ali",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ano",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "any",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ask",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ava",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "awa",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-humanities/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ben",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bor",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bui",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-international-school-of-broadcasting-and-journalism/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cal",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cau",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "cha",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dec",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ded",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "des",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dir",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dis",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dow",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-college-of-food-technology/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dus",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-international-school-of-broadcasting-and-journalism/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eag",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "emp",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "enc",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-technology/mit-school-of-bio-engineering-sciences-and-research/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exe",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fin",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "four",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "free",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ful",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-school-of-film-and-theatre/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "full",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gen",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "good",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "hav",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "hig",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "made",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mai",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "mul",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-humanities/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nor",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "nur",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ove",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "paid",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pal",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "par",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pos",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pru",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "qua",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rei",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rej",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rel",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "req",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ret",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-engineering/MIT-School-of-Engineering-and-Sciences/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rig",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sent",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "set",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sho",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "suc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "teg",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ten",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tes",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-management-and-leadership/mit-college-of-management/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tre",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tro",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-law/MIT-School-of-Law/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "used",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-school-of-architecture/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "uti",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "val",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "well",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wit",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "your",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art/mit-international-school-of-broadcasting-and-journalism/programs-offered"
+    },
+    {
+      "degree_name": "ma",
+      "course_name": "edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-humanities-and-social-sciences/mit-school-of-education-research/programs-offered"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "The",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mituniversity.ac.in"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gre",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-art-fine-art-and-performing-art"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ias",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-design/mit-institute-of-design/programs-offered"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ica",
+      "level_of_education": "Unknown",
+      "source_url": "https://mituniversity.ac.in/academics/faculty/faculty-of-maritime-studies/maharashtra-academy-of-naval-education-training/programs-offered"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mituniversity.ac.in"
+    }
+  ],
+  "total_courses": 286,
+  "pages_scraped": 25,
+  "errors": []
+}

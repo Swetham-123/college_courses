@@ -1,0 +1,367 @@
+{
+  "aishe_code": "U-0710",
+  "university_name": "Nalanda University",
+  "state": "Bihar",
+  "district": "Nalanda",
+  "website": "www.nalandauniv.edu.in",
+  "year_established": "2010",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:23:55.079903Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.A",
+      "course_name": "Ph.D)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nalandauniv.edu.in/academics/sbs-pcr"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ph.D)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nalandauniv.edu.in/academics/sees"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nalandauniv.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nalandauniv.edu.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Bud",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nalandauniv.edu.in/admissions"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Eco",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nalandauniv.edu.in/admissions"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "His",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nalandauniv.edu.in/admissions"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sus",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nalandauniv.edu.in/admissions"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Wor",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nalandauniv.edu.in/admissions"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nalandauniv.edu.in/academics/sbs-pcr/school-of-buddhist-studies-philosophy-and-comparative-religion-course-curriculum-2019-20"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Sus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nalandauniv.edu.in/academics/sms/sms-programmes"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nalandauniv.edu.in/academics/sms/sms-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cap",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Eng",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/diploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fre",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/diploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Ger",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/diploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Gre",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/diploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Jap",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/diploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Kor",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/diploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Nal",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/diploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pali",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/diploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nalandauniv.edu.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Rus",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/diploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "San",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/diploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Sec",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/academics/sms/sms-programmes"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Spa",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/diploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tib",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/diploma"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/diploma"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/academics"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "ter",
+      "level_of_education": "Diploma",
+      "source_url": "https://nalandauniv.edu.in/academics/sms/sms-programmes"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dip",
+      "level_of_education": "Certificate",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Nal",
+      "level_of_education": "Certificate",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/certificate"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nalandauniv.edu.in"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "San",
+      "level_of_education": "Certificate",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/certificate"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Yoga",
+      "level_of_education": "Certificate",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses/diploma"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "and",
+      "level_of_education": "Certificate",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Sus",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Arc",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/academics"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Bud",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/academics/sbs-pcr/academic-programmes"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Eco",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Int",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Phi",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/admissions"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Bud",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/academics/sbs-pcr/school-of-buddhist-studies-philosophy-and-comparative-religion-course-curriculum-2019-20"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/academics/sbs-pcr/academic-programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/academics/sbs-pcr/academic-programmes"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "WOR",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/academics/sll/sll-academic-programmes"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/academics/sees"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/academics/sbs-pcr"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "opt",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/courses/sms-courses"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rei",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/academics/sms"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sen",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/academics/sms"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nalandauniv.edu.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "tra",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/academics/sms"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://nalandauniv.edu.in/short-term-courses"
+    }
+  ],
+  "total_courses": 58,
+  "pages_scraped": 25,
+  "errors": []
+}

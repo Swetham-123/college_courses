@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0149",
+  "university_name": "Sardar Vallabhbhai National Institute of Technology, Surat",
+  "state": "Gujarat",
+  "district": "Surat",
+  "website": "http://www.svnit.ac.in",
+  "year_established": "1961",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:41.412188Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

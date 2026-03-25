@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0532",
+  "university_name": "Nehru Gram Bharati (Deemed to be University), Prayagraj",
+  "state": "Uttar Pradesh",
+  "district": "Prayagraj",
+  "website": "www.ngbv.ac.in",
+  "year_established": "1996",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:42:48.847288Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

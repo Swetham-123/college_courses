@@ -1,0 +1,301 @@
+{
+  "aishe_code": "U-0698",
+  "university_name": "MADHAV UNIVERSITY",
+  "state": "Rajasthan",
+  "district": "Sirohi",
+  "website": "www.madhavuniversity.edu.in",
+  "year_established": "2013",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:39:17.718017Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.COM",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/commerce-and-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/commerce-and-management"
+    },
+    {
+      "degree_name": "PHD",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in"
+    },
+    {
+      "degree_name": "PHD",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in/phd-registration"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/agriculture"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Law",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/law"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Mrs",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/engineering-and-technology"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Not",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in/doctoral-program"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Onl",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in/phd-registration"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/pharmacy"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in/phd-registration"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in/doctoral-program"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "(Law)",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in/doctoral-program"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "UGC",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/law"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Why",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/physiotherapy"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/law"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "(HR),M",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/commerce-and-management"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "MBA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/commerce-and-management"
+    },
+    {
+      "degree_name": "MCA",
+      "course_name": "MCA",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/engineering-and-technology"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.madhavuniversity.edu.in"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Stu",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.madhavuniversity.edu.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/law"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "LLB (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.madhavuniversity.edu.in/bachelors-program"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "BBA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/commerce-and-management"
+    },
+    {
+      "degree_name": "BCA",
+      "course_name": "BCA",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/engineering-and-technology"
+    },
+    {
+      "degree_name": "LLB",
+      "course_name": "LLB",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/law"
+    },
+    {
+      "degree_name": "integrated B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/law"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.madhavuniversity.edu.in/pg-diploma-program"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Adm",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.madhavuniversity.edu.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in"
+    },
+    {
+      "degree_name": "BEd",
+      "course_name": "BEl",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in/bachelors-program"
+    },
+    {
+      "degree_name": "BEd",
+      "course_name": "Spe",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in/bachelors-program"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "ded",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/homoeopathy"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://madhavuniversity.edu.in/static/assets/pdf/research/C.W.%20Date%20Sheet.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in/academic-council"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical &",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in/bachelors-program"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fal",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in/phd-registration"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "lea",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/pharmacy"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/law"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rej",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in/phd-registration"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "upd",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/nursing"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "gre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/commerce-and-management"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "imm",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in/faculty/homoeopathy"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "to a",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.madhavuniversity.edu.in/development-program"
+    }
+  ],
+  "total_courses": 47,
+  "pages_scraped": 24,
+  "errors": []
+}

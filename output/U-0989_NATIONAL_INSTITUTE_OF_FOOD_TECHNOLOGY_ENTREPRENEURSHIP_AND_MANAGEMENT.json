@@ -1,0 +1,55 @@
+{
+  "aishe_code": "U-0989",
+  "university_name": "NATIONAL INSTITUTE OF FOOD TECHNOLOGY ENTREPRENEURSHIP AND MANAGEMENT",
+  "state": "Haryana",
+  "district": "Sonipat",
+  "website": "www.niftem.ac.in",
+  "year_established": "2012",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:26:49.377505Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "MBA",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niftem.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.niftem.ac.in/academics/programmes/phd"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.niftem.ac.in/academics/programmes/mtech"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.niftem.ac.in/academics/programmes/mba"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.niftem.ac.in/academics/programmes/btech"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://niftem.ac.in/newsite/wp-content/uploads/2023/06/Academic-calendar_Even-Semester_AY-2022-23-1.pdf"
+    }
+  ],
+  "total_courses": 6,
+  "pages_scraped": 22,
+  "errors": []
+}

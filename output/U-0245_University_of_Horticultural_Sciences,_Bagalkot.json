@@ -1,0 +1,121 @@
+{
+  "aishe_code": "U-0245",
+  "university_name": "University  of Horticultural Sciences, Bagalkot",
+  "state": "Karnataka",
+  "district": "Bagalkote",
+  "website": "https://uhsbagalkot.karnataka.gov.in",
+  "year_established": "2008",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:11:52.872070Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Bio",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in/44/icar-accreditation-report-%28self-study-report%29/kn"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ent",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in/44/icar-accreditation-report-%28self-study-report%29/kn"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "FLO",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in/44/icar-accreditation-report-%28self-study-report%29/kn"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Fru",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in/44/icar-accreditation-report-%28self-study-report%29/kn"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Gen",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in/44/icar-accreditation-report-%28self-study-report%29/kn"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Hor",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in/241/study-in-india/kn"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pla",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in/44/icar-accreditation-report-%28self-study-report%29/kn"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Post",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in/44/icar-accreditation-report-%28self-study-report%29/kn"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in/241/study-in-india/kn"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Veg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in/44/icar-accreditation-report-%28self-study-report%29/kn"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Hor",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in/241/study-in-india/kn"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cou",
+      "level_of_education": "Diploma",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "adm",
+      "level_of_education": "Diploma",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in/53/diploma--admission/kn"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pas",
+      "level_of_education": "Certificate",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in/241/study-in-india/kn"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in/241/study-in-india/kn"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in/241/study-in-india/kn"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://uhsbagalkot.karnataka.gov.in"
+    }
+  ],
+  "total_courses": 17,
+  "pages_scraped": 14,
+  "errors": []
+}

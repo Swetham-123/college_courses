@@ -1,0 +1,187 @@
+{
+  "aishe_code": "U-0041",
+  "university_name": "The English and Foreign Languages University, Hyderabad",
+  "state": "Telangana",
+  "district": "Hyderabad",
+  "website": "www.efluniversity.ac.in",
+  "year_established": "1958",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:01:12.376511Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ara",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.efluniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "The",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.efluniversity.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "viva",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.efluniversity.ac.in"
+    },
+    {
+      "degree_name": "mCa",
+      "course_name": "goy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.efluniversity.ac.in/uploads/exams/1758515517_6654f284820ea748e43b.pdf"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "Sem",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.efluniversity.ac.in/uploads/exams/1765519327_00cec2ef416ae378200a.pdf"
+    },
+    {
+      "degree_name": "B.Ed",
+      "course_name": "pro",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.efluniversity.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Mat",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.efluniversity.ac.in"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Ara",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=bf50f13922c82e33787d002ad9b2230f"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Dig",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=bf50f13922c82e33787d002ad9b2230f"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "KOR",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=bf50f13922c82e33787d002ad9b2230f"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Per",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=bf50f13922c82e33787d002ad9b2230f"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "chi",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=bf50f13922c82e33787d002ad9b2230f"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "jap",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=bf50f13922c82e33787d002ad9b2230f"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Aes",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=b47cdec7e563fde275d1b41738ed4f8c"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Cou",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=b47cdec7e563fde275d1b41738ed4f8c"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Lit",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=b47cdec7e563fde275d1b41738ed4f8c"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Ara",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=b47cdec7e563fde275d1b41738ed4f8c"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Com",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=b47cdec7e563fde275d1b41738ed4f8c"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "ELT",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=b47cdec7e563fde275d1b41738ed4f8c"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/uploads/exams/1765519327_00cec2ef416ae378200a.pdf"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Film",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=b47cdec7e563fde275d1b41738ed4f8c"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=b47cdec7e563fde275d1b41738ed4f8c"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Jap",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=b47cdec7e563fde275d1b41738ed4f8c"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Lin",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=b47cdec7e563fde275d1b41738ed4f8c"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Spa",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=b47cdec7e563fde275d1b41738ed4f8c"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "TESL",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/academic-update-details.php?id=b47cdec7e563fde275d1b41738ed4f8c"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.efluniversity.ac.in/uploads/exams/1774245894_8260bac193413e3984d1.pdf"
+    }
+  ],
+  "total_courses": 28,
+  "pages_scraped": 25,
+  "errors": []
+}

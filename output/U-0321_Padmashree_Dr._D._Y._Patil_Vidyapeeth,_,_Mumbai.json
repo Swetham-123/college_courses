@@ -1,0 +1,391 @@
+{
+  "aishe_code": "U-0321",
+  "university_name": "Padmashree Dr. D. Y. Patil Vidyapeeth, , Mumbai",
+  "state": "Maharashtra",
+  "district": "Thane",
+  "website": "www.dypatil.edu",
+  "year_established": "2002",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:53:40.595740Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.dypatil.edu/programs/medical-super-speciality-programs"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.dypatil.edu"
+    },
+    {
+      "degree_name": "Integrated MBA",
+      "course_name": "Tech",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Act",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Bio",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Car",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cli",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Def",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Dig",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Food",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Gen",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Hea",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Imm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Kid",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Rad",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Tou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Inf",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ins",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Avi",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Ban",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Gen",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hos",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Spo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Str",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Sup",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Act",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cru",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cul",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Def",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Env",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Eve",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "For",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Hos",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Mul",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Par",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Bio",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Ele",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Food",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Inf",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Nano",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "MBBS",
+      "course_name": "LL.B",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.dypatil.edu/programs/medical-super-speciality-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.dypatil.edu"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Hon",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Lan",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.dypatil.edu/programs/under-graduate"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Urb",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.dypatil.edu/programs/post-graduate"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.dypatil.edu"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.dypatil.edu"
+    },
+    {
+      "degree_name": "bed",
+      "course_name": "rock",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.dypatil.edu"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical &",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.dypatil.edu"
+    }
+  ],
+  "total_courses": 62,
+  "pages_scraped": 10,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-1375",
+  "university_name": "SKS International University",
+  "state": "Uttar Pradesh",
+  "district": "Mathura",
+  "website": "www.sksinternationaluniversity.ac.in",
+  "year_established": "-",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:33.456498Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

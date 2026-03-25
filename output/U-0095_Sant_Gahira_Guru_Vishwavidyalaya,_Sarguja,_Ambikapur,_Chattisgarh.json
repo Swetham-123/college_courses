@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0095",
+  "university_name": "Sant Gahira Guru Vishwavidyalaya, Sarguja, Ambikapur, Chattisgarh",
+  "state": "Chhattisgarh",
+  "district": "Surguja",
+  "website": "www.sggcg.in",
+  "year_established": "2008",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:38.643425Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

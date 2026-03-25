@@ -1,0 +1,25 @@
+{
+  "aishe_code": "U-0347",
+  "university_name": "Nagaland University",
+  "state": "Nagaland",
+  "district": "Zunheboto",
+  "website": "www.nagalanduniversity.ac.in",
+  "year_established": "1994",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:23:47.047897Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Med",
+      "course_name": "zip",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nagalanduniversity.ac.in"
+    }
+  ],
+  "total_courses": 1,
+  "pages_scraped": 3,
+  "errors": []
+}

@@ -1,0 +1,307 @@
+{
+  "aishe_code": "U-0030",
+  "university_name": "National Sanskrit University , Tirupati",
+  "state": "Andhra Pradesh",
+  "district": "Chittoor",
+  "website": "nsktu.ac.in",
+  "year_established": "1961",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:41:33.393883Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Che",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Com",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Comp, M.A",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Yoga",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://nsktu.ac.in/index.php/part-time-programmes-admissions-2025-26"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.ED)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Ed) 3r",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Ed. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Ed.(",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Ed.)",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "B.Ed.) 6",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Com",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Yoga",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://nsktu.ac.in/index.php/regular-programme"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Jyo",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Nat",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pou",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Pro",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "San",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tem",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Tra",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Web",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Yoga",
+      "level_of_education": "Diploma",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Com",
+      "level_of_education": "Certificate",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Dan",
+      "level_of_education": "Certificate",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Jyo",
+      "level_of_education": "Certificate",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Mus",
+      "level_of_education": "Certificate",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pou",
+      "level_of_education": "Certificate",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Sit",
+      "level_of_education": "Certificate",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Tem",
+      "level_of_education": "Certificate",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Tra",
+      "level_of_education": "Certificate",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "obt",
+      "level_of_education": "Certificate",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Sab",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "San",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsktu.ac.in/index.php/regular-programme"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Hin",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsktu.ac.in/index.php/regular-programme"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Sab",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsktu.ac.in/index.php/regular-programme"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "als",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsktu.ac.in/storage/2026/01/Public-Notice.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsktu.ac.in/index.php/professional-programmes-admissions-2025-26"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "done",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fil",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "held",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsktu.ac.in"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://nsktu.ac.in/index.php/evening-programs"
+    }
+  ],
+  "total_courses": 48,
+  "pages_scraped": 25,
+  "errors": []
+}

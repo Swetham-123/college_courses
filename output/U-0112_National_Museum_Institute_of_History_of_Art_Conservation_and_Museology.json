@@ -1,0 +1,49 @@
+{
+  "aishe_code": "U-0112",
+  "university_name": "National Museum Institute of History of Art Conservation and Museology",
+  "state": "Delhi",
+  "district": "New Delhi",
+  "website": "www.nmi.gov.in",
+  "year_established": "1989",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:41:05.656069Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nmi.gov.in/departmentsmuseologygallery.htm"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Mus",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nmi.gov.in/departmentsmuseologygallery.htm"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Stu",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nmi.gov.in/departmentsmuseologygallery.htm"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nmi.gov.in/departmentsconservationgallery.htm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nmi.gov.in/departmentsmuseologygallery.htm"
+    }
+  ],
+  "total_courses": 5,
+  "pages_scraped": 14,
+  "errors": []
+}

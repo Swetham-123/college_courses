@@ -1,0 +1,295 @@
+{
+  "aishe_code": "U-0586",
+  "university_name": "The West Bengal University of Health Sciences, Kolkata",
+  "state": "West Bengal",
+  "district": "North 24 Parganas",
+  "website": "http://www.wbuhs.ac.in",
+  "year_established": "2003",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:06:16.929297Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PHD",
+      "course_name": "Awa",
+      "level_of_education": "Doctoral",
+      "source_url": "https://wbuhs.ac.in/phd"
+    },
+    {
+      "degree_name": "PHD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.wbuhs.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Hea",
+      "level_of_education": "Doctoral",
+      "source_url": "https://wbuhs.ac.in/phd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.wbuhs.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://wbuhs.ac.in/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Hea",
+      "level_of_education": "Doctoral",
+      "source_url": "https://wbuhs.ac.in/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Reg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://wbuhs.ac.in/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sup",
+      "level_of_education": "Doctoral",
+      "source_url": "https://wbuhs.ac.in/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://wbuhs.ac.in/phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://wbuhs.ac.in/phd"
+    },
+    {
+      "degree_name": "Phd",
+      "course_name": "Sem",
+      "level_of_education": "Doctoral",
+      "source_url": "http://www.wbuhs.ac.in"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "(Obs &",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://wbuhs.ac.in/courses/nursing/masters-degree-nursing"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cri",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://wbuhs.ac.in/courses/paramedical-allied/masters-degree-paramedical-allied"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Lab",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://wbuhs.ac.in/courses/paramedical-allied/masters-degree-paramedical-allied"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://wbuhs.ac.in/courses/nursing/masters-degree-nursing"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Ope",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://wbuhs.ac.in/courses/paramedical-allied/masters-degree-paramedical-allied"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Pae",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://wbuhs.ac.in/courses/nursing/masters-degree-nursing"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Per",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://wbuhs.ac.in/courses/paramedical-allied/masters-degree-paramedical-allied"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://wbuhs.ac.in/courses/nursing/masters-degree-nursing"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "http://www.wbuhs.ac.in"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Med",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://wbuhs.ac.in/admission-to-pdf-pdcc-msc-ph-courses-2022"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cen",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://wbuhs.ac.in/courses/paramedical-allied/bachelors-degree-paramedical-allied"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Cri",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://wbuhs.ac.in/courses/paramedical-allied/bachelors-degree-paramedical-allied"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Med",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://wbuhs.ac.in/courses/paramedical-allied/bachelors-degree-paramedical-allied"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.wbuhs.ac.in"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Per",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://wbuhs.ac.in/courses/paramedical-allied/bachelors-degree-paramedical-allied"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Phy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://wbuhs.ac.in/courses/paramedical-allied/bachelors-degree-paramedical-allied"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Rad",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://wbuhs.ac.in/courses/paramedical-allied/bachelors-degree-paramedical-allied"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Res",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://wbuhs.ac.in/courses/paramedical-allied/bachelors-degree-paramedical-allied"
+    },
+    {
+      "degree_name": "BDS",
+      "course_name": "Sea",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.wbuhs.ac.in"
+    },
+    {
+      "degree_name": "BSC",
+      "course_name": "Nur",
+      "level_of_education": "Undergraduate",
+      "source_url": "http://www.wbuhs.ac.in"
+    },
+    {
+      "degree_name": "BSc",
+      "course_name": "Opt",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://wbuhs.ac.in/admission-to-pdf-pdcc-msc-ph-courses-2022"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Dis",
+      "level_of_education": "Diploma",
+      "source_url": "https://wbuhs.ac.in/courses/paramedical-allied/masters-degree-paramedical-allied"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Fel",
+      "level_of_education": "Diploma",
+      "source_url": "http://www.wbuhs.ac.in"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "will",
+      "level_of_education": "Certificate",
+      "source_url": "http://www.wbuhs.ac.in"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "ISKY",
+      "level_of_education": "Unknown",
+      "source_url": "https://wbuhs.ac.in/courses/nursing/bachelors-degree-nursing"
+    },
+    {
+      "degree_name": "Ma",
+      "course_name": "Sar",
+      "level_of_education": "Unknown",
+      "source_url": "https://wbuhs.ac.in/courses/nursing/bachelors-degree-nursing"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ica)",
+      "level_of_education": "Unknown",
+      "source_url": "https://wbuhs.ac.in/courses/ayush/homeopathy/masters-degree-homeopathy"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.wbuhs.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical &",
+      "level_of_education": "Unknown",
+      "source_url": "https://wbuhs.ac.in/courses/paramedical-allied/bachelors-degree-paramedical-allied"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.wbuhs.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ipo",
+      "level_of_education": "Unknown",
+      "source_url": "https://wbuhs.ac.in/courses/nursing/bachelors-degree-nursing"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ipur",
+      "level_of_education": "Unknown",
+      "source_url": "https://wbuhs.ac.in/courses/modern-medicine/bachelors-degree"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "com",
+      "level_of_education": "Unknown",
+      "source_url": "https://wbuhs.ac.in/phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://wbuhs.ac.in/admission-to-pdf-pdcc-msc-ph-courses-2022"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "http://www.wbuhs.ac.in"
+    }
+  ],
+  "total_courses": 46,
+  "pages_scraped": 25,
+  "errors": []
+}

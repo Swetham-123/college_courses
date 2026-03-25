@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0859",
+  "university_name": "THE SANSKRIT COLLEGE AND UNIVERSITY",
+  "state": "West Bengal",
+  "district": "Kolkata",
+  "website": "www.sanskritcollegeanduniversity.org.in",
+  "year_established": "1824",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T20:05:22.232387Z",
+  "status": "no_courses_found",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 1,
+  "errors": []
+}

@@ -1,0 +1,31 @@
+{
+  "aishe_code": "U-0415",
+  "university_name": "Nims University Rajasthan, Jaipur",
+  "state": "Rajasthan",
+  "district": "Jaipur",
+  "website": "www.nimsuniversity.org",
+  "year_established": "2008",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:47:13.951038Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Diploma",
+      "course_name": "Und",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nimsuniversity.org"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nimsuniversity.org"
+    }
+  ],
+  "total_courses": 2,
+  "pages_scraped": 17,
+  "errors": []
+}

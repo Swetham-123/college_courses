@@ -1,0 +1,169 @@
+{
+  "aishe_code": "U-0577",
+  "university_name": "National Institute of Technology, Durgapur",
+  "state": "West Bengal",
+  "district": "Purba Bardhaman",
+  "website": "www.nitdgp.ac.in",
+  "year_established": "1960",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:31:02.535279Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ADM",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdgp.ac.in/p/admission-2025"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ODD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdgp.ac.in/p/admission-2026"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdgp.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdgp.ac.in/p/admission-2025"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Dep",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdgp.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Even",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdgp.ac.in/p/admission-2025"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "PhD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdgp.ac.in/p/academic-research-1"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdgp.ac.in"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://nitdgp.ac.in/p/admission-2025"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "PRO",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdgp.ac.in/p/admission-2025"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdgp.ac.in/p/admission-2025"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "adm",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdgp.ac.in"
+    },
+    {
+      "degree_name": "MSC",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdgp.ac.in/p/admission-2025"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Life",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdgp.ac.in/p/admission-2025"
+    },
+    {
+      "degree_name": "MTECH",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdgp.ac.in/p/admission-2025"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Self",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://nitdgp.ac.in/p/admission-2025"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "For",
+      "level_of_education": "Certificate",
+      "source_url": "https://nitdgp.ac.in/p/admission-2025"
+    },
+    {
+      "degree_name": "BE",
+      "course_name": "IjE",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitdgp.ac.in/uploads/4cbe0e6e1a51725c6a4a7bf79326aa31.pdf"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Mat",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitdgp.ac.in/p/departments-1"
+    },
+    {
+      "degree_name": "ME",
+      "course_name": "Mec",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitdgp.ac.in/p/departments-1"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitdgp.ac.in/uploads/4cbe0e6e1a51725c6a4a7bf79326aa31.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitdgp.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ium",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitdgp.ac.in/p/verification-and-issuance-of-academic-documents-1"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitdgp.ac.in/p/admission-2025"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dir",
+      "level_of_education": "Unknown",
+      "source_url": "https://nitdgp.ac.in/p/verification-and-issuance-of-academic-documents-1"
+    }
+  ],
+  "total_courses": 25,
+  "pages_scraped": 24,
+  "errors": []
+}

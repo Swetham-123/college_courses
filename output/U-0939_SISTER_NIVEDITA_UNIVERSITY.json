@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0939",
+  "university_name": "SISTER NIVEDITA UNIVERSITY",
+  "state": "West Bengal",
+  "district": "North 24 Parganas",
+  "website": "www.snuniv.ac.in",
+  "year_established": "2018",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:57:32.523467Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

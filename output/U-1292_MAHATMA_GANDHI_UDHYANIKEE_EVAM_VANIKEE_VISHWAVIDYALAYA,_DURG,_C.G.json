@@ -1,0 +1,85 @@
+{
+  "aishe_code": "U-1292",
+  "university_name": "MAHATMA GANDHI UDHYANIKEE EVAM VANIKEE VISHWAVIDYALAYA, DURG, C.G",
+  "state": "Chhattisgarh",
+  "district": "Durg",
+  "website": "www.mguvv.ac.in",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T18:50:35.961004Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "PHD",
+      "course_name": "adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mguvv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mguvv.ac.in/CounselingHomeNew.aspx"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "CET-2025",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mguvv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mguvv.ac.in"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ph.D(",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.mguvv.ac.in/Website/DegreeProgramme.aspx"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "DDD",
+      "level_of_education": "Doctoral",
+      "source_url": "https://mguvv.ac.in/_Attachment/PG_PHD_admission_rule.pdf"
+    },
+    {
+      "degree_name": "MED",
+      "course_name": "ICAL",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguvv.ac.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://mguvv.ac.in/_Attachment/UG_admission_rule.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguvv.ac.in"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.mguvv.ac.in"
+    },
+    {
+      "degree_name": "ma",
+      "course_name": "ëGX",
+      "level_of_education": "Unknown",
+      "source_url": "https://mguvv.ac.in/_Attachment/PG_PHD_admission_rule.pdf"
+    }
+  ],
+  "total_courses": 11,
+  "pages_scraped": 9,
+  "errors": []
+}

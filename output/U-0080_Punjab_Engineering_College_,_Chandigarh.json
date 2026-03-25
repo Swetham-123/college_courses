@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0080",
+  "university_name": "Punjab Engineering College , Chandigarh",
+  "state": "Chandigarh",
+  "district": "Chandigarh",
+  "website": "https://www.pec.ac.in",
+  "year_established": "1921",
+  "location_type": "Urban",
+  "scraped_at": "2026-03-23T19:56:15.464776Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "aishe_code": "U-0595",
+  "university_name": "Rashtriya Raksha University, Gujarat",
+  "state": "Gujarat",
+  "district": "Gandhinagar",
+  "website": "www.rru.ac.in",
+  "year_established": "2010",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:56:28.724508Z",
+  "status": "unreachable",
+  "pattern_used": [],
+  "courses": [],
+  "total_courses": 0,
+  "pages_scraped": 0,
+  "errors": [
+    "Homepage unreachable"
+  ]
+}

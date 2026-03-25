@@ -1,0 +1,49 @@
+{
+  "aishe_code": "U-0466",
+  "university_name": "Mother Teresa Women's University, Kodaikanal",
+  "state": "Tamil Nadu",
+  "district": "Dindigul",
+  "website": "www.motherteresawomenuniv.ac.in",
+  "year_established": "1984",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:22:27.889358Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "bca",
+      "course_name": "6ced5-24",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.motherteresawomenuniv.ac.in/images/notifications/files/12:28:19pmDEC-2025RESULT.pdf"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iaB",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.motherteresawomenuniv.ac.in/images/notifications/files/08:15:13amHOMESCIENCE1.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Ori",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.motherteresawomenuniv.ac.in/images/notifications/files/04:52:20amBIOTECH.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.motherteresawomenuniv.ac.in/images/notifications/files/04:52:20amBIOTECH.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.motherteresawomenuniv.ac.in/images/notifications/files/04:52:20amBIOTECH.pdf"
+    }
+  ],
+  "total_courses": 5,
+  "pages_scraped": 19,
+  "errors": []
+}

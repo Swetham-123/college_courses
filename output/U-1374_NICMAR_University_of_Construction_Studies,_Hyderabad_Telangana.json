@@ -1,0 +1,685 @@
+{
+  "aishe_code": "U-1374",
+  "university_name": "NICMAR University of Construction Studies, Hyderabad Telangana",
+  "state": "Telangana",
+  "district": "MEDCHAL MALKAJGIRI",
+  "website": "https://www.nicmar.ac.in/hyderabad/campus",
+  "year_established": "-",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:41:59.159459Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "M.Tech",
+      "course_name": "& Ph.D (",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Civ",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mtechctm"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Con",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Ind",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Log",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/sopm-hyd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Man",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/sopm-hyd"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Saf",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soect"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Tra",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and 75 M",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "and M",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school-soexe"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "fol",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "ren",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-pgdhsem"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "the",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school-soexe"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Adm",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Bui",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cell",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/sopm-hyd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Cell & E",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/sopm-hyd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Com",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Con",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Eli",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Eng",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Mec",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Ove",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/campus"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Sel",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "from",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "jou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-phd"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "sch",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/campus"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "wri",
+      "level_of_education": "Doctoral",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-phd"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "(CTM)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mtechctm"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CSE",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "CTM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mtechctm"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/campus"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Ind",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soect"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Str",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "Tra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mtechctm"
+    },
+    {
+      "degree_name": "M.Tech",
+      "course_name": "stu",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "(APM)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaapm"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ACM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ACM)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "AEM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaaem"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "APM",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaapm"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "APM)",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/sopm-hyd"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Adv",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/campus"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Hum",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "PGD",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/admissions"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "and",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/admissions"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "gra",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaaem"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/campus"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "ten",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "MTech",
+      "course_name": "Con",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mtechctm"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Alt",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Avi",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Hea",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/admissions"
+    },
+    {
+      "degree_name": "PG Diploma",
+      "course_name": "Qua",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-pgdqscm"
+    },
+    {
+      "degree_name": "PG diploma",
+      "course_name": "ADR",
+      "level_of_education": "Postgraduate Diploma",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "Civ",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mtechctm"
+    },
+    {
+      "degree_name": "B.Tech",
+      "course_name": "deg",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Cer",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school-soexe"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Com",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/sopm-hyd"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hea",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-pgdhsem"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "Hol",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school-soexe"
+    },
+    {
+      "degree_name": "PG\n                                    Diploma",
+      "course_name": "Art",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "diploma",
+      "course_name": "and",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school-soexe"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Pro",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school-soexe"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "This",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school-soexe"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "bef",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-pgdqscm"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "with",
+      "level_of_education": "Certificate",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Bil",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school-soexe"
+    },
+    {
+      "degree_name": "B.E",
+      "course_name": "Mec",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "the",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaaem"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Ind",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "M.E",
+      "course_name": "Urb",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/soct"
+    },
+    {
+      "degree_name": "bE",
+      "course_name": "end",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/uploads/UGC_2(f)_Proforma.size-24mbpdf_(2)_.pdf"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "able",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-pgdqscm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "acq",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-pgdqscm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "add",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-pgdqscm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ado",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "app",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaapm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "con",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mtechctm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "doc",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eli",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-pgdhsem"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "equ",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school/sopm-hyd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "exp",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-pgdqscm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ext",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mtechctm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "fer",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gau",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "giv",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-pgdqscm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gov",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "gra",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ide",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mtechctm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "map",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pre",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-pgdhsem"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rest",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "rev",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-phd"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sha",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/admissions"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sub",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/school-soexe"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "sup",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "ult",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "vit",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-pgdqscm"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "wor",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "fee",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.nicmar.ac.in/hyderabad/program-mbaacm"
+    }
+  ],
+  "total_courses": 111,
+  "pages_scraped": 15,
+  "errors": []
+}

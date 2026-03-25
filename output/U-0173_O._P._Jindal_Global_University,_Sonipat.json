@@ -1,0 +1,469 @@
+{
+  "aishe_code": "U-0173",
+  "university_name": "O. P. Jindal Global University, Sonipat",
+  "state": "Haryana",
+  "district": "Sonipat",
+  "website": "www.jgu.edu.in",
+  "year_established": "2009",
+  "location_type": "Rural",
+  "scraped_at": "2026-03-23T19:52:27.633018Z",
+  "status": "success",
+  "pattern_used": [
+    "P1-static"
+  ],
+  "courses": [
+    {
+      "degree_name": "Ph.D",
+      "course_name": "(IIT",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jgu.edu.in/jses/faculty/prof-dr-abhiroop-chowdhury"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "App",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Joi",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jgu.edu.in/jses/faculty/prof-dr-abhiroop-chowdhury"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jgu.edu.in/ods"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Stu",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jgu.edu.in/ods"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "Too",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jgu.edu.in/ods"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "can",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jgu.edu.in/ods"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "cou",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jgu.edu.in/ods"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "opt",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jgu.edu.in/ods"
+    },
+    {
+      "degree_name": "Ph.D",
+      "course_name": "res",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jgu.edu.in/ods"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "Jin",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jgu.edu.in/ods"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "deg",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jgu.edu.in/jses/faculty/prof-dr-abhiroop-chowdhury"
+    },
+    {
+      "degree_name": "PhD",
+      "course_name": "pro",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jgu.edu.in/ods"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "PhD (",
+      "level_of_education": "Doctoral",
+      "source_url": "https://jgu.edu.in/jsbf/faculty/prof-dr-dayanand-pandey"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Cou",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Des",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Dev",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Env",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Fam",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Fin",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Glo",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.Sc",
+      "course_name": "Str",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "App",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Bus",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "MBA",
+      "course_name": "Pro",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "MSc",
+      "course_name": "Art",
+      "level_of_education": "Postgraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "App",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.Com",
+      "course_name": "Int",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Art",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Fin",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Psy",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.Sc",
+      "course_name": "Risk",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "BBA",
+      "course_name": "LL.B. (",
+      "level_of_education": "Undergraduate",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "Diploma",
+      "course_name": "tic",
+      "level_of_education": "Diploma",
+      "source_url": "https://www.jgu.edu.in/academic-leaders"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Por",
+      "level_of_education": "Certificate",
+      "source_url": "https://jgu.edu.in/jsbf/faculty/prof-dr-dayanand-pandey"
+    },
+    {
+      "degree_name": "Certificate",
+      "course_name": "Risk",
+      "level_of_education": "Certificate",
+      "source_url": "https://jgu.edu.in/jsbf/faculty/prof-dr-dayanand-pandey"
+    },
+    {
+      "degree_name": "certificate",
+      "course_name": "cou",
+      "level_of_education": "Certificate",
+      "source_url": "https://jgu.edu.in/jsbf/faculty/prof-dr-dayanand-pandey"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Cri",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "His",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jsia/faculty/prof-dr-sreeram-sundar-chaulia"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Hons.)",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jsia/faculty/prof-dr-sreeram-sundar-chaulia"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "LL.B. (",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "B.A",
+      "course_name": "Leg",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "BA",
+      "course_name": "Eng",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "Be",
+      "course_name": "Uni",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jgu.edu.in"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "evil",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jsia/faculty/prof-dr-sreeram-sundar-chaulia"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "fel",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jsia/faculty/prof-dr-sreeram-sundar-chaulia"
+    },
+    {
+      "degree_name": "Bed",
+      "course_name": "ouin",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jslh/faculty/prof-kathleen-a-modrowski"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Dip",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Edu",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Int",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Mus",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Pub",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "M.A",
+      "course_name": "Tea",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/admissions"
+    },
+    {
+      "degree_name": "MA",
+      "course_name": "Pro",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jsia/faculty/prof-dr-sreeram-sundar-chaulia"
+    },
+    {
+      "degree_name": "March",
+      "course_name": "Puj",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jgu.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ford",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jsia/faculty/prof-dr-sreeram-sundar-chaulia"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "iat",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jsia/faculty/prof-dr-sreeram-sundar-chaulia"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ical",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jgu.edu.in"
+    },
+    {
+      "degree_name": "Med",
+      "course_name": "ite",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jslh/faculty/prof-kathleen-a-modrowski"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Bar",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jsia/faculty/prof-dr-sreeram-sundar-chaulia"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Che",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jsia/faculty/prof-dr-sreeram-sundar-chaulia"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Clo",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jsia/faculty/prof-dr-sreeram-sundar-chaulia"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Fou",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jsia/faculty/prof-dr-sreeram-sundar-chaulia"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Game",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jsia/faculty/prof-dr-sreeram-sundar-chaulia"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "Obe",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jsia/faculty/prof-dr-sreeram-sundar-chaulia"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "bas",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/ods"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "dep",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jgu.edu.in/national-ragging-prevention-programme"
+    },
+    {
+      "degree_name": "be",
+      "course_name": "more",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jses/faculty/prof-dr-abhiroop-chowdhury"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Chi",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jsia/faculty/prof-dr-sreeram-sundar-chaulia"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "Key",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jsia/faculty/prof-dr-sreeram-sundar-chaulia"
+    },
+    {
+      "degree_name": "me",
+      "course_name": "ORC",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jses/faculty/prof-dr-abhiroop-chowdhury"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ici",
+      "level_of_education": "Unknown",
+      "source_url": "https://jgu.edu.in/jslh/faculty/prof-kathleen-a-modrowski"
+    },
+    {
+      "degree_name": "med",
+      "course_name": "ita",
+      "level_of_education": "Unknown",
+      "source_url": "https://www.jgu.edu.in/national-ragging-prevention-programme"
+    }
+  ],
+  "total_courses": 75,
+  "pages_scraped": 25,
+  "errors": []
+}
